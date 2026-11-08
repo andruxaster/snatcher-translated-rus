@@ -10,1043 +10,1471 @@
   {
    "off": 4758,
    "budget": 33,
-   "en": "This is the last Tricycle."
+   "en": "Это последний трицикл.",
+   "en_src": "This is the last Tricycle.",
+   "ru": true
   },
   {
    "off": 4791,
    "budget": 9,
-   "en": "Get in",
-   "long": "Board Tricycle"
+   "en": ".",
+   "en_src": "Get in",
+   "long_src": "Board Tricycle",
+   "ru": true,
+   "long": "Сесть в трицикл"
   },
   {
    "off": 4800,
    "budget": 35,
-   "en": "Let's get into the Tricycle."
+   "en": "Садимся в трицикл.",
+   "en_src": "Let's get into the Tricycle.",
+   "ru": true
   },
   {
    "off": 4835,
    "budget": 49,
-   "en": "We're in the Tricycle. Where shall￥we go?"
+   "en": "Мы в трицикле. Куда едем?",
+   "en_src": "We're in the Tricycle. Where shall￥we go?",
+   "ru": true
   },
   {
    "off": 4884,
    "budget": 57,
-   "en": "Though we already know where we're￥headed."
+   "en": "Хотя куда мы едем, и так ясно.",
+   "en_src": "Though we already know where we're￥headed.",
+   "ru": true
   },
   {
    "off": 4941,
    "budget": 5,
-   "en": "Look"
+   "en": ".",
+   "en_src": "Look",
+   "ru": true,
+   "long": "Осмотреть"
   },
   {
    "off": 4946,
    "budget": 5,
-   "en": "Body"
+   "en": ".",
+   "en_src": "Body",
+   "ru": true,
+   "long": "Кузов"
   },
   {
    "off": 4951,
    "budget": 77,
-   "en": "A spare tricycle, so unpainted, but￥it runs well enough.",
-   "long": "It's a spare Tricycle, so it hasn't￥been painted. It runs perfectly￥well."
+   "en": "Это запасной трицикл, поэтому он не￥покрашен. Но ездит отлично.",
+   "en_src": "A spare tricycle, so unpainted, but￥it runs well enough.",
+   "long_src": "It's a spare Tricycle, so it hasn't￥been painted. It runs perfectly￥well.",
+   "ru": true
   },
   {
    "off": 5028,
    "budget": 63,
-   "en": "Take a good look. In 12 hours￥this vehicle's finished too.",
-   "long": "Take a good look. In twelve hours,￥we won't be able to use this vehicle￥either."
+   "en": ".",
+   "en_src": "Take a good look. In 12 hours￥this vehicle's finished too.",
+   "long_src": "Take a good look. In twelve hours,￥we won't be able to use this vehicle￥either.",
+   "ru": true,
+   "long": "Посмотри на него хорошенько. Через￥двенадцать часов и этой машиной уже￥не воспользоваться."
   },
   {
    "off": 5091,
    "budget": 7,
-   "en": "Around"
+   "en": "Вокруг",
+   "en_src": "Around",
+   "ru": true
   },
   {
    "off": 5098,
    "budget": 35,
-   "en": "This parking lot looks bleak now."
+   "en": "Парковка совсем опустела.",
+   "en_src": "This parking lot looks bleak now.",
+   "ru": true
   },
   {
    "off": 5133,
    "budget": 27,
-   "en": "No car or soul but us...",
-   "long": "Ours is the only vehicle. We're the￥only ones here."
+   "en": ".",
+   "en_src": "No car or soul but us...",
+   "long_src": "Ours is the only vehicle. We're the￥only ones here.",
+   "ru": true,
+   "long": "Ни машин, ни людей - только мы."
   },
   {
    "off": 5160,
    "budget": 7,
-   "en": "Check",
-   "long": "Investigate"
+   "en": ".",
+   "en_src": "Check",
+   "long_src": "Investigate",
+   "ru": true,
+   "long": "Изучить"
   },
   {
    "off": 5167,
    "budget": 43,
-   "en": "It seems sound.￥Nothing done to it.",
-   "long": "It looks safe. It hasn't been￥tampered with."
+   "en": ".",
+   "en_src": "It seems sound.￥Nothing done to it.",
+   "long_src": "It looks safe. It hasn't been￥tampered with.",
+   "ru": true,
+   "long": "Похоже, всё в порядке. Никто ничего￥не трогал."
   },
   {
    "off": 5210,
    "budget": 35,
-   "en": "No worry. Nothing amiss.",
-   "long": "Don't worry. Nothing is wrong with￥it."
+   "en": "Не волнуйся. С ним всё нормально.",
+   "en_src": "No worry. Nothing amiss.",
+   "long_src": "Don't worry. Nothing is wrong with￥it.",
+   "ru": true
   },
   {
    "off": 5245,
    "budget": 57,
-   "en": "No movement detected. You and I are￥alone here."
+   "en": "Движения нет. Здесь только ты и я.",
+   "en_src": "No movement detected. You and I are￥alone here.",
+   "ru": true
   },
   {
    "off": 5302,
    "budget": 31,
-   "en": "Nobody here. It's quiet."
+   "en": "Никого. Тихо.",
+   "en_src": "Nobody here. It's quiet.",
+   "ru": true
   },
   {
    "off": 5333,
    "budget": 15,
-   "en": "Use Metal Gear"
+   "en": "Позвать Метала",
+   "en_src": "Use Metal Gear",
+   "ru": true
   },
   {
    "off": 5348,
    "budget": 11,
-   "en": "Save"
+   "en": "Сохранить",
+   "en_src": "Save",
+   "ru": true
   },
   {
    "off": 5359,
    "budget": 27,
-   "en": "We're nearing the end."
+   "en": "Мы близки к развязке.",
+   "en_src": "We're nearing the end.",
+   "ru": true
   },
   {
    "off": 5386,
    "budget": 37,
-   "en": "I'll save our progress so far."
+   "en": "Сохраняю наш прогресс.",
+   "en_src": "I'll save our progress so far.",
+   "ru": true
   },
   {
    "off": 5423,
    "budget": 23,
-   "en": "Hurry to the church!!",
-   "long": "Let's hurry to the church!"
+   "en": "Скорее в церковь!",
+   "en_src": "Hurry to the church!!",
+   "long_src": "Let's hurry to the church!",
+   "ru": true
   },
   {
    "off": 5446,
    "budget": 37,
-   "en": "We can't waste time, Gillian!"
+   "en": "Нельзя терять время, Гиллиан!",
+   "en_src": "We can't waste time, Gillian!",
+   "ru": true
   },
   {
    "off": 5483,
    "budget": 17,
-   "en": "Hurry, Gillian!"
+   "en": "Скорее, Гиллиан!",
+   "en_src": "Hurry, Gillian!",
+   "ru": true
   },
   {
    "off": 5500,
    "budget": 5,
-   "en": "Chur",
-   "long": "Church"
+   "en": ".",
+   "en_src": "Chur",
+   "long_src": "Church",
+   "ru": true,
+   "long": "Церковь"
   },
   {
    "off": 5505,
    "budget": 11,
-   "en": "Get out",
-   "long": "Exit Tricycle"
+   "en": ".",
+   "en_src": "Get out",
+   "long_src": "Exit Tricycle",
+   "ru": true,
+   "long": "Выйти из трицикла"
   },
   {
    "off": 5516,
    "budget": 17,
-   "en": "JUNKER HQ"
+   "en": "Штаб ДЖАНКЕРа",
+   "en_src": "JUNKER HQ",
+   "ru": true
   },
   {
    "off": 5533,
    "budget": 43,
-   "en": "Going in by ourselves is crazy."
+   "en": "Соваться туда вдвоём - безумие.",
+   "en_src": "Going in by ourselves is crazy.",
+   "ru": true
   },
   {
    "off": 5576,
    "budget": 19,
-   "en": "At the church.",
-   "long": "We've reached the church."
+   "en": "Мы у церкви.",
+   "en_src": "At the church.",
+   "long_src": "We've reached the church.",
+   "ru": true
   },
   {
    "off": 5595,
    "budget": 27,
-   "en": "It really is the Kremlin!"
+   "en": "И правда Кремль!",
+   "en_src": "It really is the Kremlin!",
+   "ru": true
   },
   {
    "off": 5622,
    "budget": 9,
-   "en": "Go in",
-   "long": "Go inside"
+   "en": ".",
+   "en_src": "Go in",
+   "long_src": "Go inside",
+   "ru": true,
+   "long": "Войти внутрь"
   },
   {
    "off": 5631,
    "budget": 5,
-   "en": "Bldg",
-   "long": "Building"
+   "en": ".",
+   "en_src": "Bldg",
+   "long_src": "Building",
+   "ru": true,
+   "long": "Здание"
   },
   {
    "off": 5636,
    "budget": 53,
-   "en": "An old church... rather like Saint￥Basil's.",
-   "long": "An old church. It looks a little￥like St. Basil's Cathedral."
+   "en": ".",
+   "en_src": "An old church... rather like Saint￥Basil's.",
+   "long_src": "An old church. It looks a little￥like St. Basil's Cathedral.",
+   "ru": true,
+   "long": "Старая церковь. Чем-то похожа на￥храм Василия Блаженного."
   },
   {
    "off": 5689,
    "budget": 37,
-   "en": "They must have thought so, too."
+   "en": "Им, видно, тоже так казалось.",
+   "en_src": "They must have thought so, too.",
+   "ru": true
   },
   {
    "off": 5726,
    "budget": 61,
-   "en": "Built after a Russian Orthodox￥church?￥Quite old.",
-   "long": "It may be modeled on a Russian￥Orthodox church. It looks very old."
+   "en": ".",
+   "en_src": "Built after a Russian Orthodox￥church?￥Quite old.",
+   "long_src": "It may be modeled on a Russian￥Orthodox church. It looks very old.",
+   "ru": true,
+   "long": "Возможно, она построена по образцу￥православного храма. Выглядит очень￥старой."
   },
   {
    "off": 5787,
    "budget": 3,
-   "en": "Sn",
-   "long": "Snow"
+   "en": ".",
+   "en_src": "Sn",
+   "long_src": "Snow",
+   "ru": true,
+   "long": "Снег"
   },
   {
    "off": 5790,
    "budget": 77,
-   "en": "It looks like snow but is Snow￥Cedar. Take care not to breathe it.",
-   "long": "It looks like snow, but it's Snow￥Cedar pollen. Be careful not to￥breathe it in."
+   "en": "Похоже на снег, но это пыльца￥снежного кедра. Смотри не вдохни её.",
+   "en_src": "It looks like snow but is Snow￥Cedar. Take care not to breathe it.",
+   "long_src": "It looks like snow, but it's Snow￥Cedar pollen. Be careful not to￥breathe it in.",
+   "ru": true
   },
   {
    "off": 5867,
    "budget": 37,
-   "en": "Pollen, so far finer than snow.",
-   "long": "Since it's pollen, it's much finer￥than snow."
+   "en": ".",
+   "en_src": "Pollen, so far finer than snow.",
+   "long_src": "Since it's pollen, it's much finer￥than snow.",
+   "ru": true,
+   "long": "Это пыльца, поэтому она гораздо￥мельче снега."
   },
   {
    "off": 5904,
    "budget": 31,
-   "en": "Ringed by tall cedar woods.",
-   "long": "We're surrounded by tall cedar￥trees."
+   "en": "Нас окружают высокие кедры.",
+   "en_src": "Ringed by tall cedar woods.",
+   "long_src": "We're surrounded by tall cedar￥trees.",
+   "ru": true
   },
   {
    "off": 5935,
    "budget": 37,
-   "en": "No homeless will come near this.",
-   "long": "Even the homeless would stay away￥from this."
+   "en": "Сюда даже бездомные не сунутся.",
+   "en_src": "No homeless will come near this.",
+   "long_src": "Even the homeless would stay away￥from this.",
+   "ru": true
   },
   {
    "off": 5972,
    "budget": 49,
-   "en": "Christmas lights would suit the￥season.",
-   "long": "Christmas lights would look nice￥here this time of year."
+   "en": ".",
+   "en_src": "Christmas lights would suit the￥season.",
+   "long_src": "Christmas lights would look nice￥here this time of year.",
+   "ru": true,
+   "long": "В это время года здесь смотрелись бы￥рождественские гирлянды."
   },
   {
    "off": 6021,
    "budget": 47,
-   "en": "You can't see this church￥except from above.",
-   "long": "The church seems to be visible only￥from above."
+   "en": "Похоже, церковь видна только сверху.",
+   "en_src": "You can't see this church￥except from above.",
+   "long_src": "The church seems to be visible only￥from above.",
+   "ru": true
   },
   {
    "off": 6068,
    "budget": 55,
-   "en": "Half a century old, but braced here￥and there.",
-   "long": "The building is half a century old,￥but some parts have been reinforced."
+   "en": "Зданию полвека, но кое-где его￥укрепили.",
+   "en_src": "Half a century old, but braced here￥and there.",
+   "long_src": "The building is half a century old,￥but some parts have been reinforced.",
+   "ru": true
   },
   {
    "off": 6123,
    "budget": 11,
-   "en": "Entrance?",
-   "long": "Where's the entrance?"
+   "en": "Где вход?",
+   "en_src": "Entrance?",
+   "long_src": "Where's the entrance?",
+   "ru": true
   },
   {
    "off": 6134,
    "budget": 11,
-   "en": "In front.",
-   "long": "At the front."
+   "en": "Спереди.",
+   "en_src": "In front.",
+   "long_src": "At the front.",
+   "ru": true
   },
   {
    "off": 6145,
    "budget": 43,
-   "en": "The carving is eaten by acid rain.",
-   "long": "Acid rain has eaten away the￥carvings on the surface."
+   "en": "Кислотный дождь разъел резьбу на￥стенах.",
+   "en_src": "The carving is eaten by acid rain.",
+   "long_src": "Acid rain has eaten away the￥carvings on the surface.",
+   "ru": true
   },
   {
    "off": 6188,
    "budget": 43,
-   "en": "These are definitely Snow Cedars."
+   "en": "Это точно снежные кедры.",
+   "en_src": "These are definitely Snow Cedars.",
+   "ru": true
   },
   {
    "off": 6231,
    "budget": 47,
-   "en": "Hard to believe it breeds so in the￥city.",
-   "long": "I can't believe so many are growing￥in the city."
+   "en": "Не верится, что их столько растёт в￥городе.",
+   "en_src": "Hard to believe it breeds so in the￥city.",
+   "long_src": "I can't believe so many are growing￥in the city.",
+   "ru": true
   },
   {
    "off": 6278,
    "budget": 73,
-   "en": "My scan shows the Tube Liner runs￥beneath us."
+   "en": "Сканер показывает, что под нами￥проходит тьюб-лайнер.",
+   "en_src": "My scan shows the Tube Liner runs￥beneath us.",
+   "ru": true
   },
   {
    "off": 6351,
    "budget": 33,
-   "en": "So... no mistake, then.",
-   "long": "As I thought. This must be the￥place."
+   "en": ".",
+   "en_src": "So... no mistake, then.",
+   "long_src": "As I thought. This must be the￥place.",
+   "ru": true,
+   "long": "Как я и думал. Это то самое место."
   },
   {
    "off": 6384,
    "budget": 49,
-   "en": "Above ground there is nothing but￥this church.",
-   "long": "The church seems to be the only￥structure above ground."
+   "en": ".",
+   "en_src": "Above ground there is nothing but￥this church.",
+   "long_src": "The church seems to be the only￥structure above ground.",
+   "ru": true,
+   "long": "Похоже, кроме церкви, на поверхности￥ничего нет."
   },
   {
    "off": 6433,
    "budget": 9,
-   "en": "Motion",
-   "long": "Motion detector"
+   "en": ".",
+   "en_src": "Motion",
+   "long_src": "Motion detector",
+   "ru": true,
+   "long": "Детектор движения"
   },
   {
    "off": 6442,
    "budget": 5,
-   "en": "Hear",
-   "long": "Listen"
+   "en": ".",
+   "en_src": "Hear",
+   "long_src": "Listen",
+   "ru": true,
+   "long": "Слушать"
   },
   {
    "off": 6447,
    "budget": 25,
-   "en": "Only the wind.",
-   "long": "All I can hear is the wind."
+   "en": "Слышен только ветер.",
+   "en_src": "Only the wind.",
+   "long_src": "All I can hear is the wind.",
+   "ru": true
   },
   {
    "off": 6472,
    "budget": 13,
-   "en": "Videophone"
+   "en": "Видеофон",
+   "en_src": "Videophone",
+   "ru": true
   },
   {
    "off": 6485,
    "budget": 27,
-   "en": "Yes, good idea."
+   "en": "Да, хорошая мысль.",
+   "en_src": "Yes, good idea.",
+   "ru": true
   },
   {
    "off": 6512,
    "budget": 27,
-   "en": "Gillian, running away?",
-   "long": "Are you running away, Gillian?"
+   "en": "Ты сбегаешь, Гиллиан?",
+   "en_src": "Gillian, running away?",
+   "long_src": "Are you running away, Gillian?",
+   "ru": true
   },
   {
    "off": 6539,
    "budget": 39,
-   "en": "What's wrong? Be brave."
+   "en": "Что такое? Смелее.",
+   "en_src": "What's wrong? Be brave.",
+   "ru": true
   },
   {
    "off": 6578,
    "budget": 37,
-   "en": "Where are you going, Gillian?"
+   "en": "Куда ты, Гиллиан?",
+   "en_src": "Where are you going, Gillian?",
+   "ru": true
   },
   {
    "off": 6615,
    "budget": 41,
-   "en": "So the videophone is no use here.",
-   "long": "As expected, the videophone won't￥work here."
+   "en": ".",
+   "en_src": "So the videophone is no use here.",
+   "long_src": "As expected, the videophone won't￥work here.",
+   "ru": true,
+   "long": "Как я и думал, видеофон здесь не￥работает."
   },
   {
    "off": 6656,
    "budget": 23,
-   "en": "No readings at all."
+   "en": "Никаких сигналов.",
+   "en_src": "No readings at all.",
+   "ru": true
   },
   {
    "off": 6679,
    "budget": 29,
-   "en": "Nothing unusual so far."
+   "en": "Пока ничего необычного.",
+   "en_src": "Nothing unusual so far.",
+   "ru": true
   },
   {
    "off": 6708,
    "budget": 33,
-   "en": "Large motion readings... none.",
-   "long": "No significant movement detected."
+   "en": "Заметного движения нет.",
+   "en_src": "Large motion readings... none.",
+   "long_src": "No significant movement detected.",
+   "ru": true
   },
   {
    "off": 6741,
    "budget": 23,
-   "en": "I can't hear a sound."
+   "en": "Ни звука.",
+   "en_src": "I can't hear a sound.",
+   "ru": true
   },
   {
    "off": 6764,
    "budget": 35,
-   "en": "I hear nothing. It's quiet."
+   "en": "Ничего не слышно. Тихо.",
+   "en_src": "I hear nothing. It's quiet.",
+   "ru": true
   },
   {
    "off": 6799,
    "budget": 29,
-   "en": "It's completely silent."
+   "en": "Мёртвая тишина.",
+   "en_src": "It's completely silent.",
+   "ru": true
   },
   {
    "off": 6828,
    "budget": 15,
-   "en": "This place...?",
-   "long": "What is this place?"
+   "en": ".",
+   "en_src": "This place...?",
+   "long_src": "What is this place?",
+   "ru": true,
+   "long": "Что это за место?"
   },
   {
    "off": 6843,
    "budget": 35,
-   "en": "A chapel for the Snatchers?"
+   "en": "Часовня снатчеров?",
+   "en_src": "A chapel for the Snatchers?",
+   "ru": true
   },
   {
    "off": 6878,
    "budget": 39,
-   "en": "You think they pray? To what?"
+   "en": "Думаешь, они молятся? Кому?",
+   "en_src": "You think they pray? To what?",
+   "ru": true
   },
   {
    "off": 6917,
    "budget": 65,
-   "en": "See, a portrait hangs at the front.￥Do they pray to that man?",
-   "long": "Look. There's a portrait at the￥front. Do they pray to that man?"
+   "en": "Смотри. Впереди портрет. Они молятся￥этому человеку?",
+   "en_src": "See, a portrait hangs at the front.￥Do they pray to that man?",
+   "long_src": "Look. There's a portrait at the￥front. Do they pray to that man?",
+   "ru": true
   },
   {
    "off": 6982,
    "budget": 9,
-   "en": "Go in",
-   "long": "Go further in"
+   "en": ".",
+   "en_src": "Go in",
+   "long_src": "Go further in",
+   "ru": true,
+   "long": "Идти дальше"
   },
   {
    "off": 6991,
    "budget": 25,
-   "en": "Into the inner room...",
-   "long": "Let's enter the room at the back."
+   "en": ".",
+   "en_src": "Into the inner room...",
+   "long_src": "Let's enter the room at the back.",
+   "ru": true,
+   "long": "Войдём в дальнюю комнату."
   },
   {
    "off": 7016,
    "budget": 7,
-   "en": "Portrt",
-   "long": "Portrait"
+   "en": ".",
+   "en_src": "Portrt",
+   "long_src": "Portrait",
+   "ru": true,
+   "long": "Портрет"
   },
   {
    "off": 7023,
    "budget": 51,
-   "en": "Is this the creator the Snatchers￥speak of?",
-   "long": "Could this be the creator the￥Snatchers spoke of?"
+   "en": ".",
+   "en_src": "Is this the creator the Snatchers￥speak of?",
+   "long_src": "Could this be the creator the￥Snatchers spoke of?",
+   "ru": true,
+   "long": "Может, это и есть создатель, о￥котором говорили снатчеры?"
   },
   {
    "off": 7074,
    "budget": 45,
-   "en": "Isn't that ＠黄Randam＠白?"
+   "en": "Это же ＠黄Рэндам＠白?",
+   "en_src": "Isn't that ＠黄Randam＠白?",
+   "ru": true
   },
   {
    "off": 7119,
    "budget": 49,
-   "en": "Wait. I'll compare the portrait with￥our data."
+   "en": "Погоди. Сравню портрет с нашими￥данными.",
+   "en_src": "Wait. I'll compare the portrait with￥our data.",
+   "ru": true
   },
   {
    "off": 7168,
    "budget": 91,
-   "en": "The frame ratios do match Randam's￥own data, but it's no photograph, so￥I can't be sure.",
-   "long": "The bone proportions and other￥features match Randam's, but it's a￥painting, so I can't be certain."
+   "en": ".",
+   "en_src": "The frame ratios do match Randam's￥own data, but it's no photograph, so￥I can't be sure.",
+   "long_src": "The bone proportions and other￥features match Randam's, but it's a￥painting, so I can't be certain.",
+   "ru": true,
+   "long": "Пропорции костей и другие черты￥совпадают с Рэндамом, но это￥картина, так что наверняка не скажу."
   },
   {
    "off": 7259,
    "budget": 29,
-   "en": "That's no chance likeness...",
-   "long": "That's too close to be a￥coincidence."
+   "en": ".",
+   "en_src": "That's no chance likeness...",
+   "long_src": "That's too close to be a￥coincidence.",
+   "ru": true,
+   "long": "Для совпадения слишком похож."
   },
   {
    "off": 7288,
    "budget": 51,
-   "en": "Come to think...￥it looks like Randam Hajile.",
-   "long": "Now that you mention it, he does￥look like Randam Hajile."
+   "en": "А ведь и правда, похож на Рэндама￥Хаджайла.",
+   "en_src": "Come to think...￥it looks like Randam Hajile.",
+   "long_src": "Now that you mention it, he does￥look like Randam Hajile.",
+   "ru": true
   },
   {
    "off": 7339,
    "budget": 5,
-   "en": "Seat",
-   "long": "Chair"
+   "en": "Стул",
+   "en_src": "Seat",
+   "long_src": "Chair",
+   "ru": true
   },
   {
    "off": 7344,
    "budget": 27,
-   "en": "Seats for worshippers.",
-   "long": "These must be seats for worshippers."
+   "en": ".",
+   "en_src": "Seats for worshippers.",
+   "long_src": "These must be seats for worshippers.",
+   "ru": true,
+   "long": "Наверное, места для молящихся."
   },
   {
    "off": 7371,
    "budget": 55,
-   "en": "There's no dust on them. They seem￥to be used often."
+   "en": "Пыли на них нет. Похоже, ими часто￥пользуются.",
+   "en_src": "There's no dust on them. They seem￥to be used often.",
+   "ru": true
   },
   {
    "off": 7426,
    "budget": 21,
-   "en": "Tidy place..."
+   "en": "Аккуратно тут...",
+   "en_src": "Tidy place...",
+   "ru": true
   },
   {
    "off": 7447,
    "budget": 43,
-   "en": "The old USSR before its fall,￥rebuilt.",
-   "long": "It looks like a recreation of the￥Soviet Union before its collapse."
+   "en": ".",
+   "en_src": "The old USSR before its fall,￥rebuilt.",
+   "long_src": "It looks like a recreation of the￥Soviet Union before its collapse.",
+   "ru": true,
+   "long": "Похоже, здесь воссоздан Советский￥Союз до распада."
   },
   {
    "off": 7490,
    "budget": 29,
-   "en": "Not church ornament.",
-   "long": "These don't look like church￥decorations."
+   "en": ".",
+   "en_src": "Not church ornament.",
+   "long_src": "These don't look like church￥decorations.",
+   "ru": true,
+   "long": "На церковное убранство не похоже."
   },
   {
    "off": 7519,
    "budget": 51,
-   "en": "The picture reads ＠赤'Creator Madnar'＠白.",
-   "long": "The painting is labeled ＠赤Madnar, Our￥Creator＠白."
+   "en": ".",
+   "en_src": "The picture reads ＠赤'Creator Madnar'＠白.",
+   "long_src": "The painting is labeled ＠赤Madnar, Our￥Creator＠白.",
+   "ru": true,
+   "long": "На картине подпись: ＠赤\"Мэднар, наш￥создатель\"＠白."
   },
   {
    "off": 7570,
    "budget": 25,
-   "en": "That's Dr. Madnar?"
+   "en": "Это доктор Мэднар?",
+   "en_src": "That's Dr. Madnar?",
+   "ru": true
   },
   {
    "off": 7595,
    "budget": 29,
-   "en": "The one they spoke of?",
-   "long": "The one the Snatchers mentioned?"
+   "en": ".",
+   "en_src": "The one they spoke of?",
+   "long_src": "The one the Snatchers mentioned?",
+   "ru": true,
+   "long": "Тот, о ком говорили снатчеры?"
   },
   {
    "off": 7624,
    "budget": 35,
-   "en": "A portrait of that man...",
-   "long": "It appears to be a portrait of him."
+   "en": "Похоже, это его портрет.",
+   "en_src": "A portrait of that man...",
+   "long_src": "It appears to be a portrait of him.",
+   "ru": true
   },
   {
    "off": 7659,
    "budget": 83,
-   "en": "Judging by the paint and canvas, it￥was painted about half a century￥ago."
+   "en": "Судя по краскам и холсту, картину￥написали около полувека назад.",
+   "en_src": "Judging by the paint and canvas, it￥was painted about half a century￥ago.",
+   "ru": true
   },
   {
    "off": 7742,
    "budget": 77,
-   "en": "There are many scratches on the￥surface. Could they be from￥Snatchers?"
+   "en": "На поверхности много царапин. Может,￥это снатчеры?",
+   "en_src": "There are many scratches on the￥surface. Could they be from￥Snatchers?",
+   "ru": true
   },
   {
    "off": 7819,
    "budget": 57,
-   "en": "Something very heavy stood on it.￥Quite worn.",
-   "long": "It must have held something very￥heavy. It's badly worn."
+   "en": ".",
+   "en_src": "Something very heavy stood on it.￥Quite worn.",
+   "long_src": "It must have held something very￥heavy. It's badly worn.",
+   "ru": true,
+   "long": "На нём, видно, стояло что-то очень￥тяжёлое. Сильно изношен."
   },
   {
    "off": 7876,
    "budget": 67,
-   "en": "Oddly tidy, with no human feel. Oh,￥a room lies beyond.",
-   "long": "It's so orderly it doesn't feel￥human. Oh, there's a room at the￥back."
+   "en": ".",
+   "en_src": "Oddly tidy, with no human feel. Oh,￥a room lies beyond.",
+   "long_src": "It's so orderly it doesn't feel￥human. Oh, there's a room at the￥back.",
+   "ru": true,
+   "long": "Тут так аккуратно, что не￥чувствуется человека. О, сзади есть￥комната."
   },
   {
    "off": 7943,
    "budget": 49,
-   "en": "Not a speck of dust. It's too clean."
+   "en": "Ни пылинки. Слишком чисто.",
+   "en_src": "Not a speck of dust. It's too clean.",
+   "ru": true
   },
   {
    "off": 7992,
    "budget": 33,
-   "en": "They... all out at the summit?",
-   "long": "Have they all gone to the summit?"
+   "en": "Они что, все ушли на саммит?",
+   "en_src": "They... all out at the summit?",
+   "long_src": "Have they all gone to the summit?",
+   "ru": true
   },
   {
    "off": 8025,
    "budget": 17,
-   "en": "What is this?",
-   "long": "What is this place?"
+   "en": ".",
+   "en_src": "What is this?",
+   "long_src": "What is this place?",
+   "ru": true,
+   "long": "Что это за место?"
   },
   {
    "off": 8042,
    "budget": 57,
-   "en": "＠赤Insectors! Use your Blaster!＠Ｃ"
+   "en": "＠赤Инсекторы! Бластер к бою!＠Ｃ",
+   "en_src": "＠赤Insectors! Use your Blaster!＠Ｃ",
+   "ru": true
   },
   {
    "off": 8099,
    "budget": 13,
-   "en": "Here!　＠Ｃ",
-   "long": "Here they come!＠Ｃ"
+   "en": "Вот они!＠Ｃ",
+   "en_src": "Here!　＠Ｃ",
+   "long_src": "Here they come!＠Ｃ",
+   "ru": true
   },
   {
    "off": 8112,
    "budget": 29,
-   "en": "All right this time?　　＠Ｃ",
-   "long": "Can you handle them this time?＠Ｃ"
+   "en": "На этот раз справишься?＠Ｃ",
+   "en_src": "All right this time?　　＠Ｃ",
+   "long_src": "Can you handle them this time?＠Ｃ",
+   "ru": true
   },
   {
    "off": 8141,
    "budget": 15,
-   "en": "Leave it!＠Ｃ",
-   "long": "Leave it to me!＠Ｃ"
+   "en": ".",
+   "en_src": "Leave it!＠Ｃ",
+   "long_src": "Leave it to me!＠Ｃ",
+   "ru": true,
+   "long": "Положись на меня!＠Ｃ"
   },
   {
    "off": 8156,
    "budget": 35,
-   "en": "Surely all right this time?　＠Ｃ",
-   "long": "Are you sure you can handle them￥this time?＠Ｃ"
+   "en": "Точно справишься на этот раз?＠Ｃ",
+   "en_src": "Surely all right this time?　＠Ｃ",
+   "long_src": "Are you sure you can handle them￥this time?＠Ｃ",
+   "ru": true
   },
   {
    "off": 8191,
    "budget": 17,
-   "en": "Shut up!＠Ｃ"
+   "en": "Заткнись!＠Ｃ",
+   "en_src": "Shut up!＠Ｃ",
+   "ru": true
   },
   {
    "off": 8208,
    "budget": 29,
-   "en": "No more movement detected."
+   "en": ".",
+   "en_src": "No more movement detected.",
+   "ru": true,
+   "long": "Движение больше не фиксируется."
   },
   {
    "off": 8237,
    "budget": 53,
-   "en": "There's no doubt Snatchers are￥hiding here."
+   "en": "Снатчеры здесь прячутся, без￥сомнений.",
+   "en_src": "There's no doubt Snatchers are￥hiding here.",
+   "ru": true
   },
   {
    "off": 8290,
    "budget": 57,
-   "en": "Aye, and that many of them.￥This must be a major base.",
-   "long": "Yeah. With that many guards, this￥must be an important base."
+   "en": "Да. При такой охране это должна быть￥важная база.",
+   "en_src": "Aye, and that many of them.￥This must be a major base.",
+   "long_src": "Yeah. With that many guards, this￥must be an important base.",
+   "ru": true
   },
   {
    "off": 8347,
    "budget": 21,
-   "en": "Let's go carefully.",
-   "long": "Let's proceed carefully."
+   "en": "Идём осторожно.",
+   "en_src": "Let's go carefully.",
+   "long_src": "Let's proceed carefully.",
+   "ru": true
   },
   {
    "off": 8368,
    "budget": 25,
-   "en": "Snatchers!"
+   "en": "Снатчеры!",
+   "en_src": "Snatchers!",
+   "ru": true
   },
   {
    "off": 8393,
    "budget": 19,
-   "en": "So many!"
+   "en": "Сколько их!",
+   "en_src": "So many!",
+   "ru": true
   },
   {
    "off": 8412,
    "budget": 73,
-   "en": "No energy readings. They're all￥inactive, in storage."
+   "en": "Энергии нет. Все отключены, на￥хранении.",
+   "en_src": "No energy readings. They're all￥inactive, in storage.",
+   "ru": true
   },
   {
    "off": 8485,
    "budget": 23,
-   "en": "Their storeroom?",
-   "long": "Is this their storage facility?"
+   "en": "Это их склад?",
+   "en_src": "Their storeroom?",
+   "long_src": "Is this their storage facility?",
+   "ru": true
   },
   {
    "off": 8508,
    "budget": 49,
-   "en": "Hundreds, it seems.￥They stretch far back.",
-   "long": "There must be hundreds. They go all￥the way to the back."
+   "en": "Их здесь сотни. Тянутся до самой￥стены.",
+   "en_src": "Hundreds, it seems.￥They stretch far back.",
+   "long_src": "There must be hundreds. They go all￥the way to the back.",
+   "ru": true
   },
   {
    "off": 8557,
    "budget": 45,
-   "en": "But this doesn't look like a￥factory."
+   "en": "Но на завод это не похоже.",
+   "en_src": "But this doesn't look like a￥factory.",
+   "ru": true
   },
   {
    "off": 8602,
    "budget": 41,
-   "en": "Ready? Let's move into the next￥room."
+   "en": "Готов? Идём в следующую комнату.",
+   "en_src": "Ready? Let's move into the next￥room.",
+   "ru": true
   },
   {
    "off": 8643,
    "budget": 13,
-   "en": "Snatchers"
+   "en": "Снатчеры",
+   "en_src": "Snatchers",
+   "ru": true
   },
   {
    "off": 8656,
    "budget": 107,
-   "en": "Endoskeletons, before the skin goes￥on. The frames are shrunk to least￥size at the slits.",
-   "long": "They're endoskeletons without￥artificial skin. The adjustable￥slots in their frames are contracted￥to the smallest size."
+   "en": "Это эндоскелеты без искусственной￥кожи. Регулируемые пазы в каркасах￥сжаты до минимального размера.",
+   "en_src": "Endoskeletons, before the skin goes￥on. The frames are shrunk to least￥size at the slits.",
+   "long_src": "They're endoskeletons without￥artificial skin. The adjustable￥slots in their frames are contracted￥to the smallest size.",
+   "ru": true
   },
   {
    "off": 8763,
    "budget": 81,
-   "en": "They haven't chosen their victims￥yet. Waiting their turn to snatch￥someone?"
+   "en": "Жертв они себе ещё не выбрали. Ждут￥своей очереди на подмену?",
+   "en_src": "They haven't chosen their victims￥yet. Waiting their turn to snatch￥someone?",
+   "ru": true
   },
   {
    "off": 8844,
    "budget": 87,
-   "en": "They look ready to move.￥If this many moved at once, nothing￥could be done.",
-   "long": "They look ready to move at any￥moment. If they all started at once,￥we'd be helpless."
+   "en": "Кажется, вот-вот оживут. Если они￥двинутся разом, нам конец.",
+   "en_src": "They look ready to move.￥If this many moved at once, nothing￥could be done.",
+   "long_src": "They look ready to move at any￥moment. If they all started at once,￥we'd be helpless.",
+   "ru": true
   },
   {
    "off": 8931,
    "budget": 47,
-   "en": "Containers are stacked at the back.",
-   "long": "There are several containers stacked￥at the back."
+   "en": "В глубине стоят штабеля контейнеров.",
+   "en_src": "Containers are stacked at the back.",
+   "long_src": "There are several containers stacked￥at the back.",
+   "ru": true
   },
   {
    "off": 8978,
    "budget": 35,
-   "en": "Nothing but containers here.",
-   "long": "There's nothing else here besides￥the containers."
+   "en": ".",
+   "en_src": "Nothing but containers here.",
+   "long_src": "There's nothing else here besides￥the containers.",
+   "ru": true,
+   "long": "Кроме контейнеров, здесь ничего нет."
   },
   {
    "off": 9013,
    "budget": 25,
-   "en": "Letters on the floor.",
-   "long": "There's writing on the floor."
+   "en": "На полу надпись.",
+   "en_src": "Letters on the floor.",
+   "long_src": "There's writing on the floor.",
+   "ru": true
   },
   {
    "off": 9038,
    "budget": 23,
-   "en": "Russian letters.",
-   "long": "It appears to be Russian."
+   "en": "Похоже, по-русски.",
+   "en_src": "Russian letters.",
+   "long_src": "It appears to be Russian.",
+   "ru": true
   },
   {
    "off": 9061,
    "budget": 9,
-   "en": "Crate",
-   "long": "Container"
+   "en": ".",
+   "en_src": "Crate",
+   "long_src": "Container",
+   "ru": true,
+   "long": "Контейнер"
   },
   {
    "off": 9070,
    "budget": 15,
-   "en": "This size?",
-   "long": "What about the size?"
+   "en": "А размер?",
+   "en_src": "This size?",
+   "long_src": "What about the size?",
+   "ru": true
   },
   {
    "off": 9085,
    "budget": 83,
-   "en": "By its volume, this container surely￥carried the Snatchers here.",
-   "long": "Judging by their capacity, these￥containers must have brought the￥Snatchers here."
+   "en": "Судя по объёму, в этих контейнерах￥сюда и привезли снатчеров.",
+   "en_src": "By its volume, this container surely￥carried the Snatchers here.",
+   "long_src": "Judging by their capacity, these￥containers must have brought the￥Snatchers here.",
+   "ru": true
   },
   {
    "off": 9168,
    "budget": 71,
-   "en": "All these endoskeletons arrived in￥those containers."
+   "en": "Все эти эндоскелеты прибыли в￥контейнерах.",
+   "en_src": "All these endoskeletons arrived in￥those containers.",
+   "ru": true
   },
   {
    "off": 9239,
    "budget": 65,
-   "en": "Nothing is broken. They only need￥power to function."
+   "en": "Ничего не сломано. Им нужно только￥питание.",
+   "en_src": "Nothing is broken. They only need￥power to function.",
+   "ru": true
   },
   {
    "off": 9304,
    "budget": 43,
-   "en": "They haven't had sex units installed￥yet."
+   "en": "Секс-модули им ещё не установлены.",
+   "en_src": "They haven't had sex units installed￥yet.",
+   "ru": true
   },
   {
    "off": 9347,
    "budget": 61,
-   "en": "Well kept, too. Maintained￥regularly, it seems.",
-   "long": "They're well preserved. They seem to￥receive regular maintenance."
+   "en": "Хорошо сохранились. Похоже, их￥регулярно обслуживают.",
+   "en_src": "Well kept, too. Maintained￥regularly, it seems.",
+   "long_src": "They're well preserved. They seem to￥receive regular maintenance.",
+   "ru": true
   },
   {
    "off": 9408,
    "budget": 89,
-   "en": "No maintenance gear or tools to be￥seen. This is only a Snatcher store.",
-   "long": "I see no maintenance equipment or￥tools. This seems to be only a￥Snatcher storage facility."
+   "en": "Ни оборудования, ни инструментов для￥обслуживания. Похоже, это просто￥склад снатчеров.",
+   "en_src": "No maintenance gear or tools to be￥seen. This is only a Snatcher store.",
+   "long_src": "I see no maintenance equipment or￥tools. This seems to be only a￥Snatcher storage facility.",
+   "ru": true
   },
   {
    "off": 9497,
    "budget": 43,
-   "en": "Unlike the chapel, it's dusty in￥here."
+   "en": "В отличие от часовни, здесь пыльно.",
+   "en_src": "Unlike the chapel, it's dusty in￥here.",
+   "ru": true
   },
   {
    "off": 9540,
    "budget": 33,
-   "en": "There's a label on it."
+   "en": "На нём этикетка.",
+   "en_src": "There's a label on it.",
+   "ru": true
   },
   {
    "off": 9573,
    "budget": 41,
-   "en": "＠黄Nineteenth Siberian Expedition＠白."
+   "en": "＠黄19-я Сибирская экспедиция＠白.",
+   "en_src": "＠黄Nineteenth Siberian Expedition＠白.",
+   "ru": true
   },
   {
    "off": 9614,
    "budget": 31,
-   "en": "＠黄Siberia Survey Team＠白?",
-   "long": "The ＠黄Siberian expedition＠白?"
+   "en": "＠黄Сибирская экспедиция＠白?",
+   "en_src": "＠黄Siberia Survey Team＠白?",
+   "long_src": "The ＠黄Siberian expedition＠白?",
+   "ru": true
   },
   {
    "off": 9645,
    "budget": 45,
-   "en": "So, from the neutral zone to this￥city...",
-   "long": "It looks like they came from the￥neutral zone to this city."
+   "en": ".",
+   "en_src": "So, from the neutral zone to this￥city...",
+   "long_src": "It looks like they came from the￥neutral zone to this city.",
+   "ru": true,
+   "long": "Похоже, их привезли сюда из￥нейтральной зоны."
   },
   {
    "off": 9690,
    "budget": 43,
-   "en": "The survey team carries the￥Snatchers.",
-   "long": "The expedition teams appear to be￥transporting Snatchers."
+   "en": "Похоже, экспедиции перевозят￥снатчеров.",
+   "en_src": "The survey team carries the￥Snatchers.",
+   "long_src": "The expedition teams appear to be￥transporting Snatchers.",
+   "ru": true
   },
   {
    "off": 9733,
    "budget": 73,
-   "en": "So, as with us, the survey team is￥being snatched.",
-   "long": "So the team members are being￥snatched, just like when we were￥rescued."
+   "en": "Значит, членов экспедиций подменяют￥- как тогда, когда спасли нас.",
+   "en_src": "So, as with us, the survey team is￥being snatched.",
+   "long_src": "So the team members are being￥snatched, just like when we were￥rescued.",
+   "ru": true
   },
   {
    "off": 9806,
    "budget": 91,
-   "en": "No doubt the Siberia team brought￥them. Soil peculiar to that region￥clings to it.",
-   "long": "The Siberian expedition definitely￥brought them here. They're covered￥in contaminated soil unique to that￥region."
+   "en": ".",
+   "en_src": "No doubt the Siberia team brought￥them. Soil peculiar to that region￥clings to it.",
+   "long_src": "The Siberian expedition definitely￥brought them here. They're covered￥in contaminated soil unique to that￥region.",
+   "ru": true,
+   "long": "Их точно привезла Сибирская￥экспедиция. На них заражённая почва,￥какая бывает только там."
   },
   {
    "off": 9897,
    "budget": 77,
-   "en": "I see. The Siberian expeditions￥bring Snatchers here to be stored."
+   "en": "Понятно. Сибирские экспедиции￥привозят снатчеров сюда на хранение.",
+   "en_src": "I see. The Siberian expeditions￥bring Snatchers here to be stored.",
+   "ru": true
   },
   {
    "off": 9974,
    "budget": 81,
-   "en": "So it seems.￥Here they wait their turn to snatch,￥kept idle till then.",
-   "long": "Apparently. They wait here for their￥turn to snatch someone, kept￥inactive until then."
+   "en": "Похоже на то. Здесь они ждут своей￥очереди, отключённые до поры.",
+   "en_src": "So it seems.￥Here they wait their turn to snatch,￥kept idle till then.",
+   "long_src": "Apparently. They wait here for their￥turn to snatch someone, kept￥inactive until then.",
+   "ru": true
   },
   {
    "off": 10055,
    "budget": 57,
-   "en": "Efficient. But where do they do the￥snatching?"
+   "en": "Рационально. А где они проводят￥подмену?",
+   "en_src": "Efficient. But where do they do the￥snatching?",
+   "ru": true
   },
   {
    "off": 10112,
    "budget": 33,
-   "en": "Maybe we'll find out further in."
+   "en": "Может, дальше узнаем.",
+   "en_src": "Maybe we'll find out further in.",
+   "ru": true
   },
   {
    "off": 10145,
    "budget": 35,
-   "en": "A Snatcher cultivation room."
+   "en": "Инкубатор снатчеров.",
+   "en_src": "A Snatcher cultivation room.",
+   "ru": true
   },
   {
    "off": 10180,
    "budget": 27,
-   "en": "The equipment is running."
+   "en": "Оборудование работает.",
+   "en_src": "The equipment is running.",
+   "ru": true
   },
   {
    "off": 10207,
    "budget": 11,
-   "en": "Cylinder"
+   "en": "Цилиндр",
+   "en_src": "Cylinder",
+   "ru": true
   },
   {
    "off": 10218,
    "budget": 69,
-   "en": "Gillian, within you can see the skin￥being laid on a Snatcher.",
-   "long": "Gillian, you can see artificial skin￥being applied to the Snatchers￥inside."
+   "en": "Гиллиан, видно, как на снатчеров￥внутри наносят искусственную кожу.",
+   "en_src": "Gillian, within you can see the skin￥being laid on a Snatcher.",
+   "long_src": "Gillian, you can see artificial skin￥being applied to the Snatchers￥inside.",
+   "ru": true
   },
   {
    "off": 10287,
    "budget": 47,
-   "en": "A Snatcher in the snatch process is￥inside.",
-   "long": "There are Snatchers inside,￥undergoing the snatching process."
+   "en": "Внутри снатчеры в процессе подмены.",
+   "en_src": "A Snatcher in the snatch process is￥inside.",
+   "long_src": "There are Snatchers inside,￥undergoing the snatching process.",
+   "ru": true
   },
   {
    "off": 10334,
    "budget": 13,
-   "en": "Snatch proc",
-   "long": "Snatch process"
+   "en": ".",
+   "en_src": "Snatch proc",
+   "long_src": "Snatch process",
+   "ru": true,
+   "long": "Процесс подмены"
   },
   {
    "off": 10347,
    "budget": 63,
-   "en": "Each cylinder has a computer￥terminal attached."
+   "en": "К каждому цилиндру подключён￥компьютерный терминал.",
+   "en_src": "Each cylinder has a computer￥terminal attached.",
+   "ru": true
   },
   {
    "off": 10410,
    "budget": 73,
-   "en": "Tubes and cables run everywhere.￥Watch your step."
+   "en": "Везде трубки и кабели. Смотри под￥ноги.",
+   "en_src": "Tubes and cables run everywhere.￥Watch your step.",
+   "ru": true
   },
   {
    "off": 10483,
    "budget": 3,
-   "en": "Dr",
-   "long": "Door"
+   "en": ".",
+   "en_src": "Dr",
+   "long_src": "Door",
+   "ru": true,
+   "long": "Дверь"
   },
   {
    "off": 10486,
    "budget": 37,
-   "en": "It's a small iron door with a knob."
+   "en": "Небольшая железная дверь с ручкой.",
+   "en_src": "It's a small iron door with a knob.",
+   "ru": true
   },
   {
    "off": 10523,
    "budget": 31,
-   "en": "A room lies beyond this.",
-   "long": "There must be a room beyond it."
+   "en": "За ней, должно быть, комната.",
+   "en_src": "A room lies beyond this.",
+   "long_src": "There must be a room beyond it.",
+   "ru": true
   },
   {
    "off": 10554,
    "budget": 5,
-   "en": "Term",
-   "long": "Terminal"
+   "en": ".",
+   "en_src": "Term",
+   "long_src": "Terminal",
+   "ru": true,
+   "long": "Терминал"
   },
   {
    "off": 10559,
    "budget": 93,
-   "en": "A terminal linked to the host￥computer. It runs the cylinders too,￥it seems.",
-   "long": "This terminal is probably connected￥to a host computer. It also seems to￥control the cylinder."
+   "en": "Терминал, видимо, подключён к￥главному компьютеру. Похоже, он же￥управляет цилиндром.",
+   "en_src": "A terminal linked to the host￥computer. It runs the cylinders too,￥it seems.",
+   "long_src": "This terminal is probably connected￥to a host computer. It also seems to￥control the cylinder.",
+   "ru": true
   },
   {
    "off": 10652,
    "budget": 55,
-   "en": "Data, charts and figures show on the￥monitor.",
-   "long": "The monitor displays various data,￥diagrams and shapes."
+   "en": "На мониторе разные данные, схемы и￥фигуры.",
+   "en_src": "Data, charts and figures show on the￥monitor.",
+   "long_src": "The monitor displays various data,￥diagrams and shapes.",
+   "ru": true
   },
   {
    "off": 10707,
    "budget": 83,
-   "en": "A cylinder for culturing the skin.￥An endoskeleton soaks within.",
-   "long": "It's a cylinder for growing￥artificial skin. An endoskeleton is￥submerged inside."
+   "en": "Это цилиндр для выращивания￥искусственной кожи. Внутри погружён￥эндоскелет.",
+   "en_src": "A cylinder for culturing the skin.￥An endoskeleton soaks within.",
+   "long_src": "It's a cylinder for growing￥artificial skin. An endoskeleton is￥submerged inside.",
+   "ru": true
   },
   {
    "off": 10790,
    "budget": 69,
-   "en": "It's made of thick, reinforced￥glass. It won't break easily."
+   "en": "Он из толстого закалённого стекла.￥Так просто не разбить.",
+   "en_src": "It's made of thick, reinforced￥glass. It won't break easily.",
+   "ru": true
   },
   {
    "off": 10859,
    "budget": 5,
-   "en": "Roof"
+   "en": ".",
+   "en_src": "Roof",
+   "ru": true,
+   "long": "Крыша"
   },
   {
    "off": 10864,
    "budget": 41,
-   "en": "Weak ultraviolet is cast from above.",
-   "long": "Weak ultraviolet light appears to￥shine down from above."
+   "en": ".",
+   "en_src": "Weak ultraviolet is cast from above.",
+   "long_src": "Weak ultraviolet light appears to￥shine down from above.",
+   "ru": true,
+   "long": "Сверху, похоже, светит слабый￥ультрафиолет."
   },
   {
    "off": 10905,
    "budget": 43,
-   "en": "Serious... a cut above￥Queen Hospital.",
-   "long": "A serious operation. Queen Hospital￥had nothing like this."
+   "en": ".",
+   "en_src": "Serious... a cut above￥Queen Hospital.",
+   "long_src": "A serious operation. Queen Hospital￥had nothing like this.",
+   "ru": true,
+   "long": "Серьёзное производство. В больнице￥\"Куин\" такого не было."
   },
   {
    "off": 10948,
    "budget": 69,
-   "en": "The entire room is a clean room.￥There's a door at the back."
+   "en": "Вся комната - чистая зона. В глубине￥дверь.",
+   "en_src": "The entire room is a clean room.￥There's a door at the back.",
+   "ru": true
   },
   {
    "off": 11017,
    "budget": 61,
-   "en": "Fine gear. It surprises me they have￥so much.",
-   "long": "Remarkable equipment. I'm surprised￥they managed to assemble all this."
+   "en": ".",
+   "en_src": "Fine gear. It surprises me they have￥so much.",
+   "long_src": "Remarkable equipment. I'm surprised￥they managed to assemble all this.",
+   "ru": true,
+   "long": "Потрясающее оборудование. Не ожидал,￥что они столько соберут."
   },
   {
    "off": 11078,
    "budget": 31,
-   "en": "Where do they get the money?"
+   "en": "Откуда у них деньги?",
+   "en_src": "Where do they get the money?",
+   "ru": true
   },
   {
    "off": 11109,
    "budget": 59,
-   "en": "Snatchers are likely sent into the￥money sources too.",
-   "long": "They've probably placed Snatchers￥wherever they get their funding,￥too."
+   "en": "Наверное, снатчеров внедрили и туда,￥откуда идут деньги.",
+   "en_src": "Snatchers are likely sent into the￥money sources too.",
+   "long_src": "They've probably placed Snatchers￥wherever they get their funding,￥too.",
+   "ru": true
   },
   {
    "off": 11168,
    "budget": 51,
-   "en": "It's locked, but we can open it from￥this side."
+   "en": "Заперто, но с этой стороны можно￥открыть.",
+   "en_src": "It's locked, but we can open it from￥this side.",
+   "ru": true
   },
   {
    "off": 11219,
    "budget": 47,
-   "en": "It seems it cannot be opened from￥within.",
-   "long": "It seems designed so it can't be￥opened from inside."
+   "en": ".",
+   "en_src": "It seems it cannot be opened from￥within.",
+   "long_src": "It seems designed so it can't be￥opened from inside.",
+   "ru": true,
+   "long": "Похоже, изнутри её не открыть - так￥задумано."
   },
   {
    "off": 11266,
    "budget": 89,
-   "en": "The power is on. Look! It contains￥data on the people they're going to￥snatch."
+   "en": "Питание включено. Смотри! Тут данные￥о людях, которых собираются￥подменить.",
+   "en_src": "The power is on. Look! It contains￥data on the people they're going to￥snatch.",
+   "ru": true
   },
   {
    "off": 11355,
    "budget": 51,
-   "en": "From this data the skin is￥reproduced, it seems.",
-   "long": "They appear to use this data to￥reproduce the victims' skin."
+   "en": "Похоже, по этим данным воссоздают￥кожу жертв.",
+   "en_src": "From this data the skin is￥reproduced, it seems.",
+   "long_src": "They appear to use this data to￥reproduce the victims' skin.",
+   "ru": true
   },
   {
    "off": 11406,
    "budget": 41,
-   "en": "Nothing but bubbling in the￥cylinders.",
-   "long": "All I can hear is bubbling from the￥cylinders."
+   "en": "Слышно только бульканье в цилиндрах.",
+   "en_src": "Nothing but bubbling in the￥cylinders.",
+   "long_src": "All I can hear is bubbling from the￥cylinders.",
+   "ru": true
   },
   {
    "off": 11447,
    "budget": 57,
-   "en": "For now, only the steady sounds of￥the gear here.",
-   "long": "So far, all I hear is the steady￥sound of the equipment."
+   "en": "Пока слышен лишь ровный гул￥оборудования.",
+   "en_src": "For now, only the steady sounds of￥the gear here.",
+   "long_src": "So far, all I hear is the steady￥sound of the equipment.",
+   "ru": true
   },
   {
    "off": 11504,
    "budget": 37,
-   "en": "This may be our last chance to save."
+   "en": ".",
+   "en_src": "This may be our last chance to save.",
+   "ru": true,
+   "long": "Возможно, это последний шанс￥сохраниться."
   },
   {
    "off": 11541,
    "budget": 53,
-   "en": "The signal won't hold. No sending￥from this area.",
-   "long": "The signal is unstable. We can't￥transmit from this area."
+   "en": "Сигнал нестабилен. Отсюда передать￥ничего нельзя.",
+   "en_src": "The signal won't hold. No sending￥from this area.",
+   "long_src": "The signal is unstable. We can't￥transmit from this area.",
+   "ru": true
   },
   {
    "off": 11594,
    "budget": 17,
-   "en": "Snow Cedar?"
+   "en": "Снежный кедр?",
+   "en_src": "Snow Cedar?",
+   "ru": true
   },
   {
    "off": 11611,
    "budget": 35,
-   "en": "Snow Cedar is extremely dense.",
-   "long": "The Snow Cedar pollen concentration￥is extremely high."
+   "en": ".",
+   "en_src": "Snow Cedar is extremely dense.",
+   "long_src": "The Snow Cedar pollen concentration￥is extremely high.",
+   "ru": true,
+   "long": "Концентрация пыльцы снежного кедра￥крайне высока."
   },
   {
    "off": 11646,
    "budget": 25,
-   "en": "No calling for backup.",
-   "long": "We can't call for help, then."
+   "en": ".",
+   "en_src": "No calling for backup.",
+   "long_src": "We can't call for help, then.",
+   "ru": true,
+   "long": "Значит, помощь не вызвать."
   },
   {
    "off": 11671,
    "budget": 21,
-   "en": "That's right."
+   "en": "Именно.",
+   "en_src": "That's right.",
+   "ru": true
   },
   {
    "off": 11692,
    "budget": 47,
-   "en": "But how did Jamie's videophone reach￥us?",
-   "long": "Then how did Jamie's videophone call￥get through?"
+   "en": "А как же тогда прошёл звонок Джейми?",
+   "en_src": "But how did Jamie's videophone reach￥us?",
+   "long_src": "Then how did Jamie's videophone call￥get through?",
+   "ru": true
   },
   {
    "off": 11739,
    "budget": 55,
-   "en": "By a large high-output transmitter,￥likely.",
-   "long": "They probably used a large,￥high-powered transmitter."
+   "en": "Наверное, у них большой мощный￥передатчик.",
+   "en_src": "By a large high-output transmitter,￥likely.",
+   "long_src": "They probably used a large,￥high-powered transmitter.",
+   "ru": true
   },
   {
    "off": 11794,
    "budget": 41,
-   "en": "No sending at all from this area.",
-   "long": "We can't transmit anything from this￥area."
+   "en": "Из этого района ничего не передать.",
+   "en_src": "No sending at all from this area.",
+   "long_src": "We can't transmit anything from this￥area.",
+   "ru": true
   },
   {
    "off": 11835,
    "budget": 53,
-   "en": "Snow Cedar is too dense for the￥videophone.",
-   "long": "The Snow Cedar pollen is too dense￥for the videophone to work."
+   "en": "Из-за пыльцы снежного кедра видеофон￥не работает.",
+   "en_src": "Snow Cedar is too dense for the￥videophone.",
+   "long_src": "The Snow Cedar pollen is too dense￥for the videophone to work.",
+   "ru": true
   },
   {
    "off": 11888,
    "budget": 35,
-   "en": "Huh? Another room?＠Ｃ"
+   "en": "А? Ещё комната?＠Ｃ",
+   "en_src": "Huh? Another room?＠Ｃ",
+   "ru": true
   },
   {
    "off": 11923,
    "budget": 11,
-   "en": "Huh!＠Ｃ"
+   "en": "Хм!＠Ｃ",
+   "en_src": "Huh!＠Ｃ",
+   "ru": true
   },
   {
    "off": 11934,
    "budget": 25,
-   "en": "Whew. Did we get them?"
+   "en": "Фух. Мы их сделали?",
+   "en_src": "Whew. Did we get them?",
+   "ru": true
   },
   {
    "off": 11959,
    "budget": 33,
-   "en": "They don't let us pass easily.",
-   "long": "They're not letting us through￥easily."
+   "en": "Просто так нас не пропустят.",
+   "en_src": "They don't let us pass easily.",
+   "long_src": "They're not letting us through￥easily.",
+   "ru": true
   },
   {
    "off": 11992,
    "budget": 11,
-   "en": "Next door.",
-   "long": "The next door."
+   "en": ".",
+   "en_src": "Next door.",
+   "long_src": "The next door.",
+   "ru": true,
+   "long": "Следующая дверь."
   },
   {
    "off": 12003,
    "budget": 13,
-   "en": "Continue"
+   "en": "Продолжить",
+   "en_src": "Continue",
+   "ru": true
   },
   {
    "off": 12016,
    "budget": 13,
-   "en": "Quit game"
+   "en": "Выйти",
+   "en_src": "Quit game",
+   "ru": true
   },
   {
    "off": 12031,

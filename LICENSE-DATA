@@ -1,9 +1,11 @@
 The translation data and documentation of this repository - every file under
-ps1/translation/, saturn/translation/, pce/translation/ and docs/, and the
+ps1/translation/ and docs/, ru/GLOSSARY.md and ru/RELEASE_README.txt, and the
 README, BUILDING and CHANGELOG files - are licensed under the Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International license, reproduced below.
 
-Copyright (c) 2026 Luiz Perrella (pepa).
+Copyright (c) 2026 Luiz Perrella (pepa) - the English translation.
+Copyright (c) 2026 andruxaster - the Russian translation, an adaptation of it
+under the same license.
 
 This covers the English translation and the documentation only. Snatcher, its
 Japanese script, its graphics, music and voices are (c) Konami and are not

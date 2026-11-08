@@ -10,607 +10,853 @@
   {
    "off": 6003,
    "budget": 19,
-   "en": "Outside Altamira.",
-   "long": "We're outside Altamira."
+   "en": "Мы у \"Альтамиры\".",
+   "en_src": "Outside Altamira.",
+   "long_src": "We're outside Altamira.",
+   "ru": true
   },
   {
    "off": 6022,
    "budget": 45,
-   "en": "It's a famous meeting spot for￥couples."
+   "en": "Знаменитое место свиданий для￥парочек.",
+   "en_src": "It's a famous meeting spot for￥couples.",
+   "ru": true
   },
   {
    "off": 6067,
    "budget": 65,
-   "en": "Is Napoleon here? I only like being￥kept waiting by women."
+   "en": "Наполеон здесь? Ждать я готов только￥женщин.",
+   "en_src": "Is Napoleon here? I only like being￥kept waiting by women.",
+   "ru": true
   },
   {
    "off": 6132,
    "budget": 61,
-   "en": "Lots of young women here. Maybe I￥should try my luck."
+   "en": "Сколько тут девушек. Может, попытать￥счастья?",
+   "en_src": "Lots of young women here. Maybe I￥should try my luck.",
+   "ru": true
   },
   {
    "off": 6193,
    "budget": 49,
-   "en": "Please don't.￥The Chief will be angry.",
-   "long": "Please don't. The Chief will be￥angry if you waste time."
+   "en": ".",
+   "en_src": "Please don't.￥The Chief will be angry.",
+   "long_src": "Please don't. The Chief will be￥angry if you waste time.",
+   "ru": true,
+   "long": "Не надо. Шеф рассердится, если￥будешь бездельничать."
   },
   {
    "off": 6242,
    "budget": 85,
-   "en": "We're well past the meeting time.￥Napoleon may have gone home."
+   "en": "Время встречи давно прошло.￥Наполеон, наверное, ушёл.",
+   "en_src": "We're well past the meeting time.￥Napoleon may have gone home.",
+   "ru": true
   },
   {
    "off": 6327,
    "budget": 105,
-   "en": "There's no point waiting for￥Napoleon. He's probably left in a￥huff. Let's call him again."
+   "en": "Ждать Наполеона бесполезно.￥Наверняка ушёл в обиде. Позвоним ему￥ещё раз.",
+   "en_src": "There's no point waiting for￥Napoleon. He's probably left in a￥huff. Let's call him again.",
+   "ru": true
   },
   {
    "off": 6432,
    "budget": 55,
-   "en": "The man from the call is coming￥over. Is that him?"
+   "en": "К нам идёт мужчина со звонка. Это￥он?",
+   "en_src": "The man from the call is coming￥over. Is that him?",
+   "ru": true
   },
   {
    "off": 6487,
    "budget": 29,
-   "en": "Here's Napoleon."
+   "en": "А вот и Наполеон.",
+   "en_src": "Here's Napoleon.",
+   "ru": true
   },
   {
    "off": 6516,
    "budget": 45,
-   "en": "Hey, JUNKER. What is it this time?"
+   "en": "Здорово, ДЖАНКЕР. Что на этот раз?",
+   "en_src": "Hey, JUNKER. What is it this time?",
+   "ru": true
   },
   {
    "off": 6561,
    "budget": 15,
-   "en": "I want info.",
-   "long": "I need information."
+   "en": ".",
+   "en_src": "I want info.",
+   "long_src": "I need information.",
+   "ru": true,
+   "long": "Мне нужна информация."
   },
   {
    "off": 6576,
    "budget": 43,
-   "en": "Sure. As long as you pay."
+   "en": "Запросто. Были бы деньги.",
+   "en_src": "Sure. As long as you pay.",
+   "ru": true
   },
   {
    "off": 6619,
    "budget": 21,
-   "en": "Oh, you again?"
+   "en": "О, опять ты?",
+   "en_src": "Oh, you again?",
+   "ru": true
   },
   {
    "off": 6640,
    "budget": 33,
-   "en": "Napoleon, right?￥Help me out?",
-   "long": "You're Napoleon, right? I need your￥help."
+   "en": ".",
+   "en_src": "Napoleon, right?￥Help me out?",
+   "long_src": "You're Napoleon, right? I need your￥help.",
+   "ru": true,
+   "long": "Ты ведь Наполеон? Мне нужна твоя￥помощь."
   },
   {
    "off": 6673,
    "budget": 33,
-   "en": "Depends what, and￥how much...",
-   "long": "Depends on the job and the money."
+   "en": ".",
+   "en_src": "Depends what, and￥how much...",
+   "long_src": "Depends on the job and the money.",
+   "ru": true,
+   "long": "Смотря что за дело и сколько платят."
   },
   {
    "off": 6706,
    "budget": 25,
-   "en": "Sorry about last time."
+   "en": "Извини за прошлый раз.",
+   "en_src": "Sorry about last time.",
+   "ru": true
   },
   {
    "off": 6731,
    "budget": 25,
-   "en": "You owe me for that one.",
-   "long": "You'll have to make it up to me."
+   "en": "За тобой должок.",
+   "en_src": "You owe me for that one.",
+   "long_src": "You'll have to make it up to me.",
+   "ru": true
   },
   {
    "off": 6756,
    "budget": 19,
-   "en": "Here. Forget it.",
-   "long": "Will this help you forget it?"
+   "en": ".",
+   "en_src": "Here. Forget it.",
+   "long_src": "Will this help you forget it?",
+   "ru": true,
+   "long": "Может, это поможет забыть?"
   },
   {
    "off": 6775,
    "budget": 41,
-   "en": "All right. What do you want this￥time?"
+   "en": "Ладно. Что тебе нужно на этот раз?",
+   "en_src": "All right. What do you want this￥time?",
+   "ru": true
   },
   {
    "off": 6816,
    "budget": 67,
-   "en": "To meet Napoleon you must contact￥him by videophone first.",
-   "long": "You'll need to call Napoleon on the￥videophone before meeting him."
+   "en": ".",
+   "en_src": "To meet Napoleon you must contact￥him by videophone first.",
+   "long_src": "You'll need to call Napoleon on the￥videophone before meeting him.",
+   "ru": true,
+   "long": "Чтобы встретиться с Наполеоном,￥сначала позвони ему по видеофону."
   },
   {
    "off": 6883,
    "budget": 79,
-   "en": "If you want to meet Napoleon, you'll￥need to arrange it by videophone."
+   "en": "Если хочешь встретиться с￥Наполеоном, договорись по видеофону.",
+   "en_src": "If you want to meet Napoleon, you'll￥need to arrange it by videophone.",
+   "ru": true
   },
   {
    "off": 6962,
    "budget": 9,
-   "en": "Get in",
-   "long": "Board Tricycle"
+   "en": ".",
+   "en_src": "Get in",
+   "long_src": "Board Tricycle",
+   "ru": true,
+   "long": "Сесть в трицикл"
   },
   {
    "off": 6971,
    "budget": 5,
-   "en": "Look"
+   "en": ".",
+   "en_src": "Look",
+   "ru": true,
+   "long": "Осмотреть"
   },
   {
    "off": 6976,
    "budget": 3,
-   "en": "St",
-   "long": "Street"
+   "en": ".",
+   "en_src": "St",
+   "long_src": "Street",
+   "ru": true,
+   "long": "Улица"
   },
   {
    "off": 6979,
    "budget": 37,
-   "en": "Bustling in full Christmas mode.",
-   "long": "The place is full of Christmas￥cheer."
+   "en": "Всё вокруг дышит Рождеством.",
+   "en_src": "Bustling in full Christmas mode.",
+   "long_src": "The place is full of Christmas￥cheer.",
+   "ru": true
   },
   {
    "off": 7016,
    "budget": 55,
-   "en": "I love this time of year. It feels￥so warm."
+   "en": "Люблю это время года. Так тепло на￥душе.",
+   "en_src": "I love this time of year. It feels￥so warm.",
+   "ru": true
   },
   {
    "off": 7071,
    "budget": 45,
-   "en": "You're a romantic, Gillian."
+   "en": "Да ты романтик, Гиллиан.",
+   "en_src": "You're a romantic, Gillian.",
+   "ru": true
   },
   {
    "off": 7116,
    "budget": 15,
-   "en": "Well, yes..."
+   "en": "Ну, да...",
+   "en_src": "Well, yes...",
+   "ru": true
   },
   {
    "off": 7131,
    "budget": 33,
-   "en": "I thought you were just a creep."
+   "en": "А я думал, ты просто бабник.",
+   "en_src": "I thought you were just a creep.",
+   "ru": true
   },
   {
    "off": 7164,
    "budget": 15,
-   "en": "Now listen..."
+   "en": "Слушай-ка...",
+   "en_src": "Now listen...",
+   "ru": true
   },
   {
    "off": 7179,
    "budget": 7,
-   "en": "Neon",
-   "long": "Neon signs"
+   "en": "Неон",
+   "en_src": "Neon",
+   "long_src": "Neon signs",
+   "ru": true
   },
   {
    "off": 7186,
    "budget": 55,
-   "en": "Oh? PACHINKO lost its PA and￥left a rude word.",
-   "long": "The \"TAILS\" in that \"COCKTAILS\"￥sign has gone dark. That leaves a￥rude word."
+   "en": ".",
+   "en_src": "Oh? PACHINKO lost its PA and￥left a rude word.",
+   "long_src": "The \"TAILS\" in that \"COCKTAILS\"￥sign has gone dark. That leaves a￥rude word.",
+   "ru": true,
+   "long": "На вывеске \"ЧЛЕНСКИЙ КЛУБ\" погасло￥\"СКИЙ КЛУБ\". Осталось неприличное￥слово."
   },
   {
    "off": 7241,
    "budget": 21,
-   "en": "What does it say?"
+   "en": "И что там написано?",
+   "en_src": "What does it say?",
+   "ru": true
   },
   {
    "off": 7262,
    "budget": 37,
-   "en": "\"＠黄COCK＠白.\" Let's move on."
+   "en": "\"＠黄ЧЛЕН＠白\". Пойдём дальше.",
+   "en_src": "\"＠黄COCK＠白.\" Let's move on.",
+   "ru": true
   },
   {
    "off": 7299,
    "budget": 87,
-   "en": "So much neon! It's like the electric￥parade at Bee Land."
+   "en": "Сколько неона! Прямо электрический￥парад в \"Би-Ленде\".",
+   "en_src": "So much neon! It's like the electric￥parade at Bee Land.",
+   "ru": true
   },
   {
    "off": 7386,
    "budget": 17,
-   "en": "Ad display"
+   "en": "Рекл. экран",
+   "en_src": "Ad display",
+   "ru": true
   },
   {
    "off": 7403,
    "budget": 29,
-   "en": "Commercials of all kinds.",
-   "long": "All sorts of commercials are￥playing."
+   "en": "Крутят всякую рекламу.",
+   "en_src": "Commercials of all kinds.",
+   "long_src": "All sorts of commercials are￥playing.",
+   "ru": true
   },
   {
    "off": 7432,
    "budget": 49,
-   "en": "The town drowns in ads...￥and nobody watches.",
-   "long": "The city's full of ads, and nobody￥looks at them."
+   "en": "Город полон рекламы, а её никто не￥смотрит.",
+   "en_src": "The town drowns in ads...￥and nobody watches.",
+   "long_src": "The city's full of ads, and nobody￥looks at them.",
+   "ru": true
   },
   {
    "off": 7481,
    "budget": 17,
-   "en": "Shop window"
+   "en": "Витрина",
+   "en_src": "Shop window",
+   "ru": true
   },
   {
    "off": 7498,
    "budget": 37,
-   "en": "Year-end merchandise is on display.",
-   "long": "The windows are full of holiday￥merchandise."
+   "en": "В витринах праздничные товары.",
+   "en_src": "Year-end merchandise is on display.",
+   "long_src": "The windows are full of holiday￥merchandise.",
+   "ru": true
   },
   {
    "off": 7535,
    "budget": 55,
-   "en": "Lots of happy couples are admiring￥the displays."
+   "en": "Много счастливых парочек￥разглядывают витрины.",
+   "en_src": "Lots of happy couples are admiring￥the displays.",
+   "ru": true
   },
   {
    "off": 7590,
    "budget": 41,
-   "en": "Planning Christmas presents,￥no doubt?",
-   "long": "Talking about Christmas presents, I￥suppose."
+   "en": ".",
+   "en_src": "Planning Christmas presents,￥no doubt?",
+   "long_src": "Talking about Christmas presents, I￥suppose.",
+   "ru": true,
+   "long": "Обсуждают рождественские подарки,￥наверное."
   },
   {
    "off": 7631,
    "budget": 61,
-   "en": "How nice. I'd like a present too.￥What about you, Gillian?"
+   "en": "Как мило. Я бы тоже хотел подарок. А￥ты, Гиллиан?",
+   "en_src": "How nice. I'd like a present too.￥What about you, Gillian?",
+   "ru": true
   },
   {
    "off": 7692,
    "budget": 19,
-   "en": "So would I..."
+   "en": "И я бы хотел...",
+   "en_src": "So would I...",
+   "ru": true
   },
   {
    "off": 7711,
    "budget": 19,
-   "en": "What do you want?",
-   "long": "What would you like?"
+   "en": "А что бы ты хотел?",
+   "en_src": "What do you want?",
+   "long_src": "What would you like?",
+   "ru": true
   },
   {
    "off": 7730,
    "budget": 43,
-   "en": "A new Navigator. A beautiful, quiet￥one."
+   "en": ".",
+   "en_src": "A new Navigator. A beautiful, quiet￥one.",
+   "ru": true,
+   "long": "Нового навигатора. Красивого и￥молчаливого."
   },
   {
    "off": 7773,
    "budget": 13,
-   "en": "Passersby"
+   "en": "Прохожие",
+   "en_src": "Passersby",
+   "ru": true
   },
   {
    "off": 7786,
    "budget": 47,
-   "en": "The holiday rush. Everyone looks￥busy."
+   "en": "Предпраздничная суета. Все куда-то￥спешат.",
+   "en_src": "The holiday rush. Everyone looks￥busy.",
+   "ru": true
   },
   {
    "off": 7833,
    "budget": 35,
-   "en": "Many wait here to meet someone.",
-   "long": "Lots of people are waiting to meet￥someone."
+   "en": "Многие тут кого-то ждут.",
+   "en_src": "Many wait here to meet someone.",
+   "long_src": "Lots of people are waiting to meet￥someone.",
+   "ru": true
   },
   {
    "off": 7868,
    "budget": 55,
-   "en": "That woman seems to have been￥waiting for ages."
+   "en": "Вон та девушка, похоже, ждёт уже￥целую вечность.",
+   "en_src": "That woman seems to have been￥waiting for ages.",
+   "ru": true
   },
   {
    "off": 7923,
    "budget": 53,
-   "en": "For shame.￥Keeping a beauty like that waiting.",
-   "long": "How could anyone keep such a￥beautiful woman waiting?"
+   "en": "Как можно заставлять ждать такую￥красавицу?",
+   "en_src": "For shame.￥Keeping a beauty like that waiting.",
+   "long_src": "How could anyone keep such a￥beautiful woman waiting?",
+   "ru": true
   },
   {
    "off": 7976,
    "budget": 37,
-   "en": "He won't come.￥Stood up, surely.",
-   "long": "He's not coming. She's been stood￥up."
+   "en": "Он не придёт. Её продинамили.",
+   "en_src": "He won't come.￥Stood up, surely.",
+   "long_src": "He's not coming. She's been stood￥up.",
+   "ru": true
   },
   {
    "off": 8013,
    "budget": 33,
-   "en": "That's awful. Poor woman."
+   "en": "Какой ужас. Бедняжка.",
+   "en_src": "That's awful. Poor woman.",
+   "ru": true
   },
   {
    "off": 8046,
    "budget": 43,
-   "en": "Isn't it? I'll go talk to her."
+   "en": "Правда? Пойду с ней поговорю.",
+   "en_src": "Isn't it? I'll go talk to her.",
+   "ru": true
   },
   {
    "off": 8089,
    "budget": 23,
-   "en": "Gillian, wait!"
+   "en": "Гиллиан, постой!",
+   "en_src": "Gillian, wait!",
+   "ru": true
   },
   {
    "off": 8112,
    "budget": 29,
-   "en": "Wait here... back soon...",
-   "long": "Stay here. I'll be right back."
+   "en": "Жди здесь. Я мигом.",
+   "en_src": "Wait here... back soon...",
+   "long_src": "Stay here. I'll be right back.",
+   "ru": true
   },
   {
    "off": 8141,
    "budget": 31,
-   "en": "There he goes."
+   "en": "Ну вот, ушёл.",
+   "en_src": "There he goes.",
+   "ru": true
   },
   {
    "off": 8172,
    "budget": 35,
-   "en": "Oh, you're back. How did it go?"
+   "en": "О, вернулся. Ну как?",
+   "en_src": "Oh, you're back. How did it go?",
+   "ru": true
   },
   {
    "off": 8207,
    "budget": 43,
-   "en": "She gave me tissues. Three packs."
+   "en": "Она дала мне салфетки. Три пачки.",
+   "en_src": "She gave me tissues. Three packs.",
+   "ru": true
   },
   {
    "off": 8250,
    "budget": 103,
-   "en": "Oh, she was handing out samples.￥There's a videophone number here:￥＠黄55-6666＠白."
+   "en": "А, она раздавала образцы. Тут номер￥видеофона: ＠黄55-6666＠白.",
+   "en_src": "Oh, she was handing out samples.￥There's a videophone number here:￥＠黄55-6666＠白.",
+   "ru": true
   },
   {
    "off": 8353,
    "budget": 33,
-   "en": "It says \"Quiz Q2.\""
+   "en": "Написано: \"Квиз Q2\".",
+   "en_src": "It says \"Quiz Q2.\"",
+   "ru": true
   },
   {
    "off": 8386,
    "budget": 41,
-   "en": "Look, a street performer!"
+   "en": "Смотри, уличный артист!",
+   "en_src": "Look, a street performer!",
+   "ru": true
   },
   {
    "off": 8427,
    "budget": 25,
-   "en": "Let's take a quick look.",
-   "long": "Let's watch for a moment."
+   "en": "Давай посмотрим немного.",
+   "en_src": "Let's take a quick look.",
+   "long_src": "Let's watch for a moment.",
+   "ru": true
   },
   {
    "off": 8452,
    "budget": 31,
-   "en": "Yeah! I can breathe fire!"
+   "en": "Йе-е! Я выдыхаю огонь!",
+   "en_src": "Yeah! I can breathe fire!",
+   "ru": true
   },
   {
    "off": 8483,
    "budget": 17,
-   "en": "Wow, impressive."
+   "en": "Ух ты, здорово.",
+   "en_src": "Wow, impressive.",
+   "ru": true
   },
   {
    "off": 8500,
    "budget": 29,
-   "en": "Yeah! FIRE! Whoosh!"
+   "en": "Йе-е! ОГОНЬ! Ву-у-ух!",
+   "en_src": "Yeah! FIRE! Whoosh!",
+   "ru": true
   },
   {
    "off": 8529,
    "budget": 35,
-   "en": "Whoa! That's one powerful flame!"
+   "en": "Ого! Вот это пламя!",
+   "en_src": "Whoa! That's one powerful flame!",
+   "ru": true
   },
   {
    "off": 8564,
    "budget": 27,
-   "en": "It's dangerous. Let's go.",
-   "long": "This is dangerous. Let's go."
+   "en": "Это опасно. Пойдём.",
+   "en_src": "It's dangerous. Let's go.",
+   "long_src": "This is dangerous. Let's go.",
+   "ru": true
   },
   {
    "off": 8591,
    "budget": 27,
-   "en": "Aargh! Hot! It burns!"
+   "en": "А-а-а! Горячо! Жжёт!",
+   "en_src": "Aargh! Hot! It burns!",
+   "ru": true
   },
   {
    "off": 8618,
    "budget": 67,
-   "en": "Look! That performer is running down￥the street in flames!"
+   "en": "Смотри! Тот артист бежит по улице,￥весь в огне!",
+   "en_src": "Look! That performer is running down￥the street in flames!",
+   "ru": true
   },
   {
    "off": 8685,
    "budget": 63,
-   "en": "Quite a performance. I hope no kids￥copy him."
+   "en": "Ну и номер. Надеюсь, дети не станут￥повторять.",
+   "en_src": "Quite a performance. I hope no kids￥copy him.",
+   "ru": true
   },
   {
    "off": 8748,
    "budget": 33,
-   "en": "I think he really is on fire."
+   "en": "По-моему, он правда горит.",
+   "en_src": "I think he really is on fire.",
+   "ru": true
   },
   {
    "off": 8781,
    "budget": 23,
-   "en": "Woooo! Put me out!",
-   "long": "Aargh! Somebody put me out!"
+   "en": ".",
+   "en_src": "Woooo! Put me out!",
+   "long_src": "Aargh! Somebody put me out!",
+   "ru": true,
+   "long": "А-а-а! Потушите меня кто-нибудь!"
   },
   {
    "off": 8804,
    "budget": 7,
-   "en": "Teller",
-   "long": "Fortune teller"
+   "en": ".",
+   "en_src": "Teller",
+   "long_src": "Fortune teller",
+   "ru": true,
+   "long": "Гадалка"
   },
   {
    "off": 8811,
    "budget": 61,
-   "en": "A middle-aged woman sits there.￥It says 'retina reading'.",
-   "long": "A middle-aged woman is sitting￥there. Her sign says \"Retinal￥Fortune-Telling.\""
+   "en": ".",
+   "en_src": "A middle-aged woman sits there.￥It says 'retina reading'.",
+   "long_src": "A middle-aged woman is sitting￥there. Her sign says \"Retinal￥Fortune-Telling.\"",
+   "ru": true,
+   "long": "Там сидит женщина средних лет. На￥вывеске: \"Гадание по сетчатке\"."
   },
   {
    "off": 8872,
    "budget": 57,
-   "en": "A queue has formed.￥Is she accurate, I wonder?",
-   "long": "People are lining up for readings.￥Is she really that accurate?"
+   "en": "К ней очередь. Неужели она так￥хорошо гадает?",
+   "en_src": "A queue has formed.￥Is she accurate, I wonder?",
+   "long_src": "People are lining up for readings.￥Is she really that accurate?",
+   "ru": true
   },
   {
    "off": 8929,
    "budget": 7,
-   "en": "Check",
-   "long": "Investigate"
+   "en": ".",
+   "en_src": "Check",
+   "long_src": "Investigate",
+   "ru": true,
+   "long": "Обыскать"
   },
   {
    "off": 8936,
    "budget": 61,
-   "en": "Nothing unusual. From here, the city￥looks peaceful."
+   "en": "Ничего необычного. Отсюда город￥кажется мирным.",
+   "en_src": "Nothing unusual. From here, the city￥looks peaceful.",
+   "ru": true
   },
   {
    "off": 8997,
    "budget": 51,
-   "en": "Crowded, yet this season alone￥it stays orderly.",
-   "long": "Even with the crowds, people are￥orderly at this time of year."
+   "en": ".",
+   "en_src": "Crowded, yet this season alone￥it stays orderly.",
+   "long_src": "Even with the crowds, people are￥orderly at this time of year.",
+   "ru": true,
+   "long": "Хоть и толпа, но в это время года￥все ведут себя чинно."
   },
   {
    "off": 9048,
    "budget": 69,
-   "en": "Neon signs in every language.￥Like a neon exhibition.",
-   "long": "Neon signs in all sorts of￥languages. It's like a neon￥exhibition."
+   "en": "Неоновые вывески на всех языках.￥Прямо выставка неона.",
+   "en_src": "Neon signs in every language.￥Like a neon exhibition.",
+   "long_src": "Neon signs in all sorts of￥languages. It's like a neon￥exhibition.",
+   "ru": true
   },
   {
    "off": 9117,
    "budget": 35,
-   "en": "Too much neon to see the stars.",
-   "long": "All that neon drowns out the stars."
+   "en": "За неоном звёзд не видно.",
+   "en_src": "Too much neon to see the stars.",
+   "long_src": "All that neon drowns out the stars.",
+   "ru": true
   },
   {
    "off": 9152,
    "budget": 63,
-   "en": "Adverts of every kind.￥Watch closely, it's interesting.",
-   "long": "There's every kind of ad. They're￥interesting if you pay attention."
+   "en": "Тут любая реклама. Если￥присмотреться, интересно.",
+   "en_src": "Adverts of every kind.￥Watch closely, it's interesting.",
+   "long_src": "There's every kind of ad. They're￥interesting if you pay attention.",
+   "ru": true
   },
   {
    "off": 9215,
    "budget": 85,
-   "en": "Perhaps there's an ad for ＠黄Joy￥Division＠白, the shop Napoleon￥mentioned."
+   "en": ".",
+   "en_src": "Perhaps there's an ad for ＠黄Joy￥Division＠白, the shop Napoleon￥mentioned.",
+   "ru": true,
+   "long": "Может, тут есть реклама ＠黄\"Джой￥Дивижн\"＠白, магазина, о котором￥говорил Наполеон."
   },
   {
    "off": 9300,
    "budget": 43,
-   "en": "Most of the displays are holograms."
+   "en": "Почти все экраны голографические.",
+   "en_src": "Most of the displays are holograms.",
+   "ru": true
   },
   {
    "off": 9343,
    "budget": 31,
-   "en": "Oh, a lingerie display!"
+   "en": "О, витрина с бельём!",
+   "en_src": "Oh, a lingerie display!",
+   "ru": true
   },
   {
    "off": 9374,
    "budget": 11,
-   "en": "Where?!"
+   "en": "Где?!",
+   "en_src": "Where?!",
+   "ru": true
   },
   {
    "off": 9385,
    "budget": 37,
-   "en": "Over there, below that big sign."
+   "en": "Вон там, под большой вывеской.",
+   "en_src": "Over there, below that big sign.",
+   "ru": true
   },
   {
    "off": 9422,
    "budget": 59,
-   "en": "...What are you on about.￥Those are long johns!",
-   "long": "What are you talking about? Those￥are long johns! Honestly."
+   "en": "Ты о чём? Это же кальсоны! Честное￥слово.",
+   "en_src": "...What are you on about.￥Those are long johns!",
+   "long_src": "What are you talking about? Those￥are long johns! Honestly.",
+   "ru": true
   },
   {
    "off": 9481,
    "budget": 59,
-   "en": "No suspicious people. Just￥affectionate couples."
+   "en": "Подозрительных нет. Одни нежные￥парочки.",
+   "en_src": "No suspicious people. Just￥affectionate couples.",
+   "ru": true
   },
   {
    "off": 9540,
    "budget": 49,
-   "en": "Nothing unusual. A lively, peaceful￥crowd."
+   "en": "Ничего необычного. Шумно, но мирно.",
+   "en_src": "Nothing unusual. A lively, peaceful￥crowd.",
+   "ru": true
   },
   {
    "off": 9589,
    "budget": 97,
-   "en": "It says, \"5,000 credits per reading.￥No need to remove contact lenses!\""
+   "en": "Написано: \"5000 кредитов за сеанс.￥Контактные линзы можно не снимать!\"",
+   "en_src": "It says, \"5,000 credits per reading.￥No need to remove contact lenses!\"",
+   "ru": true
   },
   {
    "off": 9686,
    "budget": 47,
-   "en": "She just looks like an ordinary￥woman to me."
+   "en": "По-моему, обычная тётка.",
+   "en_src": "She just looks like an ordinary￥woman to me.",
+   "ru": true
   },
   {
    "off": 9733,
    "budget": 15,
-   "en": "Find Napoleon"
+   "en": "Где Наполеон?",
+   "en_src": "Find Napoleon",
+   "ru": true
   },
   {
    "off": 9748,
    "budget": 37,
-   "en": "Napoleon has already left."
+   "en": "Наполеон уже ушёл.",
+   "en_src": "Napoleon has already left.",
+   "ru": true
   },
   {
    "off": 9785,
    "budget": 41,
-   "en": "Napoleon only just left."
+   "en": "Наполеон ведь только что ушёл.",
+   "en_src": "Napoleon only just left.",
+   "ru": true
   },
   {
    "off": 9826,
    "budget": 45,
-   "en": "No one who looks like Napoleon￥around...",
-   "long": "I don't see anyone who looks like￥Napoleon."
+   "en": "Никого похожего на Наполеона не￥вижу.",
+   "en_src": "No one who looks like Napoleon￥around...",
+   "long_src": "I don't see anyone who looks like￥Napoleon.",
+   "ru": true
   },
   {
    "off": 9871,
    "budget": 77,
-   "en": "Napoleon doesn't seem to be here.￥Shall we wait a little longer?"
+   "en": "Наполеона тут, похоже, нет. Подождём￥ещё?",
+   "en_src": "Napoleon doesn't seem to be here.￥Shall we wait a little longer?",
+   "ru": true
   },
   {
    "off": 9948,
    "budget": 45,
-   "en": "You haven't contacted Napoleon yet."
+   "en": "Ты ещё не связался с Наполеоном.",
+   "en_src": "You haven't contacted Napoleon yet.",
+   "ru": true
   },
   {
    "off": 9993,
    "budget": 41,
-   "en": "No appointment with Napoleon yet?",
-   "long": "We haven't arranged to meet Napoleon￥yet."
+   "en": ".",
+   "en_src": "No appointment with Napoleon yet?",
+   "long_src": "We haven't arranged to meet Napoleon￥yet.",
+   "ru": true,
+   "long": "Мы ещё не договорились о встрече с￥Наполеоном."
   },
   {
    "off": 10034,
    "budget": 11,
-   "en": "Hit on her"
+   "en": "Подкатить",
+   "en_src": "Hit on her",
+   "ru": true
   },
   {
    "off": 10045,
    "budget": 9,
-   "en": "Fortune",
-   "long": "Get fortune told"
+   "en": "Погадать",
+   "en_src": "Fortune",
+   "long_src": "Get fortune told",
+   "ru": true
   },
   {
    "off": 10054,
    "budget": 5,
-   "en": "Item"
+   "en": ".",
+   "en_src": "Item",
+   "ru": true,
+   "long": "Предметы"
   },
   {
    "off": 10059,
    "budget": 15,
-   "en": "Use Metal Gear"
+   "en": "Позвать Метала",
+   "en_src": "Use Metal Gear",
+   "ru": true
   },
   {
    "off": 10074,
    "budget": 13,
-   "en": "Videophone"
+   "en": "Видеофон",
+   "en_src": "Videophone",
+   "ru": true
   },
   {
    "off": 10087,
    "budget": 11,
-   "en": "Save"
+   "en": "Сохранить",
+   "en_src": "Save",
+   "ru": true
   },
   {
    "off": 10098,
    "budget": 37,
-   "en": "I'll save your progress now."
+   "en": "Сохраняю ход расследования.",
+   "en_src": "I'll save your progress now.",
+   "ru": true
   },
   {
    "off": 10135,
    "budget": 21,
-   "en": "Oh! Look!"
+   "en": "Ой! Смотри!",
+   "en_src": "Oh! Look!",
+   "ru": true
   },
   {
    "off": 10156,
    "budget": 11,
-   "en": "What's up?",
-   "long": "What is it?"
+   "en": "Что такое?",
+   "en_src": "What's up?",
+   "long_src": "What is it?",
+   "ru": true
   },
   {
    "off": 10167,
    "budget": 45,
-   "en": "It's Jamie! She's with a man!"
+   "en": "Это Джейми! Она с мужчиной!",
+   "en_src": "It's Jamie! She's with a man!",
+   "ru": true
   },
   {
    "off": 10212,
    "budget": 25,
-   "en": "What?! Jamie!"
+   "en": "Что?! Джейми!",
+   "en_src": "What?! Jamie!",
+   "ru": true
   },
   {
    "off": 10237,
    "budget": 21,
-   "en": "And beside her...?",
-   "long": "Who's that beside her?"
+   "en": "Кто это рядом с ней?",
+   "en_src": "And beside her...?",
+   "long_src": "Who's that beside her?",
+   "ru": true
   },
   {
    "off": 10258,
    "budget": 13,
-   "en": "The Chief!"
+   "en": "Шеф!",
+   "en_src": "The Chief!",
+   "ru": true
   },
   {
    "off": 10271,
    "budget": 23,
-   "en": "It's... the Chief.",
-   "long": "Yes, that's definitely the Chief."
+   "en": "Да, это точно шеф.",
+   "en_src": "It's... the Chief.",
+   "long_src": "Yes, that's definitely the Chief.",
+   "ru": true
   },
   {
    "off": 10294,
@@ -620,1671 +866,2367 @@
   {
    "off": 10307,
    "budget": 27,
-   "en": "What's going on?"
+   "en": "Что происходит?",
+   "en_src": "What's going on?",
+   "ru": true
   },
   {
    "off": 10334,
    "budget": 41,
-   "en": "Aren't you going after them,￥Gillian?"
+   "en": "Ты не пойдёшь за ними, Гиллиан?",
+   "en_src": "Aren't you going after them,￥Gillian?",
+   "ru": true
   },
   {
    "off": 10375,
    "budget": 35,
-   "en": "Gillian? Oh, we've lost them."
+   "en": "Гиллиан? Ох, мы их упустили.",
+   "en_src": "Gillian? Oh, we've lost them.",
+   "ru": true
   },
   {
    "off": 10410,
    "budget": 49,
-   "en": "Jamie and the Chief are seeing each￥other?"
+   "en": "Джейми и шеф встречаются?",
+   "en_src": "Jamie and the Chief are seeing each￥other?",
+   "ru": true
   },
   {
    "off": 10459,
    "budget": 47,
-   "en": "Don't let it bother you, Gillian.￥All right?"
+   "en": "Не бери в голову, Гиллиан. Ладно?",
+   "en_src": "Don't let it bother you, Gillian.￥All right?",
+   "ru": true
   },
   {
    "off": 10506,
    "budget": 13,
-   "en": "No way..."
+   "en": "Не может...",
+   "en_src": "No way...",
+   "ru": true
   },
   {
    "off": 10519,
    "budget": 35,
-   "en": "Surely a mistake.￥...Yes?",
-   "long": "It must have been someone else.￥Right?"
+   "en": ".",
+   "en_src": "Surely a mistake.￥...Yes?",
+   "long_src": "It must have been someone else.￥Right?",
+   "ru": true,
+   "long": "Наверняка это был кто-то другой.￥Правда?"
   },
   {
    "off": 10554,
    "budget": 23,
-   "en": "I hope so."
+   "en": "Надеюсь.",
+   "en_src": "I hope so.",
+   "ru": true
   },
   {
    "off": 10577,
    "budget": 25,
-   "en": "Metal, tell no one.",
-   "long": "Don't tell anyone, Metal."
+   "en": "Никому не говори, Метал.",
+   "en_src": "Metal, tell no one.",
+   "long_src": "Don't tell anyone, Metal.",
+   "ru": true
   },
   {
    "off": 10602,
    "budget": 47,
-   "en": "Let's keep this between ourselves."
+   "en": "Пусть это останется между нами.",
+   "en_src": "Let's keep this between ourselves.",
+   "ru": true
   },
   {
    "off": 10649,
    "budget": 31,
-   "en": "How about picking up a woman?"
+   "en": "Может, подцепить девушку?",
+   "en_src": "How about picking up a woman?",
+   "ru": true
   },
   {
    "off": 10680,
    "budget": 25,
-   "en": "You're on duty, Gillian."
+   "en": "Ты на службе, Гиллиан.",
+   "en_src": "You're on duty, Gillian.",
+   "ru": true
   },
   {
    "off": 10705,
    "budget": 33,
-   "en": "Oh, she's pretty."
+   "en": "О, а она хорошенькая.",
+   "en_src": "Oh, she's pretty.",
+   "ru": true
   },
   {
    "off": 10738,
    "budget": 29,
-   "en": "Say, miss, join me for tea?",
-   "long": "Hey, would you like to get some￥coffee?"
+   "en": ".",
+   "en_src": "Say, miss, join me for tea?",
+   "long_src": "Hey, would you like to get some￥coffee?",
+   "ru": true,
+   "long": "Привет, не хочешь выпить кофе?"
   },
   {
    "off": 10767,
    "budget": 19,
-   "en": "What? No thanks!"
+   "en": "Что? Нет уж!",
+   "en_src": "What? No thanks!",
+   "ru": true
   },
   {
    "off": 10786,
    "budget": 15,
-   "en": "Ha ha ha."
+   "en": "Ха-ха-ха.",
+   "en_src": "Ha ha ha.",
+   "ru": true
   },
   {
    "off": 10801,
    "budget": 15,
-   "en": "That one next.",
-   "long": "I'll try her next."
+   "en": ".",
+   "en_src": "That one next.",
+   "long_src": "I'll try her next.",
+   "ru": true,
+   "long": "Теперь попробую с ней."
   },
   {
    "off": 10816,
    "budget": 45,
-   "en": "Gillian! I'll tell Jamie!"
+   "en": "Гиллиан! Я всё расскажу Джейми!",
+   "en_src": "Gillian! I'll tell Jamie!",
+   "ru": true
   },
   {
    "off": 10861,
    "budget": 47,
-   "en": "Hey! Haven't we met somewhere￥before?"
+   "en": "Эй! Мы раньше нигде не встречались?",
+   "en_src": "Hey! Haven't we met somewhere￥before?",
+   "ru": true
   },
   {
    "off": 10908,
    "budget": 19,
-   "en": "Yes. Just now!"
+   "en": "Да. Только что!",
+   "en_src": "Yes. Just now!",
+   "ru": true
   },
   {
    "off": 10927,
    "budget": 17,
-   "en": "Harsh."
+   "en": "Жёстко.",
+   "en_src": "Harsh.",
+   "ru": true
   },
   {
    "off": 10944,
    "budget": 21,
-   "en": "...Heh heh..."
+   "en": "...Хе-хе...",
+   "en_src": "...Heh heh...",
+   "ru": true
   },
   {
    "off": 10965,
    "budget": 27,
-   "en": "All right, I'll try her."
+   "en": "Ладно, попробую с ней.",
+   "en_src": "All right, I'll try her.",
+   "ru": true
   },
   {
    "off": 10992,
    "budget": 29,
-   "en": "Gillian! You never learn."
+   "en": ".",
+   "en_src": "Gillian! You never learn.",
+   "ru": true,
+   "long": "Гиллиан! Тебя ничему жизнь не учит."
   },
   {
    "off": 11021,
    "budget": 25,
-   "en": "Wait, miss!"
+   "en": "Постойте, девушка!",
+   "en_src": "Wait, miss!",
+   "ru": true
   },
   {
    "off": 11046,
    "budget": 19,
-   "en": "Yes?"
+   "en": "Да?",
+   "en_src": "Yes?",
+   "ru": true
   },
   {
    "off": 11065,
    "budget": 95,
-   "en": "Oh, sorry. My mistake. You look just￥like my late girlfriend."
+   "en": "Ой, простите. Обознался. Вы так￥похожи на мою покойную девушку.",
+   "en_src": "Oh, sorry. My mistake. You look just￥like my late girlfriend.",
+   "ru": true
   },
   {
    "off": 11160,
    "budget": 17,
-   "en": "Do I really?"
+   "en": "Правда?",
+   "en_src": "Do I really?",
+   "ru": true
   },
   {
    "off": 11177,
    "budget": 51,
-   "en": "Exactly like her. It brought back￥memories."
+   "en": "Как две капли воды. Нахлынули￥воспоминания.",
+   "en_src": "Exactly like her. It brought back￥memories.",
+   "ru": true
   },
   {
    "off": 11228,
    "budget": 17,
-   "en": "I see..."
+   "en": "Понятно...",
+   "en_src": "I see...",
+   "ru": true
   },
   {
    "off": 11245,
    "budget": 33,
-   "en": "(Good. She feels sorry for me.)"
+   "en": "(Отлично. Ей меня жалко.)",
+   "en_src": "(Good. She feels sorry for me.)",
+   "ru": true
   },
   {
    "off": 11278,
    "budget": 75,
-   "en": "Could I buy you dinner to make up￥for it? Only if you'd like to."
+   "en": "Можно угостить вас ужином в качестве￥извинения? Если хотите, конечно.",
+   "en_src": "Could I buy you dinner to make up￥for it? Only if you'd like to.",
+   "ru": true
   },
   {
    "off": 11353,
    "budget": 37,
-   "en": "I don't know. I'm not sure."
+   "en": "Даже не знаю. Не уверена.",
+   "en_src": "I don't know. I'm not sure.",
+   "ru": true
   },
   {
    "off": 11390,
    "budget": 25,
-   "en": "(Just a little more.)"
+   "en": "(Ещё чуть-чуть.)",
+   "en_src": "(Just a little more.)",
+   "ru": true
   },
   {
    "off": 11415,
    "budget": 23,
-   "en": "I have a date..."
+   "en": "У меня свидание...",
+   "en_src": "I have a date...",
+   "ru": true
   },
   {
    "off": 11438,
    "budget": 23,
-   "en": "Why not cancel?"
+   "en": "А если отменить?",
+   "en_src": "Why not cancel?",
+   "ru": true
   },
   {
    "off": 11461,
    "budget": 27,
-   "en": "All right. I will."
+   "en": "Ладно. Отменю.",
+   "en_src": "All right. I will.",
+   "ru": true
   },
   {
    "off": 11488,
    "budget": 13,
-   "en": "Gillian!"
+   "en": "Гиллиан!",
+   "en_src": "Gillian!",
+   "ru": true
   },
   {
    "off": 11501,
    "budget": 27,
-   "en": "What is it, Metal?"
+   "en": "Что такое, Метал?",
+   "en_src": "What is it, Metal?",
+   "ru": true
   },
   {
    "off": 11528,
    "budget": 21,
-   "en": "A word in your ear."
+   "en": "На пару слов.",
+   "en_src": "A word in your ear.",
+   "ru": true
   },
   {
    "off": 11549,
    "budget": 19,
-   "en": "What's going on?"
+   "en": "В чём дело?",
+   "en_src": "What's going on?",
+   "ru": true
   },
   {
    "off": 11568,
    "budget": 83,
-   "en": "My scan shows this woman has￥undergone gender reassignment￥surgery."
+   "en": "Мой скан показывает, что эта женщина￥перенесла операцию по смене пола.",
+   "en_src": "My scan shows this woman has￥undergone gender reassignment￥surgery.",
+   "ru": true
   },
   {
    "off": 11651,
    "budget": 13,
-   "en": "What?"
+   "en": "Что?",
+   "en_src": "What?",
+   "ru": true
   },
   {
    "off": 11664,
    "budget": 15,
-   "en": "Wrong?",
-   "long": "Is something wrong?"
+   "en": "Что-то не так?",
+   "en_src": "Wrong?",
+   "long_src": "Is something wrong?",
+   "ru": true
   },
   {
    "off": 11679,
    "budget": 73,
-   "en": "No, something urgent just came up.￥Sorry! Come on, Metal!"
+   "en": "Нет, просто срочное дело. Простите!￥Пошли, Метал!",
+   "en_src": "No, something urgent just came up.￥Sorry! Come on, Metal!",
+   "ru": true
   },
   {
    "off": 11752,
    "budget": 27,
-   "en": "That was close, wasn't it?"
+   "en": "Едва пронесло, да?",
+   "en_src": "That was close, wasn't it?",
+   "ru": true
   },
   {
    "off": 11779,
    "budget": 81,
-   "en": "Whew... it was. But should you be￥scanning civilians at will?",
-   "long": "Whew! It was. But are you allowed to￥scan ordinary citizens whenever you￥like?"
+   "en": ".",
+   "en_src": "Whew... it was. But should you be￥scanning civilians at will?",
+   "long_src": "Whew! It was. But are you allowed to￥scan ordinary citizens whenever you￥like?",
+   "ru": true,
+   "long": "Фух! Точно. Но разве тебе можно￥сканировать простых граждан когда￥вздумается?"
   },
   {
    "off": 11860,
    "budget": 61,
-   "en": "You caught me. You're right. I made￥it up."
+   "en": "Раскусил. Верно. Я всё выдумал.",
+   "en_src": "You caught me. You're right. I made￥it up.",
+   "ru": true
   },
   {
    "off": 11921,
    "budget": 25,
-   "en": "Made it up? Why, you...!"
+   "en": "Выдумал? Ах ты...!",
+   "en_src": "Made it up? Why, you...!",
+   "ru": true
   },
   {
    "off": 11946,
    "budget": 55,
-   "en": "Don't get angry. It's part of a￥Navigator's job."
+   "en": "Не злись. Это часть работы￥навигатора.",
+   "en_src": "Don't get angry. It's part of a￥Navigator's job.",
+   "ru": true
   },
   {
    "off": 12001,
    "budget": 39,
-   "en": "Right, that girl.￥The last resort.",
-   "long": "All right, her. Time for my last￥resort."
+   "en": ".",
+   "en_src": "Right, that girl.￥The last resort.",
+   "long_src": "All right, her. Time for my last￥resort.",
+   "ru": true,
+   "long": "Ладно, вон та. Пора пустить в ход￥последний козырь."
   },
   {
    "off": 12040,
    "budget": 17,
-   "en": "Gillian! Enough!"
+   "en": "Гиллиан! Хватит!",
+   "en_src": "Gillian! Enough!",
+   "ru": true
   },
   {
    "off": 12057,
    "budget": 33,
-   "en": "Excuse me. I'm a JUNKER."
+   "en": "Простите. Я ДЖАНКЕР.",
+   "en_src": "Excuse me. I'm a JUNKER.",
+   "ru": true
   },
   {
    "off": 12090,
    "budget": 41,
-   "en": "A JUNKER? What do you want?"
+   "en": "ДЖАНКЕР? Что вам нужно?",
+   "en_src": "A JUNKER? What do you want?",
+   "ru": true
   },
   {
    "off": 12131,
    "budget": 53,
-   "en": "There are reports of Snatchers in￥this area."
+   "en": "Поступают сообщения о снатчерах в￥этом районе.",
+   "en_src": "There are reports of Snatchers in￥this area.",
+   "ru": true
   },
   {
    "off": 12184,
    "budget": 17,
-   "en": "My, how scary..."
+   "en": "Ой, страшно...",
+   "en_src": "My, how scary...",
+   "ru": true
   },
   {
    "off": 12201,
    "budget": 53,
-   "en": "Exactly. So let me protect you."
+   "en": "Именно. Позвольте мне вас защитить.",
+   "en_src": "Exactly. So let me protect you.",
+   "ru": true
   },
   {
    "off": 12254,
    "budget": 37,
-   "en": "Me? I'm all right. I..."
+   "en": "Меня? Со мной всё в порядке. Я...",
+   "en_src": "Me? I'm all right. I...",
+   "ru": true
   },
   {
    "off": 12291,
    "budget": 33,
-   "en": "Don't be shy. It's my job."
+   "en": "Не стесняйтесь. Это моя работа.",
+   "en_src": "Don't be shy. It's my job.",
+   "ru": true
   },
   {
    "off": 12324,
    "budget": 21,
-   "en": "Really, I'm fine.",
-   "long": "I told you, I'm all right."
+   "en": ".",
+   "en_src": "Really, I'm fine.",
+   "long_src": "I told you, I'm all right.",
+   "ru": true,
+   "long": "Я же сказала, со мной всё в порядке."
   },
   {
    "off": 12345,
    "budget": 29,
-   "en": "That's what everyone thinks."
+   "en": "Все так думают.",
+   "en_src": "That's what everyone thinks.",
+   "ru": true
   },
   {
    "off": 12374,
    "budget": 35,
-   "en": "You don't understand. I am fine!",
-   "long": "You don't understand. I'm perfectly￥safe!"
+   "en": ".",
+   "en_src": "You don't understand. I am fine!",
+   "long_src": "You don't understand. I'm perfectly￥safe!",
+   "ru": true,
+   "long": "Вы не понимаете. Мне ничего не￥грозит!"
   },
   {
    "off": 12409,
    "budget": 11,
-   "en": "Why?"
+   "en": "Почему?",
+   "en_src": "Why?",
+   "ru": true
   },
   {
    "off": 12420,
    "budget": 33,
-   "en": "I've already been snatched!",
-   "long": "Because I've already been snatched!"
+   "en": "Потому что меня уже подменили!",
+   "en_src": "I've already been snatched!",
+   "long_src": "Because I've already been snatched!",
+   "ru": true
   },
   {
    "off": 12453,
    "budget": 23,
-   "en": "Gillian! Look out!"
+   "en": "Гиллиан! Берегись!",
+   "en_src": "Gillian! Look out!",
+   "ru": true
   },
   {
    "off": 12476,
    "budget": 31,
-   "en": "A Snatcher?! Aah!"
+   "en": "Снатчер?! А-а!",
+   "en_src": "A Snatcher?! Aah!",
+   "ru": true
   },
   {
    "off": 12507,
    "budget": 39,
-   "en": "＠赤GAME OVER＠白?"
+   "en": "＠赤КОНЕЦ ИГРЫ＠白?",
+   "en_src": "＠赤GAME OVER＠白?",
+   "ru": true
   },
   {
    "off": 12546,
    "budget": 43,
-   "en": "Gillian! Don't sleep there!"
+   "en": "Гиллиан! Не спи здесь!",
+   "en_src": "Gillian! Don't sleep there!",
+   "ru": true
   },
   {
    "off": 12589,
    "budget": 33,
-   "en": "Oh! A dream. Thank goodness."
+   "en": "Ох! Это был сон. Слава богу.",
+   "en_src": "Oh! A dream. Thank goodness.",
+   "ru": true
   },
   {
    "off": 12622,
    "budget": 25,
-   "en": "Back to the case, quick.",
-   "long": "Let's get back to the investigation."
+   "en": ".",
+   "en_src": "Back to the case, quick.",
+   "long_src": "Let's get back to the investigation.",
+   "ru": true,
+   "long": "Давай вернёмся к расследованию."
   },
   {
    "off": 12647,
    "budget": 35,
-   "en": "We're done, right? Can I go now?"
+   "en": "Мы закончили? Я могу идти?",
+   "en_src": "We're done, right? Can I go now?",
+   "ru": true
   },
   {
    "off": 12682,
    "budget": 29,
-   "en": "Can you let me go now?"
+   "en": "Может, отпустишь меня уже?",
+   "en_src": "Can you let me go now?",
+   "ru": true
   },
   {
    "off": 12711,
    "budget": 23,
-   "en": "Keep it short..."
+   "en": "Давай покороче...",
+   "en_src": "Keep it short...",
+   "ru": true
   },
   {
    "off": 12734,
    "budget": 37,
-   "en": "I'm busy. Get to the point."
+   "en": "Я занят. Ближе к делу.",
+   "en_src": "I'm busy. Get to the point.",
+   "ru": true
   },
   {
    "off": 12771,
    "budget": 17,
-   "en": "Let him go"
+   "en": "Отпустить",
+   "en_src": "Let him go",
+   "ru": true
   },
   {
    "off": 12788,
    "budget": 31,
-   "en": "That helped. Thanks."
+   "en": "Ты помог. Спасибо.",
+   "en_src": "That helped. Thanks.",
+   "ru": true
   },
   {
    "off": 12819,
    "budget": 27,
-   "en": "I owe you... till next.",
-   "long": "I owe you. I'll be in touch."
+   "en": ".",
+   "en_src": "I owe you... till next.",
+   "long_src": "I owe you. I'll be in touch.",
+   "ru": true,
+   "long": "Я твой должник. Буду на связи."
   },
   {
    "off": 12846,
    "budget": 15,
-   "en": "So long..."
+   "en": "Бывай...",
+   "en_src": "So long...",
+   "ru": true
   },
   {
    "off": 12861,
    "budget": 21,
-   "en": "Call me again..."
+   "en": "Зови ещё...",
+   "en_src": "Call me again...",
+   "ru": true
   },
   {
    "off": 12882,
    "budget": 53,
-   "en": "You didn't even ask anything! What a￥waste of time!"
+   "en": ".",
+   "en_src": "You didn't even ask anything! What a￥waste of time!",
+   "ru": true,
+   "long": "Ты даже ничего не спросил! Только￥время зря потратил!"
   },
   {
    "off": 12935,
    "budget": 51,
-   "en": "Done already? What a cheapskate! I'm￥a busy man."
+   "en": "Уже всё? Вот скряга! Я человек￥занятой.",
+   "en_src": "Done already? What a cheapskate! I'm￥a busy man.",
+   "ru": true
   },
   {
    "off": 12986,
    "budget": 29,
-   "en": "No luck... thanks anyway.",
-   "long": "No luck, then. Thanks anyway."
+   "en": ".",
+   "en_src": "No luck... thanks anyway.",
+   "long_src": "No luck, then. Thanks anyway.",
+   "ru": true,
+   "long": "Значит, ничего. Всё равно спасибо."
   },
   {
    "off": 13015,
    "budget": 31,
-   "en": "You can go. Sorry about that."
+   "en": "Можешь идти. Извини.",
+   "en_src": "You can go. Sorry about that.",
+   "ru": true
   },
   {
    "off": 13046,
    "budget": 31,
-   "en": "It's not much, but take it."
+   "en": "Немного, но возьми.",
+   "en_src": "It's not much, but take it.",
+   "ru": true
   },
   {
    "off": 13077,
    "budget": 47,
-   "en": "Sorry I couldn't help. See you."
+   "en": "Жаль, что не помог. Бывай.",
+   "en_src": "Sorry I couldn't help. See you.",
+   "ru": true
   },
   {
    "off": 13124,
    "budget": 57,
-   "en": "Was that enough? Call me if you need￥anything."
+   "en": "Этого хватит? Если что - зови.",
+   "en_src": "Was that enough? Call me if you need￥anything.",
+   "ru": true
   },
   {
    "off": 13181,
    "budget": 11,
-   "en": "Napoleon"
+   "en": "Наполеон",
+   "en_src": "Napoleon",
+   "ru": true
   },
   {
    "off": 13192,
    "budget": 35,
-   "en": "Napoleon, though he's Chinese.",
-   "long": "Despite the name Napoleon, he￥appears to be Chinese."
+   "en": "Хоть и Наполеон, а с виду китаец.",
+   "en_src": "Napoleon, though he's Chinese.",
+   "long_src": "Despite the name Napoleon, he￥appears to be Chinese.",
+   "ru": true
   },
   {
    "off": 13227,
    "budget": 61,
-   "en": "What? Stop staring. I don't like￥being watched."
+   "en": "Чего? Не пялься. Не люблю, когда на￥меня смотрят.",
+   "en_src": "What? Stop staring. I don't like￥being watched.",
+   "ru": true
   },
   {
    "off": 13288,
    "budget": 41,
-   "en": "Don't you know the￥rules of this trade?",
-   "long": "Don't you know how things work in￥this business?"
+   "en": ".",
+   "en_src": "Don't you know the￥rules of this trade?",
+   "long_src": "Don't you know how things work in￥this business?",
+   "ru": true,
+   "long": "Ты что, не знаешь, как дела делаются￥в нашем бизнесе?"
   },
   {
    "off": 13329,
    "budget": 31,
-   "en": "Hey! Planning to frisk me?!",
-   "long": "Hey! Are you trying to investigate￥me?!"
+   "en": ".",
+   "en_src": "Hey! Planning to frisk me?!",
+   "long_src": "Hey! Are you trying to investigate￥me?!",
+   "ru": true,
+   "long": "Эй! Ты что, меня обыскивать￥собрался?!"
   },
   {
    "off": 13360,
    "budget": 19,
-   "en": "Hands off me!",
-   "long": "Keep your hands off me!"
+   "en": "Руки прочь!",
+   "en_src": "Hands off me!",
+   "long_src": "Keep your hands off me!",
+   "ru": true
   },
   {
    "off": 13379,
    "budget": 43,
-   "en": "I said stop! Haven't you got any￥manners?"
+   "en": "Я сказал, хватит! Совсем манер нет?",
+   "en_src": "I said stop! Haven't you got any￥manners?",
+   "ru": true
   },
   {
    "off": 13422,
    "budget": 5,
-   "en": "Talk"
+   "en": ".",
+   "en_src": "Talk",
+   "ru": true,
+   "long": "Говорить"
   },
   {
    "off": 13427,
    "budget": 9,
-   "en": "My name",
-   "long": "Introduce myself"
+   "en": ".",
+   "en_src": "My name",
+   "long_src": "Introduce myself",
+   "ru": true,
+   "long": "Представиться"
   },
   {
    "off": 13436,
    "budget": 57,
-   "en": "I'm Gillian Seed, the new JUNKER."
+   "en": "Я Гиллиан Сид, новый ДЖАНКЕР.",
+   "en_src": "I'm Gillian Seed, the new JUNKER.",
+   "ru": true
   },
   {
    "off": 13493,
    "budget": 59,
-   "en": "I'm not on Liquid Sky. Once is￥enough."
+   "en": "Я не на \"Ликвид Скай\". Одного раза￥хватит.",
+   "en_src": "I'm not on Liquid Sky. Once is￥enough.",
+   "ru": true
   },
   {
    "off": 13552,
    "budget": 55,
-   "en": "I heard you! I know your name. It's￥a nice name."
+   "en": "Слышал я! Знаю, как тебя зовут.￥Хорошее имя.",
+   "en_src": "I heard you! I know your name. It's￥a nice name.",
+   "ru": true
   },
   {
    "off": 13607,
    "budget": 45,
-   "en": "Oh? Another man in a hurry to die."
+   "en": "Вот как? Ещё один торопится на тот￥свет.",
+   "en_src": "Oh? Another man in a hurry to die.",
+   "ru": true
   },
   {
    "off": 13652,
    "budget": 13,
-   "en": "About Gibson"
+   "en": "О Гибсоне",
+   "en_src": "About Gibson",
+   "ru": true
   },
   {
    "off": 13665,
    "budget": 73,
-   "en": "If they got old Gibson, the world's￥done. Time I changed trades.",
-   "long": "If they got Gibson, we're all in￥trouble. Maybe it's time to change￥jobs."
+   "en": "Если уж Гибсона убрали, всем нам￥худо. Может, пора менять работу.",
+   "en_src": "If they got old Gibson, the world's￥done. Time I changed trades.",
+   "long_src": "If they got Gibson, we're all in￥trouble. Maybe it's time to change￥jobs.",
+   "ru": true
   },
   {
    "off": 13738,
    "budget": 63,
-   "en": "Gibson did a lot for me. He was a￥good cop."
+   "en": "Гибсон много для меня сделал.￥Хороший был коп.",
+   "en_src": "Gibson did a lot for me. He was a￥good cop.",
+   "ru": true
   },
   {
    "off": 13801,
    "budget": 59,
-   "en": "A Snatcher killed Gibson. Do you￥know anything about it?"
+   "en": "Гибсона убил снатчер. Знаешь￥что-нибудь?",
+   "en_src": "A Snatcher killed Gibson. Do you￥know anything about it?",
+   "ru": true
   },
   {
    "off": 13860,
    "budget": 97,
-   "en": "They got Gibson? He said the￥Snatchers were after him. I could be￥in danger too."
+   "en": "Гибсона убрали? Он говорил, что￥снатчеры за ним охотятся. Значит, и￥мне грозит опасность.",
+   "en_src": "They got Gibson? He said the￥Snatchers were after him. I could be￥in danger too.",
+   "ru": true
   },
   {
    "off": 13957,
    "budget": 9,
-   "en": "Arrest",
-   "long": "About the arrest"
+   "en": ".",
+   "en_src": "Arrest",
+   "long_src": "About the arrest",
+   "ru": true,
+   "long": "Об аресте"
   },
   {
    "off": 13966,
    "budget": 37,
-   "en": "This is a pain. Let's arrest him!"
+   "en": "Морока какая. Давай его арестуем!",
+   "en_src": "This is a pain. Let's arrest him!",
+   "ru": true
   },
   {
    "off": 14003,
    "budget": 33,
-   "en": "A shady one.￥Haul him in?!",
-   "long": "He's suspicious. Shall we haul him￥in?"
+   "en": ".",
+   "en_src": "A shady one.￥Haul him in?!",
+   "long_src": "He's suspicious. Shall we haul him￥in?",
+   "ru": true,
+   "long": "Подозрительный тип. Может, загребём￥его?"
   },
   {
    "off": 14036,
    "budget": 5,
-   "en": "Ask"
+   "en": ".",
+   "en_src": "Ask",
+   "ru": true,
+   "long": "Спросить"
   },
   {
    "off": 14041,
    "budget": 15,
-   "en": "About Napoleon"
+   "en": "О Наполеоне",
+   "en_src": "About Napoleon",
+   "ru": true
   },
   {
    "off": 14056,
    "budget": 71,
-   "en": "Maybe someday I'll tell you why they￥call me Napoleon."
+   "en": "Может, когда-нибудь расскажу, почему￥меня зовут Наполеоном.",
+   "en_src": "Maybe someday I'll tell you why they￥call me Napoleon.",
+   "ru": true
   },
   {
    "off": 14127,
    "budget": 71,
-   "en": "To survive in this business, never￥sell information about yourself."
+   "en": "Чтобы выжить в этом деле, никогда не￥продавай сведения о себе.",
+   "en_src": "To survive in this business, never￥sell information about yourself.",
+   "ru": true
   },
   {
    "off": 14198,
    "budget": 61,
-   "en": "Why ask about me? Informants don't￥reveal their identities."
+   "en": "Зачем спрашивать обо мне?￥Информаторы себя не раскрывают.",
+   "en_src": "Why ask about me? Informants don't￥reveal their identities.",
+   "ru": true
   },
   {
    "off": 14259,
    "budget": 47,
-   "en": "Notice anything about Gibson lately?",
-   "long": "Did you notice anything unusual￥about Gibson lately?"
+   "en": ".",
+   "en_src": "Notice anything about Gibson lately?",
+   "long_src": "Did you notice anything unusual￥about Gibson lately?",
+   "ru": true,
+   "long": "Ты не замечал в последнее время￥ничего странного за Гибсоном?"
   },
   {
    "off": 14306,
    "budget": 55,
-   "en": "Who knows? He hadn't contacted me in￥a while."
+   "en": "Кто знает? Он давно со мной не￥связывался.",
+   "en_src": "Who knows? He hadn't contacted me in￥a while.",
+   "ru": true
   },
   {
    "off": 14361,
    "budget": 85,
-   "en": "He seemed to have an important lead￥on the Snatchers, but he wouldn't￥tell me."
+   "en": "Похоже, у него была важная зацепка￥по снатчерам, но мне он не сказал.",
+   "en_src": "He seemed to have an important lead￥on the Snatchers, but he wouldn't￥tell me.",
+   "ru": true
   },
   {
    "off": 14446,
    "budget": 43,
-   "en": "Knowing the old man...￥he caught a lead.",
-   "long": "Knowing him, he must have found￥something."
+   "en": "Зная его, он точно что-то нашёл.",
+   "en_src": "Knowing the old man...￥he caught a lead.",
+   "long_src": "Knowing him, he must have found￥something.",
+   "ru": true
   },
   {
    "off": 14489,
    "budget": 33,
-   "en": "What's happened to old Gibson?",
-   "long": "Has something happened to Gibson?"
+   "en": "С Гибсоном что-то случилось?",
+   "en_src": "What's happened to old Gibson?",
+   "long_src": "Has something happened to Gibson?",
+   "ru": true
   },
   {
    "off": 14522,
    "budget": 11,
-   "en": "Whale food",
-   "long": "Whale restaurant"
+   "en": ".",
+   "en_src": "Whale food",
+   "long_src": "Whale restaurant",
+   "ru": true,
+   "long": "Китовый ресторан"
   },
   {
    "off": 14533,
    "budget": 55,
-   "en": "Sorry, the only whale place I know￥is Outer Heaven...",
-   "long": "Sorry. Outer Heaven's the only place￥I know that serves whale meat."
+   "en": ".",
+   "en_src": "Sorry, the only whale place I know￥is Outer Heaven...",
+   "long_src": "Sorry. Outer Heaven's the only place￥I know that serves whale meat.",
+   "ru": true,
+   "long": "Извини. Китовое мясо подают только в￥\"Аутер Хэвен\", других мест не знаю."
   },
   {
    "off": 14588,
    "budget": 49,
-   "en": "The one shop in Neo Kobe City￥serving whale.",
-   "long": "The only place in Neo Kobe City that￥serves whale meat."
+   "en": ".",
+   "en_src": "The one shop in Neo Kobe City￥serving whale.",
+   "long_src": "The only place in Neo Kobe City that￥serves whale meat.",
+   "ru": true,
+   "long": "Единственное место в Нео-Кобе, где￥подают китовое мясо."
   },
   {
    "off": 14637,
    "budget": 107,
-   "en": "A costume pub called ＠赤OUTER HEAVEN＠白.￥I'm pretty sure they serve whale￥meat."
+   "en": "Костюмированный паб ＠赤\"Аутер Хэвен\"＠白.￥Уверен, там подают китовое мясо.",
+   "en_src": "A costume pub called ＠赤OUTER HEAVEN＠白.￥I'm pretty sure they serve whale￥meat.",
+   "ru": true
   },
   {
    "off": 14744,
    "budget": 59,
-   "en": "Gibson ate whale meat somewhere￥before he was killed."
+   "en": "Перед смертью Гибсон где-то ел￥китовое мясо.",
+   "en_src": "Gibson ate whale meat somewhere￥before he was killed.",
+   "ru": true
   },
   {
    "off": 14803,
    "budget": 35,
-   "en": "So you're retracing his steps."
+   "en": "Значит, идёшь по его следам.",
+   "en_src": "So you're retracing his steps.",
+   "ru": true
   },
   {
    "off": 14838,
    "budget": 33,
-   "en": "Know a place that serves whale?",
-   "long": "Do you know a place that serves￥whale meat?"
+   "en": ".",
+   "en_src": "Know a place that serves whale?",
+   "long_src": "Do you know a place that serves￥whale meat?",
+   "ru": true,
+   "long": "Знаешь место, где подают китовое￥мясо?"
   },
   {
    "off": 14871,
    "budget": 67,
-   "en": "Nobody touches whale meat since that￥whaling ban came in."
+   "en": ".",
+   "en_src": "Nobody touches whale meat since that￥whaling ban came in.",
+   "ru": true,
+   "long": "С тех пор как запретили китобойный￥промысел, никто китов не трогает."
   },
   {
    "off": 14938,
    "budget": 59,
-   "en": "I might know something, but I'll￥need to be paid."
+   "en": "Может, кое-что и знаю, но за это￥надо заплатить.",
+   "en_src": "I might know something, but I'll￥need to be paid.",
+   "ru": true
   },
   {
    "off": 14997,
    "budget": 75,
-   "en": "This is a business, you know. You'll￥have to make it worth my while."
+   "en": "Это бизнес, сам понимаешь. Придётся￥раскошелиться.",
+   "en_src": "This is a business, you know. You'll￥have to make it worth my while.",
+   "ru": true
   },
   {
    "off": 15072,
    "budget": 51,
-   "en": "That's a sudden question. What￥happened?"
+   "en": "Неожиданный вопрос. Что стряслось?",
+   "en_src": "That's a sudden question. What￥happened?",
+   "ru": true
   },
   {
    "off": 15123,
    "budget": 57,
-   "en": "First, tell me a little about the￥case."
+   "en": "Сначала расскажи немного о деле.",
+   "en_src": "First, tell me a little about the￥case.",
+   "ru": true
   },
   {
    "off": 15180,
    "budget": 17,
-   "en": "Outer Heaven"
+   "en": "\"Аутер Хэвен\"",
+   "en_src": "Outer Heaven",
+   "ru": true
   },
   {
    "off": 15197,
    "budget": 7,
-   "en": "Shop",
-   "long": "About the club"
+   "en": ".",
+   "en_src": "Shop",
+   "long_src": "About the club",
+   "ru": true,
+   "long": "О клубе"
   },
   {
    "off": 15204,
    "budget": 75,
-   "en": "You need a mask from ＠赤JOY DIVISION＠白￥to get in."
+   "en": "Туда не пустят без маски из ＠赤\"Джой￥Дивижн\"＠白.",
+   "en_src": "You need a mask from ＠赤JOY DIVISION＠白￥to get in.",
+   "ru": true
   },
   {
    "off": 15279,
    "budget": 79,
-   "en": "It's a hideaway pub.￥Whatever you do, don't let on you're￥a JUNKER.",
-   "long": "People go there to stay anonymous.￥Whatever you do, don't say you're a￥JUNKER."
+   "en": ".",
+   "en_src": "It's a hideaway pub.￥Whatever you do, don't let on you're￥a JUNKER.",
+   "long_src": "People go there to stay anonymous.￥Whatever you do, don't say you're a￥JUNKER.",
+   "ru": true,
+   "long": "Туда ходят, чтобы остаться￥неузнанными. Только ни в коем случае￥не говори, что ты ДЖАНКЕР."
   },
   {
    "off": 15358,
    "budget": 31,
-   "en": "Get made, and￥you're dead.",
-   "long": "If they find out, you might not get￥out alive."
+   "en": ".",
+   "en_src": "Get made, and￥you're dead.",
+   "long_src": "If they find out, you might not get￥out alive.",
+   "ru": true,
+   "long": "Если узнают, можешь не выйти оттуда￥живым."
   },
   {
    "off": 15389,
    "budget": 27,
-   "en": "Go see for yourself."
+   "en": "Сходи и посмотри сам.",
+   "en_src": "Go see for yourself.",
+   "ru": true
   },
   {
    "off": 15416,
    "budget": 9,
-   "en": "Location",
-   "long": "Club location"
+   "en": "Где клуб",
+   "en_src": "Location",
+   "long_src": "Club location",
+   "ru": true
   },
   {
    "off": 15425,
    "budget": 53,
-   "en": "Don't make me repeat myself.￥My info isn't cheap.",
-   "long": "Don't make me repeat myself. My￥information isn't cheap."
+   "en": "Не заставляй меня повторять. Мои￥сведения недёшевы.",
+   "en_src": "Don't make me repeat myself.￥My info isn't cheap.",
+   "long_src": "Don't make me repeat myself. My￥information isn't cheap.",
+   "ru": true
   },
   {
    "off": 15478,
    "budget": 27,
-   "en": "HS district, street 17.",
-   "long": "It's on 17th Street in the HS￥district."
+   "en": "На 17-й улице в районе HS.",
+   "en_src": "HS district, street 17.",
+   "long_src": "It's on 17th Street in the HS￥district.",
+   "ru": true
   },
   {
    "off": 15505,
    "budget": 65,
-   "en": "This is a business. You'll have to￥pay a little more."
+   "en": "Это бизнес. Придётся доплатить.",
+   "en_src": "This is a business. You'll have to￥pay a little more.",
+   "ru": true
   },
   {
    "off": 15570,
    "budget": 29,
-   "en": "Famous, in certain circles.",
-   "long": "It's well known in those circles."
+   "en": ".",
+   "en_src": "Famous, in certain circles.",
+   "long_src": "It's well known in those circles.",
+   "ru": true,
+   "long": "В определённых кругах это известное￥место."
   },
   {
    "off": 15599,
    "budget": 83,
-   "en": "A costume pub. At cosplay time￥even customers can't enter￥without make-up.",
-   "long": "It's a costume pub. During costume￥hours, even customers need a￥disguise to get in."
+   "en": "Это костюмированный паб. В костюмные￥часы даже гостей без маскировки не￥пускают.",
+   "en_src": "A costume pub. At cosplay time￥even customers can't enter￥without make-up.",
+   "long_src": "It's a costume pub. During costume￥hours, even customers need a￥disguise to get in.",
+   "ru": true
   },
   {
    "off": 15682,
    "budget": 55,
-   "en": "So VIPs of every field￥turn up there, they say.",
-   "long": "That's why it attracts quite a few￥VIPs from all walks of life."
+   "en": ".",
+   "en_src": "So VIPs of every field￥turn up there, they say.",
+   "long_src": "That's why it attracts quite a few￥VIPs from all walks of life.",
+   "ru": true,
+   "long": "Поэтому туда захаживает немало￥VIP-персон из самых разных кругов."
   },
   {
    "off": 15737,
    "budget": 17,
-   "en": "Joy Division"
+   "en": "\"Джой Дивижн\"",
+   "en_src": "Joy Division",
+   "ru": true
   },
   {
    "off": 15754,
    "budget": 63,
-   "en": "A black market, but they've got￥everything. Quite the stock.",
-   "long": "It's a black market, but they've got￥everything. Quite a selection."
+   "en": "Это чёрный рынок, но там есть всё.￥Выбор что надо.",
+   "en_src": "A black market, but they've got￥everything. Quite the stock.",
+   "long_src": "It's a black market, but they've got￥everything. Quite a selection.",
+   "ru": true
   },
   {
    "off": 15817,
    "budget": 53,
-   "en": "No permit needed, so a rough place,￥mind.",
-   "long": "No permits needed, so it can get a￥little dangerous."
+   "en": "Разрешений не нужно, так что там￥бывает опасно.",
+   "en_src": "No permit needed, so a rough place,￥mind.",
+   "long_src": "No permits needed, so it can get a￥little dangerous.",
+   "ru": true
   },
   {
    "off": 15870,
    "budget": 61,
-   "en": "Where is it? There are signs all￥over. Find it yourself."
+   "en": "Где? Там вывески повсюду. Найди сам.",
+   "en_src": "Where is it? There are signs all￥over. Find it yourself.",
+   "ru": true
   },
   {
    "off": 15931,
    "budget": 33,
-   "en": "...Playing hard to get?",
-   "long": "You're making a big mystery of it."
+   "en": "Напускаешь же ты таинственности.",
+   "en_src": "...Playing hard to get?",
+   "long_src": "You're making a big mystery of it.",
+   "ru": true
   },
   {
    "off": 15964,
    "budget": 41,
-   "en": "Hmph. Take a look around."
+   "en": "Хм. Оглянись вокруг.",
+   "en_src": "Hmph. Take a look around.",
+   "ru": true
   },
   {
    "off": 16005,
    "budget": 63,
-   "en": "Their ads are everywhere. Pay￥attention and you'll see one."
+   "en": "Их реклама повсюду. Будь внимателен￥- увидишь.",
+   "en_src": "Their ads are everywhere. Pay￥attention and you'll see one.",
+   "ru": true
   },
   {
    "off": 16068,
    "budget": 69,
-   "en": "They probably run ads on the Dynamic￥Giga Monitor here."
+   "en": "Наверное, и на здешнем Динамическом￥гигамониторе их крутят.",
+   "en_src": "They probably run ads on the Dynamic￥Giga Monitor here.",
+   "ru": true
   },
   {
    "off": 16137,
    "budget": 63,
-   "en": "A black market, no permit.￥It stocks everything.",
-   "long": "A black market where you can shop￥without a permit. They say it has￥everything."
+   "en": ".",
+   "en_src": "A black market, no permit.￥It stocks everything.",
+   "long_src": "A black market where you can shop￥without a permit. They say it has￥everything.",
+   "ru": true,
+   "long": "Чёрный рынок, где можно покупать без￥разрешения. Говорят, там есть всё."
   },
   {
    "off": 16200,
    "budget": 47,
-   "en": "Didn't Gibson go there often?"
+   "en": "Гибсон ведь часто туда ходил?",
+   "en_src": "Didn't Gibson go there often?",
+   "ru": true
   },
   {
    "off": 16247,
    "budget": 37,
-   "en": "You might find a lead there."
+   "en": "Может, найдёшь там зацепку.",
+   "en_src": "You might find a lead there.",
+   "ru": true
   },
   {
    "off": 16284,
    "budget": 17,
-   "en": "Liquid Sky"
+   "en": "\"Ликвид Скай\"",
+   "en_src": "Liquid Sky",
+   "ru": true
   },
   {
    "off": 16301,
    "budget": 91,
-   "en": "The drug going round the city.￥A neuro-LSD strain, a strong￥tripper, eats the nerves.",
-   "long": "A popular drug in the city. It's a￥powerful hallucinogen, a type of￥neuro-LSD that damages the nervous￥system."
+   "en": ".",
+   "en_src": "The drug going round the city.￥A neuro-LSD strain, a strong￥tripper, eats the nerves.",
+   "long_src": "A popular drug in the city. It's a￥powerful hallucinogen, a type of￥neuro-LSD that damages the nervous￥system.",
+   "ru": true,
+   "long": "Модная в городе наркота. Сильный￥галлюциноген, разновидность￥нейро-ЛСД, разрушает нервную￥систему."
   },
   {
    "off": 16392,
    "budget": 43,
-   "en": "Here Mister Big runs the trade.",
-   "long": "Mr. Big controls the trade on this￥island."
+   "en": ".",
+   "en_src": "Here Mister Big runs the trade.",
+   "long_src": "Mr. Big controls the trade on this￥island.",
+   "ru": true,
+   "long": "На этом острове торговлю держит￥Мистер Биг."
   },
   {
    "off": 16435,
    "budget": 59,
-   "en": "I've never dealt it.￥Once you start on that, you're done.",
-   "long": "I've never touched the stuff. Once￥you start, you're finished."
+   "en": "Я к этой дряни не прикасался. Раз￥начнёшь - тебе конец.",
+   "en_src": "I've never dealt it.￥Once you start on that, you're done.",
+   "long_src": "I've never touched the stuff. Once￥you start, you're finished.",
+   "ru": true
   },
   {
    "off": 16494,
    "budget": 17,
-   "en": "Mister Big"
+   "en": "Мистер Биг",
+   "en_src": "Mister Big",
+   "ru": true
   },
   {
    "off": 16511,
    "budget": 89,
-   "en": "I can't answer that. Nobody in my￥line of work will tell you."
+   "en": "На это я не отвечу. Никто в моём￥деле тебе не скажет.",
+   "en_src": "I can't answer that. Nobody in my￥line of work will tell you.",
+   "ru": true
   },
   {
    "off": 16600,
    "budget": 49,
-   "en": "You're a JUNKER, not FBI, right?"
+   "en": "Ты ведь ДЖАНКЕР, а не ФБР?",
+   "en_src": "You're a JUNKER, not FBI, right?",
+   "ru": true
   },
   {
    "off": 16649,
    "budget": 49,
-   "en": "Best not poke your nose￥that far in.",
-   "long": "Don't stick your nose too far into￥that business."
+   "en": "Не суй нос слишком глубоко в эти￥дела.",
+   "en_src": "Best not poke your nose￥that far in.",
+   "long_src": "Don't stick your nose too far into￥that business.",
+   "ru": true
   },
   {
    "off": 16698,
    "budget": 75,
-   "en": "Why ask? Want the Mafia and the￥Snatchers after you at once?"
+   "en": ".",
+   "en_src": "Why ask? Want the Mafia and the￥Snatchers after you at once?",
+   "ru": true,
+   "long": "Зачем спрашиваешь? Хочешь, чтобы за￥тобой гонялись и мафия, и снатчеры￥разом?"
   },
   {
    "off": 16773,
    "budget": 7,
-   "en": "Show"
+   "en": ".",
+   "en_src": "Show",
+   "ru": true,
+   "long": "Показать"
   },
   {
    "off": 16780,
    "budget": 15,
-   "en": "JUNKER ID"
+   "en": "Удостоверение",
+   "en_src": "JUNKER ID",
+   "ru": true
   },
   {
    "off": 16795,
    "budget": 57,
-   "en": "For your own sake, don't flash that￥around here."
+   "en": "Ради твоего же блага не свети этим￥тут.",
+   "en_src": "For your own sake, don't flash that￥around here.",
+   "ru": true
   },
   {
    "off": 16852,
    "budget": 39,
-   "en": "Hmph. So you're the real thing."
+   "en": "Хм. Значит, ты настоящий.",
+   "en_src": "Hmph. So you're the real thing.",
+   "ru": true
   },
   {
    "off": 16891,
    "budget": 43,
-   "en": "That rustbucket, though.￥It stands out.",
-   "long": "That junk heap of yours really￥stands out, though."
+   "en": ".",
+   "en_src": "That rustbucket, though.￥It stands out.",
+   "long_src": "That junk heap of yours really￥stands out, though.",
+   "ru": true,
+   "long": "Только твоя железяка слишком￥бросается в глаза."
   },
   {
    "off": 16934,
    "budget": 37,
-   "en": "Anyone can tell you're a JUNKER."
+   "en": "Любой поймёт, что ты ДЖАНКЕР.",
+   "en_src": "Anyone can tell you're a JUNKER.",
+   "ru": true
   },
   {
    "off": 16971,
    "budget": 17,
-   "en": "＠赤Hey!＠白"
+   "en": "＠赤Эй!＠白",
+   "en_src": "＠赤Hey!＠白",
+   "ru": true
   },
   {
    "off": 16988,
    "budget": 25,
-   "en": "So what do you want?"
+   "en": "Так что тебе нужно?",
+   "en_src": "So what do you want?",
+   "ru": true
   },
   {
    "off": 17013,
    "budget": 7,
-   "en": "Funds"
+   "en": "Деньги",
+   "en_src": "Funds",
+   "ru": true
   },
   {
    "off": 17020,
    "budget": 35,
-   "en": "Cheapskate. Just showing it off?"
+   "en": "Скряга. Только показать пришёл?",
+   "en_src": "Cheapskate. Just showing it off?",
+   "ru": true
   },
   {
    "off": 17055,
    "budget": 43,
-   "en": "Oh? You've got quite a bit there."
+   "en": "О? А ты при деньгах.",
+   "en_src": "Oh? You've got quite a bit there.",
+   "ru": true
   },
   {
    "off": 17098,
    "budget": 23,
-   "en": "So, what do you want?",
-   "long": "What do you want to know?"
+   "en": "Что ты хочешь узнать?",
+   "en_src": "So, what do you want?",
+   "long_src": "What do you want to know?",
+   "ru": true
   },
   {
    "off": 17121,
    "budget": 23,
-   "en": "You have money..."
+   "en": "Деньги у тебя есть...",
+   "en_src": "You have money...",
+   "ru": true
   },
   {
    "off": 17144,
    "budget": 33,
-   "en": "You've got quite a bit there."
+   "en": "А ты при деньгах.",
+   "en_src": "You've got quite a bit there.",
+   "ru": true
   },
   {
    "off": 17177,
    "budget": 51,
-   "en": "First prove who you are. Then we can￥do business."
+   "en": "Сначала докажи, кто ты. Потом￥поговорим о деле.",
+   "en_src": "First prove who you are. Then we can￥do business.",
+   "ru": true
   },
   {
    "off": 17228,
    "budget": 5,
-   "en": "Drop",
-   "long": "Candy"
+   "en": ".",
+   "en_src": "Drop",
+   "long_src": "Candy",
+   "ru": true,
+   "long": "Леденец"
   },
   {
    "off": 17233,
    "budget": 27,
-   "en": "That's Gibson's candy."
+   "en": "Это леденец Гибсона.",
+   "en_src": "That's Gibson's candy.",
+   "ru": true
   },
   {
    "off": 17260,
    "budget": 33,
-   "en": "He was always kind to kids."
+   "en": "Он всегда был добр к детям.",
+   "en_src": "He was always kind to kids.",
+   "ru": true
   },
   {
    "off": 17293,
    "budget": 29,
-   "en": "He's always kind to kids."
+   "en": "Он всегда добр к детям.",
+   "en_src": "He's always kind to kids.",
+   "ru": true
   },
   {
    "off": 17322,
    "budget": 7,
-   "en": "Proof",
-   "long": "Evidence"
+   "en": "Улики",
+   "en_src": "Proof",
+   "long_src": "Evidence",
+   "ru": true
   },
   {
    "off": 17329,
    "budget": 7,
-   "en": "Paper",
-   "long": "Scrap of paper"
+   "en": ".",
+   "en_src": "Paper",
+   "long_src": "Scrap of paper",
+   "ru": true,
+   "long": "Клочок бумаги"
   },
   {
    "off": 17336,
    "budget": 51,
-   "en": "\"Search the house!\"? No idea."
+   "en": "\"Обыщи дом!\"? Без понятия.",
+   "en_src": "\"Search the house!\"? No idea.",
+   "ru": true
   },
   {
    "off": 17387,
    "budget": 61,
-   "en": "It was Gibson's message. He wanted￥us to search his house."
+   "en": ".",
+   "en_src": "It was Gibson's message. He wanted￥us to search his house.",
+   "ru": true,
+   "long": "Это было послание Гибсона. Он хотел,￥чтобы мы обыскали его дом."
   },
   {
    "off": 17448,
    "budget": 25,
-   "en": "Oh, I see."
+   "en": "А, вот оно что.",
+   "en_src": "Oh, I see.",
+   "ru": true
   },
   {
    "off": 17473,
    "budget": 55,
-   "en": "\"Search the house!\" A riddle.￥Typical Gibson."
+   "en": "\"Обыщи дом!\" Загадка. Вполне в духе￥Гибсона.",
+   "en_src": "\"Search the house!\" A riddle.￥Typical Gibson.",
+   "ru": true
   },
   {
    "off": 17528,
    "budget": 33,
-   "en": "\"Search the house!\" Whose house?"
+   "en": "\"Обыщи дом!\" Чей дом?",
+   "en_src": "\"Search the house!\" Whose house?",
+   "ru": true
   },
   {
    "off": 17561,
    "budget": 5,
-   "en": "Key"
+   "en": "Ключ",
+   "en_src": "Key",
+   "ru": true
   },
   {
    "off": 17566,
    "budget": 23,
-   "en": "Never seen that key."
+   "en": "Не видал этот ключ.",
+   "en_src": "Never seen that key.",
+   "ru": true
   },
   {
    "off": 17589,
    "budget": 31,
-   "en": "It's the key to Gibson's desk."
+   "en": "Это ключ от стола Гибсона.",
+   "en_src": "It's the key to Gibson's desk.",
+   "ru": true
   },
   {
    "off": 17620,
    "budget": 37,
-   "en": "I thought it might be."
+   "en": "Я так и думал.",
+   "en_src": "I thought it might be.",
+   "ru": true
   },
   {
    "off": 17657,
    "budget": 61,
-   "en": "Gibson liked antiques."
+   "en": "Гибсон любил антиквариат.",
+   "en_src": "Gibson liked antiques.",
+   "ru": true
   },
   {
    "off": 17718,
    "budget": 13,
-   "en": "Key to what?",
-   "long": "What does it open?"
+   "en": ".",
+   "en_src": "Key to what?",
+   "long_src": "What does it open?",
+   "ru": true,
+   "long": "Что он открывает?"
   },
   {
    "off": 17731,
    "budget": 3,
-   "en": "Pc",
-   "long": "Chess piece"
+   "en": ".",
+   "en_src": "Pc",
+   "long_src": "Chess piece",
+   "ru": true,
+   "long": "Шахматная фигура"
   },
   {
    "off": 17734,
    "budget": 15,
-   "en": "What's that?"
+   "en": "Это что?",
+   "en_src": "What's that?",
+   "ru": true
   },
   {
    "off": 17749,
    "budget": 29,
-   "en": "Gibson was carrying it."
+   "en": "Она была у Гибсона.",
+   "en_src": "Gibson was carrying it.",
+   "ru": true
   },
   {
    "off": 17778,
    "budget": 31,
-   "en": "That sounds like him."
+   "en": "Похоже на него.",
+   "en_src": "That sounds like him.",
+   "ru": true
   },
   {
    "off": 17809,
    "budget": 9,
-   "en": "Disk"
+   "en": "Диск",
+   "en_src": "Disk",
+   "ru": true
   },
   {
    "off": 17818,
    "budget": 33,
-   "en": "What's on the disk?"
+   "en": "Что на дискете?",
+   "en_src": "What's on the disk?",
+   "ru": true
   },
   {
    "off": 17851,
    "budget": 31,
-   "en": "What Gibson was chasing...",
-   "long": "The case Gibson was investigating."
+   "en": ".",
+   "en_src": "What Gibson was chasing...",
+   "long_src": "The case Gibson was investigating.",
+   "ru": true,
+   "long": "Дело, которое расследовал Гибсон."
   },
   {
    "off": 17882,
    "budget": 47,
-   "en": "I see. So he kept a record."
+   "en": "Ясно. Значит, он всё записывал.",
+   "en_src": "I see. So he kept a record.",
+   "ru": true
   },
   {
    "off": 17929,
    "budget": 37,
-   "en": "His obsession, on a disk...",
-   "long": "He put everything he had into that￥disk."
+   "en": ".",
+   "en_src": "His obsession, on a disk...",
+   "long_src": "He put everything he had into that￥disk.",
+   "ru": true,
+   "long": "Он вложил в эту дискету всё, что￥имел."
   },
   {
    "off": 17966,
    "budget": 11,
-   "en": "Sunblock"
+   "en": ".",
+   "en_src": "Sunblock",
+   "ru": true,
+   "long": "Защитный крем"
   },
   {
    "off": 17977,
    "budget": 37,
-   "en": "Sunscreen? What does that mean?"
+   "en": "Солнцезащитный крем? Что это значит?",
+   "en_src": "Sunscreen? What does that mean?",
+   "ru": true
   },
   {
    "off": 18014,
    "budget": 31,
-   "en": "It concerns the Snatchers.",
-   "long": "It's connected to the Snatchers."
+   "en": "Он связан со снатчерами.",
+   "en_src": "It concerns the Snatchers.",
+   "long_src": "It's connected to the Snatchers.",
+   "ru": true
   },
   {
    "off": 18045,
    "budget": 27,
-   "en": "Sunscreen, huh?"
+   "en": "Крем от загара, значит?",
+   "en_src": "Sunscreen, huh?",
+   "ru": true
   },
   {
    "off": 18072,
    "budget": 31,
-   "en": "...Nothing to do with me.",
-   "long": "Never had much use for it myself."
+   "en": "Мне он как-то ни к чему.",
+   "en_src": "...Nothing to do with me.",
+   "long_src": "Never had much use for it myself.",
+   "ru": true
   },
   {
    "off": 18103,
    "budget": 25,
-   "en": "In this cold? What for?",
-   "long": "What's that for in this cold?"
+   "en": "Зачем он в такой холод?",
+   "en_src": "In this cold? What for?",
+   "long_src": "What's that for in this cold?",
+   "ru": true
   },
   {
    "off": 18128,
    "budget": 5,
-   "en": "Pic",
-   "long": "Photo"
+   "en": "Фото",
+   "en_src": "Pic",
+   "long_src": "Photo",
+   "ru": true
   },
   {
    "off": 18133,
    "budget": 15,
-   "en": "Gibson's photo"
+   "en": "Фото Гибсона",
+   "en_src": "Gibson's photo",
+   "ru": true
   },
   {
    "off": 18148,
    "budget": 43,
-   "en": "Poor Gibson. He was still young."
+   "en": "Бедняга Гибсон. Он был ещё молод.",
+   "en_src": "Poor Gibson. He was still young.",
+   "ru": true
   },
   {
    "off": 18191,
    "budget": 33,
-   "en": "Isn't that Gibson?"
+   "en": "Это же Гибсон?",
+   "en_src": "Isn't that Gibson?",
+   "ru": true
   },
   {
    "off": 18224,
    "budget": 17,
-   "en": "Montage photo"
+   "en": "Фоторобот",
+   "en_src": "Montage photo",
+   "ru": true
   },
   {
    "off": 18241,
    "budget": 27,
-   "en": "Who's that?￥No idea...",
-   "long": "Who's that? Never seen him."
+   "en": "Кто это? Впервые вижу.",
+   "en_src": "Who's that?￥No idea...",
+   "long_src": "Who's that? Never seen him.",
+   "ru": true
   },
   {
    "off": 18268,
    "budget": 23,
-   "en": "Never seen the man..."
+   "en": "Не видал такого...",
+   "en_src": "Never seen the man...",
+   "ru": true
   },
   {
    "off": 18291,
    "budget": 7,
-   "en": "Mask"
+   "en": "Маска",
+   "en_src": "Mask",
+   "ru": true
   },
   {
    "off": 18298,
    "budget": 33,
-   "en": "That's for Outer Heaven, right?"
+   "en": "Это для \"Аутер Хэвен\", да?",
+   "en_src": "That's for Outer Heaven, right?",
+   "ru": true
   },
   {
    "off": 18331,
    "budget": 27,
-   "en": "Why carry that about?",
-   "long": "What are you doing with that?"
+   "en": "Зачем тебе такое?",
+   "en_src": "Why carry that about?",
+   "long_src": "What are you doing with that?",
+   "ru": true
   },
   {
    "off": 18358,
    "budget": 5,
-   "en": "Use"
+   "en": ".",
+   "en_src": "Use",
+   "ru": true,
+   "long": "Использовать"
   },
   {
    "off": 18363,
    "budget": 55,
-   "en": "We have the information.￥No need to pay.",
-   "long": "We have the information we need.￥There's no need to pay."
+   "en": "Нужные сведения мы получили. Платить￥незачем.",
+   "en_src": "We have the information.￥No need to pay.",
+   "long_src": "We have the information we need.￥There's no need to pay.",
+   "ru": true
   },
   {
    "off": 18418,
    "budget": 29,
-   "en": "No need for more.",
-   "long": "That's enough. No need for more."
+   "en": "Хватит. Больше не нужно.",
+   "en_src": "No need for more.",
+   "long_src": "That's enough. No need for more.",
+   "ru": true
   },
   {
    "off": 18447,
    "budget": 25,
-   "en": "Greedy bastard. Take it!"
+   "en": "Жадюга. Бери!",
+   "en_src": "Greedy bastard. Take it!",
+   "ru": true
   },
   {
    "off": 18472,
    "budget": 57,
-   "en": "Heh, much obliged.￥You'll make a fine JUNKER.",
-   "long": "Heh, thanks for your business.￥You'll make a fine JUNKER."
+   "en": ".",
+   "en_src": "Heh, much obliged.￥You'll make a fine JUNKER.",
+   "long_src": "Heh, thanks for your business.￥You'll make a fine JUNKER.",
+   "ru": true,
+   "long": "Хе, приятно иметь дело. Из тебя￥выйдет отличный ДЖАНКЕР."
   },
   {
    "off": 18529,
    "budget": 35,
-   "en": "Please spend the money wisely."
+   "en": "Трать деньги с умом.",
+   "en_src": "Please spend the money wisely.",
+   "ru": true
   },
   {
    "off": 18564,
    "budget": 13,
-   "en": "Take it!"
+   "en": "Бери!",
+   "en_src": "Take it!",
+   "ru": true
   },
   {
    "off": 18577,
    "budget": 21,
-   "en": "Heh, much obliged.",
-   "long": "Heh, thanks for your business."
+   "en": ".",
+   "en_src": "Heh, much obliged.",
+   "long_src": "Heh, thanks for your business.",
+   "ru": true,
+   "long": "Хе, приятно иметь дело."
   },
   {
    "off": 18598,
    "budget": 59,
-   "en": "Spend without cause and they'll￥call it wasted taxes!",
-   "long": "Keep throwing money away and they'll￥accuse us of wasting taxes again!"
+   "en": ".",
+   "en_src": "Spend without cause and they'll￥call it wasted taxes!",
+   "long_src": "Keep throwing money away and they'll￥accuse us of wasting taxes again!",
+   "ru": true,
+   "long": "Будешь так сорить деньгами - нас￥опять обвинят в растрате налогов!"
   },
   {
    "off": 18657,
    "budget": 75,
-   "en": "With these things it's all￥in when you pay.￥Or you get bled dry.",
-   "long": "Timing matters when you pay him.￥Otherwise, he'll just keep taking￥your money."
+   "en": "С ним важно, когда платить. Иначе он￥будет только тянуть из тебя деньги.",
+   "en_src": "With these things it's all￥in when you pay.￥Or you get bled dry.",
+   "long_src": "Timing matters when you pay him.￥Otherwise, he'll just keep taking￥your money.",
+   "ru": true
   },
   {
    "off": 18732,
    "budget": 51,
-   "en": "I think you should show your JUNKER￥ID first."
+   "en": ".",
+   "en_src": "I think you should show your JUNKER￥ID first.",
+   "ru": true,
+   "long": "По-моему, сначала стоит показать￥удостоверение ДЖАНКЕРа."
   },
   {
    "off": 18783,
    "budget": 45,
-   "en": "Show Napoleon your JUNKER ID."
+   "en": "Покажи Наполеону удостоверение￥ДЖАНКЕРа.",
+   "en_src": "Show Napoleon your JUNKER ID.",
+   "ru": true
   },
   {
    "off": 18828,
    "budget": 23,
-   "en": "Shut up, shorty!"
+   "en": "Заткнись, мелкий!",
+   "en_src": "Shut up, shorty!",
+   "ru": true
   },
   {
    "off": 18851,
    "budget": 23,
-   "en": "Keep quiet, robot!"
+   "en": "Молчи, робот!",
+   "en_src": "Keep quiet, robot!",
+   "ru": true
   },
   {
    "off": 18874,
    "budget": 27,
-   "en": "He's gone."
+   "en": "Ушёл.",
+   "en_src": "He's gone.",
+   "ru": true
   },
   {
    "off": 18901,
    "budget": 33,
-   "en": "Napoleon has left."
+   "en": "Наполеон ушёл.",
+   "en_src": "Napoleon has left.",
+   "ru": true
   },
   {
    "off": 18934,
    "budget": 57,
-   "en": "Fine... I'm off. Ridiculous!!￥Who has time for this!",
-   "long": "Fine, I'm leaving! This is￥ridiculous. I haven't got time for￥this!"
+   "en": "Ладно, я ухожу! Это смешно. Нет у￥меня на это времени!",
+   "en_src": "Fine... I'm off. Ridiculous!!￥Who has time for this!",
+   "long_src": "Fine, I'm leaving! This is￥ridiculous. I haven't got time for￥this!",
+   "ru": true
   },
   {
    "off": 18991,
    "budget": 23,
-   "en": "Knock it off!"
+   "en": "Хватит уже!",
+   "en_src": "Knock it off!",
+   "ru": true
   },
   {
    "off": 19014,
    "budget": 23,
-   "en": "Joke on, I'll be mad!!",
-   "long": "Keep fooling around and you'll make￥me angry!"
+   "en": ".",
+   "en_src": "Joke on, I'll be mad!!",
+   "long_src": "Keep fooling around and you'll make￥me angry!",
+   "ru": true,
+   "long": "Будешь валять дурака - я разозлюсь!"
   },
   {
    "off": 19037,
    "budget": 29,
-   "en": "Ah, a street fortune teller.",
-   "long": "Look, a street fortune-teller."
+   "en": "Смотри, уличная гадалка.",
+   "en_src": "Ah, a street fortune teller.",
+   "long_src": "Look, a street fortune-teller.",
+   "ru": true
   },
   {
    "off": 19066,
    "budget": 53,
-   "en": "A teller...￥People always cling to something.",
-   "long": "A fortune-teller. People always need￥something to believe in."
+   "en": "Гадалка. Людям всегда нужно во￥что-то верить.",
+   "en_src": "A teller...￥People always cling to something.",
+   "long_src": "A fortune-teller. People always need￥something to believe in.",
+   "ru": true
   },
   {
    "off": 19119,
    "budget": 37,
-   "en": "That 'retina reading' you mention?",
-   "long": "What's this retinal fortune-telling￥you keep mentioning?"
+   "en": ".",
+   "en_src": "That 'retina reading' you mention?",
+   "long_src": "What's this retinal fortune-telling￥you keep mentioning?",
+   "ru": true,
+   "long": "Что за гадание по сетчатке, о￥котором ты всё твердишь?"
   },
   {
    "off": 19156,
    "budget": 45,
-   "en": "Fortunes read from the￥retina pattern.",
-   "long": "They read your retinal pattern to￥predict your future."
+   "en": "По рисунку сетчатки предсказывают￥будущее.",
+   "en_src": "Fortunes read from the￥retina pattern.",
+   "long_src": "They read your retinal pattern to￥predict your future.",
+   "ru": true
   },
   {
    "off": 19201,
    "budget": 73,
-   "en": "The pattern of blood vessels on the￥retina is unique to each person."
+   "en": "Рисунок сосудов на сетчатке у￥каждого человека уникален.",
+   "en_src": "The pattern of blood vessels on the￥retina is unique to each person.",
+   "ru": true
   },
   {
    "off": 19274,
    "budget": 77,
-   "en": "The patterns are classed like￥palmistry, and your fortune￥read off them.",
-   "long": "They classify those patterns to￥predict your fortune, much like palm￥reading."
+   "en": "Эти рисунки классифицируют и по ним￥гадают, как по ладони.",
+   "en_src": "The patterns are classed like￥palmistry, and your fortune￥read off them.",
+   "long_src": "They classify those patterns to￥predict your fortune, much like palm￥reading.",
+   "ru": true
   },
   {
    "off": 19351,
    "budget": 19,
-   "en": "Fortune by retina?",
-   "long": "My future in my retina, huh?"
+   "en": ".",
+   "en_src": "Fortune by retina?",
+   "long_src": "My future in my retina, huh?",
+   "ru": true,
+   "long": "Моё будущее - в сетчатке?"
   },
   {
    "off": 19370,
    "budget": 35,
-   "en": "Why not have yours read, Gillian?",
-   "long": "Why don't you get a reading,￥Gillian?"
+   "en": "Может, и тебе погадать, Гиллиан?",
+   "en_src": "Why not have yours read, Gillian?",
+   "long_src": "Why don't you get a reading,￥Gillian?",
+   "ru": true
   },
   {
    "off": 19405,
    "budget": 51,
-   "en": "Hold on. Show me your JUNKER ID￥first."
+   "en": "Погоди. Сначала покажи удостоверение￥ДЖАНКЕРа.",
+   "en_src": "Hold on. Show me your JUNKER ID￥first.",
+   "ru": true
   },
   {
    "off": 19456,
    "budget": 35,
-   "en": "Show me your JUNKER ID."
+   "en": "Покажи удостоверение ДЖАНКЕРа.",
+   "en_src": "Show me your JUNKER ID.",
+   "ru": true
   },
   {
    "off": 19491,
    "budget": 37,
-   "en": "Show the JUNKER ID or I'm off!!",
-   "long": "Show me your JUNKER ID or I'm￥leaving!"
+   "en": ".",
+   "en_src": "Show the JUNKER ID or I'm off!!",
+   "long_src": "Show me your JUNKER ID or I'm￥leaving!",
+   "ru": true,
+   "long": "Покажи удостоверение ДЖАНКЕРа, или я￥ухожу!"
   },
   {
    "off": 19528,
    "budget": 69,
-   "en": "This ID confirms all your authority￥as a JUNKER. Keep it safe."
+   "en": ".",
+   "en_src": "This ID confirms all your authority￥as a JUNKER. Keep it safe.",
+   "ru": true,
+   "long": "Удостоверение, подтверждающее все￥твои полномочия ДЖАНКЕРа. Береги￥его."
   },
   {
    "off": 19597,
    "budget": 35,
-   "en": "The money issued to you by JUNKER."
+   "en": "Деньги, выданные тебе ДЖАНКЕРом.",
+   "en_src": "The money issued to you by JUNKER.",
+   "ru": true
   },
   {
    "off": 19632,
    "budget": 35,
-   "en": "The candy from Jean's pocket."
+   "en": "Леденец из кармана Жана.",
+   "en_src": "The candy from Jean's pocket.",
+   "ru": true
   },
   {
    "off": 19667,
    "budget": 79,
-   "en": "Gibson's memo on where the￥computer data on the Snatcher￥weakness is kept.",
-   "long": "Gibson's note tells us where to find￥his computer data on the Snatchers'￥weakness."
+   "en": "Записка Гибсона подсказывает, где￥его данные о слабости снатчеров.",
+   "en_src": "Gibson's memo on where the￥computer data on the Snatcher￥weakness is kept.",
+   "long_src": "Gibson's note tells us where to find￥his computer data on the Snatchers'￥weakness.",
+   "ru": true
   },
   {
    "off": 19746,
    "budget": 45,
-   "en": "What does \"Search the house!\" mean?"
+   "en": "Что значит \"Обыщи дом!\"?",
+   "en_src": "What does \"Search the house!\" mean?",
+   "ru": true
   },
   {
    "off": 19791,
    "budget": 33,
-   "en": "The key to Gibson's desk drawer."
+   "en": "Ключ от ящика стола Гибсона.",
+   "en_src": "The key to Gibson's desk drawer.",
+   "ru": true
   },
   {
    "off": 19824,
    "budget": 33,
-   "en": "Quite an antique."
+   "en": "Настоящий антиквариат.",
+   "en_src": "Quite an antique.",
+   "ru": true
   },
   {
    "off": 19857,
    "budget": 37,
-   "en": "The chess piece Gibson was carrying."
+   "en": ".",
+   "en_src": "The chess piece Gibson was carrying.",
+   "ru": true,
+   "long": "Шахматная фигура, что была у￥Гибсона."
   },
   {
    "off": 19894,
    "budget": 45,
-   "en": "The chess piece we found in Gibson's￥coat."
+   "en": ".",
+   "en_src": "The chess piece we found in Gibson's￥coat.",
+   "ru": true,
+   "long": "Шахматная фигура, найденная в плаще￥Гибсона."
   },
   {
    "off": 19939,
    "budget": 45,
-   "en": "The disk with the Snatchers'￥weakness.",
-   "long": "The disk containing the Snatchers'￥weakness."
+   "en": "Дискета с данными о слабости￥снатчеров.",
+   "en_src": "The disk with the Snatchers'￥weakness.",
+   "long_src": "The disk containing the Snatchers'￥weakness.",
+   "ru": true
   },
   {
    "off": 19984,
    "budget": 37,
-   "en": "A computer floppy disk."
+   "en": "Компьютерная дискета.",
+   "en_src": "A computer floppy disk.",
+   "ru": true
   },
   {
    "off": 20021,
    "budget": 79,
-   "en": "Sunscreen used by the Snatchers, if￥Gibson was right."
+   "en": "Солнцезащитный крем снатчеров, если￥Гибсон был прав.",
+   "en_src": "Sunscreen used by the Snatchers, if￥Gibson was right.",
+   "ru": true
   },
   {
    "off": 20100,
    "budget": 41,
-   "en": "And we confirmed it at Joy Division."
+   "en": "И в \"Джой Дивижн\" мы это￥подтвердили.",
+   "en_src": "And we confirmed it at Joy Division.",
+   "ru": true
   },
   {
    "off": 20141,
    "budget": 71,
-   "en": "Plain sunblock.￥The seal carries the logo of the￥shop it came from.",
-   "long": "Ordinary sunscreen. The sticker has￥the logo of the shop that sold it."
+   "en": "Обычный солнцезащитный крем. На￥наклейке логотип магазина.",
+   "en_src": "Plain sunblock.￥The seal carries the logo of the￥shop it came from.",
+   "long_src": "Ordinary sunscreen. The sticker has￥the logo of the shop that sold it.",
+   "ru": true
   },
   {
    "off": 20212,
    "budget": 47,
-   "en": "A costume mask bought at Joy￥Division."
+   "en": "Карнавальная маска из \"Джой Дивижн\".",
+   "en_src": "A costume mask bought at Joy￥Division.",
+   "ru": true
   },
   {
    "off": 20259,
    "budget": 21,
-   "en": "A Moai mask."
+   "en": "Маска моаи.",
+   "en_src": "A Moai mask.",
+   "ru": true
   },
   {
    "off": 20280,
    "budget": 25,
-   "en": "A Koitsu mask."
+   "en": "Маска Коицу.",
+   "en_src": "A Koitsu mask.",
+   "ru": true
   },
   {
    "off": 20305,
    "budget": 41,
-   "en": "A photo of Jean Jack Gibson."
+   "en": "Фото Жан-Джека Гибсона.",
+   "en_src": "A photo of Jean Jack Gibson.",
+   "ru": true
   },
   {
    "off": 20346,
    "budget": 47,
-   "en": "A montage built from a￥witness account.",
-   "long": "A composite portrait based on a￥witness's description."
+   "en": "Фоторобот по описанию свидетеля.",
+   "en_src": "A montage built from a￥witness account.",
+   "long_src": "A composite portrait based on a￥witness's description.",
+   "ru": true
   },
   {
    "off": 20393,
    "budget": 67,
-   "en": "Its built-in chip stores all your￥data, Gillian."
+   "en": "Встроенный чип хранит все твои￥данные, Гиллиан.",
+   "en_src": "Its built-in chip stores all your￥data, Gillian.",
+   "ru": true
   },
   {
    "off": 20460,
    "budget": 49,
-   "en": "Case expenses are covered￥as work requires.",
-   "long": "In principle, there's no limit on￥expenses necessary for the￥investigation."
+   "en": ".",
+   "en_src": "Case expenses are covered￥as work requires.",
+   "long_src": "In principle, there's no limit on￥expenses necessary for the￥investigation.",
+   "ru": true,
+   "long": "В принципе, расходы на нужды￥расследования не ограничены."
   },
   {
    "off": 20509,
    "budget": 45,
-   "en": "The candy Jean handed out￥to the orphans.",
-   "long": "The candy Jean gave to the children￥at the orphanage."
+   "en": ".",
+   "en_src": "The candy Jean handed out￥to the orphans.",
+   "long_src": "The candy Jean gave to the children￥at the orphanage.",
+   "ru": true,
+   "long": "Леденцы, которые Жан раздавал детям￥в приюте."
   },
   {
    "off": 20554,
    "budget": 25,
-   "en": "The note Jean left."
+   "en": ".",
+   "en_src": "The note Jean left.",
+   "ru": true,
+   "long": "Записка, оставленная Жаном."
   },
   {
    "off": 20579,
    "budget": 55,
-   "en": "Plain paper. It's certainly Jean's￥handwriting.",
-   "long": "It's on ordinary paper. Definitely￥Jean's handwriting."
+   "en": "На обычной бумаге. Почерк точно￥Жана.",
+   "en_src": "Plain paper. It's certainly Jean's￥handwriting.",
+   "long_src": "It's on ordinary paper. Definitely￥Jean's handwriting.",
+   "ru": true
   },
   {
    "off": 20634,
    "budget": 35,
-   "en": "Key to Gibson's squad desk.",
-   "long": "The key to Gibson's desk in the￥Squad room."
+   "en": ".",
+   "en_src": "Key to Gibson's squad desk.",
+   "long_src": "The key to Gibson's desk in the￥Squad room.",
+   "ru": true,
+   "long": "Ключ от стола Гибсона в комнате￥отдела."
   },
   {
    "off": 20669,
    "budget": 83,
-   "en": "What does it open? Does anyone still￥use keys like this?"
+   "en": "Что он открывает? Разве такими￥ключами ещё пользуются?",
+   "en_src": "What does it open? Does anyone still￥use keys like this?",
+   "ru": true
   },
   {
    "off": 20752,
    "budget": 57,
-   "en": "A wooden chess piece. The queen."
+   "en": "Деревянная шахматная фигура. Ферзь.",
+   "en_src": "A wooden chess piece. The queen.",
+   "ru": true
   },
   {
    "off": 20809,
    "budget": 37,
-   "en": "A carved wooden chess piece."
+   "en": "Резная деревянная шахматная фигура.",
+   "en_src": "A carved wooden chess piece.",
+   "ru": true
   },
   {
    "off": 20846,
    "budget": 45,
-   "en": "The disk holding Gibson's￥case data.",
-   "long": "The disk containing Gibson's￥investigation data."
+   "en": "Дискета с данными расследования￥Гибсона.",
+   "en_src": "The disk holding Gibson's￥case data.",
+   "long_src": "The disk containing Gibson's￥investigation data.",
+   "ru": true
   },
   {
    "off": 20891,
    "budget": 37,
-   "en": "A five-inch floppy disk."
+   "en": "Пятидюймовая дискета.",
+   "en_src": "A five-inch floppy disk.",
+   "ru": true
   },
   {
    "off": 20928,
    "budget": 71,
-   "en": "The bottle says, \"JOY DIVISION. The￥store that has everything.\""
+   "en": "На флаконе: \"JOY DIVISION. Магазин,￥где есть всё\".",
+   "en_src": "The bottle says, \"JOY DIVISION. The￥store that has everything.\"",
+   "ru": true
   },
   {
    "off": 20999,
    "budget": 45,
-   "en": "So it was sold at Joy Division.",
-   "long": "It certainly looks like Joy Division￥sold it."
+   "en": ".",
+   "en_src": "So it was sold at Joy Division.",
+   "long_src": "It certainly looks like Joy Division￥sold it.",
+   "ru": true,
+   "long": "Похоже, его и правда продавали в￥\"Джой Дивижн\"."
   },
   {
    "off": 21044,
    "budget": 53,
-   "en": "Tracing where it was bought￥may give us a lead.",
-   "long": "Finding out where it was bought￥might give us a lead."
+   "en": "Узнаем, где его купили, - может,￥найдём зацепку.",
+   "en_src": "Tracing where it was bought￥may give us a lead.",
+   "long_src": "Finding out where it was bought￥might give us a lead.",
+   "ru": true
   },
   {
    "off": 21097,
    "budget": 63,
-   "en": "A fine special-effects mask by￥Rick Bakery, all the rage now.",
-   "long": "A detailed special-effects mask by￥Rick Bakery. They're very popular￥now."
+   "en": ".",
+   "en_src": "A fine special-effects mask by￥Rick Bakery, all the rage now.",
+   "long_src": "A detailed special-effects mask by￥Rick Bakery. They're very popular￥now.",
+   "ru": true,
+   "long": "Детальная маска со спецэффектами от￥\"Рик Бейкери\". Сейчас они в моде."
   },
   {
    "off": 21160,
    "budget": 43,
-   "en": "A 2D photo CG-composited by 'Gaudi'.",
-   "long": "A computer-generated 2D portrait￥made by Gaudi."
+   "en": "Компьютерный 2D-портрет, созданный￥Гауди.",
+   "en_src": "A 2D photo CG-composited by 'Gaudi'.",
+   "long_src": "A computer-generated 2D portrait￥made by Gaudi.",
+   "ru": true
   },
   {
    "off": 21203,
    "budget": 71,
-   "en": "Gibson moved it from his chessboard￥at home. What could it mean?"
+   "en": "Гибсон переставил её со своей доски￥дома. Что бы это значило?",
+   "en_src": "Gibson moved it from his chessboard￥at home. What could it mean?",
+   "ru": true
   },
   {
    "off": 21274,
    "budget": 37,
-   "en": "Jean liked riddles."
+   "en": "Жан любил загадки.",
+   "en_src": "Jean liked riddles.",
+   "ru": true
   },
   {
    "off": 21311,
    "budget": 31,
-   "en": "Is he hinting at something?",
-   "long": "Could it be a clue to something?"
+   "en": "Может, это подсказка?",
+   "en_src": "Is he hinting at something?",
+   "long_src": "Could it be a clue to something?",
+   "ru": true
   },
   {
    "off": 21342,
    "budget": 35,
-   "en": "He really does look like Ivan."
+   "en": "А ведь и правда похож на Ивана.",
+   "en_src": "He really does look like Ivan.",
+   "ru": true
   },
   {
    "off": 21377,
    "budget": 53,
-   "en": "We can hardly blame Alphaville's￥matching system."
+   "en": "Систему сличения \"Альфавиля\" тут не￥упрекнёшь.",
+   "en_src": "We can hardly blame Alphaville's￥matching system.",
+   "ru": true
   },
   {
    "off": 21430,
    "budget": 49,
-   "en": "House? Come to think...￥I've no home either.",
-   "long": "Home. Come to think of it, I don't￥have a home to return to."
+   "en": ".",
+   "en_src": "House? Come to think...￥I've no home either.",
+   "long_src": "Home. Come to think of it, I don't￥have a home to return to.",
+   "ru": true,
+   "long": "Дом... Если подумать, мне и￥возвращаться-то некуда."
   },
   {
    "off": 21479,
    "budget": 65,
-   "en": "Cheer up. You'll live with Jamie￥again someday."
+   "en": "Не унывай. Когда-нибудь ты снова￥будешь жить с Джейми.",
+   "en_src": "Cheer up. You'll live with Jamie￥again someday.",
+   "ru": true
   },
   {
    "off": 21544,
    "budget": 55,
-   "en": "A family life might not suit a￥JUNKER anyway."
+   "en": "Семейная жизнь ДЖАНКЕРу всё равно не￥к лицу.",
+   "en_src": "A family life might not suit a￥JUNKER anyway.",
+   "ru": true
   },
   {
    "off": 21599,
    "budget": 65,
-   "en": "Why don't you give Jamie a video￥call?"
+   "en": "Может, позвонишь Джейми по￥видеофону?",
+   "en_src": "Why don't you give Jamie a video￥call?",
+   "ru": true
   },
   {
    "off": 21664,
    "budget": 17,
-   "en": "Maybe I should."
+   "en": "Пожалуй.",
+   "en_src": "Maybe I should.",
+   "ru": true
   },
   {
    "off": 21681,
    "budget": 41,
-   "en": "I have her videophone number, too."
+   "en": "Номер её видеофона у меня тоже есть.",
+   "en_src": "I have her videophone number, too.",
+   "ru": true
   },
   {
    "off": 21722,
    "budget": 61,
-   "en": "(Jamie's videophone number was in my￥room.)"
+   "en": "(Номер видеофона Джейми остался у￥меня в комнате.)",
+   "en_src": "(Jamie's videophone number was in my￥room.)",
+   "ru": true
   },
   {
    "off": 21783,
    "budget": 61,
-   "en": "It's best not to flash money in￥front of people like him."
+   "en": "Лучше не светить деньгами перед￥такими, как он.",
+   "en_src": "It's best not to flash money in￥front of people like him.",
+   "ru": true
   },
   {
    "off": 21844,
    "budget": 23,
-   "en": "He'll take advantage."
+   "en": "Он этим воспользуется.",
+   "en_src": "He'll take advantage.",
+   "ru": true
   },
   {
    "off": 21867,
    "budget": 31,
-   "en": "He'll bleed you dry.",
-   "long": "He'll charge as much as he can get￥away with."
+   "en": ".",
+   "en_src": "He'll bleed you dry.",
+   "long_src": "He'll charge as much as he can get￥away with.",
+   "ru": true,
+   "long": "Будет драть столько, сколько сможет."
   },
   {
    "off": 21898,
    "budget": 15,
-   "en": "Said aught?",
-   "long": "Did you say something?"
+   "en": ".",
+   "en_src": "Said aught?",
+   "long_src": "Did you say something?",
+   "ru": true,
+   "long": "Ты что-то сказал?"
   },
   {
    "off": 21913,
    "budget": 21,
-   "en": "Plenty left, surely?",
-   "long": "We've still got plenty, right?"
+   "en": ".",
+   "en_src": "Plenty left, surely?",
+   "long_src": "We've still got plenty, right?",
+   "ru": true,
+   "long": "У нас ещё много осталось?"
   },
   {
    "off": 21934,
    "budget": 47,
-   "en": "It's dropped a bit, with￥your food and drink.",
-   "long": "You've spent quite a lot on eating￥and drinking, Gillian."
+   "en": "Ты немало потратил на еду и выпивку,￥Гиллиан.",
+   "en_src": "It's dropped a bit, with￥your food and drink.",
+   "long_src": "You've spent quite a lot on eating￥and drinking, Gillian.",
+   "ru": true
   },
   {
    "off": 21981,
    "budget": 45,
-   "en": "Don't make it sound bad.￥They're expenses.",
-   "long": "Don't make it sound so bad. Those￥were necessary investigation￥expenses."
+   "en": ".",
+   "en_src": "Don't make it sound bad.￥They're expenses.",
+   "long_src": "Don't make it sound so bad. Those￥were necessary investigation￥expenses.",
+   "ru": true,
+   "long": "Не выставляй всё так. Это были￥нужные расходы на расследование."
   },
   {
    "off": 22026,
    "budget": 79,
-   "en": "The truth is...￥(It's cash, so nobody knows how much￥I spend.)",
-   "long": "Actually... (It's cash. If I keep￥quiet, nobody will know how much I￥spent.)"
+   "en": ".",
+   "en_src": "The truth is...￥(It's cash, so nobody knows how much￥I spend.)",
+   "long_src": "Actually... (It's cash. If I keep￥quiet, nobody will know how much I￥spent.)",
+   "ru": true,
+   "long": "Вообще-то... (Это наличные. Если￥промолчу, никто не узнает, сколько я￥потратил.)"
   },
   {
    "off": 22105,
    "budget": 19,
-   "en": "Did you say that?",
-   "long": "Did you say something?"
+   "en": "Ты что-то сказал?",
+   "en_src": "Did you say that?",
+   "long_src": "Did you say something?",
+   "ru": true
   },
   {
    "off": 22124,
    "budget": 21,
-   "en": "No, never mind."
+   "en": "Нет, ничего.",
+   "en_src": "No, never mind.",
+   "ru": true
   },
   {
    "off": 22145,
    "budget": 21,
-   "en": "...By the way..."
+   "en": "...Кстати...",
+   "en_src": "...By the way...",
+   "ru": true
   },
   {
    "off": 22166,
    "budget": 65,
-   "en": "Don't keep checking your JUNKER ID,￥Gillian."
+   "en": "Не проверяй так часто удостоверение,￥Гиллиан.",
+   "en_src": "Don't keep checking your JUNKER ID,￥Gillian.",
+   "ru": true
   },
   {
    "off": 22231,
    "budget": 19,
-   "en": "I know."
+   "en": "Знаю.",
+   "en_src": "I know.",
+   "ru": true
   },
   {
    "off": 22250,
    "budget": 35,
-   "en": "Men like him can be touchy."
+   "en": "Такие, как он, бывают обидчивы.",
+   "en_src": "Men like him can be touchy.",
+   "ru": true
   },
   {
    "off": 22285,
    "budget": 19,
-   "en": "What was that?"
+   "en": "Что-что?",
+   "en_src": "What was that?",
+   "ru": true
   },
   {
    "off": 22304,
    "budget": 21,
-   "en": "...Gillian..."
+   "en": "...Гиллиан...",
+   "en_src": "...Gillian...",
+   "ru": true
   },
   {
    "off": 22325,
    "budget": 45,
-   "en": "Shouldn't you show it to Napoleon?"
+   "en": "Может, покажешь его Наполеону?",
+   "en_src": "Shouldn't you show it to Napoleon?",
+   "ru": true
   },
   {
    "off": 22370,
    "budget": 11,
-   "en": "Right.",
-   "long": "You're right."
+   "en": "Ты прав.",
+   "en_src": "Right.",
+   "long_src": "You're right.",
+   "ru": true
   },
   {
    "off": 22383,

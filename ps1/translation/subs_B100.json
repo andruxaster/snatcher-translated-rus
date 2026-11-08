@@ -9,8 +9,9 @@
    "end": 39449,
    "dur": 3.3,
    "speaker": "Waiter",
-   "en": "Welcome. Table for one?",
-   "enabled": true
+   "en": "Добро пожаловать. Столик на одного?",
+   "enabled": true,
+   "en_src": "Welcome. Table for one?"
   },
   {
    "id": "B100_002",
@@ -20,8 +21,9 @@
    "end": 42430,
    "dur": 5.9,
    "speaker": "Thug",
-   "en": "What the hell? They're JUNKERs! JUNKERs? Get lost, cops!",
-   "enabled": true
+   "en": "Какого чёрта? Это ДЖАНКЕРы! Проваливайте, копы!",
+   "enabled": true,
+   "en_src": "What the hell? They're JUNKERs! JUNKERs? Get lost, cops!"
   },
   {
    "id": "B100_002b",
@@ -31,8 +33,9 @@
    "end": 42665,
    "dur": 2.8,
    "speaker": "Thug",
-   "en": "You don't belong here!",
-   "enabled": true
+   "en": "Вам тут не место!",
+   "enabled": true,
+   "en_src": "You don't belong here!"
   },
   {
    "id": "B100_003",
@@ -42,9 +45,10 @@
    "end": 43041,
    "dur": 4.8,
    "speaker": "Master",
-   "en": "Looks like you've come to the wrong place.",
+   "en": "Похоже, вы ошиблись адресом.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Looks like you've come to the wrong place."
   },
   {
    "id": "B100_003b",
@@ -54,9 +58,10 @@
    "end": 43401,
    "dur": 4.8,
    "speaker": "Master",
-   "en": "Forget the bill. Just get out.",
+   "en": "Счёт забудьте. Просто уходите.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Forget the bill. Just get out."
   },
   {
    "id": "B100_004",
@@ -66,8 +71,9 @@
    "end": 43497,
    "dur": 0.5,
    "speaker": "Gillian",
-   "en": "Is he dead?",
-   "enabled": true
+   "en": "Он мёртв?",
+   "enabled": true,
+   "en_src": "Is he dead?"
   },
   {
    "id": "B100_005",
@@ -77,8 +83,9 @@
    "end": 44297,
    "dur": 5.2,
    "speaker": "Metal Gear",
-   "en": "He's just unconscious. Nice shot, right in the hand.",
-   "enabled": true
+   "en": "Просто без сознания. Отличный выстрел, прямо в руку.",
+   "enabled": true,
+   "en_src": "He's just unconscious. Nice shot, right in the hand."
   },
   {
    "id": "B100_006",
@@ -88,8 +95,9 @@
    "end": 44617,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "That's not where I was aiming.",
-   "enabled": true
+   "en": "Я целился не туда.",
+   "enabled": true,
+   "en_src": "That's not where I was aiming."
   },
   {
    "id": "B100_007",
@@ -99,8 +107,9 @@
    "end": 45001,
    "dur": 2.5,
    "speaker": "Gillian",
-   "en": "Hey! How long are you going to lie there?",
-   "enabled": true
+   "en": "Эй! Долго ещё будешь валяться?",
+   "enabled": true,
+   "en_src": "Hey! How long are you going to lie there?"
   },
   {
    "id": "B100_008",
@@ -110,9 +119,10 @@
    "end": 45273,
    "dur": 1.7,
    "speaker": "Thug",
-   "en": "Aagh! H-help me!",
+   "en": "А-а! П-помогите!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Aagh! H-help me!"
   }
  ],
  "options": {

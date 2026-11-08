@@ -10,288 +10,400 @@
   {
    "off": 1734,
    "budget": 51,
-   "en": "We are aboard the Tricycle. Where￥shall we go?"
+   "en": "Мы в трицикле. Куда едем?",
+   "en_src": "We are aboard the Tricycle. Where￥shall we go?",
+   "ru": true
   },
   {
    "off": 1785,
    "budget": 63,
-   "en": "Gillian! Videophone from Jamie.￥...Putting it through!",
-   "long": "Gillian! Jamie is calling on the￥videophone. I'll put her through!"
+   "en": "Гиллиан! Джейми звонит по видеофону.￥Соединяю!",
+   "en_src": "Gillian! Videophone from Jamie.￥...Putting it through!",
+   "long_src": "Gillian! Jamie is calling on the￥videophone. I'll put her through!",
+   "ru": true
   },
   {
    "off": 1848,
    "budget": 17,
-   "en": "JUNKER HQ"
+   "en": "Штаб ДЖАНКЕРа",
+   "en_src": "JUNKER HQ",
+   "ru": true
   },
   {
    "off": 1865,
    "budget": 11,
-   "en": "Gillian's",
-   "long": "Gillian's home"
+   "en": ".",
+   "en_src": "Gillian's",
+   "long_src": "Gillian's home",
+   "ru": true,
+   "long": "Дом Гиллиана"
   },
   {
    "off": 1876,
    "budget": 11,
-   "en": "Gibson's",
-   "long": "Gibson's home"
+   "en": ".",
+   "en_src": "Gibson's",
+   "long_src": "Gibson's home",
+   "ru": true,
+   "long": "Дом Гибсона"
   },
   {
    "off": 1887,
    "budget": 13,
-   "en": "Altamira"
+   "en": "\"Альтамира\"",
+   "en_src": "Altamira",
+   "ru": true
   },
   {
    "off": 1900,
    "budget": 13,
-   "en": "Oleen Hosp.",
-   "long": "Oleen Hospital"
+   "en": ".",
+   "en_src": "Oleen Hosp.",
+   "long_src": "Oleen Hospital",
+   "ru": true,
+   "long": "Больница \"Олин\""
   },
   {
    "off": 1913,
    "budget": 13,
-   "en": "Queen Hosp",
-   "long": "Queen Hospital"
+   "en": ".",
+   "en_src": "Queen Hosp",
+   "long_src": "Queen Hospital",
+   "ru": true,
+   "long": "Больница \"Куин\""
   },
   {
    "off": 1926,
    "budget": 15,
-   "en": "Outer Heaven"
+   "en": "\"Аутер Хэвен\"",
+   "en_src": "Outer Heaven",
+   "ru": true
   },
   {
    "off": 1941,
    "budget": 11,
-   "en": "Get out",
-   "long": "Exit Tricycle"
+   "en": "Выйти",
+   "en_src": "Get out",
+   "long_src": "Exit Tricycle",
+   "ru": true
   },
   {
    "off": 1952,
    "budget": 41,
-   "en": "No use going back to the flats.",
-   "long": "There's no point going back to the￥apartment."
+   "en": "Нет смысла возвращаться в квартиру.",
+   "en_src": "No use going back to the flats.",
+   "long_src": "There's no point going back to the￥apartment.",
+   "ru": true
   },
   {
    "off": 1993,
    "budget": 59,
-   "en": "I've already asked the Kobe Police￥to protect Catherine."
+   "en": "Я уже попросил полицию Кобе охранять￥Кэтрин.",
+   "en_src": "I've already asked the Kobe Police￥to protect Catherine.",
+   "ru": true
   },
   {
    "off": 2052,
    "budget": 29,
-   "en": "Hurry to Queen Hospital.",
-   "long": "Let's hurry to Queen Hospital."
+   "en": "Скорее в больницу \"Куин\".",
+   "en_src": "Hurry to Queen Hospital.",
+   "long_src": "Let's hurry to Queen Hospital.",
+   "ru": true
   },
   {
    "off": 2081,
    "budget": 31,
-   "en": "Let's go to Queen Hospital."
+   "en": "Едем в больницу \"Куин\".",
+   "en_src": "Let's go to Queen Hospital.",
+   "ru": true
   },
   {
    "off": 2112,
    "budget": 57,
-   "en": "What's wrong? Aren't we going to see￥Catherine?"
+   "en": "Что такое? Разве мы не едем к￥Кэтрин?",
+   "en_src": "What's wrong? Aren't we going to see￥Catherine?",
+   "ru": true
   },
   {
    "off": 2169,
    "budget": 51,
-   "en": "Catherine isn't here. Let's look￥elsewhere!"
+   "en": "Кэтрин здесь нет. Поищем в другом￥месте!",
+   "en_src": "Catherine isn't here. Let's look￥elsewhere!",
+   "ru": true
   },
   {
    "off": 2220,
    "budget": 65,
-   "en": "The Snatchers will get there first￥if we waste time. Hurry!"
+   "en": "Если будем медлить, снатчеры нас￥опередят. Скорее!",
+   "en_src": "The Snatchers will get there first￥if we waste time. Hurry!",
+   "ru": true
   },
   {
    "off": 2285,
    "budget": 49,
-   "en": "We're finished here. Let's get￥going!"
+   "en": "Здесь мы закончили. Поехали дальше!",
+   "en_src": "We're finished here. Let's get￥going!",
+   "ru": true
   },
   {
    "off": 2334,
    "budget": 77,
-   "en": "What are you doing!￥Let's learn whose chart that is,￥and quickly!!",
-   "long": "What are you doing? We need to find￥out whose medical record that is,￥right away!"
+   "en": "Что ты делаешь? Нужно немедленно￥выяснить, чья это медкарта!",
+   "en_src": "What are you doing!￥Let's learn whose chart that is,￥and quickly!!",
+   "long_src": "What are you doing? We need to find￥out whose medical record that is,￥right away!",
+   "ru": true
   },
   {
    "off": 2411,
    "budget": 47,
-   "en": "Gillian, hurry to JUNKER￥headquarters!"
+   "en": "Гиллиан, скорее в штаб ДЖАНКЕРа!",
+   "en_src": "Gillian, hurry to JUNKER￥headquarters!",
+   "ru": true
   },
   {
    "off": 2458,
    "budget": 45,
-   "en": "You arrive at JUNKER HQ.￥What will you do?",
-   "long": "We've arrived at JUNKER￥headquarters. What will you do?"
+   "en": ".",
+   "en_src": "You arrive at JUNKER HQ.￥What will you do?",
+   "long_src": "We've arrived at JUNKER￥headquarters. What will you do?",
+   "ru": true,
+   "long": "Мы прибыли в штаб ДЖАНКЕРа. Что￥будешь делать?"
   },
   {
    "off": 2503,
    "budget": 41,
-   "en": "You arrive at Gillian's.￥What now?",
-   "long": "We've arrived at your home. What￥will you do?"
+   "en": "Мы у твоего дома. Что будешь делать?",
+   "en_src": "You arrive at Gillian's.￥What now?",
+   "long_src": "We've arrived at your home. What￥will you do?",
+   "ru": true
   },
   {
    "off": 2544,
    "budget": 59,
-   "en": "You reach Jean Jack Gibson's￥home. What will you do?",
-   "long": "We've arrived at Jean Jack Gibson's￥home. What will you do?"
+   "en": "Мы у дома Жан-Джека Гибсона. Что￥будешь делать?",
+   "en_src": "You reach Jean Jack Gibson's￥home. What will you do?",
+   "long_src": "We've arrived at Jean Jack Gibson's￥home. What will you do?",
+   "ru": true
   },
   {
    "off": 2603,
    "budget": 41,
-   "en": "You arrive outside Altamira.￥What now?",
-   "long": "We've arrived outside Altamira. What￥will you do?"
+   "en": "Мы у \"Альтамиры\". Что будешь делать?",
+   "en_src": "You arrive outside Altamira.￥What now?",
+   "long_src": "We've arrived outside Altamira. What￥will you do?",
+   "ru": true
   },
   {
    "off": 2644,
    "budget": 45,
-   "en": "You reach 'Oleen' Hospital.￥What now?",
-   "long": "We've arrived at Oleen Hospital.￥What will you do?"
+   "en": "Мы у больницы \"Олин\". Что будешь￥делать?",
+   "en_src": "You reach 'Oleen' Hospital.￥What now?",
+   "long_src": "We've arrived at Oleen Hospital.￥What will you do?",
+   "ru": true
   },
   {
    "off": 2689,
    "budget": 41,
-   "en": "You reach Queen Hospital.￥What now?",
-   "long": "We've arrived at Queen Hospital.￥What will you do?"
+   "en": ".",
+   "en_src": "You reach Queen Hospital.￥What now?",
+   "long_src": "We've arrived at Queen Hospital.￥What will you do?",
+   "ru": true,
+   "long": "Мы у больницы \"Куин\". Что будешь￥делать?"
   },
   {
    "off": 2730,
    "budget": 49,
-   "en": "You reach 'Outer Heaven'.￥What will you do?",
-   "long": "We've arrived at Outer Heaven. What￥will you do?"
+   "en": "Мы у \"Аутер Хэвен\". Что будешь￥делать?",
+   "en_src": "You reach 'Outer Heaven'.￥What will you do?",
+   "long_src": "We've arrived at Outer Heaven. What￥will you do?",
+   "ru": true
   },
   {
    "off": 2779,
    "budget": 41,
-   "en": "Then we're heading for JUNKER HQ.",
-   "long": "Setting course for JUNKER￥headquarters."
+   "en": "Курс на штаб ДЖАНКЕРа.",
+   "en_src": "Then we're heading for JUNKER HQ.",
+   "long_src": "Setting course for JUNKER￥headquarters.",
+   "ru": true
   },
   {
    "off": 2820,
    "budget": 25,
-   "en": "Let's head home once.",
-   "long": "Let's head home for a while."
+   "en": "Заглянем пока домой.",
+   "en_src": "Let's head home once.",
+   "long_src": "Let's head home for a while.",
+   "ru": true
   },
   {
    "off": 2845,
    "budget": 59,
-   "en": "Yes, that reader's words nag at￥me too...",
-   "long": "Yes, I'm concerned about what that￥fortune teller said, too."
+   "en": "Да, меня тоже беспокоят слова той￥гадалки.",
+   "en_src": "Yes, that reader's words nag at￥me too...",
+   "long_src": "Yes, I'm concerned about what that￥fortune teller said, too.",
+   "ru": true
   },
   {
    "off": 2904,
    "budget": 53,
-   "en": "Yes, it might be worth searching the￥neighborhood."
+   "en": "Да, пожалуй, стоит поискать￥поблизости.",
+   "en_src": "Yes, it might be worth searching the￥neighborhood.",
+   "ru": true
   },
   {
    "off": 2957,
    "budget": 21,
-   "en": "Off we go, Metal!",
-   "long": "All right, let's go, Metal!"
+   "en": ".",
+   "en_src": "Off we go, Metal!",
+   "long_src": "All right, let's go, Metal!",
+   "ru": true,
+   "long": "Ладно, поехали, Метал!"
   },
   {
    "off": 2978,
    "budget": 33,
-   "en": "Understood, to your home.",
-   "long": "Understood. Setting course for your￥home."
+   "en": "Понял. Курс на твой дом.",
+   "en_src": "Understood, to your home.",
+   "long_src": "Understood. Setting course for your￥home.",
+   "ru": true
   },
   {
    "off": 3011,
    "budget": 35,
-   "en": "Setting course for your home."
+   "en": "Курс на твой дом.",
+   "en_src": "Setting course for your home.",
+   "ru": true
   },
   {
    "off": 3046,
    "budget": 79,
-   "en": "Why would you go home at a time like￥this? We need to find Catherine!"
+   "en": "Зачем ехать домой в такой момент?￥Нам нужно найти Кэтрин!",
+   "en_src": "Why would you go home at a time like￥this? We need to find Catherine!",
+   "ru": true
   },
   {
    "off": 3125,
    "budget": 69,
-   "en": "Gillian! Find Catherine first. You￥can go home afterward!"
+   "en": "Гиллиан! Сначала найди Кэтрин. Домой￥- потом!",
+   "en_src": "Gillian! Find Catherine first. You￥can go home afterward!",
+   "ru": true
   },
   {
    "off": 3194,
    "budget": 79,
-   "en": "Hurry to Gibson's house!￥Set the traffic system to top￥priority for it!!",
-   "long": "Hurry to Gibson's house! Get us top￥priority in the automatic traffic￥system all the way there!"
+   "en": ".",
+   "en_src": "Hurry to Gibson's house!￥Set the traffic system to top￥priority for it!!",
+   "long_src": "Hurry to Gibson's house! Get us top￥priority in the automatic traffic￥system all the way there!",
+   "ru": true,
+   "long": "Скорее к дому Гибсона! Выбей нам￥высший приоритет в автоматической￥системе движения на всём пути!"
   },
   {
    "off": 3273,
    "budget": 7,
-   "en": "Roger!",
-   "long": "Understood!"
+   "en": "Понял!",
+   "en_src": "Roger!",
+   "long_src": "Understood!",
+   "ru": true
   },
   {
    "off": 3280,
    "budget": 29,
-   "en": "Catherine, please be safe!"
+   "en": "Кэтрин, только будь цела!",
+   "en_src": "Catherine, please be safe!",
+   "ru": true
   },
   {
    "off": 3309,
    "budget": 53,
-   "en": "Setting course for Jean Jack￥Gibson's home."
+   "en": "Курс на дом Жан-Джека Гибсона.",
+   "en_src": "Setting course for Jean Jack￥Gibson's home.",
+   "ru": true
   },
   {
    "off": 3362,
    "budget": 35,
-   "en": "Setting course for Altamira."
+   "en": "Курс на \"Альтамиру\".",
+   "en_src": "Setting course for Altamira.",
+   "ru": true
   },
   {
    "off": 3397,
    "budget": 41,
-   "en": "Setting course for Oleen Hospital."
+   "en": "Курс на больницу \"Олин\".",
+   "en_src": "Setting course for Oleen Hospital.",
+   "ru": true
   },
   {
    "off": 3438,
    "budget": 33,
-   "en": "Right, to Queen Hospital!",
-   "long": "All right, let's go to Queen￥Hospital!"
+   "en": "Ладно, едем в больницу \"Куин\"!",
+   "en_src": "Right, to Queen Hospital!",
+   "long_src": "All right, let's go to Queen￥Hospital!",
+   "ru": true
   },
   {
    "off": 3471,
    "budget": 23,
-   "en": "At last, then..."
+   "en": "Ну вот и всё...",
+   "en_src": "At last, then...",
+   "ru": true
   },
   {
    "off": 3494,
    "budget": 35,
-   "en": "Setting course for Queen Hospital."
+   "en": "Курс на больницу \"Куин\".",
+   "en_src": "Setting course for Queen Hospital.",
+   "ru": true
   },
   {
    "off": 3529,
    "budget": 45,
-   "en": "Setting course for Outer Heaven."
+   "en": "Курс на \"Аутер Хэвен\".",
+   "en_src": "Setting course for Outer Heaven.",
+   "ru": true
   },
   {
    "off": 3574,
    "budget": 63,
-   "en": "Where are you going, Gillian?￥Catherine is in danger!"
+   "en": "Куда ты, Гиллиан? Кэтрин в￥опасности!",
+   "en_src": "Where are you going, Gillian?￥Catherine is in danger!",
+   "ru": true
   },
   {
    "off": 3637,
    "budget": 37,
-   "en": "Gillian! Hurry to Gibson's house!"
+   "en": "Гиллиан! Скорее к дому Гибсона!",
+   "en_src": "Gillian! Hurry to Gibson's house!",
+   "ru": true
   },
   {
    "off": 3674,
    "budget": 51,
-   "en": "Where are you going?￥Hurry to Queen Hospital.",
-   "long": "Where are you going? We need to￥hurry to Queen Hospital."
+   "en": "Куда ты? Нам нужно скорее в больницу￥\"Куин\".",
+   "en_src": "Where are you going?￥Hurry to Queen Hospital.",
+   "long_src": "Where are you going? We need to￥hurry to Queen Hospital.",
+   "ru": true
   },
   {
    "off": 3725,
    "budget": 47,
-   "en": "Let's go to Queen Hospital first."
+   "en": "Сначала поедем в больницу \"Куин\".",
+   "en_src": "Let's go to Queen Hospital first.",
+   "ru": true
   },
   {
    "off": 3772,
    "budget": 45,
-   "en": "Hurry to JUNKER headquarters,￥Gillian!"
+   "en": "Скорее в штаб ДЖАНКЕРа, Гиллиан!",
+   "en_src": "Hurry to JUNKER headquarters,￥Gillian!",
+   "ru": true
   },
   {
    "off": 3817,
    "budget": 27,
-   "en": "Running away, Gillian!",
-   "long": "Are you running away, Gillian?"
+   "en": "Ты сбегаешь, Гиллиан?",
+   "en_src": "Running away, Gillian!",
+   "long_src": "Are you running away, Gillian?",
+   "ru": true
   },
   {
    "off": 3846,

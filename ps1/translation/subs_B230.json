@@ -15,8 +15,9 @@
    "end": 14112,
    "dur": 8.8,
    "speaker": "Metal Gear",
-   "en": "I'll open it. Be careful. We don't know what's inside.",
-   "enabled": true
+   "en": "Открываю. Осторожно, мы не знаем, что внутри.",
+   "enabled": true,
+   "en_src": "I'll open it. Be careful. We don't know what's inside."
   },
   {
    "id": "B230_f21",
@@ -26,8 +27,9 @@
    "end": 14176,
    "dur": 0.3,
    "speaker": "Gillian",
-   "en": "Mika!",
-   "enabled": true
+   "en": "Мика!",
+   "enabled": true,
+   "en_src": "Mika!"
   },
   {
    "id": "B230_f22",
@@ -37,8 +39,9 @@
    "end": 14288,
    "dur": 0.6,
    "speaker": "Gillian",
-   "en": "Mika! You OK?",
-   "enabled": true
+   "en": "Мика! Ты цела?",
+   "enabled": true,
+   "en_src": "Mika! You OK?"
   },
   {
    "id": "B230_f23",
@@ -48,8 +51,9 @@
    "end": 14480,
    "dur": 1.2,
    "speaker": "Gillian",
-   "en": "Metal, how is she?",
-   "enabled": true
+   "en": "Метал, как она?",
+   "enabled": true,
+   "en_src": "Metal, how is she?"
   },
   {
    "id": "B230_f24",
@@ -59,8 +63,9 @@
    "end": 14824,
    "dur": 4.4,
    "speaker": "Metal Gear",
-   "en": "Her pulse is normal. Only her forehead is injured.",
-   "enabled": true
+   "en": "Пульс в норме. Ранен только лоб.",
+   "enabled": true,
+   "en_src": "Her pulse is normal. Only her forehead is injured."
   },
   {
    "id": "B230_f24b",
@@ -70,8 +75,9 @@
    "end": 15152,
    "dur": 4.4,
    "speaker": "Metal Gear",
-   "en": "The blood loss isn't serious.",
-   "enabled": true
+   "en": "Кровопотеря несерьёзная.",
+   "enabled": true,
+   "en_src": "The blood loss isn't serious."
   },
   {
    "id": "B230_f25",
@@ -81,8 +87,9 @@
    "end": 15312,
    "dur": 1.0,
    "speaker": "Mika",
-   "en": "Huh? Oh...",
-   "enabled": true
+   "en": "А? Ох...",
+   "enabled": true,
+   "en_src": "Huh? Oh..."
   },
   {
    "id": "B230_f26",
@@ -92,8 +99,9 @@
    "end": 15664,
    "dur": 2.2,
    "speaker": "Gillian",
-   "en": "Hang on, Mika! It's me, Gillian!",
-   "enabled": true
+   "en": "Держись, Мика! Это я, Гиллиан!",
+   "enabled": true,
+   "en_src": "Hang on, Mika! It's me, Gillian!"
   },
   {
    "id": "B230_f27",
@@ -103,8 +111,9 @@
    "end": 16320,
    "dur": 4.3,
    "speaker": "Mika",
-   "en": "Gillian... Gillian...",
-   "enabled": true
+   "en": "Гиллиан... Гиллиан...",
+   "enabled": true,
+   "en_src": "Gillian... Gillian..."
   },
   {
    "id": "B230_f28",
@@ -114,8 +123,9 @@
    "end": 16544,
    "dur": 1.4,
    "speaker": "Gillian",
-   "en": "Mika, what happened?",
-   "enabled": true
+   "en": "Мика, что случилось?",
+   "enabled": true,
+   "en_src": "Mika, what happened?"
   },
   {
    "id": "B230_f29",
@@ -125,8 +135,9 @@
    "end": 17248,
    "dur": 4.6,
    "speaker": "Mika",
-   "en": "The chief. The chief was a Snatcher!",
-   "enabled": true
+   "en": "Шеф. Шеф оказался снатчером!",
+   "enabled": true,
+   "en_src": "The chief. The chief was a Snatcher!"
   },
   {
    "id": "B230_f30",
@@ -136,8 +147,9 @@
    "end": 17632,
    "dur": 2.5,
    "speaker": "Metal Gear",
-   "en": "He finally showed his true colors!",
-   "enabled": true
+   "en": "Наконец-то он показал истинное лицо!",
+   "enabled": true,
+   "en_src": "He finally showed his true colors!"
   },
   {
    "id": "B230_f31",
@@ -147,8 +159,9 @@
    "end": 17952,
    "dur": 2.0,
    "speaker": "Mika",
-   "en": "Harry... Harry...",
-   "enabled": true
+   "en": "Гарри... Гарри...",
+   "enabled": true,
+   "en_src": "Harry... Harry..."
   },
   {
    "id": "B230_f32",
@@ -158,8 +171,9 @@
    "end": 18064,
    "dur": 0.6,
    "speaker": "Gillian",
-   "en": "Harry? What?",
-   "enabled": true
+   "en": "Гарри? Что с ним?",
+   "enabled": true,
+   "en_src": "Harry? What?"
   },
   {
    "id": "B230_f33",
@@ -169,8 +183,9 @@
    "end": 18421,
    "dur": 7.1,
    "speaker": "Mika",
-   "en": "Harry put me in this booth and shut the main door,",
-   "enabled": true
+   "en": "Гарри спрятал меня в будке и закрыл главную дверь,",
+   "enabled": true,
+   "en_src": "Harry put me in this booth and shut the main door,"
   },
   {
    "id": "B230_f33b",
@@ -180,8 +195,9 @@
    "end": 18928,
    "dur": 4.3,
    "speaker": "Mika",
-   "en": "trapping the Snatcher inside headquarters.",
-   "enabled": true
+   "en": "заперев снатчера в штабе.",
+   "enabled": true,
+   "en_src": "trapping the Snatcher inside headquarters."
   },
   {
    "id": "B230_f34",
@@ -191,8 +207,9 @@
    "end": 19456,
    "dur": 6.8,
    "speaker": "Metal Gear",
-   "en": "Even a Snatcher can't break through the shields here.",
-   "enabled": true
+   "en": "Даже снатчеру не пробить здешние щиты.",
+   "enabled": true,
+   "en_src": "Even a Snatcher can't break through the shields here."
   },
   {
    "id": "B230_f35",
@@ -202,8 +219,9 @@
    "end": 19536,
    "dur": 0.4,
    "speaker": "Gillian",
-   "en": "Harry?",
-   "enabled": true
+   "en": "Гарри?",
+   "enabled": true,
+   "en_src": "Harry?"
   },
   {
    "id": "B230_f36",
@@ -213,8 +231,9 @@
    "end": 19952,
    "dur": 5.3,
    "speaker": "Mika",
-   "en": "Harry told me not to open the door, no matter what.",
-   "enabled": true
+   "en": "Гарри велел ни за что не открывать дверь.",
+   "enabled": true,
+   "en_src": "Harry told me not to open the door, no matter what."
   },
   {
    "id": "B230_f36b",
@@ -224,8 +243,9 @@
    "end": 20352,
    "dur": 5.3,
    "speaker": "Mika",
-   "en": "Then he went inside.",
-   "enabled": true
+   "en": "А потом пошёл внутрь.",
+   "enabled": true,
+   "en_src": "Then he went inside."
   },
   {
    "id": "B230_f37",
@@ -235,8 +255,9 @@
    "end": 20688,
    "dur": 2.1,
    "speaker": "Mika",
-   "en": "Gillian, save Harry!",
-   "enabled": true
+   "en": "Гиллиан, спаси Гарри!",
+   "enabled": true,
+   "en_src": "Gillian, save Harry!"
   },
   {
    "id": "B230_f38",
@@ -246,8 +267,9 @@
    "end": 21312,
    "dur": 4.1,
    "speaker": "Gillian",
-   "en": "Harry! Mika, open the shield. I'm going in.",
-   "enabled": true
+   "en": "Гарри! Мика, открой щит. Я иду внутрь.",
+   "enabled": true,
+   "en_src": "Harry! Mika, open the shield. I'm going in."
   },
   {
    "id": "B230_f39",
@@ -257,8 +279,9 @@
    "end": 21620,
    "dur": 1.9,
    "speaker": "Gillian",
-   "en": "Metal! We're going in! Stay alert!",
-   "enabled": true
+   "en": "Метал! Входим! Будь начеку!",
+   "enabled": true,
+   "en_src": "Metal! We're going in! Stay alert!"
   },
   {
    "id": "B230_f39b",
@@ -268,8 +291,9 @@
    "end": 21952,
    "dur": 1.6,
    "speaker": "Gillian",
-   "en": "The Snatcher could be hiding anywhere!",
-   "enabled": true
+   "en": "Снатчер может прятаться где угодно!",
+   "enabled": true,
+   "en_src": "The Snatcher could be hiding anywhere!"
   },
   {
    "id": "B230_f40",
@@ -279,8 +303,9 @@
    "end": 22016,
    "dur": 0.3,
    "speaker": "Metal Gear",
-   "en": "Right.",
-   "enabled": true
+   "en": "Понял.",
+   "enabled": true,
+   "en_src": "Right."
   },
   {
    "id": "B230_f41",
@@ -290,8 +315,9 @@
    "end": 22560,
    "dur": 7.0,
    "speaker": "Mika",
-   "en": "Be careful, Gillian. The chief knows you inside out.",
-   "enabled": true
+   "en": "Осторожнее, Гиллиан. Шеф знает тебя как облупленного.",
+   "enabled": true,
+   "en_src": "Be careful, Gillian. The chief knows you inside out."
   },
   {
    "id": "B230_f41b",
@@ -301,8 +327,9 @@
    "end": 23088,
    "dur": 7.0,
    "speaker": "Mika",
-   "en": "Don't let your guard down.",
-   "enabled": true
+   "en": "Не теряй бдительности.",
+   "enabled": true,
+   "en_src": "Don't let your guard down."
   },
   {
    "id": "B230_f42",
@@ -312,9 +339,10 @@
    "end": 23168,
    "dur": 0.4,
    "speaker": "Mika",
-   "en": "Gillian!",
+   "en": "Гиллиан!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Gillian!"
   },
   {
    "id": "B230_f43",
@@ -324,8 +352,9 @@
    "end": 23408,
    "dur": 1.5,
    "speaker": "Metal Gear",
-   "en": "The lights have been destroyed.",
-   "enabled": true
+   "en": "Освещение уничтожено.",
+   "enabled": true,
+   "en_src": "The lights have been destroyed."
   },
   {
    "id": "B230_f44",
@@ -335,8 +364,9 @@
    "end": 23696,
    "dur": 1.8,
    "speaker": "Metal Gear",
-   "en": "The movement is heading away from us.",
-   "enabled": true
+   "en": "Объект удаляется от нас.",
+   "enabled": true,
+   "en_src": "The movement is heading away from us."
   },
   {
    "id": "B230_f45",
@@ -346,8 +376,9 @@
    "end": 23792,
    "dur": 0.5,
    "speaker": "Gillian",
-   "en": "Running away?",
-   "enabled": true
+   "en": "Убегает?",
+   "enabled": true,
+   "en_src": "Running away?"
   },
   {
    "id": "B230_f46",
@@ -357,8 +388,9 @@
    "end": 24064,
    "dur": 1.7,
    "speaker": "Metal Gear",
-   "en": "I've lost the movement reading.",
-   "enabled": true
+   "en": "Я потерял сигнал движения.",
+   "enabled": true,
+   "en_src": "I've lost the movement reading."
   },
   {
    "id": "B230_f47",
@@ -368,8 +400,9 @@
    "end": 24256,
    "dur": 1.2,
    "speaker": "Gillian",
-   "en": "The Snatcher got away!",
-   "enabled": true
+   "en": "Снатчер ушёл!",
+   "enabled": true,
+   "en_src": "The Snatcher got away!"
   },
   {
    "id": "B230_f48",
@@ -379,8 +412,9 @@
    "end": 24432,
    "dur": 1.1,
    "speaker": "Metal Gear",
-   "en": "Emergency lights on.",
-   "enabled": true
+   "en": "Включено аварийное освещение.",
+   "enabled": true,
+   "en_src": "Emergency lights on."
   },
   {
    "id": "B230_f49",
@@ -390,8 +424,9 @@
    "end": 24560,
    "dur": 0.7,
    "speaker": "Gillian",
-   "en": "Did he get away?",
-   "enabled": true
+   "en": "Он сбежал?",
+   "enabled": true,
+   "en_src": "Did he get away?"
   },
   {
    "id": "B230_f50",
@@ -401,8 +436,9 @@
    "end": 24720,
    "dur": 1.0,
    "speaker": "Metal Gear",
-   "en": "Let's go after him!",
-   "enabled": true
+   "en": "За ним!",
+   "enabled": true,
+   "en_src": "Let's go after him!"
   },
   {
    "id": "B230_f51",
@@ -412,8 +448,9 @@
    "end": 25200,
    "dur": 3.1,
    "speaker": "Gillian",
-   "en": "He's not getting away! He can't leave headquarters!",
-   "enabled": true
+   "en": "Не уйдёт! Из штаба ему не выбраться!",
+   "enabled": true,
+   "en_src": "He's not getting away! He can't leave headquarters!"
   },
   {
    "id": "B230_f52",
@@ -423,9 +460,10 @@
    "end": 25648,
    "dur": 2.9,
    "speaker": "Metal Gear",
-   "en": "The Snatcher is wounded. Let's follow the blood.",
+   "en": "Снатчер ранен. Пойдём по следу крови.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "The Snatcher is wounded. Let's follow the blood."
   },
   {
    "id": "B230_f53",
@@ -435,8 +473,9 @@
    "end": 26208,
    "dur": 3.6,
    "speaker": "Metal Gear",
-   "en": "The shield was open. Did Mika open it?",
-   "enabled": true
+   "en": "Щит открыт. Это Мика открыла?",
+   "enabled": true,
+   "en_src": "The shield was open. Did Mika open it?"
   },
   {
    "id": "B230_f54",
@@ -446,8 +485,9 @@
    "end": 26544,
    "dur": 2.1,
    "speaker": "Gillian",
-   "en": "Huh? Mika's gone!",
-   "enabled": true
+   "en": "А? Мика пропала!",
+   "enabled": true,
+   "en_src": "Huh? Mika's gone!"
   },
   {
    "id": "B230_f55",
@@ -457,8 +497,9 @@
    "end": 26608,
    "dur": 0.3,
    "speaker": "Gillian",
-   "en": "What happened?",
-   "enabled": true
+   "en": "Что случилось?",
+   "enabled": true,
+   "en_src": "What happened?"
   },
   {
    "id": "B230_f56",
@@ -468,8 +509,9 @@
    "end": 26768,
    "dur": 1.0,
    "speaker": "Metal Gear",
-   "en": "The power went out.",
-   "enabled": true
+   "en": "Пропало питание.",
+   "enabled": true,
+   "en_src": "The power went out."
   },
   {
    "id": "B230_f57",
@@ -479,8 +521,9 @@
    "end": 27072,
    "dur": 1.9,
    "speaker": "Chief",
-   "en": "Don't move, Gillian Seed.",
-   "enabled": true
+   "en": "Не двигайся, Гиллиан Сид.",
+   "enabled": true,
+   "en_src": "Don't move, Gillian Seed."
   },
   {
    "id": "B230_f58",
@@ -490,8 +533,9 @@
    "end": 27280,
    "dur": 1.3,
    "speaker": "Gillian",
-   "en": "Cunningham! It's you!",
-   "enabled": true
+   "en": "Каннингем! Это ты!",
+   "enabled": true,
+   "en_src": "Cunningham! It's you!"
   },
   {
    "id": "B230_f59",
@@ -501,8 +545,9 @@
    "end": 27600,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "Movement detected. He's in here.",
-   "enabled": true
+   "en": "Есть движение. Он здесь.",
+   "enabled": true,
+   "en_src": "Movement detected. He's in here."
   },
   {
    "id": "B230_f60",
@@ -512,8 +557,9 @@
    "end": 27824,
    "dur": 1.4,
    "speaker": "Gillian",
-   "en": "Where are you? Show yourself!",
-   "enabled": true
+   "en": "Где ты? Покажись!",
+   "enabled": true,
+   "en_src": "Where are you? Show yourself!"
   },
   {
    "id": "B230_f61",
@@ -523,8 +569,9 @@
    "end": 28656,
    "dur": 10.8,
    "speaker": "Chief",
-   "en": "Ha ha ha! I'm right here. I'm not running or hiding.",
-   "enabled": true
+   "en": "Ха-ха-ха! Я здесь. Я не бегу и не прячусь.",
+   "enabled": true,
+   "en_src": "Ha ha ha! I'm right here. I'm not running or hiding."
   },
   {
    "id": "B230_f62",
@@ -534,8 +581,9 @@
    "end": 28736,
    "dur": 0.4,
    "speaker": "Gillian",
-   "en": "Mika!",
-   "enabled": true
+   "en": "Мика!",
+   "enabled": true,
+   "en_src": "Mika!"
   },
   {
    "id": "B230_f63",
@@ -545,8 +593,9 @@
    "end": 29248,
    "dur": 3.3,
    "speaker": "Mika",
-   "en": "No! Stay back, Gillian! It's a trap!",
-   "enabled": true
+   "en": "Нет! Не подходи, Гиллиан! Это ловушка!",
+   "enabled": true,
+   "en_src": "No! Stay back, Gillian! It's a trap!"
   },
   {
    "id": "B230_f64",
@@ -556,8 +605,9 @@
    "end": 29488,
    "dur": 1.5,
    "speaker": "Gillian",
-   "en": "You coward! A hostage?",
-   "enabled": true
+   "en": "Трус! Прикрываешься заложницей?",
+   "enabled": true,
+   "en_src": "You coward! A hostage?"
   },
   {
    "id": "B230_f65",
@@ -567,8 +617,9 @@
    "end": 29882,
    "dur": 6.7,
    "speaker": "Chief",
-   "en": "Go ahead, Gillian! Shoot if you dare!",
-   "enabled": true
+   "en": "Давай, Гиллиан! Стреляй, если осмелишься!",
+   "enabled": true,
+   "en_src": "Go ahead, Gillian! Shoot if you dare!"
   },
   {
    "id": "B230_f65b",
@@ -578,8 +629,9 @@
    "end": 30640,
    "dur": 16.1,
    "speaker": "Chief",
-   "en": "But if your hand slips, I can't promise she'll live!",
-   "enabled": true
+   "en": "Но если рука дрогнет, за её жизнь не ручаюсь!",
+   "enabled": true,
+   "en_src": "But if your hand slips, I can't promise she'll live!"
   },
   {
    "id": "B230_f66",
@@ -589,8 +641,9 @@
    "end": 31488,
    "dur": 5.5,
    "speaker": "Mika",
-   "en": "Gillian, shoot! Kill the Snatcher! Don't worry about me!",
-   "enabled": true
+   "en": "Гиллиан, стреляй! Убей снатчера! Не думай обо мне!",
+   "enabled": true,
+   "en_src": "Gillian, shoot! Kill the Snatcher! Don't worry about me!"
   },
   {
    "id": "B230_f67",
@@ -600,8 +653,9 @@
    "end": 31584,
    "dur": 0.5,
    "speaker": "Gillian",
-   "en": "Mika!",
-   "enabled": true
+   "en": "Мика!",
+   "enabled": true,
+   "en_src": "Mika!"
   },
   {
    "id": "B230_f68",
@@ -611,8 +665,9 @@
    "end": 31680,
    "dur": 0.5,
    "speaker": "Metal Gear",
-   "en": "What do we do?",
-   "enabled": true
+   "en": "Что будем делать?",
+   "enabled": true,
+   "en_src": "What do we do?"
   },
   {
    "id": "B230_f69",
@@ -622,9 +677,10 @@
    "end": 32032,
    "dur": 2.2,
    "speaker": "Chief",
-   "en": "Here I come, JUNKER!",
+   "en": "Иду к тебе, ДЖАНКЕР!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Here I come, JUNKER!"
   },
   {
    "id": "B230_f70",
@@ -634,8 +690,9 @@
    "end": 32395,
    "dur": 2.3,
    "speaker": "TV",
-   "en": "With twelve hours until the Kyoto Summit,",
-   "enabled": true
+   "en": "До Киотского саммита остаётся двенадцать часов,",
+   "enabled": true,
+   "en_src": "With twelve hours until the Kyoto Summit,"
   },
   {
    "id": "B230_f70b",
@@ -645,8 +702,9 @@
    "end": 32976,
    "dur": 3.9,
    "speaker": "TV",
-   "en": "delegates from around the world are arriving in Kyoto.",
-   "enabled": true
+   "en": "в Киото съезжаются делегаты со всего мира.",
+   "enabled": true,
+   "en_src": "delegates from around the world are arriving in Kyoto."
   },
   {
    "id": "B230_f71",
@@ -656,8 +714,9 @@
    "end": 33599,
    "dur": 4.0,
    "speaker": "TV",
-   "en": "Recent polls at home and abroad show growing support",
-   "enabled": true
+   "en": "Опросы в стране и за рубежом показывают рост поддержки",
+   "enabled": true,
+   "en_src": "Recent polls at home and abroad show growing support"
   },
   {
    "id": "B230_f71b",
@@ -667,8 +726,9 @@
    "end": 34156,
    "dur": 3.8,
    "speaker": "TV",
-   "en": "for a complete quarantine of Neo Kobe,",
-   "enabled": true
+   "en": "полного карантина Нео-Кобе,",
+   "enabled": true,
+   "en_src": "for a complete quarantine of Neo Kobe,"
   },
   {
    "id": "B230_f71c",
@@ -678,9 +738,10 @@
    "end": 34544,
    "dur": 2.6,
    "speaker": "TV",
-   "en": "apparently driven by fears of Snatcher infiltration.",
+   "en": "по-видимому, из-за страха перед снатчерами.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "apparently driven by fears of Snatcher infiltration."
   },
   {
    "id": "B230_h_00",
@@ -690,8 +751,9 @@
    "end": 79264,
    "dur": 4.6,
    "speaker": "Gillian",
-   "en": "Old man!",
-   "enabled": true
+   "en": "Старина!",
+   "enabled": true,
+   "en_src": "Old man!"
   },
   {
    "id": "B230_h_01",
@@ -701,8 +763,9 @@
    "end": 80731,
    "dur": 9.8,
    "speaker": "Harry",
-   "en": "Oh, Gillian. I've gotten old. Look at me.",
-   "enabled": true
+   "en": "А, Гиллиан. Постарел я. Глянь на меня.",
+   "enabled": true,
+   "en_src": "Oh, Gillian. I've gotten old. Look at me."
   },
   {
    "id": "B230_h_04",
@@ -712,8 +775,9 @@
    "end": 81124,
    "dur": 2.6,
    "speaker": "Gillian",
-   "en": "What happened?",
-   "enabled": true
+   "en": "Что случилось?",
+   "enabled": true,
+   "en_src": "What happened?"
   },
   {
    "id": "B230_h_05",
@@ -723,8 +787,9 @@
    "end": 82221,
    "dur": 8.2,
    "speaker": "Harry",
-   "en": "I saw the chief tampering with your car.",
-   "enabled": true
+   "en": "Я видел, как шеф копался в твоей машине.",
+   "enabled": true,
+   "en_src": "I saw the chief tampering with your car."
   },
   {
    "id": "B230_h_05b",
@@ -734,8 +799,9 @@
    "end": 83058,
    "dur": 10.3,
    "speaker": "Harry",
-   "en": "And that strange picture in his office.",
-   "enabled": true
+   "en": "И ту странную картину у него в кабинете.",
+   "enabled": true,
+   "en_src": "And that strange picture in his office."
   },
   {
    "id": "B230_h_07",
@@ -745,8 +811,9 @@
    "end": 84075,
    "dur": 6.8,
    "speaker": "Gillian",
-   "en": "Metal, how is he? Metal!",
-   "enabled": true
+   "en": "Метал, как он? Метал!",
+   "enabled": true,
+   "en_src": "Metal, how is he? Metal!"
   },
   {
    "id": "B230_h_09",
@@ -756,8 +823,9 @@
    "end": 84648,
    "dur": 3.8,
    "speaker": "Metal Gear",
-   "en": "I can't tell you.",
-   "enabled": true
+   "en": "Не могу сказать.",
+   "enabled": true,
+   "en_src": "I can't tell you."
   },
   {
    "id": "B230_h_10",
@@ -767,8 +835,9 @@
    "end": 85065,
    "dur": 2.8,
    "speaker": "Gillian",
-   "en": "That bad?",
-   "enabled": true
+   "en": "Так плохо?",
+   "enabled": true,
+   "en_src": "That bad?"
   },
   {
    "id": "B230_h_11",
@@ -778,8 +847,9 @@
    "end": 86476,
    "dur": 15.8,
    "speaker": "Harry",
-   "en": "Gillian, when I confronted him, he showed his true form.",
-   "enabled": true
+   "en": "Гиллиан, когда я его припёр, он показал истинный облик.",
+   "enabled": true,
+   "en_src": "Gillian, when I confronted him, he showed his true form."
   },
   {
    "id": "B230_h_11b",
@@ -789,8 +859,9 @@
    "end": 87362,
    "dur": 8.2,
    "speaker": "Harry",
-   "en": "All I could do was wound him.",
-   "enabled": true
+   "en": "Я смог его только ранить.",
+   "enabled": true,
+   "en_src": "All I could do was wound him."
   },
   {
    "id": "B230_h_13",
@@ -800,8 +871,9 @@
    "end": 88460,
    "dur": 7.3,
    "speaker": "Gillian",
-   "en": "I understand, old man. Don't talk. Metal, can't you do something?",
-   "enabled": true
+   "en": "Понимаю, старина. Молчи. Метал, сделай же что-нибудь!",
+   "enabled": true,
+   "en_src": "I understand, old man. Don't talk. Metal, can't you do something?"
   },
   {
    "id": "B230_h_16",
@@ -811,8 +883,9 @@
    "end": 89039,
    "dur": 3.9,
    "speaker": "Harry",
-   "en": "Gillian.",
-   "enabled": true
+   "en": "Гиллиан.",
+   "enabled": true,
+   "en_src": "Gillian."
   },
   {
    "id": "B230_h_17",
@@ -822,8 +895,9 @@
    "end": 90032,
    "dur": 6.7,
    "speaker": "Gillian",
-   "en": "You'll be fine. He says it's just a scratch. Good timing.",
-   "enabled": true
+   "en": "Ты поправишься. Он говорит, это царапина. Вот и славно.",
+   "enabled": true,
+   "en_src": "You'll be fine. He says it's just a scratch. Good timing."
   },
   {
    "id": "B230_h_17b",
@@ -833,8 +907,9 @@
    "end": 91220,
    "dur": 7.9,
    "speaker": "Gillian",
-   "en": "Why not take some time off and relax? You've been working too hard.",
-   "enabled": true
+   "en": "Возьми отпуск, отдохни. Ты слишком много работал.",
+   "enabled": true,
+   "en_src": "Why not take some time off and relax? You've been working too hard."
   },
   {
    "id": "B230_h_22",
@@ -844,8 +919,9 @@
    "end": 92785,
    "dur": 10.5,
    "speaker": "Harry",
-   "en": "It's all right. I know my own body. You're a good man.",
-   "enabled": true
+   "en": "Не надо. Я своё тело знаю. Хороший ты парень.",
+   "enabled": true,
+   "en_src": "It's all right. I know my own body. You're a good man."
   },
   {
    "id": "B230_h_25a",
@@ -855,8 +931,9 @@
    "end": 92935,
    "dur": 1.0,
    "speaker": "Gillian",
-   "en": "Old man...",
-   "enabled": true
+   "en": "Старина...",
+   "enabled": true,
+   "en_src": "Old man..."
   },
   {
    "id": "B230_h_25",
@@ -866,8 +943,9 @@
    "end": 93910,
    "dur": 6.2,
    "speaker": "Harry",
-   "en": "I like you. I can't quite explain it.",
-   "enabled": true
+   "en": "Ты мне нравишься. Сам не знаю почему.",
+   "enabled": true,
+   "en_src": "I like you. I can't quite explain it."
   },
   {
    "id": "B230_h_25b",
@@ -877,8 +955,9 @@
    "end": 94881,
    "dur": 10.3,
    "speaker": "Harry",
-   "en": "I've never been good at telling people how I feel. That's it.",
-   "enabled": true
+   "en": "Я никогда не умел говорить о чувствах. Вот так.",
+   "enabled": true,
+   "en_src": "I've never been good at telling people how I feel. That's it."
   },
   {
    "id": "B230_h_25c",
@@ -888,8 +967,9 @@
    "end": 95806,
    "dur": 7.7,
    "speaker": "Harry",
-   "en": "You remind me of what I remember of my father.",
-   "enabled": true
+   "en": "Ты напоминаешь мне отца - каким я его помню.",
+   "enabled": true,
+   "en_src": "You remind me of what I remember of my father."
   },
   {
    "id": "B230_h_29",
@@ -899,8 +979,9 @@
    "end": 96244,
    "dur": 2.9,
    "speaker": "Metal Gear",
-   "en": "Pulse and blood pressure dropping.",
-   "enabled": true
+   "en": "Пульс и давление падают.",
+   "enabled": true,
+   "en_src": "Pulse and blood pressure dropping."
   },
   {
    "id": "B230_h_30",
@@ -910,8 +991,9 @@
    "end": 97503,
    "dur": 8.4,
    "speaker": "Gillian",
-   "en": "Hang on, old man. We can share some Napoleon again.",
-   "enabled": true
+   "en": "Держись, старина. Мы ещё разопьём бутылочку \"Наполеона\".",
+   "enabled": true,
+   "en_src": "Hang on, old man. We can share some Napoleon again."
   },
   {
    "id": "B230_h_32",
@@ -921,8 +1003,9 @@
    "end": 98726,
    "dur": 8.2,
    "speaker": "Harry",
-   "en": "That sounds good. You, Jean and me. Metal, it's all right.",
-   "enabled": true
+   "en": "Неплохо бы. Ты, Жан и я. Метал, всё в порядке.",
+   "enabled": true,
+   "en_src": "That sounds good. You, Jean and me. Metal, it's all right."
   },
   {
    "id": "B230_h_32b",
@@ -932,8 +1015,9 @@
    "end": 99699,
    "dur": 6.8,
    "speaker": "Harry",
-   "en": "It's all right. I've always been alone, Gillian.",
-   "enabled": true
+   "en": "Всё хорошо. Я всегда был один, Гиллиан.",
+   "enabled": true,
+   "en_src": "It's all right. I've always been alone, Gillian."
   },
   {
    "id": "B230_h_32c",
@@ -943,8 +1027,9 @@
    "end": 100380,
    "dur": 5.1,
    "speaker": "Harry",
-   "en": "I never knew my parents or siblings.",
-   "enabled": true
+   "en": "Я не знал ни родителей, ни братьев с сёстрами.",
+   "enabled": true,
+   "en_src": "I never knew my parents or siblings."
   },
   {
    "id": "B230_h_32d",
@@ -954,8 +1039,9 @@
    "end": 101731,
    "dur": 9.2,
    "speaker": "Harry",
-   "en": "So I stubbornly went through life alone. Putting on a brave face.",
-   "enabled": true
+   "en": "Вот и шёл по жизни один, упрямо. Делал храброе лицо.",
+   "enabled": true,
+   "en_src": "So I stubbornly went through life alone. Putting on a brave face."
   },
   {
    "id": "B230_h_32e",
@@ -965,8 +1051,9 @@
    "end": 102638,
    "dur": 4.7,
    "speaker": "Harry",
-   "en": "Trusting no one. But I was wrong.",
-   "enabled": true
+   "en": "Никому не доверял. Но я ошибался.",
+   "enabled": true,
+   "en_src": "Trusting no one. But I was wrong."
   },
   {
    "id": "B230_h_41",
@@ -976,8 +1063,9 @@
    "end": 102983,
    "dur": 2.3,
    "speaker": "Metal Gear",
-   "en": "Blood pressure still falling.",
-   "enabled": true
+   "en": "Давление продолжает падать.",
+   "enabled": true,
+   "en_src": "Blood pressure still falling."
   },
   {
    "id": "B230_h_42",
@@ -987,8 +1075,9 @@
    "end": 103445,
    "dur": 3.1,
    "speaker": "Gillian",
-   "en": "Old man...",
-   "enabled": true
+   "en": "Старина...",
+   "enabled": true,
+   "en_src": "Old man..."
   },
   {
    "id": "B230_h_43",
@@ -998,8 +1087,9 @@
    "end": 105146,
    "dur": 11.2,
    "speaker": "Harry",
-   "en": "When Jean died, and now, I've felt human warmth. The human heart.",
-   "enabled": true
+   "en": "Когда погиб Жан, и сейчас, я ощутил тепло. Человеческое сердце.",
+   "enabled": true,
+   "en_src": "When Jean died, and now, I've felt human warmth. The human heart."
   },
   {
    "id": "B230_h_47",
@@ -1009,8 +1099,9 @@
    "end": 105500,
    "dur": 2.4,
    "speaker": "Gillian",
-   "en": "I understand.",
-   "enabled": true
+   "en": "Понимаю.",
+   "enabled": true,
+   "en_src": "I understand."
   },
   {
    "id": "B230_h_48",
@@ -1020,8 +1111,9 @@
    "end": 106664,
    "dur": 7.9,
    "speaker": "Harry",
-   "en": "Gillian. I wanted to live happily with everyone.",
-   "enabled": true
+   "en": "Гиллиан. Я хотел жить счастливо, со всеми.",
+   "enabled": true,
+   "en_src": "Gillian. I wanted to live happily with everyone."
   },
   {
    "id": "B230_h_48b",
@@ -1031,8 +1123,9 @@
    "end": 108388,
    "dur": 7.8,
    "speaker": "Harry",
-   "en": "For fifty years, I've wanted kindness.",
-   "enabled": true
+   "en": "Пятьдесят лет я хотел доброты.",
+   "enabled": true,
+   "en_src": "For fifty years, I've wanted kindness."
   },
   {
    "id": "B230_h_48c",
@@ -1042,8 +1135,9 @@
    "end": 108709,
    "dur": 5.7,
    "speaker": "Harry",
-   "en": "People who could trust each other.",
-   "enabled": true
+   "en": "Людей, которые доверяют друг другу.",
+   "enabled": true,
+   "en_src": "People who could trust each other."
   },
   {
    "id": "B230_h_56",
@@ -1053,8 +1147,9 @@
    "end": 109552,
    "dur": 5.6,
    "speaker": "Metal Gear",
-   "en": "He's in danger, Gillian.",
-   "enabled": true
+   "en": "Ему плохо, Гиллиан.",
+   "enabled": true,
+   "en_src": "He's in danger, Gillian."
   },
   {
    "id": "B230_h_57",
@@ -1064,8 +1159,9 @@
    "end": 110500,
    "dur": 6.7,
    "speaker": "Harry",
-   "en": "I've talked too much. I'm counting on you, Gillian.",
-   "enabled": true
+   "en": "Заболтался я. Надеюсь на тебя, Гиллиан.",
+   "enabled": true,
+   "en_src": "I've talked too much. I'm counting on you, Gillian."
   },
   {
    "id": "B230_h_57b",
@@ -1075,8 +1171,9 @@
    "end": 111334,
    "dur": 3.7,
    "speaker": "Harry",
-   "en": "Looks like they've come for me.",
-   "enabled": true
+   "en": "Похоже, за мной пришли.",
+   "enabled": true,
+   "en_src": "Looks like they've come for me."
   },
   {
    "id": "B230_h_57c",
@@ -1086,8 +1183,9 @@
    "end": 112042,
    "dur": 6.3,
    "speaker": "Harry",
-   "en": "Even a lonely old man gets someone to take him home.",
-   "enabled": true
+   "en": "Даже за одиноким стариком приходят, чтобы забрать домой.",
+   "enabled": true,
+   "en_src": "Even a lonely old man gets someone to take him home."
   },
   {
    "id": "B230_h_61",
@@ -1097,8 +1195,9 @@
    "end": 112639,
    "dur": 4.0,
    "speaker": "Gillian",
-   "en": "Old man!",
-   "enabled": true
+   "en": "Старина!",
+   "enabled": true,
+   "en_src": "Old man!"
   },
   {
    "id": "B230_h_62",
@@ -1108,8 +1207,9 @@
    "end": 114588,
    "dur": 13.0,
    "speaker": "Harry",
-   "en": "Gillian, you have to trust. The last JUNKER...",
-   "enabled": true
+   "en": "Гиллиан, надо доверять. Последний ДЖАНКЕР...",
+   "enabled": true,
+   "en_src": "Gillian, you have to trust. The last JUNKER..."
   },
   {
    "id": "B230_h_64",
@@ -1119,8 +1219,9 @@
    "end": 115146,
    "dur": 3.7,
    "speaker": "Mika",
-   "en": "Harry! Harry!",
-   "enabled": true
+   "en": "Гарри! Гарри!",
+   "enabled": true,
+   "en_src": "Harry! Harry!"
   },
   {
    "id": "B230_h_65",
@@ -1130,8 +1231,9 @@
    "end": 116577,
    "dur": 9.5,
    "speaker": "Metal Gear",
-   "en": "His pulse has stopped. His pupils are dilated.",
-   "enabled": true
+   "en": "Пульса нет. Зрачки расширены.",
+   "enabled": true,
+   "en_src": "His pulse has stopped. His pupils are dilated."
   },
   {
    "id": "B230_h_67",
@@ -1141,8 +1243,9 @@
    "end": 117423,
    "dur": 5.6,
    "speaker": "Gillian",
-   "en": "Cunningham! No, Snatcher! You'll pay for this!",
-   "enabled": true
+   "en": "Каннингем! Нет, снатчер! Ты за это заплатишь!",
+   "enabled": true,
+   "en_src": "Cunningham! No, Snatcher! You'll pay for this!"
   },
   {
    "id": "B230_h_69",
@@ -1152,8 +1255,9 @@
    "end": 117747,
    "dur": 2.2,
    "speaker": "Metal Gear",
-   "en": "There's no time to grieve.",
-   "enabled": true
+   "en": "Нет времени горевать.",
+   "enabled": true,
+   "en_src": "There's no time to grieve."
   },
   {
    "id": "B230_h_70",
@@ -1163,8 +1267,9 @@
    "end": 118311,
    "dur": 3.8,
    "speaker": "Metal Gear",
-   "en": "The Snatcher is still hiding inside headquarters.",
-   "enabled": true
+   "en": "Снатчер всё ещё прячется в штабе.",
+   "enabled": true,
+   "en_src": "The Snatcher is still hiding inside headquarters."
   },
   {
    "id": "B230_h_71",
@@ -1174,8 +1279,9 @@
    "end": 119504,
    "dur": 6.3,
    "speaker": "Gillian",
-   "en": "Listen, Metal. If I die, take Mika and get out.",
-   "enabled": true
+   "en": "Слушай, Метал. Если я погибну, забирай Мику и уходи.",
+   "enabled": true,
+   "en_src": "Listen, Metal. If I die, take Mika and get out."
   },
   {
    "id": "B230_h_71b",
@@ -1185,8 +1291,9 @@
    "end": 119984,
    "dur": 4.8,
    "speaker": "Gillian",
-   "en": "Blow up JUNKER headquarters. Understand?",
-   "enabled": true
+   "en": "Взорви штаб ДЖАНКЕРа. Понял?",
+   "enabled": true,
+   "en_src": "Blow up JUNKER headquarters. Understand?"
   },
   {
    "id": "B230_h_75",
@@ -1196,9 +1303,10 @@
    "end": 120686,
    "dur": 4.7,
    "speaker": "Metal Gear",
-   "en": "Understood. I hope it won't come to that.",
+   "en": "Понял. Надеюсь, до этого не дойдёт.",
    "enabled": true,
-   "by_text": true
+   "by_text": true,
+   "en_src": "Understood. I hope it won't come to that."
   },
   {
    "id": "B230_h_76",
@@ -1208,10 +1316,11 @@
    "end": 121329,
    "dur": 4.3,
    "speaker": "Metal Gear",
-   "en": "Where should we start looking?",
+   "en": "С чего начнём поиски?",
    "enabled": true,
    "last": true,
-   "by_text": true
+   "by_text": true,
+   "en_src": "Where should we start looking?"
   },
   {
    "id": "B230_a_00",
@@ -1221,8 +1330,9 @@
    "end": 94295,
    "dur": 4.1,
    "speaker": "Metal Gear",
-   "en": "The Snatcher has stopped functioning.",
-   "enabled": true
+   "en": "Снатчер прекратил функционировать.",
+   "enabled": true,
+   "en_src": "The Snatcher has stopped functioning."
   },
   {
    "id": "B230_a_01",
@@ -1232,8 +1342,9 @@
    "end": 94867,
    "dur": 3.8,
    "speaker": "Gillian",
-   "en": "Mika, are you all right?",
-   "enabled": true
+   "en": "Мика, ты цела?",
+   "enabled": true,
+   "en_src": "Mika, are you all right?"
   },
   {
    "id": "B230_a_02",
@@ -1243,8 +1354,9 @@
    "end": 95176,
    "dur": 2.1,
    "speaker": "Mika",
-   "en": "Yes. Thank you.",
-   "enabled": true
+   "en": "Да. Спасибо.",
+   "enabled": true,
+   "en_src": "Yes. Thank you."
   },
   {
    "id": "B230_a_03",
@@ -1254,8 +1366,9 @@
    "end": 96715,
    "dur": 10.3,
    "speaker": "Gillian",
-   "en": "We got him, Randam. It took a while, but I paid you back.",
-   "enabled": true
+   "en": "Мы достали его, Рэндам. Не сразу, но я вернул тебе долг.",
+   "enabled": true,
+   "en_src": "We got him, Randam. It took a while, but I paid you back."
   },
   {
    "id": "B230_a_04",
@@ -1265,8 +1378,9 @@
    "end": 97461,
    "dur": 5.0,
    "speaker": "Chief",
-   "en": "JUNKER! Don't think this is over!",
-   "enabled": true
+   "en": "ДЖАНКЕР! Не думай, что это конец!",
+   "enabled": true,
+   "en_src": "JUNKER! Don't think this is over!"
   },
   {
    "id": "B230_a_05",
@@ -1276,8 +1390,9 @@
    "end": 98244,
    "dur": 5.2,
    "speaker": "Metal Gear",
-   "en": "His last words. The Snatcher's energy is fading.",
-   "enabled": true
+   "en": "Его последние слова. Энергия снатчера угасает.",
+   "enabled": true,
+   "en_src": "His last words. The Snatcher's energy is fading."
   },
   {
    "id": "B230_a_06",
@@ -1287,8 +1402,9 @@
    "end": 98664,
    "dur": 8.1,
    "speaker": "Chief",
-   "en": "Queen Hospital was merely a facility",
-   "enabled": true
+   "en": "Больница \"Куин\" была лишь местом",
+   "enabled": true,
+   "en_src": "Queen Hospital was merely a facility"
   },
   {
    "id": "B230_a_06b",
@@ -1298,8 +1414,9 @@
    "end": 99605,
    "dur": 8.1,
    "speaker": "Chief",
-   "en": "for maintaining our artificial skin.",
-   "enabled": true
+   "en": "для ухода за нашей искусственной кожей.",
+   "enabled": true,
+   "en_src": "for maintaining our artificial skin."
   },
   {
    "id": "B230_a_06c",
@@ -1309,8 +1426,9 @@
    "end": 100176,
    "dur": 8.1,
    "speaker": "Chief",
-   "en": "There are still more of our comrades",
-   "enabled": true
+   "en": "Наших товарищей в этом городе",
+   "enabled": true,
+   "en_src": "There are still more of our comrades"
   },
   {
    "id": "B230_a_06d",
@@ -1320,8 +1438,9 @@
    "end": 101116,
    "dur": 9.7,
    "speaker": "Chief",
-   "en": "in this city than you can possibly imagine.",
-   "enabled": true
+   "en": "гораздо больше, чем ты можешь представить.",
+   "enabled": true,
+   "en_src": "in this city than you can possibly imagine."
   },
   {
    "id": "B230_a_06e",
@@ -1331,8 +1450,9 @@
    "end": 101968,
    "dur": 7.9,
    "speaker": "Chief",
-   "en": "Now we will begin the second phase.",
-   "enabled": true
+   "en": "Теперь мы начнём вторую фазу.",
+   "enabled": true,
+   "en_src": "Now we will begin the second phase."
   },
   {
    "id": "B230_a_06f",
@@ -1342,8 +1462,9 @@
    "end": 102946,
    "dur": 8.6,
    "speaker": "Chief",
-   "en": "For that, we need Dr. Lorraine's help.",
-   "enabled": true
+   "en": "Для этого нам нужна помощь доктора Лоррейн.",
+   "enabled": true,
+   "en_src": "For that, we need Dr. Lorraine's help."
   },
   {
    "id": "B230_a_06g",
@@ -1353,8 +1474,9 @@
    "end": 104523,
    "dur": 12.8,
    "speaker": "Chief",
-   "en": "You are insignificant, as long as your memory stays lost.",
-   "enabled": true
+   "en": "Пока к тебе не вернулась память, ты ничтожество.",
+   "enabled": true,
+   "en_src": "You are insignificant, as long as your memory stays lost."
   },
   {
    "id": "B230_a_06h",
@@ -1364,8 +1486,9 @@
    "end": 105498,
    "dur": 3.8,
    "speaker": "Chief",
-   "en": "Bad luck, JUNKER!",
-   "enabled": true
+   "en": "Не повезло, ДЖАНКЕР!",
+   "enabled": true,
+   "en_src": "Bad luck, JUNKER!"
   },
   {
    "id": "B230_a_13",
@@ -1375,8 +1498,9 @@
    "end": 106365,
    "dur": 11.6,
    "speaker": "Gillian",
-   "en": "My memory. Snatchers. Dr. Lorraine.",
-   "enabled": true
+   "en": "Моя память. Снатчеры. Доктор Лоррейн.",
+   "enabled": true,
+   "en_src": "My memory. Snatchers. Dr. Lorraine."
   },
   {
    "id": "B230_a_14",
@@ -1386,8 +1510,9 @@
    "end": 108755,
    "dur": 11.7,
    "speaker": "Mika",
-   "en": "Harry! Why? Why does it have to be the good people who die?",
-   "enabled": true
+   "en": "Гарри! Почему? Почему погибают именно хорошие люди?",
+   "enabled": true,
+   "en_src": "Harry! Why? Why does it have to be the good people who die?"
   },
   {
    "id": "B230_a_18",
@@ -1397,8 +1522,9 @@
    "end": 108946,
    "dur": 1.3,
    "speaker": "Gillian",
-   "en": "Mika.",
-   "enabled": true
+   "en": "Мика.",
+   "enabled": true,
+   "en_src": "Mika."
   },
   {
    "id": "B230_a_19",
@@ -1408,8 +1534,9 @@
    "end": 109284,
    "dur": 2.3,
    "speaker": "Mika",
-   "en": "This isn't right!",
-   "enabled": true
+   "en": "Это несправедливо!",
+   "enabled": true,
+   "en_src": "This isn't right!"
   },
   {
    "id": "B230_a_20",
@@ -1419,8 +1546,9 @@
    "end": 110452,
    "dur": 8.6,
    "speaker": "Gillian",
-   "en": "Mika, I won't let anyone else die. I swore to Harry and Randam.",
-   "enabled": true
+   "en": "Мика, больше никто не умрёт. Я поклялся Гарри и Рэндаму.",
+   "enabled": true,
+   "en_src": "Mika, I won't let anyone else die. I swore to Harry and Randam."
   },
   {
    "id": "B230_a_20b",
@@ -1430,8 +1558,9 @@
    "end": 110863,
    "dur": 5.4,
    "speaker": "Gillian",
-   "en": "There are still Snatchers in this city.",
-   "enabled": true
+   "en": "В городе ещё остались снатчеры.",
+   "enabled": true,
+   "en_src": "There are still Snatchers in this city."
   },
   {
    "id": "B230_a_20c",
@@ -1441,9 +1570,10 @@
    "end": 112288,
    "dur": 5.9,
    "speaker": "Gillian",
-   "en": "Our fight against them has only just begun.",
+   "en": "Наша борьба с ними только началась.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Our fight against them has only just begun."
   },
   {
    "id": "B230_j_00",
@@ -1453,8 +1583,9 @@
    "end": 114586,
    "dur": 11.1,
    "speaker": "Metal Gear",
-   "en": "Gillian, an urgent call from Jamie. I'll connect you.",
-   "enabled": true
+   "en": "Гиллиан, срочный вызов от Джейми. Соединяю.",
+   "enabled": true,
+   "en_src": "Gillian, an urgent call from Jamie. I'll connect you."
   },
   {
    "id": "B230_j_01",
@@ -1464,8 +1595,9 @@
    "end": 115045,
    "dur": 3.1,
    "speaker": "Jamie",
-   "en": "Gillian, my memory's back!",
-   "enabled": true
+   "en": "Гиллиан, ко мне вернулась память!",
+   "enabled": true,
+   "en_src": "Gillian, my memory's back!"
   },
   {
    "id": "B230_j_02",
@@ -1475,8 +1607,9 @@
    "end": 115893,
    "dur": 5.6,
    "speaker": "Gillian",
-   "en": "Your memory's back? Who are we?",
-   "enabled": true
+   "en": "Вернулась память? Кто мы?",
+   "enabled": true,
+   "en_src": "Your memory's back? Who are we?"
   },
   {
    "id": "B230_j_04",
@@ -1486,8 +1619,9 @@
    "end": 116331,
    "dur": 2.9,
    "speaker": "Jamie",
-   "en": "We did something terrible.",
-   "enabled": true
+   "en": "Мы сделали нечто ужасное.",
+   "enabled": true,
+   "en_src": "We did something terrible."
   },
   {
    "id": "B230_j_05",
@@ -1497,8 +1631,9 @@
    "end": 116574,
    "dur": 1.6,
    "speaker": "Gillian",
-   "en": "Jamie, what's wrong?",
-   "enabled": true
+   "en": "Джейми, что случилось?",
+   "enabled": true,
+   "en_src": "Jamie, what's wrong?"
   },
   {
    "id": "B230_j_06",
@@ -1508,8 +1643,9 @@
    "end": 117221,
    "dur": 5.1,
    "speaker": "Jamie",
-   "en": "I can't say it over the videophone!",
-   "enabled": true
+   "en": "Я не могу сказать это по видеофону!",
+   "enabled": true,
+   "en_src": "I can't say it over the videophone!"
   },
   {
    "id": "B230_j_06b",
@@ -1519,8 +1655,9 @@
    "end": 117806,
    "dur": 3.1,
    "speaker": "Jamie",
-   "en": "I'd rather my memory had never come back!",
-   "enabled": true
+   "en": "Лучше бы память не возвращалась!",
+   "enabled": true,
+   "en_src": "I'd rather my memory had never come back!"
   },
   {
    "id": "B230_j_09",
@@ -1530,8 +1667,9 @@
    "end": 118405,
    "dur": 4.0,
    "speaker": "Gillian",
-   "en": "All right, Jamie. I'll be right there! Where are you?",
-   "enabled": true
+   "en": "Ладно, Джейми. Я сейчас буду! Где ты?",
+   "enabled": true,
+   "en_src": "All right, Jamie. I'll be right there! Where are you?"
   },
   {
    "id": "B230_j_11",
@@ -1541,8 +1679,9 @@
    "end": 119065,
    "dur": 4.3,
    "speaker": "Jamie",
-   "en": "I never should have woken... Gillian, I'm sorry. I can't tell you.",
-   "enabled": true
+   "en": "Зря я проснулась... Прости, Гиллиан. Не могу сказать.",
+   "enabled": true,
+   "en_src": "I never should have woken... Gillian, I'm sorry. I can't tell you."
   },
   {
    "id": "B230_j_11b",
@@ -1552,8 +1691,9 @@
    "end": 119359,
    "dur": 2.1,
    "speaker": "Jamie",
-   "en": "They're holding the child hostage.",
-   "enabled": true
+   "en": "Ребёнок у них в заложниках.",
+   "enabled": true,
+   "en_src": "They're holding the child hostage."
   },
   {
    "id": "B230_j_14",
@@ -1563,8 +1703,9 @@
    "end": 119542,
    "dur": 1.2,
    "speaker": "Gillian",
-   "en": "The child?",
-   "enabled": true
+   "en": "Ребёнок?",
+   "enabled": true,
+   "en_src": "The child?"
   },
   {
    "id": "B230_j_15",
@@ -1574,8 +1715,9 @@
    "end": 119835,
    "dur": 2.0,
    "speaker": "Jamie",
-   "en": "Dr. Madnar is here, too.",
-   "enabled": true
+   "en": "Доктор Мэднар тоже здесь.",
+   "enabled": true,
+   "en_src": "Dr. Madnar is here, too."
   },
   {
    "id": "B230_j_16",
@@ -1585,8 +1727,9 @@
    "end": 120045,
    "dur": 1.4,
    "speaker": "Gillian",
-   "en": "What are you talking about, Jamie?",
-   "enabled": true
+   "en": "О чём ты, Джейми?",
+   "enabled": true,
+   "en_src": "What are you talking about, Jamie?"
   },
   {
    "id": "B230_j_17",
@@ -1596,8 +1739,9 @@
    "end": 121139,
    "dur": 7.2,
    "speaker": "Jamie",
-   "en": "I'm sorry. Snatchers! Gillian!",
-   "enabled": true
+   "en": "Прости. Снатчеры! Гиллиан!",
+   "enabled": true,
+   "en_src": "I'm sorry. Snatchers! Gillian!"
   },
   {
    "id": "B230_j_20",
@@ -1607,8 +1751,9 @@
    "end": 121216,
    "dur": 0.6,
    "speaker": "Gillian",
-   "en": "Jamie! Jamie!",
-   "enabled": true
+   "en": "Джейми! Джейми!",
+   "enabled": true,
+   "en_src": "Jamie! Jamie!"
   },
   {
    "id": "B230_j_23",
@@ -1618,8 +1763,9 @@
    "end": 122207,
    "dur": 13.4,
    "speaker": "Madnar",
-   "en": "Gillian. We have Dr. Lorraine. We just need her to help us a little.",
-   "enabled": true
+   "en": "Гиллиан. Доктор Лоррейн у нас. Она нам немного поможет.",
+   "enabled": true,
+   "en_src": "Gillian. We have Dr. Lorraine. We just need her to help us a little."
   },
   {
    "id": "B230_j_23b",
@@ -1629,9 +1775,10 @@
    "end": 124828,
    "dur": 10.6,
    "speaker": "Madnar",
-   "en": "At our Kremlin. Until then, behave yourself, Dr. Seed.",
+   "en": "В нашем \"Кремле\". А пока веди себя хорошо, доктор Сид.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "At our Kremlin. Until then, behave yourself, Dr. Seed."
   }
  ]
 }

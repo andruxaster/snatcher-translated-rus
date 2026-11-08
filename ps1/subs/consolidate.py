@@ -37,6 +37,7 @@ sys.path[:0] = [os.path.join(ROOT, d) for d in ('lib', 'lib/asr', 'ps1/tools', '
 
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 from subs_cue import CODES_PER_ROW
+from textcodec import is_narrow
 
 TR = os.path.join(ROOT, 'ps1', 'translation')
 GAP = 60                 # sectors between the pieces (0.4 s stereo, 0.8 s mono)
@@ -49,7 +50,7 @@ def ideal_cells(text):
     a cell, a lone one padded, a fullwidth character one."""
     cells, run = 0, 0
     for ch in text:
-        if ord(ch) < 0x80:
+        if is_narrow(ch):
             run += 1
         else:
             cells += (run + 1) // 2 + 1

@@ -15,8 +15,9 @@
    "end": 7293,
    "dur": 6.7,
    "speaker": "Metal Gear",
-   "en": "Snatchers hate dogs. This can't be their maintenance hospital.",
-   "enabled": true
+   "en": "Снатчеры ненавидят собак. Это не может быть их больница.",
+   "enabled": true,
+   "en_src": "Snatchers hate dogs. This can't be their maintenance hospital."
   },
   {
    "id": "B1B0_f9_0",
@@ -26,8 +27,9 @@
    "end": 7997,
    "dur": 4.6,
    "speaker": "Gillian",
-   "en": "Looks like we got the wrong place. So we're back to square one.",
-   "enabled": true
+   "en": "Похоже, не туда попали. Опять начинаем с нуля.",
+   "enabled": true,
+   "en_src": "Looks like we got the wrong place. So we're back to square one."
   },
   {
    "id": "B1B0_f10_0",
@@ -37,8 +39,9 @@
    "end": 8572,
    "dur": 3.7,
    "speaker": "Metal Gear",
-   "en": "Don't lose hope. We're just getting started.",
-   "enabled": true
+   "en": "Не отчаивайся. Мы только начали.",
+   "enabled": true,
+   "en_src": "Don't lose hope. We're just getting started."
   },
   {
    "id": "B1B0_f10_0b",
@@ -48,9 +51,10 @@
    "end": 8797,
    "dur": 1.5,
    "speaker": "Metal Gear",
-   "en": "Let's return to the Tricycle.",
+   "en": "Вернёмся к трициклу.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Let's return to the Tricycle."
   },
   {
    "id": "B1B0_f11_0",
@@ -60,8 +64,9 @@
    "end": 9053,
    "dur": 1.6,
    "speaker": "Gillian",
-   "en": "Oleen Hospital, huh?",
-   "enabled": true
+   "en": "Больница \"Олин\", значит?",
+   "enabled": true,
+   "en_src": "Oleen Hospital, huh?"
   },
   {
    "id": "B1B0_f12_0",
@@ -71,8 +76,9 @@
    "end": 9405,
    "dur": 2.2,
    "speaker": "Metal Gear",
-   "en": "Unfortunately, it seems we were on the wrong track.",
-   "enabled": true
+   "en": "К сожалению, мы, похоже, шли по ложному следу.",
+   "enabled": true,
+   "en_src": "Unfortunately, it seems we were on the wrong track."
   },
   {
    "id": "B1B0_f13_0",
@@ -82,9 +88,10 @@
    "end": 9709,
    "dur": 1.9,
    "speaker": "Gillian",
-   "en": "Yeah. Let's go, Metal.",
+   "en": "Ага. Пошли, Метал.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Yeah. Let's go, Metal."
   }
  ]
 }

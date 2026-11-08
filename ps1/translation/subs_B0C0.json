@@ -9,8 +9,9 @@
    "end": 5016,
    "dur": 1.2,
    "speaker": "Gillian",
-   "en": "What's this medicine for?",
-   "enabled": true
+   "en": "От чего это лекарство?",
+   "enabled": true,
+   "en_src": "What's this medicine for?"
   },
   {
    "id": "B0C0_001",
@@ -20,8 +21,9 @@
    "end": 5256,
    "dur": 1.5,
    "speaker": "Metal Gear",
-   "en": "I'll analyze it.",
-   "enabled": true
+   "en": "Сейчас проанализирую.",
+   "enabled": true,
+   "en_src": "I'll analyze it."
   },
   {
    "id": "B0C0_002",
@@ -31,8 +33,9 @@
    "end": 5768,
    "dur": 6.6,
    "speaker": "Metal Gear",
-   "en": "Antacids, a mucosal protectant, H2 blockers.",
-   "enabled": true
+   "en": "Антациды, гастропротектор, H2-блокаторы.",
+   "enabled": true,
+   "en_src": "Antacids, a mucosal protectant, H2 blockers."
   },
   {
    "id": "B0C0_002b",
@@ -42,8 +45,9 @@
    "end": 6264,
    "dur": 6.6,
    "speaker": "Metal Gear",
-   "en": "Medicine for stomach trouble.",
-   "enabled": true
+   "en": "Лекарство для желудка.",
+   "enabled": true,
+   "en_src": "Medicine for stomach trouble."
   },
   {
    "id": "B0C0_003",
@@ -53,8 +57,9 @@
    "end": 7284,
    "dur": 6.8,
    "speaker": "Gillian",
-   "en": "Gibson had stomach trouble, yet ate whale meat. Something's wrong.",
-   "enabled": true
+   "en": "У Гибсона больной желудок, а он ел китовое мясо. Странно.",
+   "enabled": true,
+   "en_src": "Gibson had stomach trouble, yet ate whale meat. Something's wrong."
   },
   {
    "id": "B0C0_003b",
@@ -64,9 +69,10 @@
    "end": 8024,
    "dur": 4.9,
    "speaker": "Gillian",
-   "en": "There must have been a reason he had to eat it.",
+   "en": "Должна быть причина, по которой он его ел.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "There must have been a reason he had to eat it."
   },
   {
    "id": "B0C0_004",
@@ -76,8 +82,9 @@
    "end": 10856,
    "dur": 5.7,
    "speaker": "Catherine",
-   "en": "I'm sorry. I'm Gibson's daughter, Catherine.",
-   "enabled": true
+   "en": "Простите. Я дочь Гибсона, Кэтрин.",
+   "enabled": true,
+   "en_src": "I'm sorry. I'm Gibson's daughter, Catherine."
   },
   {
    "id": "B0C0_005",
@@ -87,8 +94,9 @@
    "end": 11640,
    "dur": 2.6,
    "speaker": "Catherine",
-   "en": "What's wrong, Gillian?",
-   "enabled": true
+   "en": "Что с вами, Гиллиан?",
+   "enabled": true,
+   "en_src": "What's wrong, Gillian?"
   },
   {
    "id": "B0C0_006",
@@ -98,8 +106,9 @@
    "end": 12440,
    "dur": 5.2,
    "speaker": "Gillian",
-   "en": "I'm sorry, Catherine. Your father's death was my fault.",
-   "enabled": true
+   "en": "Прости, Кэтрин. Твой отец погиб по моей вине.",
+   "enabled": true,
+   "en_src": "I'm sorry, Catherine. Your father's death was my fault."
   },
   {
    "id": "B0C0_007",
@@ -109,8 +118,9 @@
    "end": 12632,
    "dur": 1.2,
    "speaker": "Catherine",
-   "en": "Gillian!",
-   "enabled": true
+   "en": "Гиллиан!",
+   "enabled": true,
+   "en_src": "Gillian!"
   },
   {
    "id": "B0C0_008",
@@ -120,8 +130,9 @@
    "end": 13336,
    "dur": 9.2,
    "speaker": "Gillian",
-   "en": "No. If I'd reached the scene a little sooner, your father...",
-   "enabled": true
+   "en": "Нет. Приди я на место чуть раньше, твой отец...",
+   "enabled": true,
+   "en_src": "No. If I'd reached the scene a little sooner, your father..."
   },
   {
    "id": "B0C0_009",
@@ -131,9 +142,10 @@
    "end": 14396,
    "dur": 7.9,
    "speaker": "Catherine",
-   "en": "No, I... I knew this could happen to my father.",
+   "en": "Нет, я... Я знала, что с отцом такое может случиться.",
    "enabled": true,
-   "cols": 11
+   "cols": 11,
+   "en_src": "No, I... I knew this could happen to my father."
   },
   {
    "id": "B0C0_009b",
@@ -143,9 +155,10 @@
    "end": 15290,
    "dur": 8.8,
    "speaker": "Catherine",
-   "en": "Every day I saw him off, I knew this day might come.",
+   "en": "Каждый день, провожая его, я знала, что этот день придёт.",
    "enabled": true,
-   "cols": 11
+   "cols": 11,
+   "en_src": "Every day I saw him off, I knew this day might come."
   },
   {
    "id": "B0C0_009c",
@@ -155,9 +168,10 @@
    "end": 16120,
    "dur": 8.8,
    "speaker": "Catherine",
-   "en": "Would it be today? Tomorrow? His work was dangerous.",
+   "en": "Сегодня? Завтра? У него была опасная работа.",
    "enabled": true,
-   "cols": 11
+   "cols": 11,
+   "en_src": "Would it be today? Tomorrow? His work was dangerous."
   },
   {
    "id": "B0C0_010",
@@ -167,8 +181,9 @@
    "end": 16360,
    "dur": 1.5,
    "speaker": "Gillian",
-   "en": "Catherine, are you...?",
-   "enabled": true
+   "en": "Кэтрин, ты...?",
+   "enabled": true,
+   "en_src": "Catherine, are you...?"
   },
   {
    "id": "B0C0_011",
@@ -178,8 +193,9 @@
    "end": 17064,
    "dur": 4.6,
    "speaker": "Catherine",
-   "en": "I am a JUNKER's daughter, after all. So...",
-   "enabled": true
+   "en": "Я ведь всё-таки дочь ДЖАНКЕРа. Так что...",
+   "enabled": true,
+   "en_src": "I am a JUNKER's daughter, after all. So..."
   },
   {
    "id": "B0C0_012",
@@ -189,8 +205,9 @@
    "end": 17336,
    "dur": 1.7,
    "speaker": "Gillian",
-   "en": "Will you be all right on your own?",
-   "enabled": true
+   "en": "Ты справишься одна?",
+   "enabled": true,
+   "en_src": "Will you be all right on your own?"
   },
   {
    "id": "B0C0_013",
@@ -200,8 +217,9 @@
    "end": 17870,
    "dur": 3.5,
    "speaker": "Catherine",
-   "en": "Don't worry. I can manage on my own.",
-   "enabled": true
+   "en": "Не волнуйтесь. Я справлюсь сама.",
+   "enabled": true,
+   "en_src": "Don't worry. I can manage on my own."
   },
   {
    "id": "B0C0_013b",
@@ -211,8 +229,9 @@
    "end": 18472,
    "dur": 2.8,
    "speaker": "Catherine",
-   "en": "Besides, I'm too tired to cry anymore.",
-   "enabled": true
+   "en": "К тому же я слишком устала, чтобы плакать.",
+   "enabled": true,
+   "en_src": "Besides, I'm too tired to cry anymore."
   },
   {
    "id": "B0C0_013c",
@@ -222,8 +241,9 @@
    "end": 18696,
    "dur": 1.4,
    "speaker": "Gillian",
-   "en": "Ah... Catherine...",
-   "enabled": true
+   "en": "Ах... Кэтрин...",
+   "enabled": true,
+   "en_src": "Ah... Catherine..."
   },
   {
    "id": "B0C0_014",
@@ -233,8 +253,9 @@
    "end": 19280,
    "dur": 7.6,
    "speaker": "Catherine",
-   "en": "Come on, Mr. JUNKER. You have work to do.",
-   "enabled": true
+   "en": "Ну же, господин ДЖАНКЕР. У вас есть работа.",
+   "enabled": true,
+   "en_src": "Come on, Mr. JUNKER. You have work to do."
   },
   {
    "id": "B0C0_014b",
@@ -244,8 +265,9 @@
    "end": 19848,
    "dur": 7.6,
    "speaker": "Catherine",
-   "en": "Keeping busy helps take my mind off it. So...",
-   "enabled": true
+   "en": "Когда я занята, мне легче отвлечься. Так что...",
+   "enabled": true,
+   "en_src": "Keeping busy helps take my mind off it. So..."
   },
   {
    "id": "B0C0_015",
@@ -255,8 +277,9 @@
    "end": 20280,
    "dur": 5.6,
    "speaker": "Gillian",
-   "en": "All right, Catherine. Then I'll need your help.",
-   "enabled": true
+   "en": "Хорошо, Кэтрин. Тогда мне понадобится твоя помощь.",
+   "enabled": true,
+   "en_src": "All right, Catherine. Then I'll need your help."
   },
   {
    "id": "B0C0_016",
@@ -266,8 +289,9 @@
    "end": 20712,
    "dur": 2.8,
    "speaker": "Catherine",
-   "en": "Alice is barking. Is something out there?",
-   "enabled": true
+   "en": "Алиса лает. Там кто-то есть?",
+   "enabled": true,
+   "en_src": "Alice is barking. Is something out there?"
   },
   {
    "id": "B0C0_017",
@@ -277,8 +301,9 @@
    "end": 20856,
    "dur": 0.9,
    "speaker": "Gillian",
-   "en": "A Snatcher?",
-   "enabled": true
+   "en": "Снатчер?",
+   "enabled": true,
+   "en_src": "A Snatcher?"
   },
   {
    "id": "B0C0_018",
@@ -288,9 +313,10 @@
    "end": 21016,
    "dur": 1.0,
    "speaker": "Gillian",
-   "en": "Wait here, Catherine!",
+   "en": "Жди здесь, Кэтрин!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Wait here, Catherine!"
   },
   {
    "id": "B0C0_f32_0",
@@ -300,8 +326,9 @@
    "end": 21288,
    "dur": 1.7,
    "speaker": "Gibson",
-   "en": "Observations on Snatchers.",
-   "enabled": true
+   "en": "Наблюдения о снатчерах.",
+   "enabled": true,
+   "en_src": "Observations on Snatchers."
   },
   {
    "id": "B0C0_f33_0",
@@ -311,8 +338,9 @@
    "end": 21998,
    "dur": 4.7,
    "speaker": "Gibson",
-   "en": "Why do Snatchers appear in winter? Why are they nocturnal?",
-   "enabled": true
+   "en": "Почему снатчеры появляются зимой? Почему они ночные?",
+   "enabled": true,
+   "en_src": "Why do Snatchers appear in winter? Why are they nocturnal?"
   },
   {
    "id": "B0C0_f33_0b",
@@ -322,8 +350,9 @@
    "end": 22488,
    "dur": 3.2,
    "speaker": "Gibson",
-   "en": "I have found the answers to these questions.",
-   "enabled": true
+   "en": "Я нашёл ответы на эти вопросы.",
+   "enabled": true,
+   "en_src": "I have found the answers to these questions."
   },
   {
    "id": "B0C0_f34_0",
@@ -333,8 +362,9 @@
    "end": 23015,
    "dur": 8.4,
    "speaker": "Gibson",
-   "en": "The Snatchers' vampire-like habits all serve one purpose:",
-   "enabled": true
+   "en": "Вампирские привычки снатчеров служат одной цели:",
+   "enabled": true,
+   "en_src": "The Snatchers' vampire-like habits all serve one purpose:"
   },
   {
    "id": "B0C0_f34_0b",
@@ -344,8 +374,9 @@
    "end": 23322,
    "dur": 2.6,
    "speaker": "Gibson",
-   "en": "avoiding sunlight.",
-   "enabled": true
+   "en": "избегать солнечного света.",
+   "enabled": true,
+   "en_src": "avoiding sunlight."
   },
   {
    "id": "B0C0_f34_0b2",
@@ -355,8 +386,9 @@
    "end": 24376,
    "dur": 12.0,
    "speaker": "Gibson",
-   "en": "They avoid sunlight because their artificial skin is imperfect.",
-   "enabled": true
+   "en": "Солнца они избегают из-за несовершенной искусственной кожи.",
+   "enabled": true,
+   "en_src": "They avoid sunlight because their artificial skin is imperfect."
   },
   {
    "id": "B0C0_f35_0",
@@ -366,8 +398,9 @@
    "end": 25229,
    "dur": 4.7,
    "speaker": "Gibson",
-   "en": "Prolonged exposure to ultraviolet light causes abnormal growth",
-   "enabled": true
+   "en": "Долгое воздействие ультрафиолета вызывает аномальный рост",
+   "enabled": true,
+   "en_src": "Prolonged exposure to ultraviolet light causes abnormal growth"
   },
   {
    "id": "B0C0_f35_0b",
@@ -377,8 +410,9 @@
    "end": 25640,
    "dur": 3.1,
    "speaker": "Gibson",
-   "en": "of melanocytes in the skin's basal layer,",
-   "enabled": true
+   "en": "меланоцитов в базальном слое кожи,",
+   "enabled": true,
+   "en_src": "of melanocytes in the skin's basal layer,"
   },
   {
    "id": "B0C0_f35_0c",
@@ -388,8 +422,9 @@
    "end": 26184,
    "dur": 4.1,
    "speaker": "Gibson",
-   "en": "producing a skin cancer resembling malignant melanoma.",
-   "enabled": true
+   "en": "а это рак кожи вроде злокачественной меланомы.",
+   "enabled": true,
+   "en_src": "producing a skin cancer resembling malignant melanoma."
   },
   {
    "id": "B0C0_f36_0",
@@ -399,8 +434,9 @@
    "end": 26632,
    "dur": 2.9,
    "speaker": "Gibson",
-   "en": "What humans call sunburn can be fatal to them.",
-   "enabled": true
+   "en": "То, что у людей - солнечный ожог, для них смертельно.",
+   "enabled": true,
+   "en_src": "What humans call sunburn can be fatal to them."
   },
   {
    "id": "B0C0_f37_0",
@@ -410,8 +446,9 @@
    "end": 26984,
    "dur": 2.4,
    "speaker": "Gibson",
-   "en": "This link between ultraviolet light and artificial",
-   "enabled": true
+   "en": "Связь ультрафиолета и искусственной",
+   "enabled": true,
+   "en_src": "This link between ultraviolet light and artificial"
   },
   {
    "id": "B0C0_f37_0b",
@@ -421,8 +458,9 @@
    "end": 27382,
    "dur": 2.6,
    "speaker": "Gibson",
-   "en": "skin should be the key to tracking down the Snatchers.",
-   "enabled": true
+   "en": "кожи должна стать ключом к поиску снатчеров.",
+   "enabled": true,
+   "en_src": "skin should be the key to tracking down the Snatchers."
   },
   {
    "id": "B0C0_f37_0d",
@@ -432,8 +470,9 @@
    "end": 28360,
    "dur": 10.4,
    "speaker": "Gibson",
-   "en": "Their artificial skin takes at least six months to fully settle.",
-   "enabled": true
+   "en": "Искусственная кожа приживается минимум полгода.",
+   "enabled": true,
+   "en_src": "Their artificial skin takes at least six months to fully settle."
   },
   {
    "id": "B0C0_f38_0",
@@ -443,8 +482,9 @@
    "end": 28984,
    "dur": 8.2,
    "speaker": "Gibson",
-   "en": "These findings suggest several ways to identify a Snatcher.",
-   "enabled": true
+   "en": "Из этого следуют несколько способов опознать снатчера.",
+   "enabled": true,
+   "en_src": "These findings suggest several ways to identify a Snatcher."
   },
   {
    "id": "B0C0_f39_0",
@@ -454,8 +494,9 @@
    "end": 29912,
    "dur": 12.2,
    "speaker": "Gibson",
-   "en": "1. Examine the skin. Check for signs of malignant melanoma.",
-   "enabled": true
+   "en": "1. Осмотреть кожу. Искать признаки меланомы.",
+   "enabled": true,
+   "en_src": "1. Examine the skin. Check for signs of malignant melanoma."
   },
   {
    "id": "B0C0_f40_0",
@@ -465,8 +506,9 @@
    "end": 30301,
    "dur": 3.6,
    "speaker": "Gibson",
-   "en": "2. Check for an odor.",
-   "enabled": true
+   "en": "2. Проверить запах.",
+   "enabled": true,
+   "en_src": "2. Check for an odor."
   },
   {
    "id": "B0C0_f40_0b",
@@ -476,8 +518,9 @@
    "end": 30487,
    "dur": 6.7,
    "speaker": "Gibson",
-   "en": "If the skin is cancerous,",
-   "enabled": true
+   "en": "Если кожа поражена раком,",
+   "enabled": true,
+   "en_src": "If the skin is cancerous,"
   },
   {
    "id": "B0C0_f40_0c",
@@ -487,8 +530,9 @@
    "end": 31048,
    "dur": 12.2,
    "speaker": "Gibson",
-   "en": "the cancer cells emit a distinctive foul smell.",
-   "enabled": true
+   "en": "раковые клетки издают характерный дурной запах.",
+   "enabled": true,
+   "en_src": "the cancer cells emit a distinctive foul smell."
   },
   {
    "id": "B0C0_f41_0",
@@ -498,8 +542,9 @@
    "end": 31362,
    "dur": 2.0,
    "speaker": "Gibson",
-   "en": "3. Check for pollen.",
-   "enabled": true
+   "en": "3. Проверить пыльцу.",
+   "enabled": true,
+   "en_src": "3. Check for pollen."
   },
   {
    "id": "B0C0_f41_0b",
@@ -509,8 +554,9 @@
    "end": 31958,
    "dur": 6.0,
    "speaker": "Gibson",
-   "en": "Snatchers seem to be hiding in an area",
-   "enabled": true
+   "en": "Похоже, снатчеры прячутся там,",
+   "enabled": true,
+   "en_src": "Snatchers seem to be hiding in an area"
   },
   {
    "id": "B0C0_f41_0bb",
@@ -520,8 +566,9 @@
    "end": 32405,
    "dur": 6.0,
    "speaker": "Gibson",
-   "en": "where a special cedar called Snow Cedar grows.",
-   "enabled": true
+   "en": "где растёт особый кедр - снежный кедр.",
+   "enabled": true,
+   "en_src": "where a special cedar called Snow Cedar grows."
   },
   {
    "id": "B0C0_f41_0c",
@@ -531,8 +578,9 @@
    "end": 33336,
    "dur": 10.4,
    "speaker": "Gibson",
-   "en": "Its pollen is always found wherever they appear.",
-   "enabled": true
+   "en": "Его пыльца есть везде, где они появляются.",
+   "enabled": true,
+   "en_src": "Its pollen is always found wherever they appear."
   },
   {
    "id": "B0C0_f42_0",
@@ -542,8 +590,9 @@
    "end": 33886,
    "dur": 6.5,
    "speaker": "Gibson",
-   "en": "Snow Cedar is an allergen that causes sore throats,",
-   "enabled": true
+   "en": "Снежный кедр - аллерген, вызывающий боль в горле,",
+   "enabled": true,
+   "en_src": "Snow Cedar is an allergen that causes sore throats,"
   },
   {
    "id": "B0C0_f42_0b",
@@ -553,8 +602,9 @@
    "end": 34040,
    "dur": 2.7,
    "speaker": "Gibson",
-   "en": "sneezing and more.",
-   "enabled": true
+   "en": "чихание и прочее.",
+   "enabled": true,
+   "en_src": "sneezing and more."
   },
   {
    "id": "B0C0_f43_0",
@@ -564,8 +614,9 @@
    "end": 34218,
    "dur": 1.8,
    "speaker": "Gibson",
-   "en": "4. Check for sunscreen.",
-   "enabled": true
+   "en": "4. Проверить крем от загара.",
+   "enabled": true,
+   "en_src": "4. Check for sunscreen."
   },
   {
    "id": "B0C0_f43_0b",
@@ -575,8 +626,9 @@
    "end": 34783,
    "dur": 3.3,
    "speaker": "Gibson",
-   "en": "Snatchers wear sunscreen even in midwinter",
-   "enabled": true
+   "en": "Снатчеры мажутся кремом от загара даже зимой,",
+   "enabled": true,
+   "en_src": "Snatchers wear sunscreen even in midwinter"
   },
   {
    "id": "B0C0_f43_0c",
@@ -586,8 +638,9 @@
    "end": 35352,
    "dur": 3.6,
    "speaker": "Gibson",
-   "en": "to protect their skin from ultraviolet light.",
-   "enabled": true
+   "en": "чтобы защитить кожу от ультрафиолета.",
+   "enabled": true,
+   "en_src": "to protect their skin from ultraviolet light."
   },
   {
    "id": "B0C0_f44_0",
@@ -597,8 +650,9 @@
    "end": 36010,
    "dur": 4.3,
    "speaker": "Gibson",
-   "en": "Sunscreen blocks medium-wave UV, which causes sunburn,",
-   "enabled": true
+   "en": "Крем блокирует средневолновый УФ, вызывающий ожог,",
+   "enabled": true,
+   "en_src": "Sunscreen blocks medium-wave UV, which causes sunburn,"
   },
   {
    "id": "B0C0_f44_0b",
@@ -608,8 +662,9 @@
    "end": 36664,
    "dur": 4.3,
    "speaker": "Gibson",
-   "en": "and long-wave UV, which causes tanning.",
-   "enabled": true
+   "en": "и длинноволновый УФ, вызывающий загар.",
+   "enabled": true,
+   "en_src": "and long-wave UV, which causes tanning."
   },
   {
    "id": "B0C0_f45_0",
@@ -619,8 +674,9 @@
    "end": 37224,
    "dur": 3.6,
    "speaker": "Gibson",
-   "en": "Of these clues, 1 and 4 should be especially useful.",
-   "enabled": true
+   "en": "Из этих признаков особенно полезны 1 и 4.",
+   "enabled": true,
+   "en_src": "Of these clues, 1 and 4 should be especially useful."
   },
   {
    "id": "B0C0_f46_0",
@@ -630,8 +686,9 @@
    "end": 37805,
    "dur": 7.5,
    "speaker": "Gibson",
-   "en": "They must also repair cancerous artificial skin,",
-   "enabled": true
+   "en": "Им также нужно лечить поражённую кожу,",
+   "enabled": true,
+   "en_src": "They must also repair cancerous artificial skin,"
   },
   {
    "id": "B0C0_f46_0b",
@@ -641,8 +698,9 @@
    "end": 38056,
    "dur": 3.3,
    "speaker": "Gibson",
-   "en": "not just prevent it.",
-   "enabled": true
+   "en": "а не только предотвращать рак.",
+   "enabled": true,
+   "en_src": "not just prevent it."
   },
   {
    "id": "B0C0_f47_0",
@@ -652,8 +710,9 @@
    "end": 38368,
    "dur": 2.0,
    "speaker": "Gibson",
-   "en": "At last, I have found their hospital.",
-   "enabled": true
+   "en": "Наконец я нашёл их больницу.",
+   "enabled": true,
+   "en_src": "At last, I have found their hospital."
   },
   {
    "id": "B0C0_f47_0b",
@@ -664,7 +723,8 @@
    "dur": 1.0,
    "speaker": "Gibson",
    "en": "P.S.",
-   "enabled": true
+   "enabled": true,
+   "en_src": "P.S."
   },
   {
    "id": "B0C0_f47_0c",
@@ -674,9 +734,10 @@
    "end": 39240,
    "dur": 3.3,
    "speaker": "Gibson",
-   "en": "Beware of a bounty hunter named Randam Hajile.",
+   "en": "Остерегайтесь охотника за головами по имени Рэндам Хаджайл.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Beware of a bounty hunter named Randam Hajile."
   },
   {
    "id": "B0C0_019",
@@ -686,8 +747,9 @@
    "end": 39464,
    "dur": 1.4,
    "speaker": "Gillian",
-   "en": "Oh, it's just a crow.",
-   "enabled": true
+   "en": "А, это просто ворона.",
+   "enabled": true,
+   "en_src": "Oh, it's just a crow."
   },
   {
    "id": "B0C0_020",
@@ -697,9 +759,10 @@
    "end": 39688,
    "dur": 1.4,
    "speaker": "Metal Gear",
-   "en": "What a needless scare!",
+   "en": "Напугались на пустом месте!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "What a needless scare!"
   },
   {
    "id": "B0C0_021",
@@ -709,9 +772,10 @@
    "end": 40248,
    "dur": 3.6,
    "speaker": "Catherine",
-   "en": "So that's what you're like? Get out! Don't come back!",
+   "en": "Так вот вы какой? Убирайтесь! И не возвращайтесь!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "So that's what you're like? Get out! Don't come back!"
   },
   {
    "id": "B0C0_022",
@@ -721,8 +785,9 @@
    "end": 40852,
    "dur": 3.9,
    "speaker": "Gillian",
-   "en": "I'll give you my address and videophone number, just in case.",
-   "enabled": true
+   "en": "Оставлю тебе свой адрес и номер видеофона, на всякий случай.",
+   "enabled": true,
+   "en_src": "I'll give you my address and videophone number, just in case."
   },
   {
    "id": "B0C0_022b",
@@ -732,8 +797,9 @@
    "end": 41048,
    "dur": 1.3,
    "speaker": "Gillian",
-   "en": "Call me if anything happens.",
-   "enabled": true
+   "en": "Звони, если что случится.",
+   "enabled": true,
+   "en_src": "Call me if anything happens."
   },
   {
    "id": "B0C0_023",
@@ -743,9 +809,10 @@
    "end": 41256,
    "dur": 1.3,
    "speaker": "Catherine",
-   "en": "Thank you. Goodbye.",
+   "en": "Спасибо. До свидания.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Thank you. Goodbye."
   }
  ],
  "options": {

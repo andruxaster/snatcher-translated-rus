@@ -72,3 +72,6 @@ fonts/
 
 # machine-specific dev paths (lib/devpaths.py); local_paths.example.json shows the keys
 local_paths.json
+
+# the BDF faces the build draws text with (public domain X11 misc-fixed, Tamzen)
+!lib/fonts/

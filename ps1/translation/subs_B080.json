@@ -16,8 +16,9 @@
    "end": 2904,
    "dur": 3.3,
    "speaker": "Chief",
-   "en": "Hey! No eating and drinking binges on expenses!",
-   "enabled": true
+   "en": "Эй! Никаких кутежей за казённый счёт!",
+   "enabled": true,
+   "en_src": "Hey! No eating and drinking binges on expenses!"
   },
   {
    "id": "B080_f2_0",
@@ -27,8 +28,9 @@
    "end": 3336,
    "dur": 2.8,
    "speaker": "Gillian",
-   "en": "W-what are you talking about?",
-   "enabled": true
+   "en": "О-о чём вы?",
+   "enabled": true,
+   "en_src": "W-what are you talking about?"
   },
   {
    "id": "B080_f3_0",
@@ -38,8 +40,9 @@
    "end": 3976,
    "dur": 4.2,
    "speaker": "Chief",
-   "en": "Don't play dumb. Metal Gear sends me all the data.",
-   "enabled": true
+   "en": "Не прикидывайся. Метал Гир присылает мне все данные.",
+   "enabled": true,
+   "en_src": "Don't play dumb. Metal Gear sends me all the data."
   },
   {
    "id": "B080_f4_0",
@@ -49,8 +52,9 @@
    "end": 4072,
    "dur": 0.5,
    "speaker": "Gillian",
-   "en": "Metal?",
-   "enabled": true
+   "en": "Метал?",
+   "enabled": true,
+   "en_src": "Metal?"
   },
   {
    "id": "B080_f5_0",
@@ -60,8 +64,9 @@
    "end": 4536,
    "dur": 3.0,
    "speaker": "Metal Gear",
-   "en": "Th-that's why I warned you.",
-   "enabled": true
+   "en": "Я-я же тебя предупреждал.",
+   "enabled": true,
+   "en_src": "Th-that's why I warned you."
   },
   {
    "id": "B080_f6_0",
@@ -71,9 +76,10 @@
    "end": 4824,
    "dur": 1.8,
    "speaker": "Chief",
-   "en": "Don't let it happen again.",
+   "en": "Чтобы больше такого не было.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Don't let it happen again."
   },
   {
    "id": "B080_042",
@@ -83,8 +89,9 @@
    "end": 5016,
    "dur": 1.2,
    "speaker": "Gillian",
-   "en": "What kind of medicine is this?",
-   "enabled": true
+   "en": "Что это за лекарство?",
+   "enabled": true,
+   "en_src": "What kind of medicine is this?"
   },
   {
    "id": "B080_043",
@@ -94,8 +101,9 @@
    "end": 5256,
    "dur": 1.5,
    "speaker": "Metal Gear",
-   "en": "I'll analyze it.",
-   "enabled": true
+   "en": "Сейчас проанализирую.",
+   "enabled": true,
+   "en_src": "I'll analyze it."
   },
   {
    "id": "B080_044",
@@ -105,8 +113,9 @@
    "end": 5768,
    "dur": 6.6,
    "speaker": "Metal Gear",
-   "en": "Antacids, mucosal protectants, H2 blockers.",
-   "enabled": true
+   "en": "Антациды, гастропротекторы, H2-блокаторы.",
+   "enabled": true,
+   "en_src": "Antacids, mucosal protectants, H2 blockers."
   },
   {
    "id": "B080_044b",
@@ -116,8 +125,9 @@
    "end": 6264,
    "dur": 6.6,
    "speaker": "Metal Gear",
-   "en": "Medicine for stomach ulcers.",
-   "enabled": true
+   "en": "Лекарство от язвы желудка.",
+   "enabled": true,
+   "en_src": "Medicine for stomach ulcers."
   },
   {
    "id": "B080_046",
@@ -127,8 +137,9 @@
    "end": 7020,
    "dur": 5.4,
    "speaker": "Gillian",
-   "en": "Gibson had serious stomach trouble, yet he ate whale meat.",
-   "enabled": true
+   "en": "У Гибсона был больной желудок, а он ел китовое мясо.",
+   "enabled": true,
+   "en_src": "Gibson had serious stomach trouble, yet he ate whale meat."
   },
   {
    "id": "B080_046b",
@@ -138,9 +149,10 @@
    "end": 8024,
    "dur": 6.3,
    "speaker": "Gillian",
-   "en": "There's something behind this. He must have had a reason to eat it.",
+   "en": "Тут что-то не так. У него была причина его есть.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "There's something behind this. He must have had a reason to eat it."
   },
   {
    "id": "B080_0_00",
@@ -150,8 +162,9 @@
    "end": 90535,
    "dur": 2.9,
    "speaker": "Metal Gear",
-   "en": "We're back at JUNKER HQ.",
-   "enabled": true
+   "en": "Мы вернулись в штаб ДЖАНКЕРа.",
+   "enabled": true,
+   "en_src": "We're back at JUNKER HQ."
   },
   {
    "id": "B080_0_01",
@@ -161,8 +174,9 @@
    "end": 90727,
    "dur": 1.3,
    "speaker": "Gillian",
-   "en": "We're back.",
-   "enabled": true
+   "en": "Мы вернулись.",
+   "enabled": true,
+   "en_src": "We're back."
   },
   {
    "id": "B080_0_02",
@@ -172,8 +186,9 @@
    "end": 91917,
    "dur": 7.9,
    "speaker": "Metal Gear",
-   "en": "Going inside. We're at the front desk.",
-   "enabled": true
+   "en": "Заходим. Мы в приёмной.",
+   "enabled": true,
+   "en_src": "Going inside. We're at the front desk."
   },
   {
    "id": "B080_0_04",
@@ -183,8 +198,9 @@
    "end": 92499,
    "dur": 3.9,
    "speaker": "Mika",
-   "en": "I heard about Jean, Gillian.",
-   "enabled": true
+   "en": "Я слышала о Жане, Гиллиан.",
+   "enabled": true,
+   "en_src": "I heard about Jean, Gillian."
   },
   {
    "id": "B080_0_05",
@@ -194,9 +210,10 @@
    "end": 92954,
    "dur": 3.0,
    "speaker": "Gillian",
-   "en": "I'm sorry. I was too inexperienced.",
+   "en": "Простите. Мне не хватило опыта.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "I'm sorry. I was too inexperienced."
   },
   {
    "id": "B080_0_06",
@@ -206,8 +223,9 @@
    "end": 93413,
    "dur": 3.1,
    "speaker": "Metal Gear",
-   "en": "You did well, Gillian.",
-   "enabled": true
+   "en": "Ты справился, Гиллиан.",
+   "enabled": true,
+   "en_src": "You did well, Gillian."
   },
   {
    "id": "B080_0_07",
@@ -217,8 +235,9 @@
    "end": 94426,
    "dur": 6.8,
    "speaker": "Mika",
-   "en": "That's right, Gillian. It wasn't your fault.",
-   "enabled": true
+   "en": "Верно, Гиллиан. Вы не виноваты.",
+   "enabled": true,
+   "en_src": "That's right, Gillian. It wasn't your fault."
   },
   {
    "id": "B080_0_08",
@@ -228,9 +247,10 @@
    "end": 95161,
    "dur": 4.9,
    "speaker": "Mika",
-   "en": "The Chief is waiting, Gillian.",
+   "en": "Шеф ждёт вас, Гиллиан.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "The Chief is waiting, Gillian."
   },
   {
    "id": "B080_0_09",
@@ -240,8 +260,9 @@
    "end": 95512,
    "dur": 2.3,
    "speaker": "Metal Gear",
-   "en": "The Chief's office.",
-   "enabled": true
+   "en": "Кабинет шефа.",
+   "enabled": true,
+   "en_src": "The Chief's office."
   },
   {
    "id": "B080_0_10",
@@ -251,8 +272,9 @@
    "end": 96123,
    "dur": 8.1,
    "speaker": "Chief",
-   "en": "A rough start to your new job, Seed. Well done.",
-   "enabled": true
+   "en": "Тяжёлое начало на новой работе, Сид. Молодец.",
+   "enabled": true,
+   "en_src": "A rough start to your new job, Seed. Well done."
   },
   {
    "id": "B080_0_10b",
@@ -262,8 +284,9 @@
    "end": 96651,
    "dur": 5.6,
    "speaker": "Chief",
-   "en": "Metal Gear's data showed me what happened at the scene.",
-   "enabled": true
+   "en": "Данные Метал Гира показали мне, что было на месте.",
+   "enabled": true,
+   "en_src": "Metal Gear's data showed me what happened at the scene."
   },
   {
    "id": "B080_0_10bb",
@@ -273,8 +296,9 @@
    "end": 97946,
    "dur": 13.8,
    "speaker": "Chief",
-   "en": "I'm sorry about Gibson. Carry on for him too, Seed.",
-   "enabled": true
+   "en": "Мне жаль Гибсона. Продолжай и ради него, Сид.",
+   "enabled": true,
+   "en_src": "I'm sorry about Gibson. Carry on for him too, Seed."
   },
   {
    "id": "B080_0_10d",
@@ -284,9 +308,10 @@
    "end": 100206,
    "dur": 8.6,
    "speaker": "Chief",
-   "en": "You're the only one who can fight the Snatchers now.",
+   "en": "Теперь только ты можешь сражаться со снатчерами.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "You're the only one who can fight the Snatchers now."
   },
   {
    "id": "B080_1_00",
@@ -296,8 +321,9 @@
    "end": 85593,
    "dur": 4.7,
    "speaker": "Harry",
-   "en": "Well, the JUNKER returns.",
-   "enabled": true
+   "en": "Ну вот, ДЖАНКЕР вернулся.",
+   "enabled": true,
+   "en_src": "Well, the JUNKER returns."
   },
   {
    "id": "B080_1_01",
@@ -307,8 +333,9 @@
    "end": 86109,
    "dur": 3.4,
    "speaker": "Metal Gear",
-   "en": "I'm detecting alcohol. He seems drunk.",
-   "enabled": true
+   "en": "Регистрирую алкоголь. Похоже, он пьян.",
+   "enabled": true,
+   "en_src": "I'm detecting alcohol. He seems drunk."
   },
   {
    "id": "B080_1_02",
@@ -318,8 +345,9 @@
    "end": 87892,
    "dur": 10.6,
    "speaker": "Harry",
-   "en": "I thought you were more capable than this. What good was the backup?",
-   "enabled": true
+   "en": "Я думал, ты способнее. Что толку от такой подмоги?",
+   "enabled": true,
+   "en_src": "I thought you were more capable than this. What good was the backup?"
   },
   {
    "id": "B080_1_02b",
@@ -329,8 +357,9 @@
    "end": 89259,
    "dur": 10.6,
    "speaker": "Harry",
-   "en": "If you'd been a little more capable, Jean might not have had to die.",
-   "enabled": true
+   "en": "Будь ты чуть толковее, Жану, может, не пришлось бы умирать.",
+   "enabled": true,
+   "en_src": "If you'd been a little more capable, Jean might not have had to die."
   },
   {
    "id": "B080_1_06",
@@ -340,8 +369,9 @@
    "end": 89574,
    "dur": 2.1,
    "speaker": "Metal Gear",
-   "en": "That's not true, Harry.",
-   "enabled": true
+   "en": "Это неправда, Гарри.",
+   "enabled": true,
+   "en_src": "That's not true, Harry."
   },
   {
    "id": "B080_1_07",
@@ -351,8 +381,9 @@
    "end": 90446,
    "dur": 5.8,
    "speaker": "Gillian",
-   "en": "It's all right, Metal. Harry's right.",
-   "enabled": true
+   "en": "Всё нормально, Метал. Гарри прав.",
+   "enabled": true,
+   "en_src": "It's all right, Metal. Harry's right."
   },
   {
    "id": "B080_1_08",
@@ -362,8 +393,9 @@
    "end": 91813,
    "dur": 9.1,
    "speaker": "Harry",
-   "en": "Jean... I'm sorry, lad. It wasn't your fault.",
-   "enabled": true
+   "en": "Жан... Прости, парень. Ты не виноват.",
+   "enabled": true,
+   "en_src": "Jean... I'm sorry, lad. It wasn't your fault."
   },
   {
    "id": "B080_1_09",
@@ -373,8 +405,9 @@
    "end": 92160,
    "dur": 7.0,
    "speaker": "Gillian",
-   "en": "Metal, give Harry Little John's memory chip,",
-   "enabled": true
+   "en": "Метал, отдай Гарри чип памяти Литл Джона,",
+   "enabled": true,
+   "en_src": "Metal, give Harry Little John's memory chip,"
   },
   {
    "id": "B080_1_09b",
@@ -384,8 +417,9 @@
    "end": 92601,
    "dur": 3.6,
    "speaker": "Gillian",
-   "en": "the one we found at the scene.",
-   "enabled": true
+   "en": "который мы нашли на месте.",
+   "enabled": true,
+   "en_src": "the one we found at the scene."
   },
   {
    "id": "B080_1_10",
@@ -395,9 +429,10 @@
    "end": 93672,
    "dur": 7.1,
    "speaker": "Metal Gear",
-   "en": "Understood. Here's Little John's memory, Harry.",
+   "en": "Понял. Вот память Литл Джона, Гарри.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Understood. Here's Little John's memory, Harry."
   },
   {
    "id": "B080_2_00",
@@ -407,8 +442,9 @@
    "end": 117237,
    "dur": 13.2,
    "speaker": "Chief",
-   "en": "Let's go over your report again. Metal Gear, if you would.",
-   "enabled": true
+   "en": "Пройдёмся по твоему отчёту ещё раз. Метал Гир, прошу.",
+   "enabled": true,
+   "en_src": "Let's go over your report again. Metal Gear, if you would."
   },
   {
    "id": "B080_2_01",
@@ -418,8 +454,9 @@
    "end": 118464,
    "dur": 7.2,
    "speaker": "Metal Gear",
-   "en": "Yes. I'll play back the footage I recorded.",
-   "enabled": true
+   "en": "Да. Воспроизвожу записанное видео.",
+   "enabled": true,
+   "en_src": "Yes. I'll play back the footage I recorded."
   },
   {
    "id": "B080_2_01b",
@@ -429,8 +466,9 @@
    "end": 118729,
    "dur": 4.5,
    "speaker": "Metal Gear",
-   "en": "After Gibson contacted you,",
-   "enabled": true
+   "en": "После звонка Гибсона",
+   "enabled": true,
+   "en_src": "After Gibson contacted you,"
   },
   {
    "id": "B080_2_01c",
@@ -440,8 +478,9 @@
    "end": 119448,
    "dur": 9.5,
    "speaker": "Metal Gear",
-   "en": "you went straight to the factory ruins in the M district.",
-   "enabled": true
+   "en": "ты сразу поехал на развалины завода в районе M.",
+   "enabled": true,
+   "en_src": "you went straight to the factory ruins in the M district."
   },
   {
    "id": "B080_2_01d",
@@ -451,8 +490,9 @@
    "end": 120401,
    "dur": 8.8,
    "speaker": "Metal Gear",
-   "en": "Someone had murdered Gibson inside the factory ruins.",
-   "enabled": true
+   "en": "На развалинах завода кто-то убил Гибсона.",
+   "enabled": true,
+   "en_src": "Someone had murdered Gibson inside the factory ruins."
   },
   {
    "id": "B080_2_01e",
@@ -462,8 +502,9 @@
    "end": 121376,
    "dur": 10.8,
    "speaker": "Metal Gear",
-   "en": "Hair and skin found on his body suggest two Snatchers killed him,",
-   "enabled": true
+   "en": "Волосы и кожа на теле говорят, что его убили двое снатчеров,",
+   "enabled": true,
+   "en_src": "Hair and skin found on his body suggest two Snatchers killed him,"
   },
   {
    "id": "B080_2_01f",
@@ -473,8 +514,9 @@
    "end": 121730,
    "dur": 4.0,
    "speaker": "Metal Gear",
-   "en": "one male and one female.",
-   "enabled": true
+   "en": "мужчина и женщина.",
+   "enabled": true,
+   "en_src": "one male and one female."
   },
   {
    "id": "B080_2_01g",
@@ -484,8 +526,9 @@
    "end": 122434,
    "dur": 8.2,
    "speaker": "Metal Gear",
-   "en": "Gibson's investigation records on the floppy disk",
-   "enabled": true
+   "en": "Записи расследования Гибсона на дискете",
+   "enabled": true,
+   "en_src": "Gibson's investigation records on the floppy disk"
   },
   {
    "id": "B080_2_01h",
@@ -495,8 +538,9 @@
    "end": 122941,
    "dur": 7.5,
    "speaker": "Metal Gear",
-   "en": "revealed a serious weakness in the Snatchers.",
-   "enabled": true
+   "en": "раскрыли серьёзную слабость снатчеров.",
+   "enabled": true,
+   "en_src": "revealed a serious weakness in the Snatchers."
   },
   {
    "id": "B080_2_01i",
@@ -506,8 +550,9 @@
    "end": 123958,
    "dur": 10.3,
    "speaker": "Metal Gear",
-   "en": "It seems the Snatchers killed Gibson because he discovered it.",
-   "enabled": true
+   "en": "Похоже, снатчеры убили Гибсона, потому что он её обнаружил.",
+   "enabled": true,
+   "en_src": "It seems the Snatchers killed Gibson because he discovered it."
   },
   {
    "id": "B080_2_01j",
@@ -517,8 +562,9 @@
    "end": 125053,
    "dur": 9.3,
    "speaker": "Metal Gear",
-   "en": "Their weakness lies in how they differ from real humans.",
-   "enabled": true
+   "en": "Их слабость - в отличии от настоящих людей.",
+   "enabled": true,
+   "en_src": "Their weakness lies in how they differ from real humans."
   },
   {
    "id": "B080_2_01k",
@@ -528,8 +574,9 @@
    "end": 125793,
    "dur": 10.0,
    "speaker": "Metal Gear",
-   "en": "Prolonged UV exposure makes their artificial skin cancerous.",
-   "enabled": true
+   "en": "От долгого УФ-излучения их искусственная кожа перерождается в рак.",
+   "enabled": true,
+   "en_src": "Prolonged UV exposure makes their artificial skin cancerous."
   },
   {
    "id": "B080_2_01l",
@@ -539,8 +586,9 @@
    "end": 126678,
    "dur": 6.8,
    "speaker": "Metal Gear",
-   "en": "It develops a form of malignant melanoma.",
-   "enabled": true
+   "en": "Развивается что-то вроде злокачественной меланомы.",
+   "enabled": true,
+   "en_src": "It develops a form of malignant melanoma."
   },
   {
    "id": "B080_2_01m",
@@ -550,8 +598,9 @@
    "end": 127614,
    "dur": 7.3,
    "speaker": "Metal Gear",
-   "en": "This limits where and when they can operate.",
-   "enabled": true
+   "en": "Поэтому они ограничены в месте и времени действий.",
+   "enabled": true,
+   "en_src": "This limits where and when they can operate."
   },
   {
    "id": "B080_2_01n",
@@ -561,8 +610,9 @@
    "end": 128489,
    "dur": 8.7,
    "speaker": "Metal Gear",
-   "en": "Only at night, in midwinter when the days are short.",
-   "enabled": true
+   "en": "Только ночью, в разгар зимы, когда дни короткие.",
+   "enabled": true,
+   "en_src": "Only at night, in midwinter when the days are short."
   },
   {
    "id": "B080_2_01o",
@@ -572,8 +622,9 @@
    "end": 129530,
    "dur": 10.2,
    "speaker": "Metal Gear",
-   "en": "Their artificial skin needs at least six months to stabilize.",
-   "enabled": true
+   "en": "Искусственной коже нужно не меньше полугода, чтобы прижиться.",
+   "enabled": true,
+   "en_src": "Their artificial skin needs at least six months to stabilize."
   },
   {
    "id": "B080_2_01p",
@@ -583,8 +634,9 @@
    "end": 130208,
    "dur": 6.0,
    "speaker": "Metal Gear",
-   "en": "Those six months are their weakness.",
-   "enabled": true
+   "en": "Эти полгода - их слабость.",
+   "enabled": true,
+   "en_src": "Those six months are their weakness."
   },
   {
    "id": "B080_2_01q",
@@ -594,8 +646,9 @@
    "end": 130886,
    "dur": 8.7,
    "speaker": "Metal Gear",
-   "en": "They must stay out of UV light for that entire time.",
-   "enabled": true
+   "en": "Всё это время им нельзя попадать под УФ-свет.",
+   "enabled": true,
+   "en_src": "They must stay out of UV light for that entire time."
   },
   {
    "id": "B080_2_01r",
@@ -605,8 +658,9 @@
    "end": 131904,
    "dur": 8.0,
    "speaker": "Metal Gear",
-   "en": "Gibson must have uncovered this using his skills",
-   "enabled": true
+   "en": "Гибсон, видимо, раскрыл это благодаря навыкам",
+   "enabled": true,
+   "en_src": "Gibson must have uncovered this using his skills"
   },
   {
    "id": "B080_2_01s",
@@ -616,8 +670,9 @@
    "end": 132214,
    "dur": 4.0,
    "speaker": "Metal Gear",
-   "en": "as a former Science Cop.",
-   "enabled": true
+   "en": "бывшего сотрудника научной полиции.",
+   "enabled": true,
+   "en_src": "as a former Science Cop."
   },
   {
    "id": "B080_2_01t",
@@ -627,8 +682,9 @@
    "end": 133150,
    "dur": 8.3,
    "speaker": "Metal Gear",
-   "en": "That's why they wore sunscreen, even in midwinter.",
-   "enabled": true
+   "en": "Поэтому они мазались кремом от загара даже зимой.",
+   "enabled": true,
+   "en_src": "That's why they wore sunscreen, even in midwinter."
   },
   {
    "id": "B080_2_01u",
@@ -638,8 +694,9 @@
    "end": 134343,
    "dur": 7.7,
    "speaker": "Metal Gear",
-   "en": "All this means they need one thing to survive.",
-   "enabled": true
+   "en": "Значит, чтобы выжить, им нужно одно.",
+   "enabled": true,
+   "en_src": "All this means they need one thing to survive."
   },
   {
    "id": "B080_2_01v",
@@ -649,8 +706,9 @@
    "end": 135360,
    "dur": 10.2,
    "speaker": "Metal Gear",
-   "en": "A hospital that can maintain their cancerous artificial skin.",
-   "enabled": true
+   "en": "Больница, способная обслуживать их больную кожу.",
+   "enabled": true,
+   "en_src": "A hospital that can maintain their cancerous artificial skin."
   },
   {
    "id": "B080_2_01w",
@@ -660,8 +718,9 @@
    "end": 136464,
    "dur": 9.7,
    "speaker": "Metal Gear",
-   "en": "Gibson may have found the hospital doing that maintenance.",
-   "enabled": true
+   "en": "Возможно, Гибсон нашёл такую больницу.",
+   "enabled": true,
+   "en_src": "Gibson may have found the hospital doing that maintenance."
   },
   {
    "id": "B080_2_01x",
@@ -671,8 +730,9 @@
    "end": 137288,
    "dur": 10.2,
    "speaker": "Metal Gear",
-   "en": "To retrace Gibson's steps, you followed the whale meat in his",
-   "enabled": true
+   "en": "Идя по следу Гибсона, ты по китовому мясу в его",
+   "enabled": true,
+   "en_src": "To retrace Gibson's steps, you followed the whale meat in his"
   },
   {
    "id": "B080_2_01y",
@@ -682,9 +742,10 @@
    "end": 138262,
    "dur": 10.0,
    "speaker": "Metal Gear",
-   "en": "stomach to Outer Heaven, the only restaurant that serves it.",
+   "en": "желудке вышел на \"Аутер Хэвен\", где его единственно и подают.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "stomach to Outer Heaven, the only restaurant that serves it."
   }
  ]
 }

@@ -39,6 +39,7 @@ WORK = os.path.join(ROOT, "work")
 sys.path[:0] = [os.path.join(ROOT, d) for d in ('lib', 'lib/asr', 'ps1/tools', 'ps1/subs', 'ps1/harness', 'pce/tools')]
 
 from mipsasm import Asm
+from textcodec import is_narrow
 
 EXE = os.path.join(ROOT, "patched", "SLPS_001.54")
 EXEC_RAM, HDR = 0x80028000, 0x800
@@ -355,7 +356,7 @@ def _cells(text, pf):
     i = 0
     while i < len(text):
         ch = text[i]
-        if ord(ch) < 0x80:
+        if is_narrow(ch):
             buf += ch
         else:
             flush()

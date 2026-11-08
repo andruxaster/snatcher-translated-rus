@@ -28,8 +28,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.abspath(os.path.join(HERE, "..", ".."))
 WORK = os.path.join(ROOT, "work")
 sys.path[:0] = [os.path.join(ROOT, d) for d in ('lib', 'lib/asr', 'ps1/tools', 'ps1/subs', 'ps1/harness', 'pce/tools')]
-from textcodec import char_to_code
-from translate_names import NAMES
+from textcodec import char_to_code, is_narrow
+from translate_names import DISPLAY as NAMES   # what the nameplates draw
 from pairfont import RESERVED
 from consolidate import wrap
 
@@ -116,7 +116,7 @@ def count_into(counts, en, weight=1):
     """Count pairs exactly the way pairfont.encode chunks them."""
     buf = ""
     for ch in en:
-        if ord(ch) < 0x80:
+        if is_narrow(ch):
             buf += ch
         else:
             if buf:
@@ -140,11 +140,11 @@ def count_sjis(counts, text, weight=1):
             i += 1
             continue
         pair = text[i:i + 2]
-        if len(pair) == 2 and pair[1] != chr(10) and ord(pair[0]) < 0x80 and ord(pair[1]) < 0x80:
+        if len(pair) == 2 and pair[1] != chr(10) and is_narrow(pair[0]) and is_narrow(pair[1]):
             counts[pair] += weight
             i += 2
             continue
-        if ord(text[i]) < 0x80:
+        if is_narrow(text[i]):
             counts[text[i] + " "] += weight
         i += 1
 
@@ -213,7 +213,7 @@ def budget_fallbacks(table):
                         missing.append(pr)
                 buf = ""
             for ch in en:
-                if ord(ch) < 0x80:
+                if is_narrow(ch):
                     buf += ch
                 else:
                     flush()

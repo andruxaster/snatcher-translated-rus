@@ -1,4 +1,4 @@
-# Build the Snatcher English patches (PlayStation, Saturn, PC Engine CD) from source.
+# Build the Snatcher Russian patch (PlayStation, uncensored) from source.
 #
 #   docker build -t snatcher-build .
 #   docker run --rm \
@@ -7,18 +7,17 @@
 #       -v "$PWD/out/patched:/src/patched" \
 #       -v "$PWD/out/release:/src/release" \
 #       -v "$PWD/out/work:/src/work-cache" \
-#       snatcher-build all --release
+#       snatcher-build ps1 --release
 #
 # discs/  your own dumps, laid out as `python build.py discs` does (see BUILDING.md)
-# fonts/  arial.ttf arialbd.ttf impact.ttf times.ttf msgothic.ttc copied from a
-#         Windows install: a few pictures are rendered in them and they cannot be
-#         redistributed (lib/sysfont.py)
-# The arguments are build.py's: doctor | ps1 | saturn | pce | all [--release] ...
+# fonts/  arial.ttf arialbd.ttf impact.ttf with Cyrillic (Windows fonts,
+#         or Liberation / PT Sans Narrow under those names; lib/sysfont.py)
+# The arguments are build.py's: doctor | discs | ps1 [--release] [--no-fmv]
 FROM python:3.12-slim-bookworm
 
 RUN apt-get update \
  && apt-get install -y --no-install-recommends \
-        xdelta3 default-jre-headless mame-tools ca-certificates curl unzip \
+        xdelta3 default-jre-headless ca-certificates curl unzip \
  && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /src

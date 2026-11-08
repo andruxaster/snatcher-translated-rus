@@ -14,7 +14,7 @@ ROOT = os.path.abspath(os.path.join(HERE, "..", ".."))
 WORK = os.path.join(ROOT, "work")
 sys.path[:0] = [os.path.join(ROOT, d) for d in ('lib', 'lib/asr', 'ps1/tools', 'ps1/subs', 'ps1/harness', 'pce/tools')]
 
-from textcodec import char_to_code   # lib/, on the path from the header above
+from textcodec import char_to_code, is_narrow   # lib/, on the path from the header above
 
 FONT_BASE = 0x4cb80
 # Glyph data ends at file 0x5c3b4; past that the executable holds an engine
@@ -96,7 +96,7 @@ class PairFont:
                 out.extend(self.encode_pair_or_fallback(buf[k:k+2]))
             buf = ""
         for ch in s:
-            if ord(ch) < 0x80:
+            if is_narrow(ch):
                 buf += ch
             else:
                 flush()
@@ -125,7 +125,7 @@ class PairFont:
         except RuntimeError:
             out = bytearray()
             for ch in pair:
-                fw = self.FALLBACK_CHARS.get(ch) or chr(0xFEE0 + ord(ch))
+                fw = self.FALLBACK_CHARS.get(ch) or (ch if ord(ch) >= 0x80 else chr(0xFEE0 + ord(ch)))
                 c = char_to_code(fw)
                 if c is None:                      # no fullwidth form in JIS
                     c = char_to_code("？")

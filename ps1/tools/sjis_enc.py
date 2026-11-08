@@ -4,7 +4,10 @@ render_text (0x800367D8) consumes Shift-JIS; the engine converts pair-glyph
 codes to SJIS upstream, so subtitle text is stored pre-converted. Pairs that
 have no glyph slot fall back to fullwidth Latin (1 code per letter).
 """
-import json, os
+import json, os, sys
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "lib"))
+from textcodec import is_narrow
 
 _pt = None
 
@@ -37,6 +40,12 @@ def fullwidth_sjis(ch):
             return chr(o - 0x20 + 0xFF00).encode("cp932")
         except UnicodeEncodeError:
             pass
+    try:                      # Cyrillic and other JIS X 0208 characters
+        b = ch.encode("cp932")
+        if len(b) == 2:
+            return b
+    except UnicodeEncodeError:
+        pass
     return b"\x81\x40"
 
 
@@ -68,7 +77,7 @@ def encode(text):
             out += slot_to_sjis(pt[pair][0])
             i += 2
             continue
-        alone = ord(text[i]) < 0x80 and (i + 1 == len(text) or text[i + 1] == chr(10) or ord(text[i + 1]) >= 0x80)
+        alone = is_narrow(text[i]) and (i + 1 == len(text) or text[i + 1] == chr(10) or not is_narrow(text[i + 1]))
         if alone and (text[i] + " ") in pt:
             out += slot_to_sjis(pt[text[i] + " "][0])
             i += 1

@@ -28,6 +28,23 @@ NAMES = [
     "Tacchan", "Gaudi  (Y)", "Konami", "Parrot", "Customer", "Petrovich",
     "Randam", "Driver",
 ]
+# Russian (2026-11): what the nameplate shows, one per NAMES entry. NAMES
+# stays English: it is the key the subtitle cues' `speaker` is looked up by
+# (subs_cue.speaker_mode). At most 12 letters, as the English kept them.
+DISPLAY = [
+    "Метал Гир", "Гарри", "Секретарь", "Гиллиан", "Мика", "Шеф",
+    "Гауди", "Наполеон", "Джейми", "Продавец", "Кэтрин", "Мужчина", "Женщина",
+    "Прохожий", "Диктор", "Зазывала", "Бармен", "Павапуро", "Гоэмон",
+    "Пастель", "Лайт", "Дракула", "Саймон", "Дизайнер", "Изабелла",
+    "Фримен", "Иван", "Лиза", "Риэ", "Девушка", "Фукуи II", "Хаясака",
+    "Голос", "Айдзава", "Асато", "Автоответчик", "Мидзутани", "Киёхара",
+    "Кидасу", "Су", "Ногути", "Адати", "Ёситоми", "Предмет", "Такаюки",
+    "Асами", "Наоя", "Юмико", "Комацубара", "Брат Комацу", "Мацукава",
+    "Таттян", "Гауди  (Ж)", "Konami", "Попугай", "Клиент", "Петрович",
+    "Рэндам", "Водитель",
+]
+assert len(DISPLAY) == len(NAMES)
+
 # "Parrot" is オウム (the JP dump writes ム as メ, `オウメ` - "Oume" until 2026-09-17).
 # "Gaudi  (Y)" (ガウディ黄) carries two spaces so " (" and "Y)" stay on pair
 # glyphs; with one space "(Y" has no slot and falls back to fullwidth.
@@ -54,7 +71,7 @@ def build(pf, mode="full"):
     recs = parse(d)
     assert len(recs) == len(NAMES), (len(recs), len(NAMES))
     out = bytearray()
-    for jp, en in zip(recs, NAMES):
+    for jp, en in zip(recs, DISPLAY):
         eb = pf.encode(en)
         if mode == "fit":
             while len(eb) > len(jp):        # trim to budget

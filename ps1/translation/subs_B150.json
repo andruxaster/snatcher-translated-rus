@@ -15,8 +15,9 @@
    "end": 15442,
    "dur": 2.0,
    "speaker": "Harry",
-   "en": "There you are, Gillian.",
-   "enabled": true
+   "en": "А, вот и ты, Гиллиан.",
+   "enabled": true,
+   "en_src": "There you are, Gillian."
   },
   {
    "id": "B150_f23_0b",
@@ -26,8 +27,9 @@
    "end": 15980,
    "dur": 2.8,
    "speaker": "Harry",
-   "en": "I've restored Little John's memory chip.",
-   "enabled": true
+   "en": "Я восстановил чип памяти Литл Джона.",
+   "enabled": true,
+   "en_src": "I've restored Little John's memory chip."
   },
   {
    "id": "B150_f24_0",
@@ -37,8 +39,9 @@
    "end": 16332,
    "dur": 2.2,
    "speaker": "Gillian",
-   "en": "Was there anything on it?",
-   "enabled": true
+   "en": "Там что-нибудь было?",
+   "enabled": true,
+   "en_src": "Was there anything on it?"
   },
   {
    "id": "B150_f25_0",
@@ -48,8 +51,9 @@
    "end": 16988,
    "dur": 4.3,
    "speaker": "Harry",
-   "en": "Hold your horses. I'll play it now. Watch the monitor.",
-   "enabled": true
+   "en": "Не гони лошадей. Сейчас включу. Смотри на монитор.",
+   "enabled": true,
+   "en_src": "Hold your horses. I'll play it now. Watch the monitor."
   },
   {
    "id": "B150_f26_0",
@@ -59,8 +63,9 @@
    "end": 17487,
    "dur": 3.2,
    "speaker": "Harry",
-   "en": "His memory was damaged almost beyond repair.",
-   "enabled": true
+   "en": "Его память была повреждена почти безнадёжно.",
+   "enabled": true,
+   "en_src": "His memory was damaged almost beyond repair."
   },
   {
    "id": "B150_f26_0b",
@@ -70,8 +75,9 @@
    "end": 18060,
    "dur": 3.8,
    "speaker": "Harry",
-   "en": "Those Snatchers knew what they were doing.",
-   "enabled": true
+   "en": "Эти снатчеры знали своё дело.",
+   "enabled": true,
+   "en_src": "Those Snatchers knew what they were doing."
   },
   {
    "id": "B150_f27_0",
@@ -81,8 +87,9 @@
    "end": 18492,
    "dur": 2.8,
    "speaker": "Gillian",
-   "en": "So there was nothing left?",
-   "enabled": true
+   "en": "Значит, ничего не осталось?",
+   "enabled": true,
+   "en_src": "So there was nothing left?"
   },
   {
    "id": "B150_f28_0",
@@ -92,8 +99,9 @@
    "end": 19764,
    "dur": 8.1,
    "speaker": "Harry",
-   "en": "Wait, don't rush me. I managed to restore one scene. Just the picture.",
-   "enabled": true
+   "en": "Погоди, не торопи. Одну сцену я восстановил. Только картинку.",
+   "enabled": true,
+   "en_src": "Wait, don't rush me. I managed to restore one scene. Just the picture."
   },
   {
    "id": "B150_f28_0b",
@@ -103,8 +111,9 @@
    "end": 20199,
    "dur": 3.1,
    "speaker": "Harry",
-   "en": "I don't know what it means,",
-   "enabled": true
+   "en": "Не знаю, что это значит,",
+   "enabled": true,
+   "en_src": "I don't know what it means,"
   },
   {
    "id": "B150_f28_0c",
@@ -114,8 +123,9 @@
    "end": 20988,
    "dur": 5.2,
    "speaker": "Harry",
-   "en": "but it's definitely something Jean witnessed.",
-   "enabled": true
+   "en": "но это точно то, что видел Жан.",
+   "enabled": true,
+   "en_src": "but it's definitely something Jean witnessed."
   },
   {
    "id": "B150_f29_0",
@@ -125,8 +135,9 @@
    "end": 21340,
    "dur": 2.2,
    "speaker": "Harry",
-   "en": "Ready? Here it is!",
-   "enabled": true
+   "en": "Готов? Смотри!",
+   "enabled": true,
+   "en_src": "Ready? Here it is!"
   },
   {
    "id": "B150_f30_0",
@@ -136,8 +147,9 @@
    "end": 21660,
    "dur": 2.0,
    "speaker": "Harry",
-   "en": "Know what that is, Gillian?",
-   "enabled": true
+   "en": "Знаешь, что это, Гиллиан?",
+   "enabled": true,
+   "en_src": "Know what that is, Gillian?"
   },
   {
    "id": "B150_f31_0",
@@ -147,8 +159,9 @@
    "end": 22524,
    "dur": 5.7,
    "speaker": "Gillian",
-   "en": "Hospital OLEEN. Oleen Hospital?",
-   "enabled": true
+   "en": "HOSPITAL OLEEN. Больница \"Олин\"?",
+   "enabled": true,
+   "en_src": "Hospital OLEEN. Oleen Hospital?"
   },
   {
    "id": "B150_f31_0b",
@@ -158,8 +171,9 @@
    "end": 23193,
    "dur": 2.9,
    "speaker": "Gillian",
-   "en": "Could this be the hospital Gibson found?",
-   "enabled": true
+   "en": "Это та больница, которую нашёл Гибсон?",
+   "enabled": true,
+   "en_src": "Could this be the hospital Gibson found?"
   },
   {
    "id": "B150_f31_0c",
@@ -169,8 +183,9 @@
    "end": 23580,
    "dur": 1.8,
    "speaker": "Gillian",
-   "en": "The one occupied by the Snatchers?",
-   "enabled": true
+   "en": "Та, что захвачена снатчерами?",
+   "enabled": true,
+   "en_src": "The one occupied by the Snatchers?"
   },
   {
    "id": "B150_f32_0",
@@ -180,8 +195,9 @@
    "end": 23989,
    "dur": 3.4,
    "speaker": "Harry",
-   "en": "Try looking it up in Gaudi.",
-   "enabled": true
+   "en": "Попробуй поискать в Гауди.",
+   "enabled": true,
+   "en_src": "Try looking it up in Gaudi."
   },
   {
    "id": "B150_f32_0b",
@@ -191,8 +207,9 @@
    "end": 24801,
    "dur": 7.2,
    "speaker": "Harry",
-   "en": "But if it's unlicensed, you can't count on the records.",
-   "enabled": true
+   "en": "Но если она без лицензии, на записи не рассчитывай.",
+   "enabled": true,
+   "en_src": "But if it's unlicensed, you can't count on the records."
   },
   {
    "id": "B150_f32_0c",
@@ -202,8 +219,9 @@
    "end": 25500,
    "dur": 7.5,
    "speaker": "Harry",
-   "en": "Neo Kobe is full of underground hospitals.",
-   "enabled": true
+   "en": "В Нео-Кобе полно подпольных больниц.",
+   "enabled": true,
+   "en_src": "Neo Kobe is full of underground hospitals."
   },
   {
    "id": "B150_f33_0",
@@ -213,8 +231,9 @@
    "end": 26316,
    "dur": 5.3,
    "speaker": "Gillian",
-   "en": "Maybe the sign curves around and there's more after OLEEN.",
-   "enabled": true
+   "en": "Может, вывеска загибается и после OLEEN есть ещё буквы.",
+   "enabled": true,
+   "en_src": "Maybe the sign curves around and there's more after OLEEN."
   },
   {
    "id": "B150_f34_0",
@@ -224,8 +243,9 @@
    "end": 26774,
    "dur": 2.9,
    "speaker": "Metal Gear",
-   "en": "I've saved the image. You can view it anytime.",
-   "enabled": true
+   "en": "Я сохранил изображение. Можешь смотреть его когда угодно.",
+   "enabled": true,
+   "en_src": "I've saved the image. You can view it anytime."
   },
   {
    "id": "B150_f34_0b",
@@ -235,9 +255,10 @@
    "end": 27228,
    "dur": 3.0,
    "speaker": "Metal Gear",
-   "en": "Select Video memory from your inventory.",
+   "en": "Выбери \"Видеопамять\" среди вещей.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Select Video memory from your inventory."
   }
  ]
 }

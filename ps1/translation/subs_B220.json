@@ -15,8 +15,9 @@
    "end": 101063,
    "dur": 2.6,
    "speaker": "Gillian",
-   "en": "Are you all right, Metal?",
-   "enabled": true
+   "en": "Ты цел, Метал?",
+   "enabled": true,
+   "en_src": "Are you all right, Metal?"
   },
   {
    "id": "B220_f55_0",
@@ -26,8 +27,9 @@
    "end": 101791,
    "dur": 4.8,
    "speaker": "Metal Gear",
-   "en": "D-d-dap, wha-doo-heddle, d-d-d-doo!",
-   "enabled": true
+   "en": "Д-д-дап, ва-ду-хе-дл, д-д-д-ду!",
+   "enabled": true,
+   "en_src": "D-d-dap, wha-doo-heddle, d-d-d-doo!"
   },
   {
    "id": "B220_f56_0",
@@ -37,8 +39,9 @@
    "end": 102263,
    "dur": 3.1,
    "speaker": "Gillian",
-   "en": "Metal! Is something broken?",
-   "enabled": true
+   "en": "Метал! Что-то сломалось?",
+   "enabled": true,
+   "en_src": "Metal! Is something broken?"
   },
   {
    "id": "B220_f57_0",
@@ -48,8 +51,9 @@
    "end": 103017,
    "dur": 5.0,
    "speaker": "Metal Gear",
-   "en": "I-I-I'm all right. I think.",
-   "enabled": true
+   "en": "В-в-всё в порядке. Кажется.",
+   "enabled": true,
+   "en_src": "I-I-I'm all right. I think."
   },
   {
    "id": "B220_f57_0b",
@@ -59,8 +63,9 @@
    "end": 103679,
    "dur": 4.4,
    "speaker": "Metal Gear",
-   "en": "My speech circuits seem a little scrambled.",
-   "enabled": true
+   "en": "Речевые цепи немного сбоят.",
+   "enabled": true,
+   "en_src": "My speech circuits seem a little scrambled."
   },
   {
    "id": "B220_f58_0",
@@ -70,8 +75,9 @@
    "end": 103895,
    "dur": 1.4,
    "speaker": "Gillian",
-   "en": "What happened?",
-   "enabled": true
+   "en": "Что случилось?",
+   "enabled": true,
+   "en_src": "What happened?"
   },
   {
    "id": "B220_f59_0",
@@ -81,8 +87,9 @@
    "end": 104607,
    "dur": 9.4,
    "speaker": "Metal Gear",
-   "en": "Randam pushed us into the vent and blew himself up.",
-   "enabled": true
+   "en": "Рэндам столкнул нас в вентиляцию и взорвал себя.",
+   "enabled": true,
+   "en_src": "Randam pushed us into the vent and blew himself up."
   },
   {
    "id": "B220_f60_0",
@@ -92,8 +99,9 @@
    "end": 104823,
    "dur": 1.4,
    "speaker": "Gillian",
-   "en": "Randam!",
-   "enabled": true
+   "en": "Рэндам!",
+   "enabled": true,
+   "en_src": "Randam!"
   },
   {
    "id": "B220_f61_0",
@@ -103,8 +111,9 @@
    "end": 105495,
    "dur": 8.8,
    "speaker": "Metal Gear",
-   "en": "Gillian, that blast must have destroyed Queen Hospital.",
-   "enabled": true
+   "en": "Гиллиан, взрыв, должно быть, уничтожил больницу \"Куин\".",
+   "enabled": true,
+   "en_src": "Gillian, that blast must have destroyed Queen Hospital."
   },
   {
    "id": "B220_f62_0",
@@ -114,8 +123,9 @@
    "end": 106587,
    "dur": 7.1,
    "speaker": "Gillian",
-   "en": "The solid duct absorbed the blast. Without Randam, we'd be dead.",
-   "enabled": true
+   "en": "Прочный канал принял удар. Без Рэндама мы бы погибли.",
+   "enabled": true,
+   "en_src": "The solid duct absorbed the blast. Without Randam, we'd be dead."
   },
   {
    "id": "B220_f62_0b",
@@ -125,8 +135,9 @@
    "end": 106695,
    "dur": 0.8,
    "speaker": "Gillian",
-   "en": "Randam!",
-   "enabled": true
+   "en": "Рэндам!",
+   "enabled": true,
+   "en_src": "Randam!"
   },
   {
    "id": "B220_f63_0",
@@ -136,8 +147,9 @@
    "end": 107172,
    "dur": 3.3,
    "speaker": "Metal Gear",
-   "en": "Gillian, there's no time to grieve.",
-   "enabled": true
+   "en": "Гиллиан, горевать некогда.",
+   "enabled": true,
+   "en_src": "Gillian, there's no time to grieve."
   },
   {
    "id": "B220_f63_0b",
@@ -147,8 +159,9 @@
    "end": 107820,
    "dur": 4.2,
    "speaker": "Metal Gear",
-   "en": "We must get back and junk Cunningham,",
-   "enabled": true
+   "en": "Надо вернуться и уничтожить Каннингема,",
+   "enabled": true,
+   "en_src": "We must get back and junk Cunningham,"
   },
   {
    "id": "B220_f63_0c",
@@ -158,8 +171,9 @@
    "end": 108207,
    "dur": 2.5,
    "speaker": "Metal Gear",
-   "en": "or Harry and Mika will be in danger, too.",
-   "enabled": true
+   "en": "иначе Гарри и Мика тоже в опасности.",
+   "enabled": true,
+   "en_src": "or Harry and Mika will be in danger, too."
   },
   {
    "id": "B220_f64_0",
@@ -169,8 +183,9 @@
    "end": 108783,
    "dur": 3.8,
    "speaker": "Gillian",
-   "en": "We have to keep our promise to Randam.",
-   "enabled": true
+   "en": "Мы должны сдержать слово, данное Рэндаму.",
+   "enabled": true,
+   "en_src": "We have to keep our promise to Randam."
   },
   {
    "id": "B220_f65_0",
@@ -180,8 +195,9 @@
    "end": 109167,
    "dur": 2.5,
    "speaker": "Gillian",
-   "en": "First, we need a way out of here!",
-   "enabled": true
+   "en": "Сначала надо выбраться отсюда!",
+   "enabled": true,
+   "en_src": "First, we need a way out of here!"
   },
   {
    "id": "B220_f66_0",
@@ -191,8 +207,9 @@
    "end": 109655,
    "dur": 3.2,
    "speaker": "Metal Gear",
-   "en": "But I can't see anything. What now?",
-   "enabled": true
+   "en": "Но я ничего не вижу. Что теперь?",
+   "enabled": true,
+   "en_src": "But I can't see anything. What now?"
   },
   {
    "id": "B220_f67_0",
@@ -202,8 +219,9 @@
    "end": 110151,
    "dur": 3.3,
    "speaker": "Gillian",
-   "en": "What's this?",
-   "enabled": true
+   "en": "Что это?",
+   "enabled": true,
+   "en_src": "What's this?"
   },
   {
    "id": "B220_f68_0",
@@ -213,8 +231,9 @@
    "end": 110703,
    "dur": 3.6,
    "speaker": "Metal Gear",
-   "en": "It's a Tube Liner tunnel!",
-   "enabled": true
+   "en": "Туннель тьюб-лайнера!",
+   "enabled": true,
+   "en_src": "It's a Tube Liner tunnel!"
   },
   {
    "id": "B220_f69_0",
@@ -224,8 +243,9 @@
    "end": 111375,
    "dur": 4.4,
    "speaker": "Gillian",
-   "en": "So Queen Hospital was connected to the Tube Liner.",
-   "enabled": true
+   "en": "Так больница \"Куин\" была связана с тьюб-лайнером.",
+   "enabled": true,
+   "en_src": "So Queen Hospital was connected to the Tube Liner."
   },
   {
    "id": "B220_f70_0",
@@ -235,8 +255,9 @@
    "end": 112399,
    "dur": 20.4,
    "speaker": "Metal Gear",
-   "en": "Yes. The Snatchers used these tunnels to move around underground.",
-   "enabled": true
+   "en": "Да. По этим туннелям снатчеры передвигались под землёй.",
+   "enabled": true,
+   "en_src": "Yes. The Snatchers used these tunnels to move around underground."
   },
   {
    "id": "B220_f71_0",
@@ -246,8 +267,9 @@
    "end": 112721,
    "dur": 3.2,
    "speaker": "Metal Gear",
-   "en": "They can't stand ultraviolet light.",
-   "enabled": true
+   "en": "Они не выносят ультрафиолета.",
+   "enabled": true,
+   "en_src": "They can't stand ultraviolet light."
   },
   {
    "id": "B220_f71_0b",
@@ -257,8 +279,9 @@
    "end": 113663,
    "dur": 5.2,
    "speaker": "Metal Gear",
-   "en": "They must have used these tunnels to stay out of the sun.",
-   "enabled": true
+   "en": "Видимо, туннели спасали их от солнца.",
+   "enabled": true,
+   "en_src": "They must have used these tunnels to stay out of the sun."
   },
   {
    "id": "B220_f72_0",
@@ -268,8 +291,9 @@
    "end": 114661,
    "dur": 6.5,
    "speaker": "Metal Gear",
-   "en": "Why didn't we realize it? Subway lines run all over the city.",
-   "enabled": true
+   "en": "Как мы не догадались? Метро идёт под всем городом.",
+   "enabled": true,
+   "en_src": "Why didn't we realize it? Subway lines run all over the city."
   },
   {
    "id": "B220_f72_0b",
@@ -279,8 +303,9 @@
    "end": 115543,
    "dur": 6.0,
    "speaker": "Metal Gear",
-   "en": "Now that they're abandoned, they can move around unseen.",
-   "enabled": true
+   "en": "Оно заброшено, и по нему можно ходить незаметно.",
+   "enabled": true,
+   "en_src": "Now that they're abandoned, they can move around unseen."
   },
   {
    "id": "B220_f73_0",
@@ -290,8 +315,9 @@
    "end": 115675,
    "dur": 0.9,
    "speaker": "Gillian",
-   "en": "Of course!",
-   "enabled": true
+   "en": "Ну конечно!",
+   "enabled": true,
+   "en_src": "Of course!"
   },
   {
    "id": "B220_f73_0b",
@@ -301,8 +327,9 @@
    "end": 116105,
    "dur": 2.3,
    "speaker": "Gillian",
-   "en": "That figure at the factory",
-   "enabled": true
+   "en": "Тот силуэт на заводе,",
+   "enabled": true,
+   "en_src": "That figure at the factory"
   },
   {
    "id": "B220_f73_0c",
@@ -312,8 +339,9 @@
    "end": 116695,
    "dur": 4.2,
    "speaker": "Gillian",
-   "en": "where Gibson died vanished into these tunnels!",
-   "enabled": true
+   "en": "где погиб Гибсон, исчез в этих туннелях!",
+   "enabled": true,
+   "en_src": "where Gibson died vanished into these tunnels!"
   },
   {
    "id": "B220_f74_0",
@@ -323,8 +351,9 @@
    "end": 117417,
    "dur": 4.3,
    "speaker": "Metal Gear",
-   "en": "Yes. The Tube Liner also runs under that factory.",
-   "enabled": true
+   "en": "Да. Тьюб-лайнер проходит и под тем заводом.",
+   "enabled": true,
+   "en_src": "Yes. The Tube Liner also runs under that factory."
   },
   {
    "id": "B220_f74_0b",
@@ -334,8 +363,9 @@
    "end": 118223,
    "dur": 5.9,
    "speaker": "Metal Gear",
-   "en": "That explains the sand from the factory that fell into the air vent.",
-   "enabled": true
+   "en": "Вот откуда в воздуховоде песок с завода.",
+   "enabled": true,
+   "en_src": "That explains the sand from the factory that fell into the air vent."
   },
   {
    "id": "B220_f75_0",
@@ -345,8 +375,9 @@
    "end": 118623,
    "dur": 7.7,
    "speaker": "Gillian",
-   "en": "I see. So that's how they did it.",
-   "enabled": true
+   "en": "Ясно. Вот как они это делали.",
+   "enabled": true,
+   "en_src": "I see. So that's how they did it."
   },
   {
    "id": "B220_f75_0b",
@@ -356,8 +387,9 @@
    "end": 119023,
    "dur": 8.4,
    "speaker": "Gillian",
-   "en": "They moved around without being seen",
-   "enabled": true
+   "en": "Передвигались незаметно",
+   "enabled": true,
+   "en_src": "They moved around without being seen"
   },
   {
    "id": "B220_f75_0c",
@@ -367,8 +399,9 @@
    "end": 119407,
    "dur": 7.2,
    "speaker": "Gillian",
-   "en": "and stayed out of the sunlight!",
-   "enabled": true
+   "en": "и прятались от солнца!",
+   "enabled": true,
+   "en_src": "and stayed out of the sunlight!"
   },
   {
    "id": "B220_f76_0",
@@ -378,8 +411,9 @@
    "end": 120127,
    "dur": 9.4,
    "speaker": "Metal Gear",
-   "en": "No wonder it took so long to find the Snatchers.",
-   "enabled": true
+   "en": "Неудивительно, что снатчеров так долго не могли найти.",
+   "enabled": true,
+   "en_src": "No wonder it took so long to find the Snatchers."
   },
   {
    "id": "B220_f77_0",
@@ -389,8 +423,9 @@
    "end": 120619,
    "dur": 6.5,
    "speaker": "Gillian",
-   "en": "Let's follow the Tube Liner tracks!",
-   "enabled": true
+   "en": "Пойдём по путям тьюб-лайнера!",
+   "enabled": true,
+   "en_src": "Let's follow the Tube Liner tracks!"
   },
   {
    "id": "B220_f77_0b",
@@ -400,8 +435,9 @@
    "end": 121103,
    "dur": 6.5,
    "speaker": "Gillian",
-   "en": "We might find a way out at the nearest station.",
-   "enabled": true
+   "en": "На ближайшей станции может быть выход.",
+   "enabled": true,
+   "en_src": "We might find a way out at the nearest station."
   },
   {
    "id": "B220_f78_0",
@@ -411,8 +447,9 @@
    "end": 121575,
    "dur": 3.1,
    "speaker": "Gillian",
-   "en": "Look! Light!",
-   "enabled": true
+   "en": "Смотри! Свет!",
+   "enabled": true,
+   "en_src": "Look! Light!"
   },
   {
    "id": "B220_f79_0",
@@ -422,8 +459,9 @@
    "end": 122159,
    "dur": 3.8,
    "speaker": "Metal Gear",
-   "en": "But it doesn't look like a station.",
-   "enabled": true
+   "en": "Но на станцию не похоже.",
+   "enabled": true,
+   "en_src": "But it doesn't look like a station."
   },
   {
    "id": "B220_f80_0",
@@ -433,8 +471,9 @@
    "end": 122471,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "A ladder!",
-   "enabled": true
+   "en": "Лестница!",
+   "enabled": true,
+   "en_src": "A ladder!"
   },
   {
    "id": "B220_f81_0",
@@ -444,8 +483,9 @@
    "end": 122991,
    "dur": 3.4,
    "speaker": "Metal Gear",
-   "en": "Where does it lead, Gillian?",
-   "enabled": true
+   "en": "Куда она ведёт, Гиллиан?",
+   "enabled": true,
+   "en_src": "Where does it lead, Gillian?"
   },
   {
    "id": "B220_f82_0",
@@ -455,8 +495,9 @@
    "end": 123743,
    "dur": 10.0,
    "speaker": "Gillian",
-   "en": "I don't know. Well, let's climb up and see.",
-   "enabled": true
+   "en": "Не знаю. Давай поднимемся и посмотрим.",
+   "enabled": true,
+   "en_src": "I don't know. Well, let's climb up and see."
   },
   {
    "id": "B220_f83_0",
@@ -466,9 +507,10 @@
    "end": 124343,
    "dur": 3.9,
    "speaker": "Metal Gear",
-   "en": "Right. Let's climb the ladder.",
+   "en": "Да. Поднимаемся.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Right. Let's climb the ladder."
   },
   {
    "id": "B220_c8f1",
@@ -478,8 +520,9 @@
    "end": 2528,
    "dur": 0.7,
    "speaker": "Gillian",
-   "en": "It's them!",
-   "enabled": true
+   "en": "Это они!",
+   "enabled": true,
+   "en_src": "It's them!"
   },
   {
    "id": "B220_c8f2",
@@ -489,8 +532,9 @@
    "end": 2688,
    "dur": 1.0,
    "speaker": "Metal Gear",
-   "en": "Snatchers!",
-   "enabled": true
+   "en": "Снатчеры!",
+   "enabled": true,
+   "en_src": "Snatchers!"
   },
   {
    "id": "B220_c8f3",
@@ -500,8 +544,9 @@
    "end": 2800,
    "dur": 0.6,
    "speaker": "Gillian",
-   "en": "Get them!",
-   "enabled": true
+   "en": "Огонь!",
+   "enabled": true,
+   "en_src": "Get them!"
   },
   {
    "id": "B220_c8f4",
@@ -511,9 +556,10 @@
    "end": 2880,
    "dur": 0.4,
    "speaker": "Metal Gear",
-   "en": "Huh?",
+   "en": "А?",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Huh?"
   },
   {
    "id": "B220_c8f5",
@@ -523,8 +569,9 @@
    "end": 3504,
    "dur": 4.0,
    "speaker": "Metal Gear",
-   "en": "What a strange place to end up. Oh! This is...",
-   "enabled": true
+   "en": "Странное место, куда мы попали. О! Это же...",
+   "enabled": true,
+   "en_src": "What a strange place to end up. Oh! This is..."
   },
   {
    "id": "B220_c8f6",
@@ -534,8 +581,9 @@
    "end": 3792,
    "dur": 1.8,
    "speaker": "Gillian",
-   "en": "Freddy Nielsen's bathroom!",
-   "enabled": true
+   "en": "Ванная Фредди Нильсена!",
+   "enabled": true,
+   "en_src": "Freddy Nielsen's bathroom!"
   },
   {
    "id": "B220_c8f7",
@@ -545,8 +593,9 @@
    "end": 4402,
    "dur": 11.7,
    "speaker": "Gillian",
-   "en": "Freddy used this bathtub to reach the tunnels.",
-   "enabled": true
+   "en": "Через эту ванну Фредди попадал в туннели.",
+   "enabled": true,
+   "en_src": "Freddy used this bathtub to reach the tunnels."
   },
   {
    "id": "B220_c8f7b",
@@ -556,8 +605,9 @@
    "end": 4800,
    "dur": 8.1,
    "speaker": "Gillian",
-   "en": "That explains what happened before!",
-   "enabled": true
+   "en": "Вот что тогда произошло!",
+   "enabled": true,
+   "en_src": "That explains what happened before!"
   },
   {
    "id": "B220_c8f8",
@@ -567,8 +617,9 @@
    "end": 5027,
    "dur": 2.8,
    "speaker": "Metal Gear",
-   "en": "After we junked Lisa,",
-   "enabled": true
+   "en": "После того как мы уничтожили Лизу,",
+   "enabled": true,
+   "en_src": "After we junked Lisa,"
   },
   {
    "id": "B220_c8f8b",
@@ -578,8 +629,9 @@
    "end": 5552,
    "dur": 7.0,
    "speaker": "Metal Gear",
-   "en": "Freddy entered the room without using the front door?",
-   "enabled": true
+   "en": "Фредди вошёл в комнату не через дверь?",
+   "enabled": true,
+   "en_src": "Freddy entered the room without using the front door?"
   },
   {
    "id": "B220_c8f9",
@@ -589,8 +641,9 @@
    "end": 5936,
    "dur": 2.5,
    "speaker": "Gillian",
-   "en": "He was coming and going through here.",
-   "enabled": true
+   "en": "Он входил и выходил здесь.",
+   "enabled": true,
+   "en_src": "He was coming and going through here."
   },
   {
    "id": "B220_c8f10",
@@ -600,8 +653,9 @@
    "end": 6816,
    "dur": 7.7,
    "speaker": "Metal Gear",
-   "en": "The bathtub has a double bottom. The bottom is actually a lid.",
-   "enabled": true
+   "en": "У ванны двойное дно. Дно - это на самом деле крышка.",
+   "enabled": true,
+   "en_src": "The bathtub has a double bottom. The bottom is actually a lid."
   },
   {
    "id": "B220_c8f10b",
@@ -611,8 +665,9 @@
    "end": 7328,
    "dur": 3.5,
    "speaker": "Metal Gear",
-   "en": "Water conceals it from view.",
-   "enabled": true
+   "en": "Вода скрывает её от глаз.",
+   "enabled": true,
+   "en_src": "Water conceals it from view."
   },
   {
    "id": "B220_c8f10c",
@@ -622,8 +677,9 @@
    "end": 8080,
    "dur": 8.1,
    "speaker": "Metal Gear",
-   "en": "To enter or leave, he'd drain all the water into a separate tank.",
-   "enabled": true
+   "en": "Чтобы пройти, он сливал всю воду в отдельный бак.",
+   "enabled": true,
+   "en_src": "To enter or leave, he'd drain all the water into a separate tank."
   },
   {
    "id": "B220_c8f11",
@@ -633,8 +689,9 @@
    "end": 8574,
    "dur": 3.2,
    "speaker": "Gillian",
-   "en": "That's how much Snatchers hate ultraviolet light.",
-   "enabled": true
+   "en": "Вот как снатчеры ненавидят ультрафиолет.",
+   "enabled": true,
+   "en_src": "That's how much Snatchers hate ultraviolet light."
   },
   {
    "id": "B220_c8f11b",
@@ -644,8 +701,9 @@
    "end": 9088,
    "dur": 3.4,
    "speaker": "Gillian",
-   "en": "That's why they use the abandoned Tube Liner tunnels.",
-   "enabled": true
+   "en": "Поэтому они и ходят заброшенным тьюб-лайнером.",
+   "enabled": true,
+   "en_src": "That's why they use the abandoned Tube Liner tunnels."
   },
   {
    "id": "B220_c8f12",
@@ -655,9 +713,10 @@
    "end": 9472,
    "dur": 2.5,
    "speaker": "Metal Gear",
-   "en": "Come on, Gillian. Let's get outside.",
+   "en": "Идём, Гиллиан. Выйдем наружу.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Come on, Gillian. Let's get outside."
   },
   {
    "id": "B220_c8f13",
@@ -667,8 +726,9 @@
    "end": 9584,
    "dur": 0.6,
    "speaker": "Gillian",
-   "en": "Did we get him?",
-   "enabled": true
+   "en": "Мы его достали?",
+   "enabled": true,
+   "en_src": "Did we get him?"
   },
   {
    "id": "B220_c8f14",
@@ -678,9 +738,10 @@
    "end": 10160,
    "dur": 3.7,
    "speaker": "Metal Gear",
-   "en": "He's completely junked. A stubborn one, wasn't he?",
+   "en": "Уничтожен полностью. Упрямый был, да?",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "He's completely junked. A stubborn one, wasn't he?"
   },
   {
    "id": "B220_c8f15",
@@ -690,8 +751,9 @@
    "end": 10859,
    "dur": 9.2,
    "speaker": "Gillian",
-   "en": "He survived that explosion? And got here ahead of us!",
-   "enabled": true
+   "en": "Он пережил взрыв? И опередил нас!",
+   "enabled": true,
+   "en_src": "He survived that explosion? And got here ahead of us!"
   },
   {
    "id": "B220_c8f15b2",
@@ -701,8 +763,9 @@
    "end": 11438,
    "dur": 5.8,
    "speaker": "Gillian",
-   "en": "If they take over the city, there'll be nothing we can do.",
-   "enabled": true
+   "en": "Если они захватят город, мы ничего не сможем.",
+   "enabled": true,
+   "en_src": "If they take over the city, there'll be nothing we can do."
   },
   {
    "id": "B220_c8f15c",
@@ -712,8 +775,9 @@
    "end": 11712,
    "dur": 1.2,
    "speaker": "Gillian",
-   "en": "We have to stop them first.",
-   "enabled": true
+   "en": "Надо остановить их раньше.",
+   "enabled": true,
+   "en_src": "We have to stop them first."
   },
   {
    "id": "B220_c8f16",
@@ -723,8 +787,9 @@
    "end": 12224,
    "dur": 6.6,
    "speaker": "Metal Gear",
-   "en": "Then we must keep the chief away from the summit.",
-   "enabled": true
+   "en": "Тогда нельзя пустить шефа на саммит.",
+   "enabled": true,
+   "en_src": "Then we must keep the chief away from the summit."
   },
   {
    "id": "B220_c8f17",
@@ -734,8 +799,9 @@
    "end": 12640,
    "dur": 2.7,
    "speaker": "Gillian",
-   "en": "I know! We owe Randam!",
-   "enabled": true
+   "en": "Знаю! Мы в долгу перед Рэндамом!",
+   "enabled": true,
+   "en_src": "I know! We owe Randam!"
   },
   {
    "id": "B220_c8f18",
@@ -745,8 +811,9 @@
    "end": 12960,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "Let's borrow this taxi and hurry to headquarters.",
-   "enabled": true
+   "en": "Позаимствуем это такси и скорее в штаб.",
+   "enabled": true,
+   "en_src": "Let's borrow this taxi and hurry to headquarters."
   },
   {
    "id": "B220_c8f19",
@@ -756,9 +823,10 @@
    "end": 13440,
    "dur": 3.1,
    "speaker": "Gillian",
-   "en": "That's the plan. Mika, old man, please be safe.",
+   "en": "Так и сделаем. Мика, старик, держитесь.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "That's the plan. Mika, old man, please be safe."
   }
  ]
 }

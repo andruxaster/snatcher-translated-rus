@@ -34,8 +34,8 @@ ITEM = "1943"                          # STR/MX0_S000.STR[0]
 LOGO_FRAMES = os.path.join(WORK, "mx0")   # decoded originals (for the cross-fade)
 
 TITLE = "PEPA SOFT HOUSE"
-VERSION = open(os.path.join(ROOT, "ps1", "VERSION")).read().strip()   # one place: the BAT reads it too
-SUB = f"ENGLISH TRANSLATION  v{VERSION}  ·  2026"
+RU_VERSION = open(os.path.join(ROOT, "ru", "VERSION")).read().strip()
+SUB = f"РУССКИЙ ПЕРЕВОД  v{RU_VERSION}  ·  2026"
 FONT = ("impact.ttf", 26)
 SUBFONT = ("arialbd.ttf", 11)
 W, H = 320, 240

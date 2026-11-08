@@ -10,884 +10,1256 @@
   {
    "off": 2429,
    "budget": 37,
-   "en": "The Chief's office.￥He is out.",
-   "long": "This is the Chief's office. He seems￥to be out."
+   "en": ".",
+   "en_src": "The Chief's office.￥He is out.",
+   "long_src": "This is the Chief's office. He seems￥to be out.",
+   "ru": true,
+   "long": "Это кабинет шефа. Похоже, его нет на￥месте."
   },
   {
    "off": 2466,
    "budget": 13,
-   "en": "Chief's rm.",
-   "long": "This is the Chief's office."
+   "en": ".",
+   "en_src": "Chief's rm.",
+   "long_src": "This is the Chief's office.",
+   "ru": true,
+   "long": "Это кабинет шефа."
   },
   {
    "off": 2479,
    "budget": 83,
-   "en": "Let's look for evidence of whether￥he's a Snatcher before he returns."
+   "en": "Поищем улики, снатчер он или нет,￥пока он не вернулся.",
+   "en_src": "Let's look for evidence of whether￥he's a Snatcher before he returns.",
+   "ru": true
   },
   {
    "off": 2562,
    "budget": 35,
-   "en": "Let's search for clues again."
+   "en": "Давай ещё раз поищем улики.",
+   "en_src": "Let's search for clues again.",
+   "ru": true
   },
   {
    "off": 2597,
    "budget": 5,
-   "en": "Move"
+   "en": "Идти",
+   "en_src": "Move",
+   "ru": true
   },
   {
    "off": 2602,
    "budget": 47,
-   "en": "First, I'll put the Red Square photo￥back."
+   "en": "Сначала верну фото Красной площади￥на место.",
+   "en_src": "First, I'll put the Red Square photo￥back.",
+   "ru": true
   },
   {
    "off": 2649,
    "budget": 67,
-   "en": "Aye, best keep quiet that we've￥found this picture's secret...",
-   "long": "Right. We mustn't let him know we've￥discovered the painting's secret."
+   "en": "Верно. Нельзя, чтобы он узнал, что￥мы раскрыли секрет картины.",
+   "en_src": "Aye, best keep quiet that we've￥found this picture's secret...",
+   "long_src": "Right. We mustn't let him know we've￥discovered the painting's secret.",
+   "ru": true
   },
   {
    "off": 2716,
    "budget": 31,
-   "en": "Putting the photo back.",
-   "long": "I'll put the Red Square photo back."
+   "en": ".",
+   "en_src": "Putting the photo back.",
+   "long_src": "I'll put the Red Square photo back.",
+   "ru": true,
+   "long": "Возвращаю фото Красной площади на￥место."
   },
   {
    "off": 2747,
    "budget": 37,
-   "en": "First, I'll put the photo back."
+   "en": "Сначала верну фото на место.",
+   "en_src": "First, I'll put the photo back.",
+   "ru": true
   },
   {
    "off": 2784,
    "budget": 37,
-   "en": "Right. But what is it a photo of?"
+   "en": "Верно. Но что же на этом фото?",
+   "en_src": "Right. But what is it a photo of?",
+   "ru": true
   },
   {
    "off": 2821,
    "budget": 21,
-   "en": "Restoring the photo.",
-   "long": "I'll put the photo back."
+   "en": ".",
+   "en_src": "Restoring the photo.",
+   "long_src": "I'll put the photo back.",
+   "ru": true,
+   "long": "Возвращаю фото на место."
   },
   {
    "off": 2842,
    "budget": 5,
-   "en": "Look"
+   "en": ".",
+   "en_src": "Look",
+   "ru": true,
+   "long": "Осмотреть"
   },
   {
    "off": 2847,
    "budget": 5,
-   "en": "Seat",
-   "long": "Chair"
+   "en": ".",
+   "en_src": "Seat",
+   "long_src": "Chair",
+   "ru": true,
+   "long": "Кресло"
   },
   {
    "off": 2852,
    "budget": 35,
-   "en": "The Chief's chair.￥He isn't here.",
-   "long": "It's the Chief's chair. He isn't￥here."
+   "en": "Это кресло шефа. Его здесь нет.",
+   "en_src": "The Chief's chair.￥He isn't here.",
+   "long_src": "It's the Chief's chair. He isn't￥here.",
+   "ru": true
   },
   {
    "off": 2887,
    "budget": 33,
-   "en": "The Chief has stepped out.",
-   "long": "The Chief seems to have stepped out."
+   "en": "Похоже, шеф куда-то отлучился.",
+   "en_src": "The Chief has stepped out.",
+   "long_src": "The Chief seems to have stepped out.",
+   "ru": true
   },
   {
    "off": 2920,
    "budget": 9,
-   "en": "Monitor"
+   "en": "Монитор",
+   "en_src": "Monitor",
+   "ru": true
   },
   {
    "off": 2929,
    "budget": 25,
-   "en": "The monitors are off."
+   "en": "Мониторы выключены.",
+   "en_src": "The monitors are off.",
+   "ru": true
   },
   {
    "off": 2954,
    "budget": 53,
-   "en": "That's unusual. The monitors are￥switched off."
+   "en": "Странно. Мониторы выключены.",
+   "en_src": "That's unusual. The monitors are￥switched off.",
+   "ru": true
   },
   {
    "off": 3007,
    "budget": 3,
-   "en": "Ar",
-   "long": "Picture"
+   "en": ".",
+   "en_src": "Ar",
+   "long_src": "Picture",
+   "ru": true,
+   "long": "Картина"
   },
   {
    "off": 3010,
    "budget": 57,
-   "en": "Wait!￥Something odd about this￥vase picture!",
-   "long": "Wait! Isn't there something strange￥about this picture of a vase?"
+   "en": ".",
+   "en_src": "Wait!￥Something odd about this￥vase picture!",
+   "long_src": "Wait! Isn't there something strange￥about this picture of a vase?",
+   "ru": true,
+   "long": "Постой! Тебе не кажется, что с этой￥картиной с вазой что-то не так?"
   },
   {
    "off": 3067,
    "budget": 35,
-   "en": "Look! Doesn't it look like a face?"
+   "en": ".",
+   "en_src": "Look! Doesn't it look like a face?",
+   "ru": true,
+   "long": "Смотри! Разве это не похоже на лицо?"
   },
   {
    "off": 3102,
    "budget": 27,
-   "en": "A face? I don't see it."
+   "en": "Лицо? Не вижу.",
+   "en_src": "A face? I don't see it.",
+   "ru": true
   },
   {
    "off": 3129,
    "budget": 27,
-   "en": "See, like faces, no?",
-   "long": "Look. Doesn't it look like a face?"
+   "en": ".",
+   "en_src": "See, like faces, no?",
+   "long_src": "Look. Doesn't it look like a face?",
+   "ru": true,
+   "long": "Смотри. Разве это не похоже на лицо?"
   },
   {
    "off": 3156,
    "budget": 47,
-   "en": "Can't tell. Looks like a￥plain vase picture.",
-   "long": "I'm not sure, but it seems to be￥just a picture of a vase."
+   "en": ".",
+   "en_src": "Can't tell. Looks like a￥plain vase picture.",
+   "long_src": "I'm not sure, but it seems to be￥just a picture of a vase.",
+   "ru": true,
+   "long": "Не уверен, но, похоже, это просто￥картина с вазой."
   },
   {
    "off": 3203,
    "budget": 5,
-   "en": "Pic",
-   "long": "Photo"
+   "en": "Фото",
+   "en_src": "Pic",
+   "long_src": "Photo",
+   "ru": true
   },
   {
    "off": 3208,
    "budget": 41,
-   "en": "Seems I've seen it...￥Can't recall.",
-   "long": "I feel like I've seen it before. I￥can't remember."
+   "en": ".",
+   "en_src": "Seems I've seen it...￥Can't recall.",
+   "long_src": "I feel like I've seen it before. I￥can't remember.",
+   "ru": true,
+   "long": "Кажется, я его где-то видел. Не могу￥вспомнить."
   },
   {
    "off": 3249,
    "budget": 37,
-   "en": "Why would a photo like this be here?"
+   "en": "Откуда здесь такое фото?",
+   "en_src": "Why would a photo like this be here?",
+   "ru": true
   },
   {
    "off": 3286,
    "budget": 7,
-   "en": "Check",
-   "long": "Investigate"
+   "en": ".",
+   "en_src": "Check",
+   "long_src": "Investigate",
+   "ru": true,
+   "long": "Изучить"
   },
   {
    "off": 3293,
    "budget": 35,
-   "en": "The surface of the chair is cold."
+   "en": "Поверхность кресла холодная.",
+   "en_src": "The surface of the chair is cold.",
+   "ru": true
   },
   {
    "off": 3328,
    "budget": 37,
-   "en": "He left his seat a while ago.",
-   "long": "He seems to have been gone quite a￥while."
+   "en": "Похоже, его нет уже довольно давно.",
+   "en_src": "He left his seat a while ago.",
+   "long_src": "He seems to have been gone quite a￥while.",
+   "ru": true
   },
   {
    "off": 3365,
    "budget": 41,
-   "en": "Most of the monitors are cold."
+   "en": "Большинство мониторов остыли.",
+   "en_src": "Most of the monitors are cold.",
+   "ru": true
   },
   {
    "off": 3406,
    "budget": 45,
-   "en": "Switched off a good while ago.",
-   "long": "They seem to have been turned off￥quite a while ago."
+   "en": "Похоже, их выключили довольно давно.",
+   "en_src": "Switched off a good while ago.",
+   "long_src": "They seem to have been turned off￥quite a while ago.",
+   "ru": true
   },
   {
    "off": 3451,
    "budget": 55,
-   "en": "Look. I thought it was just a￥picture of a vase."
+   "en": "Смотри. Я думал, это просто картина￥с вазой.",
+   "en_src": "Look. I thought it was just a￥picture of a vase.",
+   "ru": true
   },
   {
    "off": 3506,
    "budget": 47,
-   "en": "But look at the white space. Face to￥face!"
+   "en": "Но посмотри на белый фон. Лицом к￥лицу!",
+   "en_src": "But look at the white space. Face to￥face!",
+   "ru": true
   },
   {
    "off": 3553,
    "budget": 79,
-   "en": "Could this be the \"Face to Face\"￥from Harry's note?"
+   "en": "Неужели это то самое \"Лицом к лицу\"￥из записки Гарри?",
+   "en_src": "Could this be the \"Face to Face\"￥from Harry's note?",
+   "ru": true
   },
   {
    "off": 3632,
    "budget": 29,
-   "en": "An optical illusion.",
-   "long": "It's an optical illusion designed to￥fool human eyes."
+   "en": ".",
+   "en_src": "An optical illusion.",
+   "long_src": "It's an optical illusion designed to￥fool human eyes.",
+   "ru": true,
+   "long": "Это оптическая иллюзия, рассчитанная￥на человеческий глаз."
   },
   {
    "off": 3661,
    "budget": 49,
-   "en": "...Meaning something not human￥can see it?",
-   "long": "Does that mean someone who isn't￥human could see it?"
+   "en": ".",
+   "en_src": "...Meaning something not human￥can see it?",
+   "long_src": "Does that mean someone who isn't￥human could see it?",
+   "ru": true,
+   "long": "Значит, тот, кто не человек, мог бы￥это увидеть?"
   },
   {
    "off": 3710,
    "budget": 29,
-   "en": "Let's take a closer look."
+   "en": "Давай рассмотрим поближе.",
+   "en_src": "Let's take a closer look.",
+   "ru": true
   },
   {
    "off": 3739,
    "budget": 31,
-   "en": "Check the face-to-face part.",
-   "long": "Check the part with the two faces."
+   "en": "Проверь место, где два лица.",
+   "en_src": "Check the face-to-face part.",
+   "long_src": "Check the part with the two faces.",
+   "ru": true
   },
   {
    "off": 3770,
    "budget": 59,
-   "en": "There's a switch between the faces!￥I'll press it."
+   "en": "Между лицами переключатель! Нажимаю.",
+   "en_src": "There's a switch between the faces!￥I'll press it.",
+   "ru": true
   },
   {
    "off": 3829,
    "budget": 35,
-   "en": "The picture flipped to a photo.",
-   "long": "The picture turned over, revealing a￥photograph."
+   "en": ".",
+   "en_src": "The picture flipped to a photo.",
+   "long_src": "The picture turned over, revealing a￥photograph.",
+   "ru": true,
+   "long": "Картина перевернулась, и под ней￥оказалась фотография."
   },
   {
    "off": 3864,
    "budget": 35,
-   "en": "I'll press the switch."
+   "en": "Нажимаю переключатель.",
+   "en_src": "I'll press the switch.",
+   "ru": true
   },
   {
    "off": 3899,
    "budget": 99,
-   "en": "＠黄I've wondered for a while. Doesn't￥this vase picture clash with the￥room's mood?＠白",
-   "long": "＠黄This has bothered me for a while.￥Doesn't that vase picture seem out￥of place in this room?＠白"
+   "en": ".",
+   "en_src": "＠黄I've wondered for a while. Doesn't￥this vase picture clash with the￥room's mood?＠白",
+   "long_src": "＠黄This has bothered me for a while.￥Doesn't that vase picture seem out￥of place in this room?＠白",
+   "ru": true,
+   "long": "＠黄Меня это давно смущает. Тебе не￥кажется, что картина с вазой не￥вписывается в эту комнату?＠白"
   },
   {
    "off": 3998,
    "budget": 31,
-   "en": "It's been bothering me too."
+   "en": "Меня тоже.",
+   "en_src": "It's been bothering me too.",
+   "ru": true
   },
   {
    "off": 4029,
    "budget": 29,
-   "en": "Metal, doesn't it seem odd?",
-   "long": "Doesn't something seem wrong, Metal?"
+   "en": ".",
+   "en_src": "Metal, doesn't it seem odd?",
+   "long_src": "Doesn't something seem wrong, Metal?",
+   "ru": true,
+   "long": "Тебе ничего не кажется странным,￥Метал?"
   },
   {
    "off": 4058,
    "budget": 11,
-   "en": "What is?",
-   "long": "What do you mean?"
+   "en": "Ты о чём?",
+   "en_src": "What is?",
+   "long_src": "What do you mean?",
+   "ru": true
   },
   {
    "off": 4069,
    "budget": 39,
-   "en": "If I were a Snatcher,"
+   "en": "Будь я снатчером,",
+   "en_src": "If I were a Snatcher,",
+   "ru": true
   },
   {
    "off": 4108,
    "budget": 65,
-   "en": "would I hide an incriminating￥photograph somewhere so obvious?"
+   "en": "стал бы я прятать компрометирующую￥фотографию на самом виду?",
+   "en_src": "would I hide an incriminating￥photograph somewhere so obvious?",
+   "ru": true
   },
   {
    "off": 4173,
    "budget": 19,
-   "en": "You have a point."
+   "en": "Тут ты прав.",
+   "en_src": "You have a point.",
+   "ru": true
   },
   {
    "off": 4192,
    "budget": 57,
-   "en": "Some reason must keep it here￥despite the risk.",
-   "long": "There must be a reason to keep it￥here, even at that risk."
+   "en": "Должна быть причина хранить её￥здесь, несмотря на риск.",
+   "en_src": "Some reason must keep it here￥despite the risk.",
+   "long_src": "There must be a reason to keep it￥here, even at that risk.",
+   "ru": true
   },
   {
    "off": 4249,
    "budget": 53,
-   "en": "Red Square...?￥Why is it in the Chief's room...",
-   "long": "Red Square? Why would the Chief have￥a photo of that?"
+   "en": "Красная площадь? Зачем шефу такое￥фото?",
+   "en_src": "Red Square...?￥Why is it in the Chief's room...",
+   "long_src": "Red Square? Why would the Chief have￥a photo of that?",
+   "ru": true
   },
   {
    "off": 4302,
    "budget": 65,
-   "en": "By the print's pixel state, this￥photo is half a century old.",
-   "long": "Judging by the condition of the￥printed image, this photograph is￥fifty years old."
+   "en": "Судя по состоянию отпечатка, этой￥фотографии лет пятьдесят.",
+   "en_src": "By the print's pixel state, this￥photo is half a century old.",
+   "long_src": "Judging by the condition of the￥printed image, this photograph is￥fifty years old.",
+   "ru": true
   },
   {
    "off": 4367,
    "budget": 5,
-   "en": "Item"
+   "en": ".",
+   "en_src": "Item",
+   "ru": true,
+   "long": "Предметы"
   },
   {
    "off": 4372,
    "budget": 15,
-   "en": "Use Metal Gear"
+   "en": "Позвать Метала",
+   "en_src": "Use Metal Gear",
+   "ru": true
   },
   {
    "off": 4387,
    "budget": 13,
-   "en": "Videophone"
+   "en": "Видеофон",
+   "en_src": "Videophone",
+   "ru": true
   },
   {
    "off": 4400,
    "budget": 11,
-   "en": "Save"
+   "en": "Сохранить",
+   "en_src": "Save",
+   "ru": true
   },
   {
    "off": 4411,
    "budget": 37,
-   "en": "I'll save your progress now."
+   "en": "Сохраняю наш прогресс.",
+   "en_src": "I'll save your progress now.",
+   "ru": true
   },
   {
    "off": 4448,
    "budget": 45,
-   "en": "Either the Chief or Harry is a￥Snatcher?"
+   "en": "Шеф или Гарри - снатчер?",
+   "en_src": "Either the Chief or Harry is a￥Snatcher?",
+   "ru": true
   },
   {
    "off": 4493,
    "budget": 75,
-   "en": "...Let's find evidence.￥Go about it carelessly and￥we're in trouble.",
-   "long": "Let's find evidence. If we don't￥proceed carefully, this could go￥terribly wrong."
+   "en": ".",
+   "en_src": "...Let's find evidence.￥Go about it carelessly and￥we're in trouble.",
+   "long_src": "Let's find evidence. If we don't￥proceed carefully, this could go￥terribly wrong.",
+   "ru": true,
+   "long": "Давай найдём улики. Если не￥действовать осторожно, всё может￥кончиться очень плохо."
   },
   {
    "off": 4568,
    "budget": 35,
-   "en": "Let's start with this room."
+   "en": "Начнём с этой комнаты.",
+   "en_src": "Let's start with this room.",
+   "ru": true
   },
   {
    "off": 4603,
    "budget": 33,
-   "en": "They both seem to be out."
+   "en": "Похоже, обоих нет на месте.",
+   "en_src": "They both seem to be out.",
+   "ru": true
   },
   {
    "off": 4636,
    "budget": 25,
-   "en": "Let's search this room.",
-   "long": "Let's search this room next."
+   "en": ".",
+   "en_src": "Let's search this room.",
+   "long_src": "Let's search this room next.",
+   "ru": true,
+   "long": "Теперь осмотрим эту комнату."
   },
   {
    "off": 4661,
    "budget": 33,
-   "en": "Metal, where is this photo of?",
-   "long": "Where was this photo taken, Metal?"
+   "en": "Где сделано это фото, Метал?",
+   "en_src": "Metal, where is this photo of?",
+   "long_src": "Where was this photo taken, Metal?",
+   "ru": true
   },
   {
    "off": 4694,
    "budget": 75,
-   "en": "I'll search Alphaville's records to￥identify the location."
+   "en": "Поищу по базам \"Альфавиля\", что это￥за место.",
+   "en_src": "I'll search Alphaville's records to￥identify the location.",
+   "ru": true
   },
   {
    "off": 4769,
    "budget": 21,
-   "en": "I've found it."
+   "en": "Нашёл.",
+   "en_src": "I've found it.",
+   "ru": true
   },
   {
    "off": 4790,
    "budget": 55,
-   "en": "It's Red Square in Moscow, before￥the Catastrophe."
+   "en": "Это Красная площадь в Москве до￥Катастрофы.",
+   "en_src": "It's Red Square in Moscow, before￥the Catastrophe.",
+   "ru": true
   },
   {
    "off": 4845,
    "budget": 49,
-   "en": "Red Square...?￥Why such a photo in his room?",
-   "long": "Red Square? Why would the Chief have￥a photo of that?"
+   "en": "Красная площадь? Зачем шефу такое￥фото?",
+   "en_src": "Red Square...?￥Why such a photo in his room?",
+   "long_src": "Red Square? Why would the Chief have￥a photo of that?",
+   "ru": true
   },
   {
    "off": 4894,
    "budget": 31,
-   "en": "Save the image."
+   "en": "Сохрани изображение.",
+   "en_src": "Save the image.",
+   "ru": true
   },
   {
    "off": 4925,
    "budget": 37,
-   "en": "I've saved the photograph in memory."
+   "en": "Фотография сохранена в памяти.",
+   "en_src": "I've saved the photograph in memory.",
+   "ru": true
   },
   {
    "off": 4962,
    "budget": 19,
-   "en": "The Chief's photo?",
-   "long": "The Chief had this photo?"
+   "en": ".",
+   "en_src": "The Chief's photo?",
+   "long_src": "The Chief had this photo?",
+   "ru": true,
+   "long": "Это фото было у шефа?"
   },
   {
    "off": 4981,
    "budget": 45,
-   "en": "Or did someone plant it to frame￥him?"
+   "en": ".",
+   "en_src": "Or did someone plant it to frame￥him?",
+   "ru": true,
+   "long": "Или кто-то подбросил его, чтобы￥подставить шефа?"
   },
   {
    "off": 5026,
    "budget": 43,
-   "en": "And Harry's matches. Which one is￥it?"
+   "en": "И ещё спички Гарри. Так кто же из￥них?",
+   "en_src": "And Harry's matches. Which one is￥it?",
+   "ru": true
   },
   {
    "off": 5069,
    "budget": 19,
-   "en": "Which one?"
+   "en": "Кто же из них?",
+   "en_src": "Which one?",
+   "ru": true
   },
   {
    "off": 5088,
    "budget": 55,
-   "en": "Nothing conclusive.￥Both are just circumstantial.",
-   "long": "There's nothing conclusive. Both are￥only circumstantial evidence."
+   "en": ".",
+   "en_src": "Nothing conclusive.￥Both are just circumstantial.",
+   "long_src": "There's nothing conclusive. Both are￥only circumstantial evidence.",
+   "ru": true,
+   "long": "Ничего определённого. И то и другое￥- лишь косвенные улики."
   },
   {
    "off": 5143,
    "budget": 29,
-   "en": "Or could it be someone else?"
+   "en": "А может, это кто-то третий?",
+   "en_src": "Or could it be someone else?",
+   "ru": true
   },
   {
    "off": 5172,
    "budget": 63,
-   "en": "At this rate that 'BENSON' chart￥looks suspect too?",
-   "long": "Even that medical record with BENSON￥on it seems suspicious now."
+   "en": "Теперь и та медкарта с именем BENSON￥кажется подозрительной.",
+   "en_src": "At this rate that 'BENSON' chart￥looks suspect too?",
+   "long_src": "Even that medical record with BENSON￥on it seems suspicious now.",
+   "ru": true
   },
   {
    "off": 5235,
    "budget": 25,
-   "en": "Planted for us....?",
-   "long": "Did they deliberately leave it for￥us?"
+   "en": ".",
+   "en_src": "Planted for us....?",
+   "long_src": "Did they deliberately leave it for￥us?",
+   "ru": true,
+   "long": "Нам её подбросили нарочно?"
   },
   {
    "off": 5260,
    "budget": 61,
-   "en": "To begin with,￥a Snatcher leaving a chart is￥itself odd.",
-   "long": "It's strange that a Snatcher would￥leave a medical record behind at￥all."
+   "en": "Вообще странно, что снатчер оставил￥медкарту.",
+   "en_src": "To begin with,￥a Snatcher leaving a chart is￥itself odd.",
+   "long_src": "It's strange that a Snatcher would￥leave a medical record behind at￥all.",
+   "ru": true
   },
   {
    "off": 5321,
    "budget": 13,
-   "en": "A trap?",
-   "long": "Is it a trap?"
+   "en": "Это ловушка?",
+   "en_src": "A trap?",
+   "long_src": "Is it a trap?",
+   "ru": true
   },
   {
    "off": 5334,
    "budget": 29,
-   "en": "We can't say yet."
+   "en": "Пока сказать нельзя.",
+   "en_src": "We can't say yet.",
+   "ru": true
   },
   {
    "off": 5363,
    "budget": 27,
-   "en": "The Chief left his office?"
+   "en": "Шеф покинул кабинет?",
+   "en_src": "The Chief left his office?",
+   "ru": true
   },
   {
    "off": 5390,
    "budget": 57,
-   "en": "As Mika said, busy with summit￥preparations?",
-   "long": "Could he be busy preparing for the￥summit, as Mika said?"
+   "en": ".",
+   "en_src": "As Mika said, busy with summit￥preparations?",
+   "long_src": "Could he be busy preparing for the￥summit, as Mika said?",
+   "ru": true,
+   "long": "Может, он занят подготовкой к￥саммиту, как сказала Мика?"
   },
   {
    "off": 5447,
    "budget": 49,
-   "en": "If it were work he'd say￥where he was going?",
-   "long": "If he went out on business, he'd at￥least say where he was going."
+   "en": ".",
+   "en_src": "If it were work he'd say￥where he was going?",
+   "long_src": "If he went out on business, he'd at￥least say where he was going.",
+   "ru": true,
+   "long": "Если бы он уехал по делам, то хоть￥сказал бы куда."
   },
   {
    "off": 5496,
    "budget": 37,
-   "en": "The Chief seems out for a while.",
-   "long": "It looks like the Chief's been out￥for a while."
+   "en": "Похоже, шефа нет уже давно.",
+   "en_src": "The Chief seems out for a while.",
+   "long_src": "It looks like the Chief's been out￥for a while.",
+   "ru": true
   },
   {
    "off": 5533,
    "budget": 21,
-   "en": "It does."
+   "en": "Похоже на то.",
+   "en_src": "It does.",
+   "ru": true
   },
   {
    "off": 5554,
    "budget": 61,
-   "en": "This is the Mechanic room. Harry￥seems to be out."
+   "en": "Это мастерская. Похоже, Гарри нет на￥месте.",
+   "en_src": "This is the Mechanic room. Harry￥seems to be out.",
+   "ru": true
   },
   {
    "off": 5615,
    "budget": 51,
-   "en": "Let's look for clues before Harry￥returns."
+   "en": "Поищем улики, пока Гарри не￥вернулся.",
+   "en_src": "Let's look for clues before Harry￥returns.",
+   "ru": true
   },
   {
    "off": 5666,
    "budget": 35,
-   "en": "Let's find clues while he's out.",
-   "long": "Let's look for clues while he's out."
+   "en": "Поищем улики, пока его нет.",
+   "en_src": "Let's find clues while he's out.",
+   "long_src": "Let's look for clues while he's out.",
+   "ru": true
   },
   {
    "off": 5701,
    "budget": 9,
-   "en": "Poster"
+   "en": "Плакат",
+   "en_src": "Poster",
+   "ru": true
   },
   {
    "off": 5710,
    "budget": 31,
-   "en": "A last-century film starlet.",
-   "long": "She's a sexy movie star from the￥last century."
+   "en": ".",
+   "en_src": "A last-century film starlet.",
+   "long_src": "She's a sexy movie star from the￥last century.",
+   "ru": true,
+   "long": "Это секс-символ кино прошлого века."
   },
   {
    "off": 5741,
    "budget": 29,
-   "en": "A photo of Harry as a boy.",
-   "long": "It's a photograph of Harry as a boy."
+   "en": "Это фото Гарри в детстве.",
+   "en_src": "A photo of Harry as a boy.",
+   "long_src": "It's a photograph of Harry as a boy.",
+   "ru": true
   },
   {
    "off": 5770,
    "budget": 7,
-   "en": "Desk"
+   "en": "Стол",
+   "en_src": "Desk",
+   "ru": true
   },
   {
    "off": 5777,
    "budget": 27,
-   "en": "Matches lie on the desk.",
-   "long": "There are matches on the desk."
+   "en": "На столе спички.",
+   "en_src": "Matches lie on the desk.",
+   "long_src": "There are matches on the desk.",
+   "ru": true
   },
   {
    "off": 5804,
    "budget": 23,
-   "en": "Something on the desk.",
-   "long": "There's something on the desk."
+   "en": "На столе что-то есть.",
+   "en_src": "Something on the desk.",
+   "long_src": "There's something on the desk.",
+   "ru": true
   },
   {
    "off": 5827,
    "budget": 49,
-   "en": "＠赤Matches＠白 and a ＠赤note＠白."
+   "en": "＠赤Спички＠白 и ＠赤записка＠白.",
+   "en_src": "＠赤Matches＠白 and a ＠赤note＠白.",
+   "ru": true
   },
   {
    "off": 5876,
    "budget": 33,
-   "en": "Matches and a memo on it.",
-   "long": "There are matches and a note on the￥desk."
+   "en": "На столе спички и записка.",
+   "en_src": "Matches and a memo on it.",
+   "long_src": "There are matches and a note on the￥desk.",
+   "ru": true
   },
   {
    "off": 5909,
    "budget": 7,
-   "en": "Match",
-   "long": "Matches"
+   "en": "Спички",
+   "en_src": "Match",
+   "long_src": "Matches",
+   "ru": true
   },
   {
    "off": 5916,
    "budget": 67,
-   "en": "The box has the Outer Heaven logo￥printed on it."
+   "en": "На коробке напечатан логотип \"Аутер￥Хэвен\".",
+   "en_src": "The box has the Outer Heaven logo￥printed on it.",
+   "ru": true
   },
   {
    "off": 5983,
    "budget": 9,
-   "en": "Memo"
+   "en": "Записка",
+   "en_src": "Memo",
+   "ru": true
   },
   {
    "off": 5992,
    "budget": 55,
-   "en": "It says ＠赤\"Face to Face.\"＠白"
+   "en": "Здесь написано: ＠赤\"Лицом к лицу\".＠白",
+   "en_src": "It says ＠赤\"Face to Face.\"＠白",
+   "ru": true
   },
   {
    "off": 6047,
    "budget": 17,
-   "en": "Face to face?"
+   "en": "Лицом к лицу?",
+   "en_src": "Face to face?",
+   "ru": true
   },
   {
    "off": 6064,
    "budget": 45,
-   "en": "Well worn, but the corners￥are reinforced.",
-   "long": "It's badly worn, but all four￥corners have been reinforced."
+   "en": ".",
+   "en_src": "Well worn, but the corners￥are reinforced.",
+   "long_src": "It's badly worn, but all four￥corners have been reinforced.",
+   "ru": true,
+   "long": "Сильно потрёпано, но все четыре￥уголка укреплены."
   },
   {
    "off": 6109,
    "budget": 41,
-   "en": "Harry really seems to treasure it."
+   "en": "Похоже, Гарри очень им дорожит.",
+   "en_src": "Harry really seems to treasure it.",
+   "ru": true
   },
   {
    "off": 6150,
    "budget": 51,
-   "en": "The original photo would show us￥Harry's parents."
+   "en": "По исходному фото мы бы узнали￥родителей Гарри.",
+   "en_src": "The original photo would show us￥Harry's parents.",
+   "ru": true
   },
   {
    "off": 6201,
    "budget": 77,
-   "en": "These are definitely the matches￥given to regulars at Outer Heaven."
+   "en": "Это точно спички, которые раздают￥завсегдатаям \"Аутер Хэвен\".",
+   "en_src": "These are definitely the matches￥given to regulars at Outer Heaven.",
+   "ru": true
   },
   {
    "off": 6278,
    "budget": 55,
-   "en": "They're the matches given out at￥Outer Heaven."
+   "en": "Это спички, которые раздают в \"Аутер￥Хэвен\".",
+   "en_src": "They're the matches given out at￥Outer Heaven.",
+   "ru": true
   },
   {
    "off": 6333,
    "budget": 35,
-   "en": "Harry's hand. A message?",
-   "long": "It's Harry's handwriting. Did he￥leave us a message?"
+   "en": ".",
+   "en_src": "Harry's hand. A message?",
+   "long_src": "It's Harry's handwriting. Did he￥leave us a message?",
+   "ru": true,
+   "long": "Это почерк Гарри. Он оставил нам￥послание?"
   },
   {
    "off": 6368,
    "budget": 83,
-   "en": "'Face to face' is the key...￥All we can do is search where￥the phrase leads.",
-   "long": "\"Face to face\" is the key. We'll￥have to search wherever that phrase￥brings to mind."
+   "en": "\"Лицом к лицу\" - вот ключ. Придётся￥искать везде, на что наводит эта￥фраза.",
+   "en_src": "'Face to face' is the key...￥All we can do is search where￥the phrase leads.",
+   "long_src": "\"Face to face\" is the key. We'll￥have to search wherever that phrase￥brings to mind.",
+   "ru": true
   },
   {
    "off": 6451,
    "budget": 95,
-   "en": "Perhaps it means \"Look for face to￥face,\" or \"Pay attention to face￥to face.\""
+   "en": "Может, это значит: ищи \"лицом к￥лицу\". Или: обрати внимание на￥\"лицом к лицу\"?",
+   "en_src": "Perhaps it means \"Look for face to￥face,\" or \"Pay attention to face￥to face.\"",
+   "ru": true
   },
   {
    "off": 6546,
    "budget": 33,
-   "en": "Keep that note."
+   "en": "Сохрани эту записку.",
+   "en_src": "Keep that note.",
+   "ru": true
   },
   {
    "off": 6579,
    "budget": 41,
-   "en": "I'll take the note."
+   "en": "Забираю записку.",
+   "en_src": "I'll take the note.",
+   "ru": true
   },
   {
    "off": 6620,
    "budget": 55,
-   "en": "From Outer Heaven? Harry had these?"
+   "en": "Из \"Аутер Хэвен\"? Они были у Гарри?",
+   "en_src": "From Outer Heaven? Harry had these?",
+   "ru": true
   },
   {
    "off": 6675,
    "budget": 57,
-   "en": "Harry is the only person at JUNKER￥HQ who smokes."
+   "en": "Гарри - единственный в штабе￥ДЖАНКЕРа, кто курит.",
+   "en_src": "Harry is the only person at JUNKER￥HQ who smokes.",
+   "ru": true
   },
   {
    "off": 6732,
    "budget": 17,
-   "en": "Not Harry?",
-   "long": "Could Harry be the one?"
+   "en": ".",
+   "en_src": "Not Harry?",
+   "long_src": "Could Harry be the one?",
+   "ru": true,
+   "long": "Неужели это Гарри?"
   },
   {
    "off": 6749,
    "budget": 49,
-   "en": "If he has matches from Outer￥Heaven..."
+   "en": "Раз у него спички из \"Аутер￥Хэвен\"...",
+   "en_src": "If he has matches from Outer￥Heaven...",
+   "ru": true
   },
   {
    "off": 6798,
    "budget": 37,
-   "en": "Harry, a Snatcher? It can't be."
+   "en": "Гарри - снатчер? Не может быть.",
+   "en_src": "Harry, a Snatcher? It can't be.",
+   "ru": true
   },
   {
    "off": 6835,
    "budget": 27,
-   "en": "Let's take these matches."
+   "en": "Возьмём эти спички.",
+   "en_src": "Let's take these matches.",
+   "ru": true
   },
   {
    "off": 6862,
    "budget": 65,
-   "en": "There's no need. They're identical￥to the ones we have."
+   "en": "Незачем. Они такие же, как те, что у￥нас есть.",
+   "en_src": "There's no need. They're identical￥to the ones we have.",
+   "ru": true
   },
   {
    "off": 6927,
    "budget": 55,
-   "en": "I've recorded them.￥...They'd only weigh us down.",
-   "long": "I've recorded what we found.￥Carrying more would only weigh us￥down."
+   "en": "Я записал, что мы нашли. Лишний груз￥только помешает.",
+   "en_src": "I've recorded them.￥...They'd only weigh us down.",
+   "long_src": "I've recorded what we found.￥Carrying more would only weigh us￥down.",
+   "ru": true
   },
   {
    "off": 6982,
    "budget": 27,
-   "en": "Let's leave them here."
+   "en": "Оставим их здесь.",
+   "en_src": "Let's leave them here.",
+   "ru": true
   },
   {
    "off": 7009,
    "budget": 15,
-   "en": "JUNKER ID"
+   "en": "Удостоверение",
+   "en_src": "JUNKER ID",
+   "ru": true
   },
   {
    "off": 7024,
    "budget": 69,
-   "en": "The ID card proving all JUNKER￥authority. Keep it safe.",
-   "long": "This ID card certifies all your￥authority as a JUNKER. Take good￥care of it."
+   "en": "Эта карта удостоверяет все твои￥полномочия ДЖАНКЕРа. Береги её.",
+   "en_src": "The ID card proving all JUNKER￥authority. Keep it safe.",
+   "long_src": "This ID card certifies all your￥authority as a JUNKER. Take good￥care of it.",
+   "ru": true
   },
   {
    "off": 7093,
    "budget": 7,
-   "en": "Funds"
+   "en": "Деньги",
+   "en_src": "Funds",
+   "ru": true
   },
   {
    "off": 7100,
    "budget": 35,
-   "en": "It's the money JUNKER provided."
+   "en": "Это деньги, выданные ДЖАНКЕРом.",
+   "en_src": "It's the money JUNKER provided.",
+   "ru": true
   },
   {
    "off": 7135,
    "budget": 5,
-   "en": "Drop",
-   "long": "Candy"
+   "en": ".",
+   "en_src": "Drop",
+   "long_src": "Candy",
+   "ru": true,
+   "long": "Леденец"
   },
   {
    "off": 7140,
    "budget": 35,
-   "en": "It's the candy from Jean's pocket."
+   "en": "Это леденец из кармана Жана.",
+   "en_src": "It's the candy from Jean's pocket.",
+   "ru": true
   },
   {
    "off": 7175,
    "budget": 7,
-   "en": "Proof",
-   "long": "Evidence"
+   "en": "Улики",
+   "en_src": "Proof",
+   "long_src": "Evidence",
+   "ru": true
   },
   {
    "off": 7182,
    "budget": 3,
-   "en": "Pc",
-   "long": "Chess piece"
+   "en": ".",
+   "en_src": "Pc",
+   "long_src": "Chess piece",
+   "ru": true,
+   "long": "Шахматная фигура"
   },
   {
    "off": 7185,
    "budget": 61,
-   "en": "Gibson's chess piece, hinting￥at Queen Hospital.",
-   "long": "It's Gibson's chess piece, the clue￥to Queen Hospital's name."
+   "en": ".",
+   "en_src": "Gibson's chess piece, hinting￥at Queen Hospital.",
+   "long_src": "It's Gibson's chess piece, the clue￥to Queen Hospital's name.",
+   "ru": true,
+   "long": "Это шахматная фигура Гибсона -￥подсказка к названию больницы￥\"Куин\"."
   },
   {
    "off": 7246,
    "budget": 37,
-   "en": "A chess piece Gibson was carrying.",
-   "long": "It's the chess piece Gibson was￥carrying."
+   "en": ".",
+   "en_src": "A chess piece Gibson was carrying.",
+   "long_src": "It's the chess piece Gibson was￥carrying.",
+   "ru": true,
+   "long": "Это шахматная фигура, которую носил￥с собой Гибсон."
   },
   {
    "off": 7283,
    "budget": 7,
-   "en": "Chart",
-   "long": "Medical chart"
+   "en": ".",
+   "en_src": "Chart",
+   "long_src": "Medical chart",
+   "ru": true,
+   "long": "Медкарта"
   },
   {
    "off": 7290,
    "budget": 41,
-   "en": "A chart with a Snatcher's￥name on it.",
-   "long": "It's the medical record with a￥Snatcher's name on it."
+   "en": "Это медкарта с именем снатчера.",
+   "en_src": "A chart with a Snatcher's￥name on it.",
+   "long_src": "It's the medical record with a￥Snatcher's name on it.",
+   "ru": true
   },
   {
    "off": 7331,
    "budget": 37,
-   "en": "Found on a desk at￥Queen Hospital.",
-   "long": "We found it in the desk at Queen￥Hospital."
+   "en": ".",
+   "en_src": "Found on a desk at￥Queen Hospital.",
+   "long_src": "We found it in the desk at Queen￥Hospital.",
+   "ru": true,
+   "long": "Мы нашли её в столе в больнице￥\"Куин\"."
   },
   {
    "off": 7368,
    "budget": 43,
-   "en": "Old-fashioned matches from￥Queen Hosp.",
-   "long": "They're the old-fashioned matches￥from Queen Hospital."
+   "en": ".",
+   "en_src": "Old-fashioned matches from￥Queen Hosp.",
+   "long_src": "They're the old-fashioned matches￥from Queen Hospital.",
+   "ru": true,
+   "long": "Это старомодные спички из больницы￥\"Куин\"."
   },
   {
    "off": 7411,
    "budget": 31,
-   "en": "A memo in Harry's hand.",
-   "long": "It's the note Harry apparently￥wrote."
+   "en": ".",
+   "en_src": "A memo in Harry's hand.",
+   "long_src": "It's the note Harry apparently￥wrote.",
+   "ru": true,
+   "long": "Это записка, которую, похоже,￥написал Гарри."
   },
   {
    "off": 7442,
    "budget": 43,
-   "en": "A memo left in the mechanic room.",
-   "long": "It's the note we found in the￥Mechanic room."
+   "en": ".",
+   "en_src": "A memo left in the mechanic room.",
+   "long_src": "It's the note we found in the￥Mechanic room.",
+   "ru": true,
+   "long": "Это записка, которую мы нашли в￥мастерской."
   },
   {
    "off": 7485,
    "budget": 13,
-   "en": "Video memory"
+   "en": "Видеопамять",
+   "en_src": "Video memory",
+   "ru": true
   },
   {
    "off": 7498,
    "budget": 13,
-   "en": "Little John"
+   "en": "Литл Джон",
+   "en_src": "Little John",
+   "ru": true
   },
   {
    "off": 7511,
    "budget": 47,
-   "en": "Footage left in Little John's￥memory.",
-   "long": "It's the image recovered from Little￥John's memory."
+   "en": ".",
+   "en_src": "Footage left in Little John's￥memory.",
+   "long_src": "It's the image recovered from Little￥John's memory.",
+   "ru": true,
+   "long": "Это изображение, восстановленное из￥памяти Литл Джона."
   },
   {
    "off": 7558,
    "budget": 9,
-   "en": "Red Sq.",
-   "long": "Red Square"
+   "en": ".",
+   "en_src": "Red Sq.",
+   "long_src": "Red Square",
+   "ru": true,
+   "long": "Красная площадь"
   },
   {
    "off": 7567,
    "budget": 41,
-   "en": "A still photo hidden in￥the Chief's rm",
-   "long": "It's the photograph hidden in the￥Chief's office."
+   "en": ".",
+   "en_src": "A still photo hidden in￥the Chief's rm",
+   "long_src": "It's the photograph hidden in the￥Chief's office.",
+   "ru": true,
+   "long": "Это фотография, спрятанная в￥кабинете шефа."
   },
   {
    "off": 7608,
    "budget": 5,
-   "en": "Hall",
-   "long": "Temple"
+   "en": "Храм",
+   "en_src": "Hall",
+   "long_src": "Temple",
+   "ru": true
   },
   {
    "off": 7613,
    "budget": 47,
-   "en": "Temple painting from a￥Queen Hospital room.",
-   "long": "It's the picture of a temple that￥was hanging in Queen Hospital."
+   "en": ".",
+   "en_src": "Temple painting from a￥Queen Hospital room.",
+   "long_src": "It's the picture of a temple that￥was hanging in Queen Hospital.",
+   "ru": true,
+   "long": "Это картина с храмом, висевшая в￥больнице \"Куин\"."
   },
   {
    "off": 7660,
    "budget": 67,
-   "en": "It has a built-in chip containing￥all your records, Gillian."
+   "en": "В неё встроен чип со всеми твоими￥данными, Гиллиан.",
+   "en_src": "It has a built-in chip containing￥all your records, Gillian.",
+   "ru": true
   },
   {
    "off": 7727,
    "budget": 49,
-   "en": "Case expenses are covered￥as work requires.",
-   "long": "In principle, there's no limit on￥reimbursement for necessary￥investigation expenses."
+   "en": ".",
+   "en_src": "Case expenses are covered￥as work requires.",
+   "long_src": "In principle, there's no limit on￥reimbursement for necessary￥investigation expenses.",
+   "ru": true,
+   "long": "В принципе, на необходимые расходы￥по следствию лимита нет."
   },
   {
    "off": 7776,
    "budget": 45,
-   "en": "The candy Jean handed out￥to the orphans.",
-   "long": "It's the candy Jean used to give the￥children at the orphanage."
+   "en": ".",
+   "en_src": "The candy Jean handed out￥to the orphans.",
+   "long_src": "It's the candy Jean used to give the￥children at the orphanage.",
+   "ru": true,
+   "long": "Это леденец, которым Жан угощал￥детей в приюте."
   },
   {
    "off": 7821,
    "budget": 57,
-   "en": "So the piece pointed to the name￥of Queen Hospital.",
-   "long": "This piece was apparently meant to￥tell us the name Queen Hospital."
+   "en": ".",
+   "en_src": "So the piece pointed to the name￥of Queen Hospital.",
+   "long_src": "This piece was apparently meant to￥tell us the name Queen Hospital.",
+   "ru": true,
+   "long": "Похоже, эта фигура должна была￥подсказать нам название больницы￥\"Куин\"."
   },
   {
    "off": 7878,
    "budget": 57,
-   "en": "It's a wooden chess piece. The￥queen."
+   "en": "Это деревянная шахматная фигура.￥Ферзь.",
+   "en_src": "It's a wooden chess piece. The￥queen.",
+   "ru": true
   },
   {
    "off": 7935,
    "budget": 83,
-   "en": "It's a code using Chinese chemical￥element symbols. Decoded, it reads￥BENSON."
+   "en": ".",
+   "en_src": "It's a code using Chinese chemical￥element symbols. Decoded, it reads￥BENSON.",
+   "ru": true,
+   "long": "Это шифр из китайских обозначений￥химических элементов. В расшифровке￥- BENSON."
   },
   {
    "off": 8018,
    "budget": 65,
-   "en": "It seems to be part of a medical￥record, but what does it say?"
+   "en": "Похоже на часть медкарты, но что там￥написано?",
+   "en_src": "It seems to be part of a medical￥record, but what does it say?",
+   "ru": true
   },
   {
    "off": 8083,
    "budget": 73,
-   "en": "Matches from 'Outer Heaven'.￥A gift for the regulars,￥no doubt.",
-   "long": "They're matches from Outer Heaven.￥Probably free gifts for regular￥customers."
+   "en": "Это спички из \"Аутер Хэвен\".￥Наверное, подарок постоянным￥клиентам.",
+   "en_src": "Matches from 'Outer Heaven'.￥A gift for the regulars,￥no doubt.",
+   "long_src": "They're matches from Outer Heaven.￥Probably free gifts for regular￥customers.",
+   "ru": true
   },
   {
    "off": 8156,
    "budget": 63,
-   "en": "'Face to Face'.￥A memo on the illusion￥picture's secret.",
-   "long": "\"Face to face.\" The note reveals￥the secret of the optical illusion."
+   "en": "\"Лицом к лицу\". Записка раскрывает￥секрет оптической иллюзии.",
+   "en_src": "'Face to Face'.￥A memo on the illusion￥picture's secret.",
+   "long_src": "\"Face to face.\" The note reveals￥the secret of the optical illusion.",
+   "ru": true
   },
   {
    "off": 8219,
    "budget": 75,
-   "en": "\"Face to face.\" It's Harry's￥handwriting, but what does it mean?"
+   "en": "\"Лицом к лицу\". Почерк Гарри, но что￥это значит?",
+   "en_src": "\"Face to face.\" It's Harry's￥handwriting, but what does it mean?",
+   "ru": true
   },
   {
    "off": 8294,
    "budget": 53,
-   "en": "It's an image of Queen Hospital's￥neon sign."
+   "en": "Это изображение неоновой вывески￥больницы \"Куин\".",
+   "en_src": "It's an image of Queen Hospital's￥neon sign.",
+   "ru": true
   },
   {
    "off": 8347,
    "budget": 67,
-   "en": "It reads \"Hospital OLEEN.\" It must￥be a hospital's neon sign."
+   "en": ".",
+   "en_src": "It reads \"Hospital OLEEN.\" It must￥be a hospital's neon sign.",
+   "ru": true,
+   "long": "Здесь написано \"HOSPITAL OLEEN\".￥Должно быть, неоновая вывеска￥больницы."
   },
   {
    "off": 8414,
    "budget": 65,
-   "en": "A still photo of Red Square￥in Moscow, before the Catastrophe.",
-   "long": "It's a photograph of Red Square in￥Moscow before the Catastrophe."
+   "en": "Это фотография Красной площади в￥Москве до Катастрофы.",
+   "en_src": "A still photo of Red Square￥in Moscow, before the Catastrophe.",
+   "long_src": "It's a photograph of Red Square in￥Moscow before the Catastrophe.",
+   "ru": true
   },
   {
    "off": 8479,
    "budget": 67,
-   "en": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
-   "long": "It's St. Basil's Cathedral, a famous￥church in Moscow before the￥Catastrophe."
+   "en": ".",
+   "en_src": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
+   "long_src": "It's St. Basil's Cathedral, a famous￥church in Moscow before the￥Catastrophe.",
+   "ru": true,
+   "long": "Это собор Василия Блаженного,￥знаменитый храм в Москве до￥Катастрофы."
   },
   {
    "off": 8546,
    "budget": 37,
-   "en": "Who really wrote this?"
+   "en": "Кто же на самом деле это написал?",
+   "en_src": "Who really wrote this?",
+   "ru": true
   },
   {
    "off": 8583,
    "budget": 55,
-   "en": "Anyone could imitate Harry's￥handwriting."
+   "en": "Подделать почерк Гарри может кто￥угодно.",
+   "en_src": "Anyone could imitate Harry's￥handwriting.",
+   "ru": true
   },
   {
    "off": 8638,
    "budget": 43,
-   "en": "Same as the mechanic room￥matches.",
-   "long": "They're the same matches as the ones￥in the Mechanic room."
+   "en": "Это те же спички, что и в￥мастерской.",
+   "en_src": "Same as the mechanic room￥matches.",
+   "long_src": "They're the same matches as the ones￥in the Mechanic room.",
+   "ru": true
   },
   {
    "off": 8681,
    "budget": 25,
-   "en": "That's what it means."
+   "en": "Выходит, что так.",
+   "en_src": "That's what it means.",
+   "ru": true
   },
   {
    "off": 8708,

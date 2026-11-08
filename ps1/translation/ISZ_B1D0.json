@@ -10,733 +10,1039 @@
   {
    "off": 3969,
    "budget": 25,
-   "en": "Outside Outer Heaven.",
-   "long": "We're outside Outer Heaven."
+   "en": ".",
+   "en_src": "Outside Outer Heaven.",
+   "long_src": "We're outside Outer Heaven.",
+   "ru": true,
+   "long": "Мы у входа в \"Аутер Хэвен\"."
   },
   {
    "off": 3994,
    "budget": 5,
-   "en": "Look"
+   "en": ".",
+   "en_src": "Look",
+   "ru": true,
+   "long": "Осмотреть"
   },
   {
    "off": 3999,
    "budget": 9,
-   "en": "Barker"
+   "en": "Зазывала",
+   "en_src": "Barker",
+   "ru": true
   },
   {
    "off": 4008,
    "budget": 43,
-   "en": "The werewolf-masked barker￥from before.",
-   "long": "It's the doorman in the werewolf￥mask from before."
+   "en": "Тот самый зазывала в маске оборотня.",
+   "en_src": "The werewolf-masked barker￥from before.",
+   "long_src": "It's the doorman in the werewolf￥mask from before.",
+   "ru": true
   },
   {
    "off": 4051,
    "budget": 61,
-   "en": "He's wearing a mask, so I can't tell￥if he's the same man."
+   "en": "Он в маске, так что не могу сказать,￥тот же ли это человек.",
+   "en_src": "He's wearing a mask, so I can't tell￥if he's the same man.",
+   "ru": true
   },
   {
    "off": 4112,
    "budget": 71,
-   "en": "A mask that detailed has to be￥molded to fit. It's the same￥doorman."
+   "en": "Такую детальную маску делают по￥слепку. Это тот же зазывала.",
+   "en_src": "A mask that detailed has to be￥molded to fit. It's the same￥doorman.",
+   "ru": true
   },
   {
    "off": 4183,
    "budget": 59,
-   "en": "Looking at his mask won't tell us if￥he's Napoleon."
+   "en": "Глядя на маску, не поймёшь, Наполеон￥это или нет.",
+   "en_src": "Looking at his mask won't tell us if￥he's Napoleon.",
+   "ru": true
   },
   {
    "off": 4242,
    "budget": 7,
-   "en": "Around"
+   "en": "Вокруг",
+   "en_src": "Around",
+   "ru": true
   },
   {
    "off": 4249,
    "budget": 59,
-   "en": "It doesn't seem to be costume time￥right now."
+   "en": "Похоже, сейчас не время костюмов.",
+   "en_src": "It doesn't seem to be costume time￥right now.",
+   "ru": true
   },
   {
    "off": 4308,
    "budget": 37,
-   "en": "It's as lively as ever around here."
+   "en": "Здесь, как всегда, оживлённо.",
+   "en_src": "It's as lively as ever around here.",
+   "ru": true
   },
   {
    "off": 4345,
    "budget": 7,
-   "en": "Check",
-   "long": "Investigate"
+   "en": ".",
+   "en_src": "Check",
+   "long_src": "Investigate",
+   "ru": true,
+   "long": "Изучить"
   },
   {
    "off": 4352,
    "budget": 23,
-   "en": "You're Napoleon!"
+   "en": "Ты Наполеон!",
+   "en_src": "You're Napoleon!",
+   "ru": true
   },
   {
    "off": 4375,
    "budget": 35,
-   "en": "Playing dumb... show yourself!",
-   "long": "Stop playing dumb! Show me who you￥really are!"
+   "en": ".",
+   "en_src": "Playing dumb... show yourself!",
+   "long_src": "Stop playing dumb! Show me who you￥really are!",
+   "ru": true,
+   "long": "Хватит прикидываться! Покажи, кто ты￥на самом деле!"
   },
   {
    "off": 4410,
    "budget": 25,
-   "en": "Stop! What's the idea!!",
-   "long": "Stop it! What are you doing?"
+   "en": ".",
+   "en_src": "Stop! What's the idea!!",
+   "long_src": "Stop it! What are you doing?",
+   "ru": true,
+   "long": "Прекратите! Что вы делаете?"
   },
   {
    "off": 4435,
    "budget": 31,
-   "en": "Stop it... show me proof!",
-   "long": "Cut it out! Show me some proof!"
+   "en": "Отстаньте! Докажите сначала!",
+   "en_src": "Stop it... show me proof!",
+   "long_src": "Cut it out! Show me some proof!",
+   "ru": true
   },
   {
    "off": 4466,
    "budget": 27,
-   "en": "Enough wild accusations!",
-   "long": "Stop making crazy accusations!"
+   "en": "Хватит бредовых обвинений!",
+   "en_src": "Enough wild accusations!",
+   "long_src": "Stop making crazy accusations!",
+   "ru": true
   },
   {
    "off": 4493,
    "budget": 47,
-   "en": "He's right.￥Let's prove it with our heads.",
-   "long": "He's right. Let's think of a way to￥prove it."
+   "en": "Он прав. Давай придумаем, как это￥доказать.",
+   "en_src": "He's right.￥Let's prove it with our heads.",
+   "long_src": "He's right. Let's think of a way to￥prove it.",
+   "ru": true
   },
   {
    "off": 4540,
    "budget": 35,
-   "en": "You're almost there. Think back."
+   "en": "Ты почти у цели. Вспоминай.",
+   "en_src": "You're almost there. Think back.",
+   "ru": true
   },
   {
    "off": 4575,
    "budget": 25,
-   "en": "Wait, could you be?"
+   "en": "Постой, неужели ты...?",
+   "en_src": "Wait, could you be?",
+   "ru": true
   },
   {
    "off": 4600,
    "budget": 29,
-   "en": "What's the idea, suddenly!",
-   "long": "What are you doing? What's gotten￥into you?"
+   "en": ".",
+   "en_src": "What's the idea, suddenly!",
+   "long_src": "What are you doing? What's gotten￥into you?",
+   "ru": true,
+   "long": "Что вы делаете? Что на вас нашло?"
   },
   {
    "off": 4629,
    "budget": 29,
-   "en": "Are you out of your mind?"
+   "en": "Вы с ума сошли?",
+   "en_src": "Are you out of your mind?",
+   "ru": true
   },
   {
    "off": 4658,
    "budget": 37,
-   "en": "Stop that, or I'll call the bouncer."
+   "en": "Прекратите, или я позову вышибалу.",
+   "en_src": "Stop that, or I'll call the bouncer.",
+   "ru": true
   },
   {
    "off": 4695,
    "budget": 47,
-   "en": "Christmas parties fill￥every place.",
-   "long": "All the clubs are full of Christmas￥and year-end parties."
+   "en": ".",
+   "en_src": "Christmas parties fill￥every place.",
+   "long_src": "All the clubs are full of Christmas￥and year-end parties.",
+   "ru": true,
+   "long": "Все клубы забиты рождественскими и￥новогодними вечеринками."
   },
   {
    "off": 4742,
    "budget": 47,
-   "en": "A few drunks are crouched on the￥ground."
+   "en": "Несколько пьяных сидят на корточках.",
+   "en_src": "A few drunks are crouched on the￥ground.",
+   "ru": true
   },
   {
    "off": 4789,
    "budget": 69,
-   "en": "The world's full of problems.￥They're drinking to escape reality."
+   "en": "В мире полно проблем. Они пьют,￥чтобы сбежать от реальности.",
+   "en_src": "The world's full of problems.￥They're drinking to escape reality.",
+   "ru": true
   },
   {
    "off": 4858,
    "budget": 49,
-   "en": "...Gillian,￥man is a weak species...",
-   "long": "Humans are a fragile species, aren't￥they, Gillian?"
+   "en": "Люди - хрупкий вид, правда, Гиллиан?",
+   "en_src": "...Gillian,￥man is a weak species...",
+   "long_src": "Humans are a fragile species, aren't￥they, Gillian?",
+   "ru": true
   },
   {
    "off": 4907,
    "budget": 43,
-   "en": "Aye.￥And they prey on that weakness...",
-   "long": "Yeah. And they take advantage of￥that weakness."
+   "en": "Да. И эту слабость они используют.",
+   "en_src": "Aye.￥And they prey on that weakness...",
+   "long_src": "Yeah. And they take advantage of￥that weakness.",
+   "ru": true
   },
   {
    "off": 4950,
    "budget": 7,
-   "en": "Mask"
+   "en": "Маска",
+   "en_src": "Mask",
+   "ru": true
   },
   {
    "off": 4957,
    "budget": 33,
-   "en": "Enough. Rip the mask off?",
-   "long": "This is a pain. Let's just pull his￥mask off."
+   "en": ".",
+   "en_src": "Enough. Rip the mask off?",
+   "long_src": "This is a pain. Let's just pull his￥mask off.",
+   "ru": true,
+   "long": "Морока. Просто сдёрну с него маску."
   },
   {
    "off": 4990,
    "budget": 27,
-   "en": "Ow! What are you doing?"
+   "en": "Ай! Что вы делаете?",
+   "en_src": "Ow! What are you doing?",
+   "ru": true
   },
   {
    "off": 5017,
    "budget": 47,
-   "en": "It won't come off.￥Bonded fast to the flesh.",
-   "long": "It won't come off. It's firmly glued￥to his skin."
+   "en": "Не снимается. Она крепко приклеена к￥коже.",
+   "en_src": "It won't come off.￥Bonded fast to the flesh.",
+   "long_src": "It won't come off. It's firmly glued￥to his skin.",
+   "ru": true
   },
   {
    "off": 5064,
    "budget": 11,
-   "en": "Ouch!!",
-   "long": "That hurts!"
+   "en": "Больно же!",
+   "en_src": "Ouch!!",
+   "long_src": "That hurts!",
+   "ru": true
   },
   {
    "off": 5075,
    "budget": 71,
-   "en": "A special adhesive.￥Without solvent the skin￥comes away with it.",
-   "long": "It's a special adhesive. Without the￥proper solvent, his skin will come￥off too."
+   "en": "Это особый клей. Без нужного￥растворителя слезет и кожа.",
+   "en_src": "A special adhesive.￥Without solvent the skin￥comes away with it.",
+   "long_src": "It's a special adhesive. Without the￥proper solvent, his skin will come￥off too.",
+   "ru": true
   },
   {
    "off": 5146,
    "budget": 45,
-   "en": "Right.￥Brute force... use your head.",
-   "long": "That's right. Quit throwing your￥weight around and use your head."
+   "en": ".",
+   "en_src": "Right.￥Brute force... use your head.",
+   "long_src": "That's right. Quit throwing your￥weight around and use your head.",
+   "ru": true,
+   "long": "Вот именно. Хватит размахивать￥кулаками, включите голову."
   },
   {
    "off": 5191,
    "budget": 5,
-   "en": "Talk"
+   "en": ".",
+   "en_src": "Talk",
+   "ru": true,
+   "long": "Говорить"
   },
   {
    "off": 5196,
    "budget": 57,
-   "en": "You look a lot like someone I know.￥Could you be?"
+   "en": "Ты очень похож на одного моего￥знакомого. Неужели...",
+   "en_src": "You look a lot like someone I know.￥Could you be?",
+   "ru": true
   },
   {
    "off": 5253,
    "budget": 19,
-   "en": "Napoleon?"
+   "en": "Наполеон?",
+   "en_src": "Napoleon?",
+   "ru": true
   },
   {
    "off": 5272,
    "budget": 69,
-   "en": "You're imagining things, sir. I￥don't know any Napoleon."
+   "en": "Вам померещилось, господин. Никакого￥Наполеона я не знаю.",
+   "en_src": "You're imagining things, sir. I￥don't know any Napoleon.",
+   "ru": true
   },
   {
    "off": 5341,
    "budget": 47,
-   "en": "I know it's you, Napoleon! Drop the￥act!"
+   "en": ".",
+   "en_src": "I know it's you, Napoleon! Drop the￥act!",
+   "ru": true,
+   "long": "Я знаю, что это ты, Наполеон! Хватит￥ломать комедию!"
   },
   {
    "off": 5388,
    "budget": 43,
-   "en": "You've got the wrong man, sir."
+   "en": "Вы обознались, господин.",
+   "en_src": "You've got the wrong man, sir.",
+   "ru": true
   },
   {
    "off": 5431,
    "budget": 45,
-   "en": "Napoleon!?￥...What is it? Don't play!",
-   "long": "Napoleon! What's gotten into you?￥Quit fooling around!"
+   "en": ".",
+   "en_src": "Napoleon!?￥...What is it? Don't play!",
+   "long_src": "Napoleon! What's gotten into you?￥Quit fooling around!",
+   "ru": true,
+   "long": "Наполеон! Что на тебя нашло? Хватит￥дурачиться!"
   },
   {
    "off": 5476,
    "budget": 35,
-   "en": "I'm just a doorman."
+   "en": "Я просто зазывала.",
+   "en_src": "I'm just a doorman.",
+   "ru": true
   },
   {
    "off": 5511,
    "budget": 11,
-   "en": "Press him"
+   "en": "Надавить",
+   "en_src": "Press him",
+   "ru": true
   },
   {
    "off": 5522,
    "budget": 31,
-   "en": "You're Napoleon, aren't you?"
+   "en": "Ты ведь Наполеон?",
+   "en_src": "You're Napoleon, aren't you?",
+   "ru": true
   },
   {
    "off": 5553,
    "budget": 91,
-   "en": "It's all right. I guarantee￥your safety.￥So fear nothing.￥...Show yourself!",
-   "long": "It's all right. I'll guarantee your￥safety. There's nothing to worry￥about. Tell me who you are!"
+   "en": "Всё в порядке. Я гарантирую твою￥безопасность. Беспокоиться не о чем.￥Скажи, кто ты!",
+   "en_src": "It's all right. I guarantee￥your safety.￥So fear nothing.￥...Show yourself!",
+   "long_src": "It's all right. I'll guarantee your￥safety. There's nothing to worry￥about. Tell me who you are!",
+   "ru": true
   },
   {
    "off": 5644,
    "budget": 91,
-   "en": "This is getting tiresome. What proof￥do you have that I'm this Napoleon￥fellow?"
+   "en": "Это уже утомляет. Какие у вас￥доказательства, что я этот ваш￥Наполеон?",
+   "en_src": "This is getting tiresome. What proof￥do you have that I'm this Napoleon￥fellow?",
+   "ru": true
   },
   {
    "off": 5735,
    "budget": 35,
-   "en": "Go on, sir. Prove it."
+   "en": "Ну же, господин. Докажите.",
+   "en_src": "Go on, sir. Prove it.",
+   "ru": true
   },
   {
    "off": 5770,
    "budget": 13,
-   "en": "Proof..."
+   "en": "Доказать...",
+   "en_src": "Proof...",
+   "ru": true
   },
   {
    "off": 5783,
    "budget": 35,
-   "en": "You say it without decent proof?",
-   "long": "You're saying that without any real￥proof?"
+   "en": ".",
+   "en_src": "You say it without decent proof?",
+   "long_src": "You're saying that without any real￥proof?",
+   "ru": true,
+   "long": "И вы это говорите без всяких￥доказательств?"
   },
   {
    "off": 5818,
    "budget": 35,
-   "en": "You're still not using your head."
+   "en": "Голову вы всё ещё не включили.",
+   "en_src": "You're still not using your head.",
+   "ru": true
   },
   {
    "off": 5853,
    "budget": 35,
-   "en": "Well, think a little harder."
+   "en": "Ну, подумайте получше.",
+   "en_src": "Well, think a little harder.",
+   "ru": true
   },
   {
    "off": 5888,
    "budget": 9,
-   "en": "Prove it",
-   "long": "Give proof"
+   "en": "Доказать",
+   "en_src": "Prove it",
+   "long_src": "Give proof",
+   "ru": true
   },
   {
    "off": 5897,
    "budget": 7,
-   "en": "Build",
-   "long": "Body type"
+   "en": ".",
+   "en_src": "Build",
+   "long_src": "Body type",
+   "ru": true,
+   "long": "Телосложение"
   },
   {
    "off": 5904,
    "budget": 37,
-   "en": "Yes, your height is the same.",
-   "long": "That's right. You're about the same￥height."
+   "en": ".",
+   "en_src": "Yes, your height is the same.",
+   "long_src": "That's right. You're about the same￥height.",
+   "ru": true,
+   "long": "Точно. И рост у вас примерно￥одинаковый."
   },
   {
    "off": 5941,
    "budget": 47,
-   "en": "Same height.￥That short build's a giveaway!",
-   "long": "You're the same height. Being that￥short is hard to miss!"
+   "en": ".",
+   "en_src": "Same height.￥That short build's a giveaway!",
+   "long_src": "You're the same height. Being that￥short is hard to miss!",
+   "ru": true,
+   "long": "Рост тот же. Такой коротышка сразу￥бросается в глаза!"
   },
   {
    "off": 5988,
    "budget": 5,
-   "en": "Tone",
-   "long": "Voice"
+   "en": ".",
+   "en_src": "Tone",
+   "long_src": "Voice",
+   "ru": true,
+   "long": "Голос"
   },
   {
    "off": 5993,
    "budget": 51,
-   "en": "Yes, the voice is alike.￥...Alike indeed.",
-   "long": "That's it. Your voice sounds like￥his. It really does."
+   "en": "Точно. Голос у тебя как у него. Один￥в один.",
+   "en_src": "Yes, the voice is alike.￥...Alike indeed.",
+   "long_src": "That's it. Your voice sounds like￥his. It really does.",
+   "ru": true
   },
   {
    "off": 6044,
    "budget": 19,
-   "en": "Your voice is his.",
-   "long": "You have the same voice."
+   "en": ".",
+   "en_src": "Your voice is his.",
+   "long_src": "You have the same voice.",
+   "ru": true,
+   "long": "У тебя тот же голос."
   },
   {
    "off": 6063,
    "budget": 45,
-   "en": "Want to try a voiceprint analysis,￥Metal?"
+   "en": "Может, сделаем анализ голоса, Метал?",
+   "en_src": "Want to try a voiceprint analysis,￥Metal?",
+   "ru": true
   },
   {
    "off": 6108,
    "budget": 85,
-   "en": "Sadly I hold no voiceprint data for￥Napoleon.￥Sorry. Careless of me...",
-   "long": "Unfortunately, I didn't record￥Napoleon's voiceprint. I'm sorry.￥That was careless."
+   "en": "К сожалению, я не записал голос￥Наполеона. Прости. Это была￥небрежность.",
+   "en_src": "Sadly I hold no voiceprint data for￥Napoleon.￥Sorry. Careless of me...",
+   "long_src": "Unfortunately, I didn't record￥Napoleon's voiceprint. I'm sorry.￥That was careless.",
+   "ru": true
   },
   {
    "off": 6193,
    "budget": 19,
-   "en": "Too bad for you."
+   "en": "Не повезло вам.",
+   "en_src": "Too bad for you.",
+   "ru": true
   },
   {
    "off": 6212,
    "budget": 11,
-   "en": "Accent"
+   "en": "Акцент",
+   "en_src": "Accent",
+   "ru": true
   },
   {
    "off": 6223,
    "budget": 29,
-   "en": "Your speech is alike too.",
-   "long": "That's it. You talk like him too."
+   "en": ".",
+   "en_src": "Your speech is alike too.",
+   "long_src": "That's it. You talk like him too.",
+   "ru": true,
+   "long": "Точно. И говоришь ты, как он."
   },
   {
    "off": 6252,
    "budget": 31,
-   "en": "Speech and accent alike.",
-   "long": "Your accent and the way you speak￥are the same."
+   "en": "Акцент и манера речи - те же.",
+   "en_src": "Speech and accent alike.",
+   "long_src": "Your accent and the way you speak￥are the same.",
+   "ru": true
   },
   {
    "off": 6283,
    "budget": 5,
-   "en": "Ways",
-   "long": "Personality"
+   "en": ".",
+   "en_src": "Ways",
+   "long_src": "Personality",
+   "ru": true,
+   "long": "Характер"
   },
   {
    "off": 6288,
    "budget": 47,
-   "en": "That suspicious nature.￥Just like him.",
-   "long": "That's it. You're just as suspicious￥as he is."
+   "en": "Точно. Ты такой же подозрительный,￥как он.",
+   "en_src": "That suspicious nature.￥Just like him.",
+   "long_src": "That's it. You're just as suspicious￥as he is.",
+   "ru": true
   },
   {
    "off": 6335,
    "budget": 35,
-   "en": "That's his nature exactly.",
-   "long": "You've got exactly the same￥personality."
+   "en": "Характер у тебя точно такой же.",
+   "en_src": "That's his nature exactly.",
+   "long_src": "You've got exactly the same￥personality.",
+   "ru": true
   },
   {
    "off": 6370,
    "budget": 5,
-   "en": "Odor",
-   "long": "Smell"
+   "en": ".",
+   "en_src": "Odor",
+   "long_src": "Smell",
+   "ru": true,
+   "long": "Запах"
   },
   {
    "off": 6375,
    "budget": 35,
-   "en": "Yes, that smell. Just like his.",
-   "long": "That's it. You smell just like him."
+   "en": ".",
+   "en_src": "Yes, that smell. Just like his.",
+   "long_src": "That's it. You smell just like him.",
+   "ru": true,
+   "long": "Точно. Ты пахнешь в точности как он."
   },
   {
    "off": 6410,
    "budget": 51,
-   "en": "Huh? What did Napoleon smell like?"
+   "en": "А? А чем пах Наполеон?",
+   "en_src": "Huh? What did Napoleon smell like?",
+   "ru": true
   },
   {
    "off": 6461,
    "budget": 21,
-   "en": "Shut up! Keep quiet."
+   "en": "Цыц! Помолчи.",
+   "en_src": "Shut up! Keep quiet.",
+   "ru": true
   },
   {
    "off": 6482,
    "budget": 29,
-   "en": "That smell... Napoleon.",
-   "long": "That body odor. You're Napoleon."
+   "en": ".",
+   "en_src": "That smell... Napoleon.",
+   "long_src": "That body odor. You're Napoleon.",
+   "ru": true,
+   "long": "Этот запах тела. Ты Наполеон."
   },
   {
    "off": 6511,
    "budget": 9,
-   "en": "Sneeze"
+   "en": "Чихать",
+   "en_src": "Sneeze",
+   "ru": true
   },
   {
    "off": 6520,
    "budget": 93,
-   "en": "That's it! That sneeze! Now I￥remember. Napoleon's allergic to￥pollen."
+   "en": "Точно! Этот чих! Теперь я вспомнил.￥У Наполеона аллергия на пыльцу.",
+   "en_src": "That's it! That sneeze! Now I￥remember. Napoleon's allergic to￥pollen.",
+   "ru": true
   },
   {
    "off": 6613,
    "budget": 67,
-   "en": "All right, I'll let you off the￥hook. I was just teasing you."
+   "en": "Ладно, так и быть, отстану. Я просто￥тебя дразнил.",
+   "en_src": "All right, I'll let you off the￥hook. I was just teasing you.",
+   "ru": true
   },
   {
    "off": 6680,
    "budget": 71,
-   "en": "Good work, Gillian. You really are a￥JUNKER. Come on in!"
+   "en": "Молодец, Гиллиан. Настоящий ДЖАНКЕР.￥Заходи!",
+   "en_src": "Good work, Gillian. You really are a￥JUNKER. Come on in!",
+   "ru": true
   },
   {
    "off": 6751,
    "budget": 15,
-   "en": "Use Metal Gear"
+   "en": "Позвать Метала",
+   "en_src": "Use Metal Gear",
+   "ru": true
   },
   {
    "off": 6766,
    "budget": 11,
-   "en": "Save"
+   "en": "Сохранить",
+   "en_src": "Save",
+   "ru": true
   },
   {
    "off": 6777,
    "budget": 37,
-   "en": "I'll save your progress now."
+   "en": "Сохраняю твой прогресс.",
+   "en_src": "I'll save your progress now.",
+   "ru": true
   },
   {
    "off": 6814,
    "budget": 29,
-   "en": "That doesn't prove anything."
+   "en": "Это ничего не доказывает.",
+   "en_src": "That doesn't prove anything.",
+   "ru": true
   },
   {
    "off": 6843,
    "budget": 27,
-   "en": "Oh, really? So what?"
+   "en": "Да неужели? И что?",
+   "en_src": "Oh, really? So what?",
+   "ru": true
   },
   {
    "off": 6870,
    "budget": 31,
-   "en": "Huh. That's your reason?"
+   "en": "Хм. И это ваш довод?",
+   "en_src": "Huh. That's your reason?",
+   "ru": true
   },
   {
    "off": 6901,
    "budget": 27,
-   "en": "Select Deduce."
+   "en": "Выберите \"Вывод\".",
+   "en_src": "Select Deduce.",
+   "ru": true
   },
   {
    "off": 6928,
    "budget": 11,
-   "en": "Napoleon"
+   "en": "Наполеон",
+   "en_src": "Napoleon",
+   "ru": true
   },
   {
    "off": 6939,
    "budget": 41,
-   "en": "You look almost normal like this."
+   "en": ".",
+   "en_src": "You look almost normal like this.",
+   "ru": true,
+   "long": "В таком виде ты выглядишь почти￥нормально."
   },
   {
    "off": 6980,
    "budget": 33,
-   "en": "Ordinary? What do you mean?",
-   "long": "Normal? What's that supposed to￥mean?"
+   "en": "Нормально? Это ещё что значит?",
+   "en_src": "Ordinary? What do you mean?",
+   "long_src": "Normal? What's that supposed to￥mean?",
+   "ru": true
   },
   {
    "off": 7013,
    "budget": 83,
-   "en": "That doorman outfit suits you.￥Better than the Santa suit, anyway."
+   "en": "Наряд зазывалы тебе идёт. Во всяком￥случае, больше, чем костюм Санты.",
+   "en_src": "That doorman outfit suits you.￥Better than the Santa suit, anyway.",
+   "ru": true
   },
   {
    "off": 7096,
    "budget": 17,
-   "en": "Mind your own!",
-   "long": "Mind your own business!"
+   "en": "Не твоё дело!",
+   "en_src": "Mind your own!",
+   "long_src": "Mind your own business!",
+   "ru": true
   },
   {
    "off": 7113,
    "budget": 79,
-   "en": "It isn't cosplay time today.￥Don't gawk around.￥The guests dislike it.",
-   "long": "It's not costume time today. Stop￥looking around so much. You're￥bothering the customers."
+   "en": "Сегодня не время костюмов. Не￥озирайся так. Ты мешаешь клиентам.",
+   "en_src": "It isn't cosplay time today.￥Don't gawk around.￥The guests dislike it.",
+   "long_src": "It's not costume time today. Stop￥looking around so much. You're￥bothering the customers.",
+   "ru": true
   },
   {
    "off": 7192,
    "budget": 49,
-   "en": "See? We do pretty well even without￥costumes."
+   "en": "Видишь? И без костюмов у нас неплохо￥идут дела.",
+   "en_src": "See? We do pretty well even without￥costumes.",
+   "ru": true
   },
   {
    "off": 7241,
    "budget": 31,
-   "en": "So Isabella's gone."
+   "en": "Значит, Изабеллы больше нет.",
+   "en_src": "So Isabella's gone.",
+   "ru": true
   },
   {
    "off": 7272,
    "budget": 9,
-   "en": "Table"
+   "en": "Стол",
+   "en_src": "Table",
+   "ru": true
   },
   {
    "off": 7281,
    "budget": 51,
-   "en": "Not synthetic timber.￥Costly, surprisingly.",
-   "long": "This isn't synthetic wood. It's￥surprisingly expensive."
+   "en": ".",
+   "en_src": "Not synthetic timber.￥Costly, surprisingly.",
+   "long_src": "This isn't synthetic wood. It's￥surprisingly expensive.",
+   "ru": true,
+   "long": "Это не синтетическое дерево.￥Неожиданно дорогой стол."
   },
   {
    "off": 7332,
    "budget": 59,
-   "en": "This table will do.￥It's the club's biggest blind spot.",
-   "long": "We're safe at this table. It's the￥best hidden spot in the club."
+   "en": "За этим столом безопасно. Самый￥укромный угол в клубе.",
+   "en_src": "This table will do.￥It's the club's biggest blind spot.",
+   "long_src": "We're safe at this table. It's the￥best hidden spot in the club.",
+   "ru": true
   },
   {
    "off": 7391,
    "budget": 59,
-   "en": "Hey, enough with the suspicion. I'm￥the real thing!"
+   "en": "Эй, хватит подозрений. Я настоящий!",
+   "en_src": "Hey, enough with the suspicion. I'm￥the real thing!",
+   "ru": true
   },
   {
    "off": 7450,
    "budget": 41,
-   "en": "That suspicious, you'll￥lose friends.",
-   "long": "You'll lose your friends if you're￥that suspicious."
+   "en": ".",
+   "en_src": "That suspicious, you'll￥lose friends.",
+   "long_src": "You'll lose your friends if you're￥that suspicious.",
+   "ru": true,
+   "long": "Будешь таким подозрительным -￥растеряешь друзей."
   },
   {
    "off": 7491,
    "budget": 47,
-   "en": "It's fine.￥No suspicious figures for now.",
-   "long": "It's all right. There's no one￥suspicious around so far."
+   "en": "Всё в порядке. Пока никого￥подозрительного.",
+   "en_src": "It's fine.￥No suspicious figures for now.",
+   "long_src": "It's all right. There's no one￥suspicious around so far.",
+   "ru": true
   },
   {
    "off": 7538,
    "budget": 67,
-   "en": "With this crowd, we won't stand out.￥We can talk safely."
+   "en": "В такой толпе мы не бросаемся в￥глаза. Можно спокойно говорить.",
+   "en_src": "With this crowd, we won't stand out.￥We can talk safely.",
+   "ru": true
   },
   {
    "off": 7605,
    "budget": 51,
-   "en": "There are no listening devices.￥Don't worry."
+   "en": "Подслушивающих устройств нет. Не￥волнуйся.",
+   "en_src": "There are no listening devices.￥Don't worry.",
+   "ru": true
   },
   {
    "off": 7656,
    "budget": 25,
-   "en": "Come on, trust me."
+   "en": "Да ладно, доверься мне.",
+   "en_src": "Come on, trust me.",
+   "ru": true
   },
   {
    "off": 7681,
    "budget": 29,
-   "en": "No cameras either.",
-   "long": "There aren't any cameras either."
+   "en": "И камер тоже нет.",
+   "en_src": "No cameras either.",
+   "long_src": "There aren't any cameras either.",
+   "ru": true
   },
   {
    "off": 7710,
    "budget": 5,
-   "en": "Ask"
+   "en": ".",
+   "en_src": "Ask",
+   "ru": true,
+   "long": "Спросить"
   },
   {
    "off": 7715,
    "budget": 17,
-   "en": "His nationality"
+   "en": "Национальность",
+   "en_src": "His nationality",
+   "ru": true
   },
   {
    "off": 7732,
    "budget": 23,
-   "en": "You're Chinese, right?"
+   "en": "Ты ведь китаец?",
+   "en_src": "You're Chinese, right?",
+   "ru": true
   },
   {
    "off": 7755,
    "budget": 75,
-   "en": "That's right, I'm pure Chinese. I￥only came to Kobe after I turned 20.",
-   "long": "That's right. I'm Chinese through￥and through. I didn't come to Kobe￥until I was over twenty."
+   "en": ".",
+   "en_src": "That's right, I'm pure Chinese. I￥only came to Kobe after I turned 20.",
+   "long_src": "That's right. I'm Chinese through￥and through. I didn't come to Kobe￥until I was over twenty.",
+   "ru": true,
+   "long": "Верно. Я китаец до мозга костей. В￥Кобе я приехал, когда мне было за￥двадцать."
   },
   {
    "off": 7830,
    "budget": 55,
-   "en": "The China I know is post-war,￥so no fond memories.",
-   "long": "The China I knew had already lost￥the war. I don't have many good￥memories."
+   "en": ".",
+   "en_src": "The China I know is post-war,￥so no fond memories.",
+   "long_src": "The China I knew had already lost￥the war. I don't have many good￥memories.",
+   "ru": true,
+   "long": "Китай, который я знал, уже проиграл￥войну. Хороших воспоминаний у меня￥немного."
   },
   {
    "off": 7885,
    "budget": 73,
-   "en": "The Catastrophe changed our whole￥lives. It was a terrible mistake."
+   "en": "Катастрофа перевернула всю нашу￥жизнь. Это была ужасная ошибка.",
+   "en_src": "The Catastrophe changed our whole￥lives. It was a terrible mistake.",
+   "ru": true
   },
   {
    "off": 7958,
    "budget": 11,
-   "en": "The cipher",
-   "long": "Meaning of code"
+   "en": ".",
+   "en_src": "The cipher",
+   "long_src": "Meaning of code",
+   "ru": true,
+   "long": "Смысл шифра"
   },
   {
    "off": 7969,
    "budget": 49,
-   "en": "How would you read ＠赤BENSON＠白 aloud?"
+   "en": "Как прочесть вслух ＠赤BENSON＠白?",
+   "en_src": "How would you read ＠赤BENSON＠白 aloud?",
+   "ru": true
   },
   {
    "off": 8018,
    "budget": 61,
-   "en": "You'd pronounce ＠赤BENSON＠白 as ＠赤Benson＠白,￥right?"
+   "en": "＠赤BENSON＠白 ведь читается как ＠赤\"Бенсон\"＠白,￥верно?",
+   "en_src": "You'd pronounce ＠赤BENSON＠白 as ＠赤Benson＠白,￥right?",
+   "ru": true
   },
   {
    "off": 8079,
    "budget": 37,
-   "en": "What do you mean, Chinese￥symbols?",
-   "long": "What do you mean, Chinese symbols￥for elements?"
+   "en": ".",
+   "en_src": "What do you mean, Chinese￥symbols?",
+   "long_src": "What do you mean, Chinese symbols￥for elements?",
+   "ru": true,
+   "long": "Что значит \"китайские обозначения￥элементов\"?"
   },
   {
    "off": 8116,
    "budget": 89,
-   "en": "Leftmost is beryllium,￥next and last nitrogen,￥third sulphur, fourth oxygen.",
-   "long": "The first character is beryllium,￥the second and last are nitrogen,￥the third is sulfur, and the fourth￥is oxygen."
+   "en": ".",
+   "en_src": "Leftmost is beryllium,￥next and last nitrogen,￥third sulphur, fourth oxygen.",
+   "long_src": "The first character is beryllium,￥the second and last are nitrogen,￥the third is sulfur, and the fourth￥is oxygen.",
+   "ru": true,
+   "long": "Первый иероглиф - бериллий, второй и￥последний - азот, третий - сера,￥четвёртый - кислород."
   },
   {
    "off": 8205,
    "budget": 53,
-   "en": "Beryllium, nitrogen, sulphur,￥oxygen... I have it!",
-   "long": "Beryllium, nitrogen, sulfur, oxygen.￥I'm getting it!"
+   "en": "Бериллий, азот, сера, кислород.￥Кажется, понимаю!",
+   "en_src": "Beryllium, nitrogen, sulphur,￥oxygen... I have it!",
+   "long_src": "Beryllium, nitrogen, sulfur, oxygen.￥I'm getting it!",
+   "ru": true
   },
   {
    "off": 8258,
    "budget": 47,
-   "en": "Gillian, let's deduce the name.",
-   "long": "Gillian, let's work out the name in￥this code."
+   "en": "Гиллиан, давай разгадаем имя в этом￥шифре.",
+   "en_src": "Gillian, let's deduce the name.",
+   "long_src": "Gillian, let's work out the name in￥this code.",
+   "ru": true
   },
   {
    "off": 8305,
    "budget": 53,
-   "en": "Again.￥...These are Chinese element￥symbols.",
-   "long": "I'll say it again. These are Chinese￥symbols for chemical elements."
+   "en": ".",
+   "en_src": "Again.￥...These are Chinese element￥symbols.",
+   "long_src": "I'll say it again. These are Chinese￥symbols for chemical elements.",
+   "ru": true,
+   "long": "Повторяю. Это китайские обозначения￥химических элементов."
   },
   {
    "off": 8358,
    "budget": 87,
-   "en": "Leftmost is beryllium,￥next and last nitrogen,￥third sulphur, fourth oxygen.",
-   "long": "The first character is beryllium,￥the second and last are nitrogen,￥the third is sulfur, and the fourth￥is oxygen."
+   "en": ".",
+   "en_src": "Leftmost is beryllium,￥next and last nitrogen,￥third sulphur, fourth oxygen.",
+   "long_src": "The first character is beryllium,￥the second and last are nitrogen,￥the third is sulfur, and the fourth￥is oxygen.",
+   "ru": true,
+   "long": "Первый иероглиф - бериллий, второй и￥последний - азот, третий - сера,￥четвёртый - кислород."
   },
   {
    "off": 8445,
    "budget": 55,
-   "en": "Beryllium, Nitrogen, Sulphur,￥Oxygen, Nitrogen.",
-   "long": "In order, they're beryllium,￥nitrogen, sulfur, oxygen, nitrogen."
+   "en": "По порядку: бериллий, азот, сера,￥кислород, азот.",
+   "en_src": "Beryllium, Nitrogen, Sulphur,￥Oxygen, Nitrogen.",
+   "long_src": "In order, they're beryllium,￥nitrogen, sulfur, oxygen, nitrogen.",
+   "ru": true
   },
   {
    "off": 8500,
    "budget": 53,
-   "en": "A simple cipher of Chinese￥element symbols.",
-   "long": "It's a simple code using Chinese￥symbols for chemical elements."
+   "en": ".",
+   "en_src": "A simple cipher of Chinese￥element symbols.",
+   "long_src": "It's a simple code using Chinese￥symbols for chemical elements.",
+   "ru": true,
+   "long": "Это простой шифр на китайских￥обозначениях химических элементов."
   },
   {
    "off": 8553,
    "budget": 9,
-   "en": "Symbols",
-   "long": "Element symbols"
+   "en": ".",
+   "en_src": "Symbols",
+   "long_src": "Element symbols",
+   "ru": true,
+   "long": "Символы элементов"
   },
   {
    "off": 8562,
    "budget": 43,
-   "en": "Put them into ordinary￥symbols and...",
-   "long": "Replace the Chinese characters with￥the standard chemical symbols,"
+   "en": ".",
+   "en_src": "Put them into ordinary￥symbols and...",
+   "long_src": "Replace the Chinese characters with￥the standard chemical symbols,",
+   "ru": true,
+   "long": "Замени иероглифы обычными￥химическими символами,"
   },
   {
    "off": 8605,
    "budget": 31,
-   "en": "and you get ＠赤BENSON＠白."
+   "en": "и получишь ＠赤BENSON＠白.",
+   "en_src": "and you get ＠赤BENSON＠白.",
+   "ru": true
   },
   {
    "off": 8636,
    "budget": 63,
-   "en": "In other words, the chemical symbols￥spell ＠赤BENSON＠白."
+   "en": ".",
+   "en_src": "In other words, the chemical symbols￥spell ＠赤BENSON＠白.",
+   "ru": true,
+   "long": "Иными словами, химические символы￥складываются в ＠赤BENSON＠白."
   },
   {
    "off": 8699,
    "budget": 61,
-   "en": "Come on, you learned this in school!￥Check your textbook!"
+   "en": "Да ладно, вы же это в школе￥проходили! Загляни в учебник!",
+   "en_src": "Come on, you learned this in school!￥Check your textbook!",
+   "ru": true
   },
   {
    "off": 8760,
    "budget": 99,
-   "en": "Nitrogen is '＠赤N＠白', beryllium '＠赤BE＠白',￥oxygen '＠赤O＠白', sulphur '＠赤S＠白'.",
-   "long": "Nitrogen is ＠赤N＠白, beryllium is ＠赤Be＠白,￥oxygen is ＠赤O＠白, and sulfur is ＠赤S＠白."
+   "en": "Азот - ＠赤N＠白, бериллий - ＠赤Be＠白, кислород￥- ＠赤O＠白, сера - ＠赤S＠白.",
+   "en_src": "Nitrogen is '＠赤N＠白', beryllium '＠赤BE＠白',￥oxygen '＠赤O＠白', sulphur '＠赤S＠白'.",
+   "long_src": "Nitrogen is ＠赤N＠白, beryllium is ＠赤Be＠白,￥oxygen is ＠赤O＠白, and sulfur is ＠赤S＠白.",
+   "ru": true
   },
   {
    "off": 8859,
    "budget": 149,
-   "en": "In that order...￥beryllium's '＠赤BE＠白', nitrogen's￥'＠赤N＠白', sulphur's '＠赤S＠白',￥oxygen's '＠赤O＠白', nitrogen '＠赤N＠白'.",
-   "long": "Put them in this order: ＠赤Be＠白 for￥beryllium, ＠赤N＠白 for nitrogen, ＠赤S＠白 for￥sulfur, ＠赤O＠白 for oxygen, and ＠赤N＠白 for￥nitrogen."
+   "en": "Расставь их так: ＠赤Be＠白 - бериллий, ＠赤N＠白￥- азот, ＠赤S＠白 - сера, ＠赤O＠白 - кислород и￥＠赤N＠白 - азот.",
+   "en_src": "In that order...￥beryllium's '＠赤BE＠白', nitrogen's￥'＠赤N＠白', sulphur's '＠赤S＠白',￥oxygen's '＠赤O＠白', nitrogen '＠赤N＠白'.",
+   "long_src": "Put them in this order: ＠赤Be＠白 for￥beryllium, ＠赤N＠白 for nitrogen, ＠赤S＠白 for￥sulfur, ＠赤O＠白 for oxygen, and ＠赤N＠白 for￥nitrogen.",
+   "ru": true
   },
   {
    "off": 9008,
    "budget": 21,
-   "en": "Get it now?"
+   "en": "Теперь понял?",
+   "en_src": "Get it now?",
+   "ru": true
   },
   {
    "off": 9029,
    "budget": 73,
-   "en": "You know element symbols are written￥in the alphabet, surely?",
-   "long": "You know chemical symbols are￥usually written with letters, don't￥you?"
+   "en": "Ты же знаешь, что химические символы￥обычно пишут латинскими буквами?",
+   "en_src": "You know element symbols are written￥in the alphabet, surely?",
+   "long_src": "You know chemical symbols are￥usually written with letters, don't￥you?",
+   "ru": true
   },
   {
    "off": 9102,
    "budget": 37,
-   "en": "This medical record is an exception."
+   "en": "А в этой медкарте - исключение.",
+   "en_src": "This medical record is an exception.",
+   "ru": true
   },
   {
    "off": 9139,
    "budget": 81,
-   "en": "This chart is in Chinese￥symbols. Put them into the￥alphabet. What then?",
-   "long": "This record uses Chinese symbols for￥the elements. What happens if you￥convert them to letters?"
+   "en": "Здесь элементы обозначены￥по-китайски. Что будет, если￥перевести их в буквы?",
+   "en_src": "This chart is in Chinese￥symbols. Put them into the￥alphabet. What then?",
+   "long_src": "This record uses Chinese symbols for￥the elements. What happens if you￥convert them to letters?",
+   "ru": true
   },
   {
    "off": 9220,
    "budget": 9,
-   "en": "Deduce"
+   "en": "Вывод",
+   "en_src": "Deduce",
+   "ru": true
   },
   {
    "off": 9229,
    "budget": 79,
-   "en": "Who is the person named in this￥record? ＠赤Enter the name."
+   "en": "Кто этот человек, указанный в￥медкарте? ＠赤Введи имя.",
+   "en_src": "Who is the person named in this￥record? ＠赤Enter the name.",
+   "ru": true
   },
   {
    "off": 9308,
    "budget": 89,
-   "en": "Who could the person named in this￥record be? ＠赤Enter the name again."
+   "en": "Кто же этот человек из медкарты?￥＠赤Введи имя ещё раз.",
+   "en_src": "Who could the person named in this￥record be? ＠赤Enter the name again.",
+   "ru": true
   },
   {
    "off": 9397,
    "budget": 69,
-   "en": "Why not enter ＠赤BENSON＠白, as Napoleon￥suggested?"
+   "en": "Может, введёшь ＠赤BENSON＠白, как￥подсказал Наполеон?",
+   "en_src": "Why not enter ＠赤BENSON＠白, as Napoleon￥suggested?",
+   "ru": true
   },
   {
    "off": 9466,
    "budget": 79,
-   "en": "Based on what we've worked out, why￥not enter ＠赤BENSON＠白?"
+   "en": "Судя по тому, что мы выяснили,￥может, введёшь ＠赤BENSON＠白?",
+   "en_src": "Based on what we've worked out, why￥not enter ＠赤BENSON＠白?",
+   "ru": true
   },
   {
    "off": 9545,
@@ -796,7 +1102,9 @@
   {
    "off": 9613,
    "budget": 23,
-   "en": "I've got it! BNSON!"
+   "en": "Понял! BNSON!",
+   "en_src": "I've got it! BNSON!",
+   "ru": true
   },
   {
    "off": 9636,
@@ -808,13 +1116,17 @@
   {
    "off": 9645,
    "budget": 9,
-   "en": "Gibson"
+   "en": "Гибсон",
+   "en_src": "Gibson",
+   "ru": true
   },
   {
    "off": 9654,
    "budget": 37,
-   "en": "What are you saying!￥Now!",
-   "long": "What are you talking about? This is￥no time for that!"
+   "en": "Ты о чём? Сейчас не до этого!",
+   "en_src": "What are you saying!￥Now!",
+   "long_src": "What are you talking about? This is￥no time for that!",
+   "ru": true
   },
   {
    "off": 9691,
@@ -826,8 +1138,11 @@
   {
    "off": 9700,
    "budget": 57,
-   "en": "The tsukudani there is good.￥.....No, not that.",
-   "long": "Their food simmered in soy sauce is￥delicious. Wait, that's not it!"
+   "en": ".",
+   "en_src": "The tsukudani there is good.￥.....No, not that.",
+   "long_src": "Their food simmered in soy sauce is￥delicious. Wait, that's not it!",
+   "ru": true,
+   "long": "Там вкусная еда, тушённая в соевом￥соусе. Ой, я не о том!"
   },
   {
    "off": 9757,
@@ -839,7 +1154,9 @@
   {
    "off": 9766,
    "budget": 15,
-   "en": "Huh?"
+   "en": "Чего?",
+   "en_src": "Huh?",
+   "ru": true
   },
   {
    "off": 9781,
@@ -872,533 +1189,760 @@
   {
    "off": 9817,
    "budget": 5,
-   "en": "Item"
+   "en": ".",
+   "en_src": "Item",
+   "ru": true,
+   "long": "Предметы"
   },
   {
    "off": 9822,
    "budget": 7,
-   "en": "Show"
+   "en": ".",
+   "en_src": "Show",
+   "ru": true,
+   "long": "Показать"
   },
   {
    "off": 9829,
    "budget": 7,
-   "en": "Chart",
-   "long": "Medical chart"
+   "en": ".",
+   "en_src": "Chart",
+   "long_src": "Medical chart",
+   "ru": true,
+   "long": "Медкарта"
   },
   {
    "off": 9836,
    "budget": 69,
-   "en": "Look at this.￥You're Chinese, no?￥Do you know what it means?",
-   "long": "Take a look at this. You're Chinese,￥right? Can you tell me what it￥means?"
+   "en": "Глянь-ка. Ты ведь китаец? Можешь￥сказать, что это значит?",
+   "en_src": "Look at this.￥You're Chinese, no?￥Do you know what it means?",
+   "long_src": "Take a look at this. You're Chinese,￥right? Can you tell me what it￥means?",
+   "ru": true
   },
   {
    "off": 9905,
    "budget": 45,
-   "en": "I see. No wonder you're having￥trouble."
+   "en": "Вот как. Неудивительно, что ты￥застрял.",
+   "en_src": "I see. No wonder you're having￥trouble.",
+   "ru": true
   },
   {
    "off": 9950,
    "budget": 17,
-   "en": "...Meaning what?",
-   "long": "What do you mean?"
+   "en": "В смысле?",
+   "en_src": "...Meaning what?",
+   "long_src": "What do you mean?",
+   "ru": true
   },
   {
    "off": 9967,
    "budget": 83,
-   "en": "Chinese element symbols.￥Without my chemistry I￥wouldn't have known either.",
-   "long": "These are Chinese symbols for￥chemical elements. I wouldn't have￥known if I hadn't majored in￥chemistry."
+   "en": ".",
+   "en_src": "Chinese element symbols.￥Without my chemistry I￥wouldn't have known either.",
+   "long_src": "These are Chinese symbols for￥chemical elements. I wouldn't have￥known if I hadn't majored in￥chemistry.",
+   "ru": true,
+   "long": "Это китайские обозначения химических￥элементов. Не учись я на химика,￥тоже не понял бы."
   },
   {
    "off": 10050,
    "budget": 31,
-   "en": "A cipher of element symbols.",
-   "long": "It's a code using chemical symbols."
+   "en": ".",
+   "en_src": "A cipher of element symbols.",
+   "long_src": "It's a code using chemical symbols.",
+   "ru": true,
+   "long": "Это шифр на химических символах."
   },
   {
    "off": 10081,
    "budget": 37,
-   "en": "Take a look at this medical record."
+   "en": "Взгляни на эту медкарту.",
+   "en_src": "Take a look at this medical record.",
+   "ru": true
   },
   {
    "off": 10118,
    "budget": 77,
-   "en": "Why show me a chart of all things?￥I've no medical knowledge at all...",
-   "long": "Why are you showing me a medical￥record? I don't know a thing about￥medicine."
+   "en": "Зачем ты показываешь мне медкарту? Я￥в медицине ничего не смыслю.",
+   "en_src": "Why show me a chart of all things?￥I've no medical knowledge at all...",
+   "long_src": "Why are you showing me a medical￥record? I don't know a thing about￥medicine.",
+   "ru": true
   },
   {
    "off": 10195,
    "budget": 45,
-   "en": "What of the chart?￥I don't follow you.",
-   "long": "What about the record? I don't know￥what you're getting at."
+   "en": ".",
+   "en_src": "What of the chart?￥I don't follow you.",
+   "long_src": "What about the record? I don't know￥what you're getting at.",
+   "ru": true,
+   "long": "И что с медкартой? Не пойму, к чему￥ты клонишь."
   },
   {
    "off": 10240,
    "budget": 7,
-   "en": "Match",
-   "long": "Matches"
+   "en": "Спички",
+   "en_src": "Match",
+   "long_src": "Matches",
+   "ru": true
   },
   {
    "off": 10247,
    "budget": 65,
-   "en": "Our matches, these. Retro, no?￥Given only to regulars.",
-   "long": "These are our matches. Pretty￥old-fashioned, huh? We only give￥them to regulars."
+   "en": ".",
+   "en_src": "Our matches, these. Retro, no?￥Given only to regulars.",
+   "long_src": "These are our matches. Pretty￥old-fashioned, huh? We only give￥them to regulars.",
+   "ru": true,
+   "long": "Это наши спички. Ретро, а? Мы их￥даём только постоянным клиентам."
   },
   {
    "off": 10312,
    "budget": 47,
-   "en": "So the Queen Hospital lot came here￥as well.",
-   "long": "So the people at Queen Hospital came￥here too."
+   "en": ".",
+   "en_src": "So the Queen Hospital lot came here￥as well.",
+   "long_src": "So the people at Queen Hospital came￥here too.",
+   "ru": true,
+   "long": "Значит, люди из больницы \"Куин\" тоже￥сюда захаживали."
   },
   {
    "off": 10359,
    "budget": 23,
-   "en": "Ours, sure enough.",
-   "long": "They're definitely our matches."
+   "en": "Точно наши спички.",
+   "en_src": "Ours, sure enough.",
+   "long_src": "They're definitely our matches.",
+   "ru": true
   },
   {
    "off": 10382,
    "budget": 13,
-   "en": "Video memory"
+   "en": "Видеопамять",
+   "en_src": "Video memory",
+   "ru": true
   },
   {
    "off": 10395,
    "budget": 11,
-   "en": "Temple",
-   "long": "Temple picture"
+   "en": ".",
+   "en_src": "Temple",
+   "long_src": "Temple picture",
+   "ru": true,
+   "long": "Картина с собором"
   },
   {
    "off": 10406,
    "budget": 55,
-   "en": "A Bee Land building?￥Princess someone's castle... no.",
-   "long": "A building at Bee Land? Some￥princess's castle? No, that's not￥it."
+   "en": ".",
+   "en_src": "A Bee Land building?￥Princess someone's castle... no.",
+   "long_src": "A building at Bee Land? Some￥princess's castle? No, that's not￥it.",
+   "ru": true,
+   "long": "Здание из Би-Ленда? Замок какой-то￥принцессы? Нет, не то."
   },
   {
    "off": 10461,
    "budget": 29,
-   "en": "No idea... no such place.",
-   "long": "Never seen a building like that."
+   "en": ".",
+   "en_src": "No idea... no such place.",
+   "long_src": "Never seen a building like that.",
+   "ru": true,
+   "long": "Никогда не видел такого здания."
   },
   {
    "off": 10490,
    "budget": 69,
-   "en": "What do you mean? There's nothing to￥support that. Think carefully."
+   "en": "Что ты имеешь в виду? Для этого нет￥оснований. Подумай хорошенько.",
+   "en_src": "What do you mean? There's nothing to￥support that. Think carefully.",
+   "ru": true
   },
   {
    "off": 10559,
    "budget": 35,
-   "en": "That's not right, Gillian."
+   "en": "Не то, Гиллиан.",
+   "en_src": "That's not right, Gillian.",
+   "ru": true
   },
   {
    "off": 10594,
    "budget": 35,
-   "en": "Do the symbols mean something?",
-   "long": "Could the chemical symbols mean￥something?"
+   "en": ".",
+   "en_src": "Do the symbols mean something?",
+   "long_src": "Could the chemical symbols mean￥something?",
+   "ru": true,
+   "long": "Может, химические символы что-то￥значат?"
   },
   {
    "off": 10629,
    "budget": 69,
-   "en": "No, that's wrong. It must mean￥something. Think carefully."
+   "en": "Нет, неверно. Это должно что-то￥значить. Подумай хорошенько.",
+   "en_src": "No, that's wrong. It must mean￥something. Think carefully.",
+   "ru": true
   },
   {
    "off": 10698,
    "budget": 37,
-   "en": "That makes no sense.￥That's it!",
-   "long": "That doesn't make sense. Wait, I've￥got it!"
+   "en": "Это бессмысленно. Постой, понял!",
+   "en_src": "That makes no sense.￥That's it!",
+   "long_src": "That doesn't make sense. Wait, I've￥got it!",
+   "ru": true
   },
   {
    "off": 10735,
    "budget": 47,
-   "en": "Ordinary symbols are in￥the alphabet, no?",
-   "long": "Standard chemical symbols use￥letters, don't they?"
+   "en": ".",
+   "en_src": "Ordinary symbols are in￥the alphabet, no?",
+   "long_src": "Standard chemical symbols use￥letters, don't they?",
+   "ru": true,
+   "long": "Обычные химические символы ведь￥пишутся буквами?"
   },
   {
    "off": 10782,
    "budget": 49,
-   "en": "Still not right. It has to make￥sense."
+   "en": "Всё ещё не то. Должен быть смысл.",
+   "en_src": "Still not right. It has to make￥sense.",
+   "ru": true
   },
   {
    "off": 10831,
    "budget": 17,
-   "en": "That's wrong..."
+   "en": "Неверно...",
+   "en_src": "That's wrong...",
+   "ru": true
   },
   {
    "off": 10848,
    "budget": 105,
-   "en": "Try converting the Chinese symbols￥in the record into standard chemical￥symbols. That must be it!"
+   "en": ".",
+   "en_src": "Try converting the Chinese symbols￥in the record into standard chemical￥symbols. That must be it!",
+   "ru": true,
+   "long": "Попробуй заменить китайские￥обозначения в медкарте обычными￥химическими символами. Точно в этом￥дело!"
   },
   {
    "off": 10953,
    "budget": 47,
-   "en": "Wrong.￥Think hard about the element symbols.",
-   "long": "No. Think carefully about the￥chemical symbols."
+   "en": "Нет. Вспомни хорошенько химические￥символы.",
+   "en_src": "Wrong.￥Think hard about the element symbols.",
+   "long_src": "No. Think carefully about the￥chemical symbols.",
+   "ru": true
   },
   {
    "off": 11000,
    "budget": 31,
-   "en": "You're almost there. Listen."
+   "en": "Ты почти у цели. Слушай.",
+   "en_src": "You're almost there. Listen.",
+   "ru": true
   },
   {
    "off": 11031,
    "budget": 45,
-   "en": "This cipher was Chinese￥element symbols.",
-   "long": "The code was made up of Chinese￥symbols for chemical elements."
+   "en": ".",
+   "en_src": "This cipher was Chinese￥element symbols.",
+   "long_src": "The code was made up of Chinese￥symbols for chemical elements.",
+   "ru": true,
+   "long": "Шифр состоял из китайских￥обозначений химических элементов."
   },
   {
    "off": 11076,
    "budget": 89,
-   "en": "Replace the Chinese symbols with￥standard ones, and you get ＠赤BENSON＠白."
+   "en": "Замени их обычными символами - и￥получишь ＠赤BENSON＠白.",
+   "en_src": "Replace the Chinese symbols with￥standard ones, and you get ＠赤BENSON＠白.",
+   "ru": true
   },
   {
    "off": 11165,
    "budget": 79,
-   "en": "Now, how do you read the letters￥＠赤BENSON＠白?"
+   "en": "А теперь как читаются буквы ＠赤BENSON＠白?",
+   "en_src": "Now, how do you read the letters￥＠赤BENSON＠白?",
+   "ru": true
   },
   {
    "off": 11244,
    "budget": 31,
-   "en": "Say these letters and...?",
-   "long": "How do you pronounce these letters?"
+   "en": "Как произносятся эти буквы?",
+   "en_src": "Say these letters and...?",
+   "long_src": "How do you pronounce these letters?",
+   "ru": true
   },
   {
    "off": 11275,
    "budget": 75,
-   "en": "No, Gillian.￥Look up the element symbols and read￥them straight off.",
-   "long": "No, Gillian. Just look up the￥chemical symbols and read them as a￥word."
+   "en": "Нет, Гиллиан. Просто найди￥химические символы и прочти их как￥слово.",
+   "en_src": "No, Gillian.￥Look up the element symbols and read￥them straight off.",
+   "long_src": "No, Gillian. Just look up the￥chemical symbols and read them as a￥word.",
+   "ru": true
   },
   {
    "off": 11350,
    "budget": 69,
-   "en": "The standard chemical symbols spell￥＠赤BENSON＠白."
+   "en": "Обычные химические символы￥складываются в ＠赤BENSON＠白.",
+   "en_src": "The standard chemical symbols spell￥＠赤BENSON＠白.",
+   "ru": true
   },
   {
    "off": 11419,
    "budget": 39,
-   "en": "Gillian, please enter something!"
+   "en": "Гиллиан, введи же что-нибудь!",
+   "en_src": "Gillian, please enter something!",
+   "ru": true
   },
   {
    "off": 11458,
    "budget": 37,
-   "en": "You haven't entered anything!"
+   "en": "Ты ничего не ввёл!",
+   "en_src": "You haven't entered anything!",
+   "ru": true
   },
   {
    "off": 11495,
    "budget": 25,
-   "en": "Something feels missing.",
-   "long": "I think something's missing."
+   "en": ".",
+   "en_src": "Something feels missing.",
+   "long_src": "I think something's missing.",
+   "ru": true,
+   "long": "По-моему, чего-то не хватает."
   },
   {
    "off": 11520,
    "budget": 45,
-   "en": "That isn't beryllium's symbol.",
-   "long": "That's not the chemical symbol for￥beryllium."
+   "en": "Это не символ бериллия.",
+   "en_src": "That isn't beryllium's symbol.",
+   "long_src": "That's not the chemical symbol for￥beryllium.",
+   "ru": true
   },
   {
    "off": 11565,
    "budget": 31,
-   "en": "Let's ask Napoleon."
+   "en": "Давай спросим Наполеона.",
+   "en_src": "Let's ask Napoleon.",
+   "ru": true
   },
   {
    "off": 11596,
    "budget": 21,
-   "en": "Wrong, Gillian.",
-   "long": "That's not right, Gillian."
+   "en": "Не то, Гиллиан.",
+   "en_src": "Wrong, Gillian.",
+   "long_src": "That's not right, Gillian.",
+   "ru": true
   },
   {
    "off": 11617,
    "budget": 35,
-   "en": "Let's have Napoleon explain."
+   "en": "Пусть Наполеон объяснит.",
+   "en_src": "Let's have Napoleon explain.",
+   "ru": true
   },
   {
    "off": 11652,
    "budget": 23,
-   "en": "You're close."
+   "en": "Почти угадал.",
+   "en_src": "You're close.",
+   "ru": true
   },
   {
    "off": 11675,
    "budget": 25,
-   "en": "You know the answer?"
+   "en": "Ты знаешь ответ?",
+   "en_src": "You know the answer?",
+   "ru": true
   },
   {
    "off": 11700,
    "budget": 37,
-   "en": "No, no. It's just a feeling."
+   "en": "Нет-нет. Просто предчувствие.",
+   "en_src": "No, no. It's just a feeling.",
+   "ru": true
   },
   {
    "off": 11737,
    "budget": 51,
-   "en": "Gillian, you're close...￥a little more.",
-   "long": "You're getting close, Gillian. Just￥a little further."
+   "en": "Ты уже близко, Гиллиан. Ещё￥чуть-чуть.",
+   "en_src": "Gillian, you're close...￥a little more.",
+   "long_src": "You're getting close, Gillian. Just￥a little further.",
+   "ru": true
   },
   {
    "off": 11788,
    "budget": 49,
-   "en": "Be careful. Those letters are easy￥to mix up."
+   "en": "Осторожно. Эти буквы легко￥перепутать.",
+   "en_src": "Be careful. Those letters are easy￥to mix up.",
+   "ru": true
   },
   {
    "off": 11837,
    "budget": 57,
-   "en": "Check the letters carefully when you￥enter them."
+   "en": "Внимательно проверь буквы при вводе.",
+   "en_src": "Check the letters carefully when you￥enter them.",
+   "ru": true
   },
   {
    "off": 11894,
    "budget": 31,
-   "en": "You're really very close."
+   "en": "Ты действительно очень близко.",
+   "en_src": "You're really very close.",
+   "ru": true
   },
   {
    "off": 11925,
    "budget": 45,
-   "en": "Yes, my favourite film￥director, no?",
-   "long": "Wait, he's my favorite film￥director, isn't he?"
+   "en": "Постой, это же мой любимый￥кинорежиссёр?",
+   "en_src": "Yes, my favourite film￥director, no?",
+   "long_src": "Wait, he's my favorite film￥director, isn't he?",
+   "ru": true
   },
   {
    "off": 11970,
    "budget": 31,
-   "en": "Let's go see his new one too.",
-   "long": "Let's go see his new movie too."
+   "en": "Сходим и на его новый фильм.",
+   "en_src": "Let's go see his new one too.",
+   "long_src": "Let's go see his new movie too.",
+   "ru": true
   },
   {
    "off": 12001,
    "budget": 27,
-   "en": "Well, that aside....",
-   "long": "Anyway, back to the matter at hand."
+   "en": "Ну, вернёмся к делу.",
+   "en_src": "Well, that aside....",
+   "long_src": "Anyway, back to the matter at hand.",
+   "ru": true
   },
   {
    "off": 12028,
    "budget": 41,
-   "en": "You're very close. Just one more￥step."
+   "en": "Совсем близко. Ещё один шаг.",
+   "en_src": "You're very close. Just one more￥step.",
+   "ru": true
   },
   {
    "off": 12069,
    "budget": 57,
-   "en": "You've got the general idea. Just a￥little more."
+   "en": "Общий смысл ты уловил. Ещё немного.",
+   "en_src": "You've got the general idea. Just a￥little more.",
+   "ru": true
   },
   {
    "off": 12126,
    "budget": 15,
-   "en": "JUNKER ID"
+   "en": "Удостоверение",
+   "en_src": "JUNKER ID",
+   "ru": true
   },
   {
    "off": 12141,
    "budget": 71,
-   "en": "This ID card proves your full￥authority as a JUNKER. Keep it safe."
+   "en": ".",
+   "en_src": "This ID card proves your full￥authority as a JUNKER. Keep it safe.",
+   "ru": true,
+   "long": "Это удостоверение подтверждает все￥твои полномочия ДЖАНКЕРа. Береги￥его."
   },
   {
    "off": 12212,
    "budget": 7,
-   "en": "Funds"
+   "en": "Деньги",
+   "en_src": "Funds",
+   "ru": true
   },
   {
    "off": 12219,
    "budget": 35,
-   "en": "This is the money JUNKER gave you."
+   "en": "Деньги, выданные тебе ДЖАНКЕРом.",
+   "en_src": "This is the money JUNKER gave you.",
+   "ru": true
   },
   {
    "off": 12254,
    "budget": 5,
-   "en": "Drop",
-   "long": "Candy"
+   "en": ".",
+   "en_src": "Drop",
+   "long_src": "Candy",
+   "ru": true,
+   "long": "Леденец"
   },
   {
    "off": 12259,
    "budget": 35,
-   "en": "This candy was in Jean's pocket."
+   "en": "Этот леденец был в кармане Жана.",
+   "en_src": "This candy was in Jean's pocket.",
+   "ru": true
   },
   {
    "off": 12294,
    "budget": 7,
-   "en": "Proof",
-   "long": "Evidence"
+   "en": "Улики",
+   "en_src": "Proof",
+   "long_src": "Evidence",
+   "ru": true
   },
   {
    "off": 12301,
    "budget": 3,
-   "en": "Pc",
-   "long": "Chess piece"
+   "en": ".",
+   "en_src": "Pc",
+   "long_src": "Chess piece",
+   "ru": true,
+   "long": "Шахматная фигура"
   },
   {
    "off": 12304,
    "budget": 65,
-   "en": "Gibson carried this chess piece as a￥clue to Queen Hospital."
+   "en": ".",
+   "en_src": "Gibson carried this chess piece as a￥clue to Queen Hospital.",
+   "ru": true,
+   "long": "Гибсон носил эту шахматную фигуру￥как подсказку к больнице \"Куин\"."
   },
   {
    "off": 12369,
    "budget": 37,
-   "en": "This is the chess piece Gibson had."
+   "en": ".",
+   "en_src": "This is the chess piece Gibson had.",
+   "ru": true,
+   "long": "Шахматная фигура, которая была у￥Гибсона."
   },
   {
    "off": 12406,
    "budget": 45,
-   "en": "A chart with a Snatcher's name.",
-   "long": "This medical record gives a￥Snatcher's name."
+   "en": "В этой медкарте указано имя￥снатчера.",
+   "en_src": "A chart with a Snatcher's name.",
+   "long_src": "This medical record gives a￥Snatcher's name.",
+   "ru": true
   },
   {
    "off": 12451,
    "budget": 37,
-   "en": "Found on a desk at￥Queen Hospital.",
-   "long": "We found this in a desk at Queen￥Hospital."
+   "en": ".",
+   "en_src": "Found on a desk at￥Queen Hospital.",
+   "long_src": "We found this in a desk at Queen￥Hospital.",
+   "ru": true,
+   "long": "Мы нашли это в столе в больнице￥\"Куин\"."
   },
   {
    "off": 12488,
    "budget": 43,
-   "en": "Old-fashioned matches from￥Queen Hosp.",
-   "long": "These old-fashioned matches were at￥Queen Hospital."
+   "en": "Старомодные спички из больницы￥\"Куин\".",
+   "en_src": "Old-fashioned matches from￥Queen Hosp.",
+   "long_src": "These old-fashioned matches were at￥Queen Hospital.",
+   "ru": true
   },
   {
    "off": 12531,
    "budget": 9,
-   "en": "Memo"
+   "en": "Записка",
+   "en_src": "Memo",
+   "ru": true
   },
   {
    "off": 12540,
    "budget": 31,
-   "en": "A memo in Harry's hand.",
-   "long": "Harry seems to have written this￥note."
+   "en": ".",
+   "en_src": "A memo in Harry's hand.",
+   "long_src": "Harry seems to have written this￥note.",
+   "ru": true,
+   "long": "Эту записку, похоже, написал Гарри."
   },
   {
    "off": 12571,
    "budget": 43,
-   "en": "This note was in the Mechanic room."
+   "en": "Эта записка лежала в мастерской.",
+   "en_src": "This note was in the Mechanic room.",
+   "ru": true
   },
   {
    "off": 12614,
    "budget": 13,
-   "en": "Little John"
+   "en": "Литл Джон",
+   "en_src": "Little John",
+   "ru": true
   },
   {
    "off": 12627,
    "budget": 47,
-   "en": "Footage left in Little John's￥memory.",
-   "long": "This image was stored in Little￥John's memory."
+   "en": ".",
+   "en_src": "Footage left in Little John's￥memory.",
+   "long_src": "This image was stored in Little￥John's memory.",
+   "ru": true,
+   "long": "Это изображение хранилось в памяти￥Литл Джона."
   },
   {
    "off": 12674,
    "budget": 9,
-   "en": "Red Sq.",
-   "long": "Red Square"
+   "en": ".",
+   "en_src": "Red Sq.",
+   "long_src": "Red Square",
+   "ru": true,
+   "long": "Красная площадь"
   },
   {
    "off": 12683,
    "budget": 43,
-   "en": "A 'still photo' from the￥Chief's office.",
-   "long": "This photograph was hidden in the￥Chief's office."
+   "en": ".",
+   "en_src": "A 'still photo' from the￥Chief's office.",
+   "long_src": "This photograph was hidden in the￥Chief's office.",
+   "ru": true,
+   "long": "Эта фотография была спрятана в￥кабинете шефа."
   },
   {
    "off": 12726,
    "budget": 5,
-   "en": "Hall",
-   "long": "Temple"
+   "en": ".",
+   "en_src": "Hall",
+   "long_src": "Temple",
+   "ru": true,
+   "long": "Собор"
   },
   {
    "off": 12731,
    "budget": 47,
-   "en": "Temple painting from a￥Queen Hospital room.",
-   "long": "This picture of a cathedral hung in￥a room at Queen Hospital."
+   "en": ".",
+   "en_src": "Temple painting from a￥Queen Hospital room.",
+   "long_src": "This picture of a cathedral hung in￥a room at Queen Hospital.",
+   "ru": true,
+   "long": "Эта картина с собором висела в￥палате больницы \"Куин\"."
   },
   {
    "off": 12778,
    "budget": 67,
-   "en": "It has an integrated circuit￥containing all your data, Gillian."
+   "en": "В ней микросхема со всеми твоими￥данными, Гиллиан.",
+   "en_src": "It has an integrated circuit￥containing all your data, Gillian.",
+   "ru": true
   },
   {
    "off": 12845,
    "budget": 49,
-   "en": "Case expenses are covered￥as work requires.",
-   "long": "In principle, there's no limit on￥necessary investigation expenses."
+   "en": ".",
+   "en_src": "Case expenses are covered￥as work requires.",
+   "long_src": "In principle, there's no limit on￥necessary investigation expenses.",
+   "ru": true,
+   "long": "В принципе, на необходимые расходы￥по следствию лимита нет."
   },
   {
    "off": 12894,
    "budget": 45,
-   "en": "The candy Jean handed out￥to the orphans.",
-   "long": "Jean gave this candy to the children￥at the orphanage."
+   "en": "Эти леденцы Жан раздавал детям в￥приюте.",
+   "en_src": "The candy Jean handed out￥to the orphans.",
+   "long_src": "Jean gave this candy to the children￥at the orphanage.",
+   "ru": true
   },
   {
    "off": 12939,
    "budget": 59,
-   "en": "This piece was meant to tell￥the name of Queen Hospital.",
-   "long": "It seems this piece was meant to￥tell us the name of Queen Hospital."
+   "en": ".",
+   "en_src": "This piece was meant to tell￥the name of Queen Hospital.",
+   "long_src": "It seems this piece was meant to￥tell us the name of Queen Hospital.",
+   "ru": true,
+   "long": "Похоже, эта фигура должна была￥подсказать нам название больницы￥\"Куин\"."
   },
   {
    "off": 12998,
    "budget": 57,
-   "en": "It's a wooden chess piece. The￥queen."
+   "en": "Деревянная шахматная фигура.￥Королева.",
+   "en_src": "It's a wooden chess piece. The￥queen.",
+   "ru": true
   },
   {
    "off": 13055,
    "budget": 83,
-   "en": "It's a cipher written in Chinese￥element symbols. Decoded, it reads￥BENSON.",
-   "long": "It's a code written using Chinese￥symbols for chemical elements. It￥decodes to BENSON."
+   "en": ".",
+   "en_src": "It's a cipher written in Chinese￥element symbols. Decoded, it reads￥BENSON.",
+   "long_src": "It's a code written using Chinese￥symbols for chemical elements. It￥decodes to BENSON.",
+   "ru": true,
+   "long": "Шифр из китайских обозначений￥химических элементов. Расшифровка:￥BENSON (Бенсон)."
   },
   {
    "off": 13138,
    "budget": 65,
-   "en": "It seems to be part of a medical￥record. What does it say?"
+   "en": "Похоже, часть медкарты. Что тут￥написано?",
+   "en_src": "It seems to be part of a medical￥record. What does it say?",
+   "ru": true
   },
   {
    "off": 13203,
    "budget": 73,
-   "en": "Matches from 'Outer Heaven'.￥A trifle given to regulars,￥surely.",
-   "long": "These are Outer Heaven matches. They￥probably give them to regular￥customers."
+   "en": "Спички \"Аутер Хэвен\". Наверное, их￥дарят постоянным клиентам.",
+   "en_src": "Matches from 'Outer Heaven'.￥A trifle given to regulars,￥surely.",
+   "long_src": "These are Outer Heaven matches. They￥probably give them to regular￥customers.",
+   "ru": true
   },
   {
    "off": 13276,
    "budget": 63,
-   "en": "'face to face'.￥A memo telling the secret￥of the illusion.",
-   "long": "\"Face to face.\" This note explains￥the secret of the optical illusion."
+   "en": "\"Лицом к лицу\". Записка раскрывает￥секрет оптической иллюзии.",
+   "en_src": "'face to face'.￥A memo telling the secret￥of the illusion.",
+   "long_src": "\"Face to face.\" This note explains￥the secret of the optical illusion.",
+   "ru": true
   },
   {
    "off": 13339,
    "budget": 79,
-   "en": "\"Face to face.\" It's Harry's￥handwriting, but what does it mean?"
+   "en": "\"Лицом к лицу\". Почерк Гарри, но что￥это значит?",
+   "en_src": "\"Face to face.\" It's Harry's￥handwriting, but what does it mean?",
+   "ru": true
   },
   {
    "off": 13418,
    "budget": 53,
-   "en": "This image shows the QUEEN Hospital￥neon sign."
+   "en": ".",
+   "en_src": "This image shows the QUEEN Hospital￥neon sign.",
+   "ru": true,
+   "long": "На этом изображении неоновая вывеска￥больницы QUEEN."
   },
   {
    "off": 13471,
    "budget": 67,
-   "en": "It reads \"OLEEN Hospital.\" It must￥be a hospital's neon sign."
+   "en": "Читается HOSPITAL OLEEN. Видимо,￥неоновая вывеска больницы.",
+   "en_src": "It reads \"OLEEN Hospital.\" It must￥be a hospital's neon sign.",
+   "ru": true
   },
   {
    "off": 13538,
    "budget": 65,
-   "en": "A still photo of Red Square￥in Moscow, before the Catastrophe.",
-   "long": "This is a photograph of Red Square￥in Moscow before the Catastrophe."
+   "en": "Фотография Красной площади в Москве￥до Катастрофы.",
+   "en_src": "A still photo of Red Square￥in Moscow, before the Catastrophe.",
+   "long_src": "This is a photograph of Red Square￥in Moscow before the Catastrophe.",
+   "ru": true
   },
   {
    "off": 13603,
    "budget": 67,
-   "en": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
-   "long": "It's St. Basil's Cathedral, a famous￥cathedral in Moscow before the￥Catastrophe."
+   "en": ".",
+   "en_src": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
+   "long_src": "It's St. Basil's Cathedral, a famous￥cathedral in Moscow before the￥Catastrophe.",
+   "ru": true,
+   "long": "Собор Василия Блаженного, знаменитый￥собор в Москве до Катастрофы."
   },
   {
    "off": 13670,
    "budget": 47,
-   "en": "We got as far as element symbols...",
-   "long": "We know they're chemical symbols,￥but that's all."
+   "en": ".",
+   "en_src": "We got as far as element symbols...",
+   "long_src": "We know they're chemical symbols,￥but that's all.",
+   "ru": true,
+   "long": "Мы знаем, что это химические￥символы, но и только."
   },
   {
    "off": 13717,
    "budget": 37,
-   "en": "That's definitely from this club."
+   "en": "Это точно из нашего клуба.",
+   "en_src": "That's definitely from this club.",
+   "ru": true
   },
   {
    "off": 13754,
    "budget": 21,
-   "en": "Have we cash left?",
-   "long": "Do I still have any cash?"
+   "en": ".",
+   "en_src": "Have we cash left?",
+   "long_src": "Do I still have any cash?",
+   "ru": true,
+   "long": "У меня ещё остались наличные?"
   },
   {
    "off": 13775,
    "budget": 21,
-   "en": "Our balance is fine.",
-   "long": "You have enough left."
+   "en": "Денег хватает.",
+   "en_src": "Our balance is fine.",
+   "long_src": "You have enough left.",
+   "ru": true
   },
   {
    "off": 13796,
    "budget": 53,
-   "en": "Don't worry. I won't charge you for￥the table."
+   "en": "Не волнуйся. За столик я с тебя не￥возьму.",
+   "en_src": "Don't worry. I won't charge you for￥the table.",
+   "ru": true
   },
   {
    "off": 13851,

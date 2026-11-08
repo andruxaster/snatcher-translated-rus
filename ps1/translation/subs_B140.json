@@ -15,8 +15,9 @@
    "end": 117237,
    "dur": 13.2,
    "speaker": "Chief",
-   "en": "Let's go over your report once more. Metal Gear, take it from here.",
-   "enabled": true
+   "en": "Ещё раз пройдёмся по твоему отчёту. Метал Гир, продолжай.",
+   "enabled": true,
+   "en_src": "Let's go over your report once more. Metal Gear, take it from here."
   },
   {
    "id": "B140_replay_01",
@@ -26,8 +27,9 @@
    "end": 118464,
    "dur": 6.2,
    "speaker": "Metal Gear",
-   "en": "Yes, sir. I'll play back the footage I recorded.",
-   "enabled": true
+   "en": "Есть, сэр. Воспроизвожу записанные мной кадры.",
+   "enabled": true,
+   "en_src": "Yes, sir. I'll play back the footage I recorded."
   },
   {
    "id": "B140_replay_01b",
@@ -37,8 +39,9 @@
    "end": 118729,
    "dur": 4.3,
    "speaker": "",
-   "en": "After Gibson contacted you,",
-   "enabled": true
+   "en": "После звонка Гибсона",
+   "enabled": true,
+   "en_src": "After Gibson contacted you,"
   },
   {
    "id": "B140_replay_01bb",
@@ -48,8 +51,9 @@
    "end": 119448,
    "dur": 8.4,
    "speaker": "",
-   "en": "you went straight to the Factory ruins in M District.",
-   "enabled": true
+   "en": "ты сразу поехал к руинам завода в районе M.",
+   "enabled": true,
+   "en_src": "you went straight to the Factory ruins in M District."
   },
   {
    "id": "B140_replay_01bc",
@@ -59,8 +63,9 @@
    "end": 120401,
    "dur": 8.4,
    "speaker": "",
-   "en": "Someone had murdered Gibson inside the Factory ruins.",
-   "enabled": true
+   "en": "Гибсона кто-то убил в руинах завода.",
+   "enabled": true,
+   "en_src": "Someone had murdered Gibson inside the Factory ruins."
   },
   {
    "id": "B140_replay_01bd",
@@ -70,8 +75,9 @@
    "end": 120992,
    "dur": 7.6,
    "speaker": "",
-   "en": "Hair and skin tissue found on his body indicated",
-   "enabled": true
+   "en": "Волосы и частицы кожи на его теле указали,",
+   "enabled": true,
+   "en_src": "Hair and skin tissue found on his body indicated"
   },
   {
    "id": "B140_replay_01be",
@@ -81,8 +87,9 @@
    "end": 121730,
    "dur": 8.8,
    "speaker": "",
-   "en": "that two Snatchers, a man and a woman, were responsible.",
-   "enabled": true
+   "en": "что убийцы - два снатчера, мужчина и женщина.",
+   "enabled": true,
+   "en_src": "that two Snatchers, a man and a woman, were responsible."
   },
   {
    "id": "B140_replay_01bf",
@@ -92,8 +99,9 @@
    "end": 122338,
    "dur": 6.9,
    "speaker": "",
-   "en": "Meanwhile, a floppy disk containing Gibson's",
-   "enabled": true
+   "en": "Тем временем дискета с исследованиями",
+   "enabled": true,
+   "en_src": "Meanwhile, a floppy disk containing Gibson's"
   },
   {
    "id": "B140_replay_01bg",
@@ -103,8 +111,9 @@
    "end": 122941,
    "dur": 8.2,
    "speaker": "",
-   "en": "research revealed a major weakness of the Snatchers.",
-   "enabled": true
+   "en": "Гибсона раскрыла главную слабость снатчеров.",
+   "enabled": true,
+   "en_src": "research revealed a major weakness of the Snatchers."
   },
   {
    "id": "B140_replay_01bh",
@@ -114,8 +123,9 @@
    "end": 123739,
    "dur": 9.0,
    "speaker": "",
-   "en": "It appears that this discovery was what got Gibson killed",
-   "enabled": true
+   "en": "Видимо, из-за этого открытия Гибсона и убили",
+   "enabled": true,
+   "en_src": "It appears that this discovery was what got Gibson killed"
   },
   {
    "id": "B140_replay_01bi",
@@ -125,8 +135,9 @@
    "end": 123958,
    "dur": 2.7,
    "speaker": "",
-   "en": "by the Snatchers.",
-   "enabled": true
+   "en": "снатчеры.",
+   "enabled": true,
+   "en_src": "by the Snatchers."
   },
   {
    "id": "B140_replay_01bj",
@@ -136,8 +147,9 @@
    "end": 125053,
    "dur": 10.7,
    "speaker": "",
-   "en": "Their weakness lies in the differences between them and real humans.",
-   "enabled": true
+   "en": "Их слабость - в отличиях от настоящих людей.",
+   "enabled": true,
+   "en_src": "Their weakness lies in the differences between them and real humans."
   },
   {
    "id": "B140_replay_01bk",
@@ -147,8 +159,9 @@
    "end": 125793,
    "dur": 8.8,
    "speaker": "",
-   "en": "Their artificial skin is sensitive to ultraviolet light.",
-   "enabled": true
+   "en": "Их искусственная кожа боится ультрафиолета.",
+   "enabled": true,
+   "en_src": "Their artificial skin is sensitive to ultraviolet light."
   },
   {
    "id": "B140_replay_01bl",
@@ -158,8 +171,9 @@
    "end": 126678,
    "dur": 9.1,
    "speaker": "",
-   "en": "Long exposure causes cancer resembling malignant melanoma.",
-   "enabled": true
+   "en": "Долгое облучение вызывает рак, похожий на меланому.",
+   "enabled": true,
+   "en_src": "Long exposure causes cancer resembling malignant melanoma."
   },
   {
    "id": "B140_replay_01bm",
@@ -169,8 +183,9 @@
    "end": 127614,
    "dur": 6.3,
    "speaker": "",
-   "en": "This limits where and when they can act.",
-   "enabled": true
+   "en": "Это ограничивает, где и когда они могут действовать.",
+   "enabled": true,
+   "en_src": "This limits where and when they can act."
   },
   {
    "id": "B140_replay_01bn",
@@ -180,8 +195,9 @@
    "end": 128489,
    "dur": 9.6,
    "speaker": "",
-   "en": "Only at night, in midwinter when daylight hours are shortest.",
-   "enabled": true
+   "en": "Только ночью, в разгар зимы, когда дни короче всего.",
+   "enabled": true,
+   "en_src": "Only at night, in midwinter when daylight hours are shortest."
   },
   {
    "id": "B140_replay_01bo",
@@ -191,8 +207,9 @@
    "end": 129530,
    "dur": 10.3,
    "speaker": "",
-   "en": "Their artificial skin takes at least six months to become stable.",
-   "enabled": true
+   "en": "Их коже нужно минимум полгода, чтобы прижиться.",
+   "enabled": true,
+   "en_src": "Their artificial skin takes at least six months to become stable."
   },
   {
    "id": "B140_replay_01bp",
@@ -202,8 +219,9 @@
    "end": 130208,
    "dur": 6.9,
    "speaker": "",
-   "en": "They are vulnerable during those six months.",
-   "enabled": true
+   "en": "Все эти полгода они уязвимы.",
+   "enabled": true,
+   "en_src": "They are vulnerable during those six months."
   },
   {
    "id": "B140_replay_01bq",
@@ -213,8 +231,9 @@
    "end": 130886,
    "dur": 8.7,
    "speaker": "",
-   "en": "They must avoid ultraviolet light throughout that time.",
-   "enabled": true
+   "en": "Всё это время им нужно избегать ультрафиолета.",
+   "enabled": true,
+   "en_src": "They must avoid ultraviolet light throughout that time."
   },
   {
    "id": "B140_replay_01br",
@@ -224,8 +243,9 @@
    "end": 131526,
    "dur": 5.8,
    "speaker": "",
-   "en": "Gibson must have uncovered this using",
-   "enabled": true
+   "en": "Гибсон наверняка раскрыл это благодаря",
+   "enabled": true,
+   "en_src": "Gibson must have uncovered this using"
   },
   {
    "id": "B140_replay_01bs",
@@ -235,8 +255,9 @@
    "end": 132214,
    "dur": 6.5,
    "speaker": "",
-   "en": "the skills he developed as a Science Cop.",
-   "enabled": true
+   "en": "навыкам, полученным в научной полиции.",
+   "enabled": true,
+   "en_src": "the skills he developed as a Science Cop."
   },
   {
    "id": "B140_replay_01bt",
@@ -246,8 +267,9 @@
    "end": 133150,
    "dur": 8.7,
    "speaker": "",
-   "en": "That's why they were using sunscreen even in midwinter.",
-   "enabled": true
+   "en": "Поэтому они и зимой мазались кремом от солнца.",
+   "enabled": true,
+   "en_src": "That's why they were using sunscreen even in midwinter."
   },
   {
    "id": "B140_replay_01bu",
@@ -257,8 +279,9 @@
    "end": 134343,
    "dur": 6.6,
    "speaker": "",
-   "en": "This means they need one thing to survive.",
-   "enabled": true
+   "en": "Значит, для выживания им нужно одно.",
+   "enabled": true,
+   "en_src": "This means they need one thing to survive."
   },
   {
    "id": "B140_replay_01bv",
@@ -268,8 +291,9 @@
    "end": 135360,
    "dur": 9.6,
    "speaker": "",
-   "en": "A hospital equipped to treat their cancerous artificial skin.",
-   "enabled": true
+   "en": "Больница, где лечат их поражённую раком кожу.",
+   "enabled": true,
+   "en_src": "A hospital equipped to treat their cancerous artificial skin."
   },
   {
    "id": "B140_replay_01bw",
@@ -279,8 +303,9 @@
    "end": 136464,
    "dur": 9.1,
    "speaker": "",
-   "en": "Gibson may have found the hospital maintaining their skin.",
-   "enabled": true
+   "en": "Возможно, Гибсон нашёл больницу, где следят за их кожей.",
+   "enabled": true,
+   "en_src": "Gibson may have found the hospital maintaining their skin."
   },
   {
    "id": "B140_replay_01bx",
@@ -290,8 +315,9 @@
    "end": 137471,
    "dur": 10.4,
    "speaker": "",
-   "en": "To retrace Gibson's steps, whale meat found in his stomach led you",
-   "enabled": true
+   "en": "Идя по следу Гибсона, ты по китовому мясу в его желудке вышел",
+   "enabled": true,
+   "en_src": "To retrace Gibson's steps, whale meat found in his stomach led you"
   },
   {
    "id": "B140_replay_01by",
@@ -301,9 +327,10 @@
    "end": 138262,
    "dur": 8.2,
    "speaker": "",
-   "en": "to Outer Heaven, the only restaurant that serves it.",
+   "en": "на \"Аутер Хэвен\" - единственный ресторан, где его подают.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "to Outer Heaven, the only restaurant that serves it."
   },
   {
    "id": "B140_f3_00",
@@ -313,8 +340,9 @@
    "end": 133163,
    "dur": 5.0,
    "speaker": "",
-   "en": "Dancer Isabella Velvet's account was used",
-   "enabled": true
+   "en": "По показаниям танцовщицы Изабеллы Вельвет",
+   "enabled": true,
+   "en_src": "Dancer Isabella Velvet's account was used"
   },
   {
    "id": "B140_f3_00b",
@@ -324,8 +352,9 @@
    "end": 134284,
    "dur": 6.9,
    "speaker": "",
-   "en": "to make a composite of the man Gibson had been following.",
-   "enabled": true
+   "en": "составили фоторобот человека, за которым следил Гибсон.",
+   "enabled": true,
+   "en_src": "to make a composite of the man Gibson had been following."
   },
   {
    "id": "B140_f3_00c",
@@ -335,8 +364,9 @@
    "end": 135286,
    "dur": 5.9,
    "speaker": "",
-   "en": "HQ's main computer, Gaudi, checked the composite.",
-   "enabled": true
+   "en": "Гауди, главный компьютер штаба, проверил фоторобот.",
+   "enabled": true,
+   "en_src": "HQ's main computer, Gaudi, checked the composite."
   },
   {
    "id": "B140_f3_00d",
@@ -346,8 +376,9 @@
    "end": 135817,
    "dur": 4.3,
    "speaker": "",
-   "en": "Two men matched and became suspects:",
-   "enabled": true
+   "en": "Совпали двое, и они стали подозреваемыми:",
+   "enabled": true,
+   "en_src": "Two men matched and became suspects:"
   },
   {
    "id": "B140_f3_00e",
@@ -357,8 +388,9 @@
    "end": 136507,
    "dur": 6.3,
    "speaker": "",
-   "en": "Ivan Rodriguez and Freddy Nielsen. Ivan was cleared.",
-   "enabled": true
+   "en": "Иван Родригес и Фредди Нильсен. С Ивана подозрения сняты.",
+   "enabled": true,
+   "en_src": "Ivan Rodriguez and Freddy Nielsen. Ivan was cleared."
   },
   {
    "id": "B140_f3_00f",
@@ -368,8 +400,9 @@
    "end": 137307,
    "dur": 7.4,
    "speaker": "",
-   "en": "Despite his tan, there was no malignant melanoma on his skin.",
-   "enabled": true
+   "en": "Несмотря на загар, меланомы на его коже не было.",
+   "enabled": true,
+   "en_src": "Despite his tan, there was no malignant melanoma on his skin."
   },
   {
    "id": "B140_f3_00g",
@@ -379,8 +412,9 @@
    "end": 137932,
    "dur": 4.2,
    "speaker": "",
-   "en": "His Liquid Sky case was handed over",
-   "enabled": true
+   "en": "Его дело о \"Ликвид Скай\" передано",
+   "enabled": true,
+   "en_src": "His Liquid Sky case was handed over"
   },
   {
    "id": "B140_f3_00h",
@@ -390,8 +424,9 @@
    "end": 138921,
    "dur": 7.2,
    "speaker": "",
-   "en": "to the Narcotics Enforcement Special Investigation Division.",
-   "enabled": true
+   "en": "в спецотдел по борьбе с наркотиками.",
+   "enabled": true,
+   "en_src": "to the Narcotics Enforcement Special Investigation Division."
   },
   {
    "id": "B140_f3_00i",
@@ -401,8 +436,9 @@
    "end": 139404,
    "dur": 4.0,
    "speaker": "",
-   "en": "A search of Freddy Nielsen's home",
-   "enabled": true
+   "en": "При обыске в доме Фредди Нильсена",
+   "enabled": true,
+   "en_src": "A search of Freddy Nielsen's home"
   },
   {
    "id": "B140_f3_00j",
@@ -412,8 +448,9 @@
    "end": 139813,
    "dur": 4.0,
    "speaker": "",
-   "en": "found large amounts of sunscreen.",
-   "enabled": true
+   "en": "нашли много солнцезащитного крема.",
+   "enabled": true,
+   "en_src": "found large amounts of sunscreen."
   },
   {
    "id": "B140_f3_00k",
@@ -423,8 +460,9 @@
    "end": 140693,
    "dur": 7.8,
    "speaker": "",
-   "en": "His wife, Lisa Nielsen, was exposed as a Snatcher and eliminated.",
-   "enabled": true
+   "en": "Его жена, Лиза Нильсен, оказалась снатчером и уничтожена.",
+   "enabled": true,
+   "en_src": "His wife, Lisa Nielsen, was exposed as a Snatcher and eliminated."
   },
   {
    "id": "B140_f3_00l",
@@ -434,8 +472,9 @@
    "end": 141011,
    "dur": 2.4,
    "speaker": "",
-   "en": "The skin cells found",
-   "enabled": true
+   "en": "Частицы кожи, найденные",
+   "enabled": true,
+   "en_src": "The skin cells found"
   },
   {
    "id": "B140_f3_00m",
@@ -445,8 +484,9 @@
    "end": 141761,
    "dur": 5.7,
    "speaker": "",
-   "en": "under Gibson's nails were identified as Lisa's.",
-   "enabled": true
+   "en": "под ногтями Гибсона, принадлежат Лизе.",
+   "enabled": true,
+   "en_src": "under Gibson's nails were identified as Lisa's."
   },
   {
    "id": "B140_f3_00n",
@@ -456,8 +496,9 @@
    "end": 142511,
    "dur": 7.4,
    "speaker": "",
-   "en": "Freddy Nielsen was also exposed as a Snatcher and eliminated.",
-   "enabled": true
+   "en": "Фредди Нильсен тоже оказался снатчером и уничтожен.",
+   "enabled": true,
+   "en_src": "Freddy Nielsen was also exposed as a Snatcher and eliminated."
   },
   {
    "id": "B140_f3_00o",
@@ -467,8 +508,9 @@
    "end": 143147,
    "dur": 6.4,
    "speaker": "",
-   "en": "The hair in Gibson's hand was identified as Freddy's.",
-   "enabled": true
+   "en": "Волосы в руке Гибсона принадлежат Фредди.",
+   "enabled": true,
+   "en_src": "The hair in Gibson's hand was identified as Freddy's."
   },
   {
    "id": "B140_f3_00p",
@@ -478,8 +520,9 @@
    "end": 143983,
    "dur": 7.2,
    "speaker": "",
-   "en": "So Lisa and Freddy were the two Snatchers who killed Gibson.",
-   "enabled": true
+   "en": "Итак, Гибсона убили два снатчера - Лиза и Фредди.",
+   "enabled": true,
+   "en_src": "So Lisa and Freddy were the two Snatchers who killed Gibson."
   },
   {
    "id": "B140_f3_00q",
@@ -489,8 +532,9 @@
    "end": 144994,
    "dur": 7.1,
    "speaker": "",
-   "en": "What of Randam Hajile, the bounty hunter who saved Gillian?",
-   "enabled": true
+   "en": "А что с Рэндамом Хаджайлом, охотником, спасшим Гиллиана?",
+   "enabled": true,
+   "en_src": "What of Randam Hajile, the bounty hunter who saved Gillian?"
   },
   {
    "id": "B140_f3_00r",
@@ -500,8 +544,9 @@
    "end": 145454,
    "dur": 4.0,
    "speaker": "",
-   "en": "All the data on his bounty hunter",
-   "enabled": true
+   "en": "Все данные его регистрации",
+   "enabled": true,
+   "en_src": "All the data on his bounty hunter"
   },
   {
    "id": "B140_f3_00s",
@@ -511,8 +556,9 @@
    "end": 146603,
    "dur": 8.7,
    "speaker": "",
-   "en": "registration turned out to be false. None of it was real. Friend or foe?",
-   "enabled": true
+   "en": "охотника за головами оказались ложными. Друг он или враг?",
+   "enabled": true,
+   "en_src": "registration turned out to be false. None of it was real. Friend or foe?"
   },
   {
    "id": "B140_f3_00t",
@@ -522,8 +568,9 @@
    "end": 147432,
    "dur": 5.7,
    "speaker": "",
-   "en": "What about the account for his bounty payments?",
-   "enabled": true
+   "en": "А счёт, на который ему платят награды?",
+   "enabled": true,
+   "en_src": "What about the account for his bounty payments?"
   },
   {
    "id": "B140_f3_00u",
@@ -533,8 +580,9 @@
    "end": 147976,
    "dur": 7.2,
    "speaker": "",
-   "en": "It's a shared bounty account. The money was moved elsewhere.",
-   "enabled": true
+   "en": "Это общий счёт охотников. Деньги ушли в другое место.",
+   "enabled": true,
+   "en_src": "It's a shared bounty account. The money was moved elsewhere."
   },
   {
    "id": "B140_f3_00v",
@@ -544,8 +592,9 @@
    "end": 148521,
    "dur": 2.7,
    "speaker": "",
-   "en": "There's no lead there.",
-   "enabled": true
+   "en": "Тут зацепок нет.",
+   "enabled": true,
+   "en_src": "There's no lead there."
   },
   {
    "id": "B140_f3_12",
@@ -555,8 +604,9 @@
    "end": 149585,
    "dur": 5.2,
    "speaker": "Chief",
-   "en": "Thank you, Metal Gear. Now the real work begins.",
-   "enabled": true
+   "en": "Спасибо, Метал Гир. Теперь начинается настоящая работа.",
+   "enabled": true,
+   "en_src": "Thank you, Metal Gear. Now the real work begins."
   },
   {
    "id": "B140_f3_12b",
@@ -566,8 +616,9 @@
    "end": 150230,
    "dur": 4.8,
    "speaker": "Chief",
-   "en": "If we hit the Snatcher hospital Gibson was after,",
-   "enabled": true
+   "en": "Если накроем больницу снатчеров, которую искал Гибсон,",
+   "enabled": true,
+   "en_src": "If we hit the Snatcher hospital Gibson was after,"
   },
   {
    "id": "B140_f3_12c",
@@ -577,8 +628,9 @@
    "end": 150770,
    "dur": 4.1,
    "speaker": "Chief",
-   "en": "we may be able to stop them snatching more people.",
-   "enabled": true
+   "en": "то, возможно, остановим новые похищения.",
+   "enabled": true,
+   "en_src": "we may be able to stop them snatching more people."
   },
   {
    "id": "B140_f3_12d",
@@ -588,8 +640,9 @@
    "end": 151286,
    "dur": 3.8,
    "speaker": "Chief",
-   "en": "And if we find something like patient records,",
-   "enabled": true
+   "en": "А если найдём что-то вроде карт пациентов,",
+   "enabled": true,
+   "en_src": "And if we find something like patient records,"
   },
   {
    "id": "B140_f3_12e",
@@ -599,8 +652,9 @@
    "end": 151895,
    "dur": 4.6,
    "speaker": "Chief",
-   "en": "we won't have to hunt for each Snatcher.",
-   "enabled": true
+   "en": "не придётся выслеживать каждого снатчера.",
+   "enabled": true,
+   "en_src": "we won't have to hunt for each Snatcher."
   },
   {
    "id": "B140_f3_15",
@@ -610,8 +664,9 @@
    "end": 152387,
    "dur": 3.3,
    "speaker": "Gillian",
-   "en": "Our lead is Little John's memory?",
-   "enabled": true
+   "en": "Наша зацепка - память Литл Джона?",
+   "enabled": true,
+   "en_src": "Our lead is Little John's memory?"
   },
   {
    "id": "B140_f3_16",
@@ -621,8 +676,9 @@
    "end": 153280,
    "dur": 11.3,
    "speaker": "Chief",
-   "en": "Yes. With luck, there may be something left in Little John's memory.",
-   "enabled": true
+   "en": "Да. Если повезёт, в памяти Литл Джона что-то осталось.",
+   "enabled": true,
+   "en_src": "Yes. With luck, there may be something left in Little John's memory."
   },
   {
    "id": "B140_f3_16b",
@@ -632,8 +688,9 @@
    "end": 153775,
    "dur": 9.1,
    "speaker": "Chief",
-   "en": "Navigators record everything they do with their JUNKER,",
-   "enabled": true
+   "en": "Навигаторы записывают всё, что делают с ДЖАНКЕРом,",
+   "enabled": true,
+   "en_src": "Navigators record everything they do with their JUNKER,"
   },
   {
    "id": "B140_f3_16c",
@@ -643,8 +700,9 @@
    "end": 154270,
    "dur": 4.8,
    "speaker": "Chief",
-   "en": "in case something goes wrong.",
-   "enabled": true
+   "en": "на случай, если что-то пойдёт не так.",
+   "enabled": true,
+   "en_src": "in case something goes wrong."
   },
   {
    "id": "B140_f3_18",
@@ -654,8 +712,9 @@
    "end": 155023,
    "dur": 5.0,
    "speaker": "Gillian",
-   "en": "In case something goes wrong. And it did.",
-   "enabled": true
+   "en": "На случай, если что-то пойдёт не так. Так и вышло.",
+   "enabled": true,
+   "en_src": "In case something goes wrong. And it did."
   },
   {
    "id": "B140_f3_19",
@@ -665,8 +724,9 @@
    "end": 155839,
    "dur": 5.4,
    "speaker": "Chief",
-   "en": "It should be restored by now. Go see Harry.",
-   "enabled": true
+   "en": "Её уже должны были восстановить. Иди к Гарри.",
+   "enabled": true,
+   "en_src": "It should be restored by now. Go see Harry."
   },
   {
    "id": "B140_f3_20",
@@ -676,9 +736,10 @@
    "end": 157426,
    "dur": 21.2,
    "speaker": "Chief",
-   "en": "Gillian, start investigating that hospital.",
+   "en": "Гиллиан, начинай расследование насчёт той больницы.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Gillian, start investigating that hospital."
   }
  ]
 }

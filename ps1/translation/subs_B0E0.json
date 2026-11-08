@@ -9,9 +9,10 @@
    "end": 49455,
    "dur": 9.3,
    "speaker": "Clerk",
-   "en": "Thank you for shopping with us.",
+   "en": "Благодарим за покупки у нас.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Thank you for shopping with us."
   },
   {
    "id": "B0E0_000b",
@@ -21,9 +22,10 @@
    "end": 50151,
    "dur": 9.3,
    "speaker": "Clerk",
-   "en": "Joy Division, the store that has everything.",
+   "en": "\"Джой Дивижн\" - магазин, где есть всё.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Joy Division, the store that has everything."
   },
   {
    "id": "B0E0_001",
@@ -33,8 +35,9 @@
    "end": 26201,
    "dur": 3.2,
    "speaker": "Gillian",
-   "en": "All right, I'll take this video.",
-   "enabled": true
+   "en": "Ладно, беру эту кассету.",
+   "enabled": true,
+   "en_src": "All right, I'll take this video."
   },
   {
    "id": "B0E0_002",
@@ -44,8 +47,9 @@
    "end": 26507,
    "dur": 1.9,
    "speaker": "Clerk",
-   "en": "You certainly like your entertainment, sir.",
-   "enabled": true
+   "en": "Любите вы развлечься, сэр.",
+   "enabled": true,
+   "en_src": "You certainly like your entertainment, sir."
   },
   {
    "id": "B0E0_002b",
@@ -55,8 +59,9 @@
    "end": 26665,
    "dur": 0.6,
    "speaker": "Clerk",
-   "en": "Thank you!",
-   "enabled": true
+   "en": "Спасибо!",
+   "enabled": true,
+   "en_src": "Thank you!"
   },
   {
    "id": "B0E0_003",
@@ -66,8 +71,9 @@
    "end": 26863,
    "dur": 1.2,
    "speaker": "Gillian",
-   "en": "I bought it, Metal!",
-   "enabled": true
+   "en": "Купил, Метал!",
+   "enabled": true,
+   "en_src": "I bought it, Metal!"
   },
   {
    "id": "B0E0_003b",
@@ -77,8 +83,9 @@
    "end": 27369,
    "dur": 2.5,
    "speaker": "Gillian",
-   "en": "Now what? Is there a machine that can play this tape?",
-   "enabled": true
+   "en": "И что теперь? Есть аппарат, на котором это крутить?",
+   "enabled": true,
+   "en_src": "Now what? Is there a machine that can play this tape?"
   },
   {
    "id": "B0E0_004",
@@ -88,8 +95,9 @@
    "end": 27881,
    "dur": 3.3,
    "speaker": "Metal Gear",
-   "en": "That could be difficult. There may be none left.",
-   "enabled": true
+   "en": "Это сложно. Возможно, их больше не осталось.",
+   "enabled": true,
+   "en_src": "That could be difficult. There may be none left."
   },
   {
    "id": "B0E0_005",
@@ -99,8 +107,9 @@
    "end": 28361,
    "dur": 3.1,
    "speaker": "Gillian",
-   "en": "Wh-what? Then it's useless!",
-   "enabled": true
+   "en": "Ч-что? Тогда она бесполезна!",
+   "enabled": true,
+   "en_src": "Wh-what? Then it's useless!"
   },
   {
    "id": "B0E0_006",
@@ -110,8 +119,9 @@
    "end": 28921,
    "dur": 3.6,
    "speaker": "Metal Gear",
-   "en": "Wait, there's a way. I'll play it myself.",
-   "enabled": true
+   "en": "Постой, есть способ. Я сам её воспроизведу.",
+   "enabled": true,
+   "en_src": "Wait, there's a way. I'll play it myself."
   },
   {
    "id": "B0E0_007",
@@ -121,8 +131,9 @@
    "end": 29033,
    "dur": 0.6,
    "speaker": "Gillian",
-   "en": "Can you do that?",
-   "enabled": true
+   "en": "Ты так умеешь?",
+   "enabled": true,
+   "en_src": "Can you do that?"
   },
   {
    "id": "B0E0_008",
@@ -132,8 +143,9 @@
    "end": 29257,
    "dur": 1.4,
    "speaker": "Metal Gear",
-   "en": "I'll try to make it work.",
-   "enabled": true
+   "en": "Попробую.",
+   "enabled": true,
+   "en_src": "I'll try to make it work."
   },
   {
    "id": "B0E0_009",
@@ -143,8 +155,9 @@
    "end": 29657,
    "dur": 2.6,
    "speaker": "Gillian",
-   "en": "I'm counting on you. You know what to do. Here.",
-   "enabled": true
+   "en": "Рассчитываю на тебя. Ты знаешь, что делать. Держи.",
+   "enabled": true,
+   "en_src": "I'm counting on you. You know what to do. Here."
   },
   {
    "id": "B0E0_010",
@@ -154,8 +167,9 @@
    "end": 30170,
    "dur": 3.3,
    "speaker": "Metal Gear",
-   "en": "I'll play it internally first.",
-   "enabled": true
+   "en": "Сначала воспроизведу у себя внутри.",
+   "enabled": true,
+   "en_src": "I'll play it internally first."
   },
   {
    "id": "B0E0_010b",
@@ -165,8 +179,9 @@
    "end": 30825,
    "dur": 3.9,
    "speaker": "Metal Gear",
-   "en": "Then I'll store the images in my memory.",
-   "enabled": true
+   "en": "Потом сохраню картинку в памяти.",
+   "enabled": true,
+   "en_src": "Then I'll store the images in my memory."
   },
   {
    "id": "B0E0_011",
@@ -176,8 +191,9 @@
    "end": 32969,
    "dur": 5.1,
    "speaker": "Gillian",
-   "en": "What's wrong, Metal?",
-   "enabled": true
+   "en": "Что такое, Метал?",
+   "enabled": true,
+   "en_src": "What's wrong, Metal?"
   },
   {
    "id": "B0E0_012",
@@ -187,8 +203,9 @@
    "end": 33977,
    "dur": 1.8,
    "speaker": "Gillian",
-   "en": "Metal!",
-   "enabled": true
+   "en": "Метал!",
+   "enabled": true,
+   "en_src": "Metal!"
   },
   {
    "id": "B0E0_013",
@@ -198,8 +215,9 @@
    "end": 34697,
    "dur": 2.3,
    "speaker": "Gillian",
-   "en": "Hey, Metal! What's wrong?",
-   "enabled": true
+   "en": "Эй, Метал! Что случилось?",
+   "enabled": true,
+   "en_src": "Hey, Metal! What's wrong?"
   },
   {
    "id": "B0E0_014",
@@ -209,8 +227,9 @@
    "end": 36185,
    "dur": 2.1,
    "speaker": "Gillian",
-   "en": "Let me see too, Metal!",
-   "enabled": true
+   "en": "Дай и мне посмотреть, Метал!",
+   "enabled": true,
+   "en_src": "Let me see too, Metal!"
   },
   {
    "id": "B0E0_015",
@@ -220,8 +239,9 @@
    "end": 37113,
    "dur": 6.1,
    "speaker": "Metal Gear",
-   "en": "Well, it was so intense that it wiped out the data.",
-   "enabled": true
+   "en": "Ну, это было так жарко, что данные стёрлись.",
+   "enabled": true,
+   "en_src": "Well, it was so intense that it wiped out the data."
   },
   {
    "id": "B0E0_016",
@@ -231,8 +251,9 @@
    "end": 37241,
    "dur": 0.7,
    "speaker": "Gillian",
-   "en": "Wiped it out?",
-   "enabled": true
+   "en": "Стёрлись?",
+   "enabled": true,
+   "en_src": "Wiped it out?"
   },
   {
    "id": "B0E0_017",
@@ -242,8 +263,9 @@
    "end": 37657,
    "dur": 2.7,
    "speaker": "Metal Gear",
-   "en": "Yes. The images are gone.",
-   "enabled": true
+   "en": "Да. Изображения пропали.",
+   "enabled": true,
+   "en_src": "Yes. The images are gone."
   },
   {
    "id": "B0E0_018",
@@ -253,8 +275,9 @@
    "end": 38201,
    "dur": 3.5,
    "speaker": "Gillian",
-   "en": "Gone? Just my luck.",
-   "enabled": true
+   "en": "Пропали? Вечно мне везёт.",
+   "enabled": true,
+   "en_src": "Gone? Just my luck."
   },
   {
    "id": "B0E0_019",
@@ -264,8 +287,9 @@
    "end": 38505,
    "dur": 1.9,
    "speaker": "Metal Gear",
-   "en": "Would you like me to describe it?",
-   "enabled": true
+   "en": "Хочешь, перескажу?",
+   "enabled": true,
+   "en_src": "Would you like me to describe it?"
   },
   {
    "id": "B0E0_020",
@@ -275,9 +299,10 @@
    "end": 38729,
    "dur": 2.8,
    "speaker": "Gillian",
-   "en": "Forget it.",
+   "en": "Забудь.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Forget it."
   },
   {
    "id": "B0E0_020b",
@@ -287,9 +312,10 @@
    "end": 38937,
    "dur": 2.8,
    "speaker": "Gillian",
-   "en": "No dirty stories from you.",
+   "en": "Не надо мне от тебя пошлых историй.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "No dirty stories from you."
   },
   {
    "id": "B0E0_103",
@@ -299,8 +325,9 @@
    "end": 14345,
    "dur": 4.7,
    "speaker": "Gillian",
-   "en": "Ugh, so where's this stand supposed to be, anyway?",
-   "enabled": true
+   "en": "Тьфу, и где же этот ларёк?",
+   "enabled": true,
+   "en_src": "Ugh, so where's this stand supposed to be, anyway?"
   },
   {
    "id": "B0E0_104",
@@ -310,8 +337,9 @@
    "end": 14729,
    "dur": 2.5,
    "speaker": "Gillian",
-   "en": "All right, let's try some. For research.",
-   "enabled": true
+   "en": "Ладно, попробуем. Ради расследования.",
+   "enabled": true,
+   "en_src": "All right, let's try some. For research."
   },
   {
    "id": "B0E0_105",
@@ -321,8 +349,9 @@
    "end": 14921,
    "dur": 1.2,
    "speaker": "Metal Gear",
-   "en": "Let's!",
-   "enabled": true
+   "en": "Давай!",
+   "enabled": true,
+   "en_src": "Let's!"
   },
   {
    "id": "B0E0_106",
@@ -332,8 +361,9 @@
    "end": 15241,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "Two Neo Kobe-yaki, please.",
-   "enabled": true
+   "en": "Две нео-кобэ-яки, пожалуйста.",
+   "enabled": true,
+   "en_src": "Two Neo Kobe-yaki, please."
   },
   {
    "id": "B0E0_107",
@@ -343,8 +373,9 @@
    "end": 16009,
    "dur": 5.0,
    "speaker": "Cook",
-   "en": "Here are the ingredients. Make it yourself.",
-   "enabled": true
+   "en": "Вот продукты. Готовьте сами.",
+   "enabled": true,
+   "en_src": "Here are the ingredients. Make it yourself."
   },
   {
    "id": "B0E0_108",
@@ -354,8 +385,9 @@
    "end": 16441,
    "dur": 2.8,
    "speaker": "Gillian",
-   "en": "Here, Metal. This one's yours.",
-   "enabled": true
+   "en": "Держи, Метал. Это твоё.",
+   "enabled": true,
+   "en_src": "Here, Metal. This one's yours."
   },
   {
    "id": "B0E0_109",
@@ -365,8 +397,9 @@
    "end": 17081,
    "dur": 4.2,
    "speaker": "Metal Gear",
-   "en": "We'll drop them in the broth together. Do it right or they won't set.",
-   "enabled": true
+   "en": "Бросаем в бульон вместе. Сделаешь не так - не схватится.",
+   "enabled": true,
+   "en_src": "We'll drop them in the broth together. Do it right or they won't set."
   },
   {
    "id": "B0E0_110",
@@ -376,8 +409,9 @@
    "end": 17449,
    "dur": 2.3,
    "speaker": "Gillian",
-   "en": "Got it. Ready, go!",
-   "enabled": true
+   "en": "Понял. Готов, пошёл!",
+   "enabled": true,
+   "en_src": "Got it. Ready, go!"
   },
   {
    "id": "B0E0_111",
@@ -387,8 +421,9 @@
    "end": 18056,
    "dur": 3.9,
    "speaker": "Metal Gear",
-   "en": "They're in. They'll float up soon.",
-   "enabled": true
+   "en": "Брошены. Скоро всплывут.",
+   "enabled": true,
+   "en_src": "They're in. They'll float up soon."
   },
   {
    "id": "B0E0_111b",
@@ -398,8 +433,9 @@
    "end": 18553,
    "dur": 3.3,
    "speaker": "Metal Gear",
-   "en": "When they do, scoop them onto a plate. Be careful.",
-   "enabled": true
+   "en": "Как всплывут - аккуратно вылавливай на тарелку.",
+   "enabled": true,
+   "en_src": "When they do, scoop them onto a plate. Be careful."
   },
   {
    "id": "B0E0_112",
@@ -409,8 +445,9 @@
    "end": 18905,
    "dur": 2.2,
    "speaker": "Gillian",
-   "en": "All right, I'm ready!",
-   "enabled": true
+   "en": "Ладно, я готов!",
+   "enabled": true,
+   "en_src": "All right, I'm ready!"
   },
   {
    "id": "B0E0_112m",
@@ -420,8 +457,9 @@
    "end": 20041,
    "dur": 4.2,
    "speaker": "Metal Gear",
-   "en": "Here it comes. That's mine.",
-   "enabled": true
+   "en": "Всплывает. Это моя.",
+   "enabled": true,
+   "en_src": "Here it comes. That's mine."
   },
   {
    "id": "B0E0_113",
@@ -431,8 +469,9 @@
    "end": 20537,
    "dur": 3.2,
    "speaker": "Gillian",
-   "en": "Nice catch! Where's mine?",
-   "enabled": true
+   "en": "Отлично поймал! А где моя?",
+   "enabled": true,
+   "en_src": "Nice catch! Where's mine?"
   },
   {
    "id": "B0E0_113m",
@@ -442,8 +481,9 @@
    "end": 20841,
    "dur": 1.9,
    "speaker": "Metal Gear",
-   "en": "Huh? Huh? Huh?",
-   "enabled": true
+   "en": "А? А? А?",
+   "enabled": true,
+   "en_src": "Huh? Huh? Huh?"
   },
   {
    "id": "B0E0_114",
@@ -453,8 +493,9 @@
    "end": 21001,
    "dur": 1.0,
    "speaker": "Metal Gear",
-   "en": "What's happened to it?",
-   "enabled": true
+   "en": "Что с ней случилось?",
+   "enabled": true,
+   "en_src": "What's happened to it?"
   },
   {
    "id": "B0E0_115",
@@ -464,8 +505,9 @@
    "end": 21163,
    "dur": 1.0,
    "speaker": "Gillian",
-   "en": "Huh?",
-   "enabled": true
+   "en": "А?",
+   "enabled": true,
+   "en_src": "Huh?"
   },
   {
    "id": "B0E0_115b",
@@ -475,8 +517,9 @@
    "end": 21625,
    "dur": 1.1,
    "speaker": "Gillian",
-   "en": "Where's mine?",
-   "enabled": true
+   "en": "Где моя?",
+   "enabled": true,
+   "en_src": "Where's mine?"
   },
   {
    "id": "B0E0_116",
@@ -486,8 +529,9 @@
    "end": 21961,
    "dur": 2.1,
    "speaker": "Cook",
-   "en": "Oh, yours isn't floating up?",
-   "enabled": true
+   "en": "О, ваша не всплывает?",
+   "enabled": true,
+   "en_src": "Oh, yours isn't floating up?"
   },
   {
    "id": "B0E0_116g",
@@ -497,8 +541,9 @@
    "end": 22057,
    "dur": 0.5,
    "speaker": "Gillian",
-   "en": "Ugh...",
-   "enabled": true
+   "en": "Тьфу...",
+   "enabled": true,
+   "en_src": "Ugh..."
   },
   {
    "id": "B0E0_117",
@@ -508,8 +553,9 @@
    "end": 23193,
    "dur": 15.0,
    "speaker": "Cook",
-   "en": "Sorry about that. It happens sometimes. Hope you don't mind, pal.",
-   "enabled": true
+   "en": "Простите. Такое бывает. Не обессудьте, приятель.",
+   "enabled": true,
+   "en_src": "Sorry about that. It happens sometimes. Hope you don't mind, pal."
   },
   {
    "id": "B0E0_118",
@@ -519,8 +565,9 @@
    "end": 23321,
    "dur": 0.7,
    "speaker": "Gillian",
-   "en": "What?",
-   "enabled": true
+   "en": "Что?",
+   "enabled": true,
+   "en_src": "What?"
   },
   {
    "id": "B0E0_119",
@@ -530,8 +577,9 @@
    "end": 23529,
    "dur": 1.3,
    "speaker": "Metal Gear",
-   "en": "Let's go, Gillian!",
-   "enabled": true
+   "en": "Пойдём, Гиллиан!",
+   "enabled": true,
+   "en_src": "Let's go, Gillian!"
   },
   {
    "id": "B0E0_120",
@@ -541,8 +589,9 @@
    "end": 24201,
    "dur": 4.4,
    "speaker": "Gillian",
-   "en": "But my Kobe-yaki! Neo Kobe is sinking!",
-   "enabled": true
+   "en": "А мои кобэ-яки?! Нео-Кобе тонет!",
+   "enabled": true,
+   "en_src": "But my Kobe-yaki! Neo Kobe is sinking!"
   },
   {
    "id": "B0E0_121",
@@ -552,8 +601,9 @@
    "end": 24409,
    "dur": 1.3,
    "speaker": "Metal Gear",
-   "en": "Come on, let's go!",
-   "enabled": true
+   "en": "Ну же, пойдём!",
+   "enabled": true,
+   "en_src": "Come on, let's go!"
   },
   {
    "id": "B0E0_122",
@@ -563,8 +613,9 @@
    "end": 24889,
    "dur": 3.1,
    "speaker": "Gillian",
-   "en": "Ugh, I'm never eating there again. What a letdown.",
-   "enabled": true
+   "en": "Тьфу, больше никогда там есть не буду. Обидно.",
+   "enabled": true,
+   "en_src": "Ugh, I'm never eating there again. What a letdown."
   },
   {
    "id": "B0E0_123",
@@ -574,8 +625,9 @@
    "end": 25353,
    "dur": 3.0,
    "speaker": "Gillian",
-   "en": "Don't send this record to HQ, Metal.",
-   "enabled": true
+   "en": "Не отправляй эту запись в штаб, Метал.",
+   "enabled": true,
+   "en_src": "Don't send this record to HQ, Metal."
   },
   {
    "id": "B0E0_124",
@@ -585,9 +637,10 @@
    "end": 25705,
    "dur": 2.2,
    "speaker": "Metal Gear",
-   "en": "I know. We're in this together.",
+   "en": "Знаю. Мы в одной лодке.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "I know. We're in this together."
   }
  ],
  "options": {

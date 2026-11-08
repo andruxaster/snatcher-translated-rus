@@ -1,98 +1,198 @@
 {
-  "_comment": "English text for the baked full-page memo images (CPC_*.BIN, one page per Act 1 scene bank). Rendered by tools/gfxpages.py. Lines are laid out as written; the tool reports any line that overruns its page.",
+ "_comment": "English text for the baked full-page memo images (CPC_*.BIN, one page per Act 1 scene bank). Rendered by tools/gfxpages.py. Lines are laid out as written; the tool reports any line that overruns its page.",
+ "CPC_B000": [
+  "[ЗАМЕТКИ О СНАТЧЕРАХ]",
+  "",
+  "Почему они появляются",
+  "только с приходом зимы?",
+  "Почему действуют ночью?",
+  "Теперь я знаю ответ."
+ ],
+ "CPC_B010": [
+  "Их вампирские привычки",
+  "служат одной цели:",
+  "избегать солнечного",
+  "света. Они прячутся от",
+  "него, потому что их",
+  "искусственная кожа",
+  "несовершенна."
+ ],
+ "CPC_B020": [
+  "Если долго держать",
+  "искусственную кожу под",
+  "ультрафиолетом, меланоциты",
+  "её базального слоя",
+  "начинают бесконтрольно",
+  "делиться - по сути,",
+  "это рак кожи."
+ ],
+ "CPC_B030": [
+  "То, что мы назвали бы",
+  "загаром, их убивает."
+ ],
+ "CPC_B040": [
+  "Вот наш рычаг против",
+  "них: ультрафиолет",
+  "против искусственной",
+  "кожи. Пересаженной коже",
+  "нужно не меньше полугода,",
+  "чтобы прижиться",
+  "окончательно."
+ ],
+ "CPC_B050": [
+  "Значит, снатчера можно",
+  "отличить от человека.",
+  "",
+  "(1) Осмотрите кожу.",
+  "    Ищите на ней",
+  "    меланому."
+ ],
+ "CPC_B060": [
+  "(2) Доверьтесь носу.",
+  "    Поражённая",
+  "    кожа",
+  "    источает",
+  "    особый",
+  "    смрад."
+ ],
+ "CPC_B070": [
+  "(3) Ищите пыльцу.",
+  "    Они прячутся",
+  "    там, где растёт",
+  "    снежный кедр,",
+  "    и пыльца",
+  "    появляется",
+  "    везде, где они."
+ ],
+ "CPC_B080": [
+  "Снежный кедр - аллерген.",
+  "Он вызывает боль в горле",
+  "и приступы чихания."
+ ],
+ "CPC_B090": [
+  "(4) Солнцезащитный крем.",
+  "    Снатчер мажется им",
+  "    посреди зимы, чтобы",
+  "    уберечь кожу от",
+  "    ультрафиолета."
+ ],
+ "CPC_B0A0": [
+  "Крем задерживает лучи,",
+  "которые обжигают, и лучи,",
+  "которые дают загар, - а",
+  "именно они и вредят им."
+ ],
+ "CPC_B0B0": [
+  "Из четырёх признаков",
+  "кожа и крем - самые",
+  "верные зацепки.",
+  "Но дело не только в",
+  "профилактике: поражённую",
+  "кожу надо лечить."
+ ],
+ "CPC_B0C0": [
+  "...и я нашёл больницу,",
+  "где её лечат.",
+  "",
+  "P.S.",
+  "Берегитесь охотника за",
+  "головами Рэндама Хаджайла."
+ ],
+ "_en_src": {
   "CPC_B000": [
-    "[NOTES ON THE SNATCHERS]",
-    "",
-    "Why do they only show up",
-    "once winter sets in?",
-    "Why do they move at night?",
-    "I have the answer now."
+   "[NOTES ON THE SNATCHERS]",
+   "",
+   "Why do they only show up",
+   "once winter sets in?",
+   "Why do they move at night?",
+   "I have the answer now."
   ],
   "CPC_B010": [
-    "Their vampire-like habits",
-    "all serve one purpose:",
-    "keeping out of sunlight.",
-    "They shun it because",
-    "their artificial skin is",
-    "flawed."
+   "Their vampire-like habits",
+   "all serve one purpose:",
+   "keeping out of sunlight.",
+   "They shun it because",
+   "their artificial skin is",
+   "flawed."
   ],
   "CPC_B020": [
-    "Hold that artificial skin",
-    "under ultraviolet long",
-    "enough and the melanocytes",
-    "in its base layer multiply",
-    "out of control, into what",
-    "amounts to a skin cancer."
+   "Hold that artificial skin",
+   "under ultraviolet long",
+   "enough and the melanocytes",
+   "in its base layer multiply",
+   "out of control, into what",
+   "amounts to a skin cancer."
   ],
   "CPC_B030": [
-    "What we would call a",
-    "suntan kills them."
+   "What we would call a",
+   "suntan kills them."
   ],
   "CPC_B040": [
-    "That is the hold we have",
-    "on them: ultraviolet",
-    "against artificial skin.",
-    "A graft needs six months",
-    "at the very least before",
-    "it settles for good."
+   "That is the hold we have",
+   "on them: ultraviolet",
+   "against artificial skin.",
+   "A graft needs six months",
+   "at the very least before",
+   "it settles for good."
   ],
   "CPC_B050": [
-    "So there are ways to tell",
-    "a Snatcher from a man.",
-    "",
-    "(1) Look at the skin.",
-    "    Check it for the",
-    "    melanoma."
+   "So there are ways to tell",
+   "a Snatcher from a man.",
+   "",
+   "(1) Look at the skin.",
+   "    Check it for the",
+   "    melanoma."
   ],
   "CPC_B060": [
-    "(2) Use your nose.",
-    "    Skin that",
-    "    has turned",
-    "    gives off a",
-    "    stench of",
-    "    its own."
+   "(2) Use your nose.",
+   "    Skin that",
+   "    has turned",
+   "    gives off a",
+   "    stench of",
+   "    its own."
   ],
   "CPC_B070": [
-    "(3) Look for pollen.",
-    "    They hole up",
-    "    where Snow",
-    "    Cedar grows",
-    "    so it shows",
-    "    up wherever",
-    "    they do."
+   "(3) Look for pollen.",
+   "    They hole up",
+   "    where Snow",
+   "    Cedar grows",
+   "    so it shows",
+   "    up wherever",
+   "    they do."
   ],
   "CPC_B080": [
-    "Snow Cedar is an allergen.",
-    "It brings on sore throats",
-    "and sneezing fits."
+   "Snow Cedar is an allergen.",
+   "It brings on sore throats",
+   "and sneezing fits."
   ],
   "CPC_B090": [
-    "(4) Sun screen.",
-    "    A Snatcher wears it in",
-    "    the dead of winter to",
-    "    keep the ultraviolet",
-    "    off its skin."
+   "(4) Sun screen.",
+   "    A Snatcher wears it in",
+   "    the dead of winter to",
+   "    keep the ultraviolet",
+   "    off its skin."
   ],
   "CPC_B0A0": [
-    "Sun screen stops the rays",
-    "that burn and the rays",
-    "that tan, and those are",
-    "the ones doing the damage."
+   "Sun screen stops the rays",
+   "that burn and the rays",
+   "that tan, and those are",
+   "the ones doing the damage."
   ],
   "CPC_B0B0": [
-    "Of the four, the skin and",
-    "the sun screen are the",
-    "leads worth following.",
-    "And prevention is not the",
-    "whole of it: skin that has",
-    "turned has to be treated."
+   "Of the four, the skin and",
+   "the sun screen are the",
+   "leads worth following.",
+   "And prevention is not the",
+   "whole of it: skin that has",
+   "turned has to be treated."
   ],
   "CPC_B0C0": [
-    "...and I have found the",
-    "hospital that treats it.",
-    "",
-    "PS.",
-    "Watch out for a bounty",
-    "hunter, Randam Hajile."
+   "...and I have found the",
+   "hospital that treats it.",
+   "",
+   "PS.",
+   "Watch out for a bounty",
+   "hunter, Randam Hajile."
   ]
+ }
 }

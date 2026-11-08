@@ -57,14 +57,14 @@ CLUT_TEXT = (256, 500)
 LINES_PER_FRAME = 263                    # h-blanks per NTSC frame
 FADE_ID = 0xFF
 
-TEXT = [                                 # (font, size, ink, text); humanizer-checked
-    ("impact.ttf", 22, (176, 16, 16), "DISCLAIMER"),
-    ("arial.ttf", 12, (0, 0, 0), "This translation was made with the help of AI and"),
-    ("arial.ttf", 12, (0, 0, 0), "reviewed by a fan, not a professional translator."),
-    ("arial.ttf", 12, (0, 0, 0), "If you'd rather not play an AI-assisted translation,"),
-    ("arial.ttf", 12, (0, 0, 0), "stop here. Otherwise, enjoy the game."),
-    ("arial.ttf", 12, (0, 0, 0), "Found a problem? Report it at:"),
-    ("arialbd.ttf", 11, (16, 64, 160), "github.com/pepasjc/snatcher-translated"),
+TEXT = [                                 # (font, size, ink, text)
+    ("impact.ttf", 22, (176, 16, 16), "ВНИМАНИЕ"),
+    ("arial.ttf", 12, (0, 0, 0), "Русский перевод сделан с помощью ИИ"),
+    ("arial.ttf", 12, (0, 0, 0), "на основе английского фанперевода pepa."),
+    ("arial.ttf", 12, (0, 0, 0), "Если не хотите играть в перевод с участием ИИ,"),
+    ("arial.ttf", 12, (0, 0, 0), "остановитесь здесь. Иначе - приятной игры."),
+    ("arial.ttf", 12, (0, 0, 0), "Нашли ошибку? Пишите на GitHub:"),
+    ("arialbd.ttf", 11, (16, 64, 160), "andruxaster/snatcher-translated-rus"),
 ]
 TEXT_POS = [(16, 16), (16, 46), (16, 60), (16, 74), (16, 88), (16, 110), (16, 126)]
 TEXT_CHUNK = 192                         # texels per text sprite

@@ -15,8 +15,9 @@
    "end": 49249,
    "dur": 3.8,
    "speaker": "Metal Gear",
-   "en": "Kremlin map data entered. Heading for the church.",
-   "enabled": true
+   "en": "Карта \"Кремля\" загружена. Летим к церкви.",
+   "enabled": true,
+   "en_src": "Kremlin map data entered. Heading for the church."
   },
   {
    "id": "B250_c9f84",
@@ -26,8 +27,9 @@
    "end": 49569,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "Flight mode. Ascending.",
-   "enabled": true
+   "en": "Режим полёта. Набираю высоту.",
+   "enabled": true,
+   "en_src": "Flight mode. Ascending."
   },
   {
    "id": "B250_c9f85",
@@ -37,8 +39,9 @@
    "end": 49857,
    "dur": 1.8,
    "speaker": "Gillian",
-   "en": "Jamie, please be safe.",
-   "enabled": true
+   "en": "Джейми, только будь цела.",
+   "enabled": true,
+   "en_src": "Jamie, please be safe."
   },
   {
    "id": "B250_c9f86",
@@ -48,9 +51,10 @@
    "end": 50321,
    "dur": 3.0,
    "speaker": "Metal Gear",
-   "en": "Remember our time limit, Gillian.",
+   "en": "Помни о сроке, Гиллиан.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Remember our time limit, Gillian."
   },
   {
    "id": "B250_c10f1",
@@ -60,8 +64,9 @@
    "end": 2978,
    "dur": 3.7,
    "speaker": "Gillian",
-   "en": "Fifty years to make up for in just twelve hours.",
-   "enabled": true
+   "en": "Пятьдесят лет наверстать всего за двенадцать часов.",
+   "enabled": true,
+   "en_src": "Fifty years to make up for in just twelve hours."
   },
   {
    "id": "B250_c10f2",
@@ -71,8 +76,9 @@
    "end": 3058,
    "dur": 0.4,
    "speaker": "Gillian",
-   "en": "Snow!",
-   "enabled": true
+   "en": "Снег!",
+   "enabled": true,
+   "en_src": "Snow!"
   },
   {
    "id": "B250_c10f3",
@@ -82,8 +88,9 @@
    "end": 3762,
    "dur": 4.6,
    "speaker": "Metal Gear",
-   "en": "Snow Cedar. We've entered the Snow Cedar area.",
-   "enabled": true
+   "en": "Снежный кедр. Мы в зоне снежного кедра.",
+   "enabled": true,
+   "en_src": "Snow Cedar. We've entered the Snow Cedar area."
   },
   {
    "id": "B250_c10f3b",
@@ -93,8 +100,9 @@
    "end": 4402,
    "dur": 4.3,
    "speaker": "Metal Gear",
-   "en": "Put on your nasal filters. Inhaling it is dangerous.",
-   "enabled": true
+   "en": "Надень носовые фильтры. Вдыхать пыльцу опасно.",
+   "enabled": true,
+   "en_src": "Put on your nasal filters. Inhaling it is dangerous."
   },
   {
    "id": "B250_c10f4",
@@ -104,8 +112,9 @@
    "end": 4466,
    "dur": 0.3,
    "speaker": "Gillian",
-   "en": "Understood.",
-   "enabled": true
+   "en": "Понял.",
+   "enabled": true,
+   "en_src": "Understood."
   },
   {
    "id": "B250_c10f5",
@@ -115,8 +124,9 @@
    "end": 4882,
    "dur": 2.7,
    "speaker": "Metal Gear",
-   "en": "Radio contact will be impossible from here. Ready?",
-   "enabled": true
+   "en": "Отсюда радиосвязи не будет. Готов?",
+   "enabled": true,
+   "en_src": "Radio contact will be impossible from here. Ready?"
   },
   {
    "id": "B250_c10f6",
@@ -126,8 +136,9 @@
    "end": 5044,
    "dur": 1.0,
    "speaker": "Metal Gear",
-   "en": "Descending.",
-   "enabled": true
+   "en": "Снижаемся.",
+   "enabled": true,
+   "en_src": "Descending."
   },
   {
    "id": "B250_c10f6b",
@@ -137,8 +148,9 @@
    "end": 5490,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "Switched to hover mode.",
-   "enabled": true
+   "en": "Режим зависания.",
+   "enabled": true,
+   "en_src": "Switched to hover mode."
   },
   {
    "id": "B250_c10f7",
@@ -148,8 +160,9 @@
    "end": 5794,
    "dur": 1.9,
    "speaker": "Metal Gear",
-   "en": "We've arrived, Gillian. What now?",
-   "enabled": true
+   "en": "Прибыли, Гиллиан. Что дальше?",
+   "enabled": true,
+   "en_src": "We've arrived, Gillian. What now?"
   },
   {
    "id": "B250_c10f8",
@@ -159,8 +172,9 @@
    "end": 6066,
    "dur": 1.7,
    "speaker": "Metal Gear",
-   "en": "I'll open the door.",
-   "enabled": true
+   "en": "Открываю дверь.",
+   "enabled": true,
+   "en_src": "I'll open the door."
   },
   {
    "id": "B250_c10f9",
@@ -170,8 +184,9 @@
    "end": 6402,
    "dur": 2.1,
    "speaker": "Gillian",
-   "en": "Huh? It won't open.",
-   "enabled": true
+   "en": "А? Не открывается.",
+   "enabled": true,
+   "en_src": "Huh? It won't open."
   },
   {
    "id": "B250_c10f10",
@@ -181,8 +196,9 @@
    "end": 7042,
    "dur": 4.2,
    "speaker": "Metal Gear",
-   "en": "My scan shows no lock. It must be rusted shut.",
-   "enabled": true
+   "en": "Замка нет. Видимо, приржавела.",
+   "enabled": true,
+   "en_src": "My scan shows no lock. It must be rusted shut."
   },
   {
    "id": "B250_c10f11",
@@ -192,8 +208,9 @@
    "end": 7394,
    "dur": 2.2,
    "speaker": "Gillian",
-   "en": "Well, they come and go underground.",
-   "enabled": true
+   "en": "Ну да, они-то ходят под землёй.",
+   "enabled": true,
+   "en_src": "Well, they come and go underground."
   },
   {
    "id": "B250_c10f12",
@@ -203,8 +220,9 @@
    "end": 7570,
    "dur": 1.1,
    "speaker": "Metal Gear",
-   "en": "Let's push together.",
-   "enabled": true
+   "en": "Толкнём вместе.",
+   "enabled": true,
+   "en_src": "Let's push together."
   },
   {
    "id": "B250_c10f13",
@@ -214,8 +232,9 @@
    "end": 7938,
    "dur": 2.4,
    "speaker": "Gillian",
-   "en": "Ready? Push! One, two, three!",
-   "enabled": true
+   "en": "Готов? Толкай! Раз, два, три!",
+   "enabled": true,
+   "en_src": "Ready? Push! One, two, three!"
   },
   {
    "id": "B250_c10f14",
@@ -225,9 +244,10 @@
    "end": 8114,
    "dur": 1.1,
    "speaker": "Metal Gear",
-   "en": "It's open.",
+   "en": "Открыто.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "It's open."
   },
   {
    "id": "B250_c10f15",
@@ -237,8 +257,9 @@
    "end": 8574,
    "dur": 2.9,
    "speaker": "Metal Gear",
-   "en": "This is the process of covering a Snatcher's frame,",
-   "enabled": true
+   "en": "Здесь каркас снатчера,",
+   "enabled": true,
+   "en_src": "This is the process of covering a Snatcher's frame,"
   },
   {
    "id": "B250_c10f15b",
@@ -248,8 +269,9 @@
    "end": 8898,
    "dur": 2.2,
    "speaker": "Metal Gear",
-   "en": "its endoskeleton, with artificial skin.",
-   "enabled": true
+   "en": "его эндоскелет, покрывают искусственной кожей.",
+   "enabled": true,
+   "en_src": "its endoskeleton, with artificial skin."
   },
   {
    "id": "B250_c10f16",
@@ -259,8 +281,9 @@
    "end": 9922,
    "dur": 6.7,
    "speaker": "Metal Gear",
-   "en": "First, they resize the bare Snatcher to match its victim.",
-   "enabled": true
+   "en": "Сначала голого снатчера подгоняют по размеру жертвы.",
+   "enabled": true,
+   "en_src": "First, they resize the bare Snatcher to match its victim."
   },
   {
    "id": "B250_c10f17",
@@ -270,8 +293,9 @@
    "end": 10357,
    "dur": 3.0,
    "speaker": "Metal Gear",
-   "en": "Its shape and size are adjusted by extending",
-   "enabled": true
+   "en": "Форму и размер меняют, выдвигая",
+   "enabled": true,
+   "en_src": "Its shape and size are adjusted by extending"
   },
   {
    "id": "B250_c10f17b",
@@ -281,8 +305,9 @@
    "end": 10673,
    "dur": 2.4,
    "speaker": "Metal Gear",
-   "en": "or contracting its units and slots.",
-   "enabled": true
+   "en": "или сжимая модули и пазы.",
+   "enabled": true,
+   "en_src": "or contracting its units and slots."
   },
   {
    "id": "B250_c10f17c",
@@ -292,8 +317,9 @@
    "end": 11060,
    "dur": 3.1,
    "speaker": "Metal Gear",
-   "en": "They change its sex by replacing the sex unit.",
-   "enabled": true
+   "en": "Пол меняют заменой секс-модуля.",
+   "enabled": true,
+   "en_src": "They change its sex by replacing the sex unit."
   },
   {
    "id": "B250_c10f17d",
@@ -303,8 +329,9 @@
    "end": 11699,
    "dur": 4.4,
    "speaker": "Metal Gear",
-   "en": "To copy the victim's face, they adjust the upper and lower jaws,",
-   "enabled": true
+   "en": "Чтобы скопировать лицо, верхнюю и нижнюю челюсти,",
+   "enabled": true,
+   "en_src": "To copy the victim's face, they adjust the upper and lower jaws,"
   },
   {
    "id": "B250_c10f17e",
@@ -314,8 +341,9 @@
    "end": 12450,
    "dur": 3.7,
    "speaker": "Metal Gear",
-   "en": "cheekbones, temporal bones and teeth to match the data.",
-   "enabled": true
+   "en": "скулы, височные кости и зубы подгоняют по данным.",
+   "enabled": true,
+   "en_src": "cheekbones, temporal bones and teeth to match the data."
   },
   {
    "id": "B250_c10f18",
@@ -325,8 +353,9 @@
    "end": 13058,
    "dur": 3.9,
    "speaker": "Gillian",
-   "en": "As Gibson said, this limits the size of the people they can snatch.",
-   "enabled": true
+   "en": "Как говорил Гибсон, это ограничивает размер жертв.",
+   "enabled": true,
+   "en_src": "As Gibson said, this limits the size of the people they can snatch."
   },
   {
    "id": "B250_c10f19",
@@ -336,8 +365,9 @@
    "end": 13516,
    "dur": 2.9,
    "speaker": "Metal Gear",
-   "en": "They can only expand or change shape so far.",
-   "enabled": true
+   "en": "Растягиваться и меняться можно лишь до предела.",
+   "enabled": true,
+   "en_src": "They can only expand or change shape so far."
   },
   {
    "id": "B250_c10f19b",
@@ -347,8 +377,9 @@
    "end": 13922,
    "dur": 2.7,
    "speaker": "Metal Gear",
-   "en": "They can't snatch children, the elderly or large men.",
-   "enabled": true
+   "en": "Детей, стариков и крупных мужчин им не подменить.",
+   "enabled": true,
+   "en_src": "They can't snatch children, the elderly or large men."
   },
   {
    "id": "B250_c10f20",
@@ -358,8 +389,9 @@
    "end": 14430,
    "dur": 3.3,
    "speaker": "Metal Gear",
-   "en": "Next, they cover the skeleton with muscle.",
-   "enabled": true
+   "en": "Затем скелет покрывают мышцами.",
+   "enabled": true,
+   "en_src": "Next, they cover the skeleton with muscle."
   },
   {
    "id": "B250_c10f20b",
@@ -369,8 +401,9 @@
    "end": 14818,
    "dur": 2.1,
    "speaker": "Metal Gear",
-   "en": "Only skeletal muscle, of course.",
-   "enabled": true
+   "en": "Только скелетными, конечно.",
+   "enabled": true,
+   "en_src": "Only skeletal muscle, of course."
   },
   {
    "id": "B250_c10f21",
@@ -380,8 +413,9 @@
    "end": 14962,
    "dur": 0.9,
    "speaker": "Gillian",
-   "en": "Is it organic?",
-   "enabled": true
+   "en": "Они органические?",
+   "enabled": true,
+   "en_src": "Is it organic?"
   },
   {
    "id": "B250_c10f22",
@@ -391,8 +425,9 @@
    "end": 15331,
    "dur": 2.3,
    "speaker": "Metal Gear",
-   "en": "No. It seems to be a plastic gel",
-   "enabled": true
+   "en": "Нет. Похоже, это пластиковый гель,",
+   "enabled": true,
+   "en_src": "No. It seems to be a plastic gel"
   },
   {
    "id": "B250_c10f22b",
@@ -402,8 +437,9 @@
    "end": 15719,
    "dur": 2.6,
    "speaker": "Metal Gear",
-   "en": "whose surface responds mechanically.",
-   "enabled": true
+   "en": "поверхность которого механически реагирует.",
+   "enabled": true,
+   "en_src": "whose surface responds mechanically."
   },
   {
    "id": "B250_c10f22c",
@@ -413,8 +449,9 @@
    "end": 16274,
    "dur": 3.9,
    "speaker": "Metal Gear",
-   "en": "It converts chemical reactions into mechanical energy.",
-   "enabled": true
+   "en": "Он превращает химические реакции в механическую энергию.",
+   "enabled": true,
+   "en_src": "It converts chemical reactions into mechanical energy."
   },
   {
    "id": "B250_c10f23",
@@ -424,8 +461,9 @@
    "end": 16802,
    "dur": 3.4,
    "speaker": "Metal Gear",
-   "en": "This is where they apply the troublesome artificial skin.",
-   "enabled": true
+   "en": "А здесь наносят ту самую капризную искусственную кожу.",
+   "enabled": true,
+   "en_src": "This is where they apply the troublesome artificial skin."
   },
   {
    "id": "B250_c10f24",
@@ -435,8 +473,9 @@
    "end": 17900,
    "dur": 5.2,
    "speaker": "Metal Gear",
-   "en": "Synthetic cells made with biotechnology and protein design are",
-   "enabled": true
+   "en": "Синтетические клетки, созданные биотехнологиями,",
+   "enabled": true,
+   "en_src": "Synthetic cells made with biotechnology and protein design are"
   },
   {
    "id": "B250_c10f24b",
@@ -446,8 +485,9 @@
    "end": 18498,
    "dur": 5.7,
    "speaker": "Metal Gear",
-   "en": "grafted on slowly to avoid rejection of the inorganic parts beneath.",
-   "enabled": true
+   "en": "приживляют медленно, чтобы не было отторжения.",
+   "enabled": true,
+   "en_src": "grafted on slowly to avoid rejection of the inorganic parts beneath."
   },
   {
    "id": "B250_c10f25",
@@ -457,8 +497,9 @@
    "end": 18834,
    "dur": 2.1,
    "speaker": "Gillian",
-   "en": "Defective skin that turns cancerous under UV light.",
-   "enabled": true
+   "en": "Дефектная кожа, которая от ультрафиолета перерождается в рак.",
+   "enabled": true,
+   "en_src": "Defective skin that turns cancerous under UV light."
   },
   {
    "id": "B250_c10f26",
@@ -468,8 +509,9 @@
    "end": 19295,
    "dur": 3.0,
    "speaker": "Metal Gear",
-   "en": "Finally, they implant hair on the head and body.",
-   "enabled": true
+   "en": "Наконец, вживляют волосы на голове и теле.",
+   "enabled": true,
+   "en_src": "Finally, they implant hair on the head and body."
   },
   {
    "id": "B250_c10f26b",
@@ -479,8 +521,9 @@
    "end": 19878,
    "dur": 2.9,
    "speaker": "Metal Gear",
-   "en": "They transplant artificial hair follicle cells,",
-   "enabled": true
+   "en": "Пересаживают искусственные клетки фолликулов,",
+   "enabled": true,
+   "en_src": "They transplant artificial hair follicle cells,"
   },
   {
    "id": "B250_c10f26bb",
@@ -490,8 +533,9 @@
    "end": 20194,
    "dur": 2.1,
    "speaker": "Metal Gear",
-   "en": "so the hair regrows even if it falls out.",
-   "enabled": true
+   "en": "так что выпавшие волосы отрастают снова.",
+   "enabled": true,
+   "en_src": "so the hair regrows even if it falls out."
   },
   {
    "id": "B250_c10f27",
@@ -501,8 +545,9 @@
    "end": 20530,
    "dur": 2.1,
    "speaker": "Gillian",
-   "en": "What about scars, blemishes and burns?",
-   "enabled": true
+   "en": "А шрамы, родинки, ожоги?",
+   "enabled": true,
+   "en_src": "What about scars, blemishes and burns?"
   },
   {
    "id": "B250_c10f28",
@@ -512,8 +557,9 @@
    "end": 21137,
    "dur": 3.9,
    "speaker": "Metal Gear",
-   "en": "They're added at this stage, using the victim's data.",
-   "enabled": true
+   "en": "Их добавляют на этом этапе, по данным жертвы.",
+   "enabled": true,
+   "en_src": "They're added at this stage, using the victim's data."
   },
   {
    "id": "B250_c10f28c",
@@ -523,8 +569,9 @@
    "end": 21554,
    "dur": 2.3,
    "speaker": "Metal Gear",
-   "en": "Wrinkles and signs of age, too.",
-   "enabled": true
+   "en": "И морщины, и признаки старения.",
+   "enabled": true,
+   "en_src": "Wrinkles and signs of age, too."
   },
   {
    "id": "B250_c10f29",
@@ -534,8 +581,9 @@
    "end": 21879,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "This is where they create human replacements",
-   "enabled": true
+   "en": "Здесь делают замену людям",
+   "enabled": true,
+   "en_src": "This is where they create human replacements"
   },
   {
    "id": "B250_c10f29b",
@@ -545,8 +593,9 @@
    "end": 22594,
    "dur": 4.8,
    "speaker": "Gillian",
-   "en": "from endoskeletons sent by the Kremlin.",
-   "enabled": true
+   "en": "из эндоскелетов, присланных из \"Кремля\".",
+   "enabled": true,
+   "en_src": "from endoskeletons sent by the Kremlin."
   },
   {
    "id": "B250_c10f29c",
@@ -556,8 +605,9 @@
    "end": 23138,
    "dur": 3.7,
    "speaker": "Gillian",
-   "en": "Then they send them into the city through the tunnels.",
-   "enabled": true
+   "en": "А потом по туннелям отправляют в город.",
+   "enabled": true,
+   "en_src": "Then they send them into the city through the tunnels."
   },
   {
    "id": "B250_c10f30",
@@ -567,8 +617,9 @@
    "end": 23586,
    "dur": 2.9,
    "speaker": "Metal Gear",
-   "en": "And Queen Hospital maintains their artificial skin.",
-   "enabled": true
+   "en": "А больница \"Куин\" обслуживает их искусственную кожу.",
+   "enabled": true,
+   "en_src": "And Queen Hospital maintains their artificial skin."
   },
   {
    "id": "B250_c10f31",
@@ -578,8 +629,9 @@
    "end": 23810,
    "dur": 1.4,
    "speaker": "Gillian",
-   "en": "But who's behind it? And why?",
-   "enabled": true
+   "en": "Но кто за этим стоит? И зачем?",
+   "enabled": true,
+   "en_src": "But who's behind it? And why?"
   },
   {
    "id": "B250_c10f32",
@@ -589,10 +641,11 @@
    "end": 24120,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "Look over there, Gillian.",
+   "en": "Посмотри туда, Гиллиан.",
    "enabled": true,
    "by_ear": true,
-   "ear_note": "pitch 318 Hz = Metal Gear (Gillian 134); the script animates Gillian"
+   "ear_note": "pitch 318 Hz = Metal Gear (Gillian 134); the script animates Gillian",
+   "en_src": "Look over there, Gillian."
   },
   {
    "id": "B250_c10f32b",
@@ -602,10 +655,11 @@
    "end": 24658,
    "dur": 2.8,
    "speaker": "Metal Gear",
-   "en": "Several Snatchers are already complete.",
+   "en": "Несколько снатчеров уже готовы.",
    "enabled": true,
    "by_ear": true,
-   "ear_note": "same stream as c10f32"
+   "ear_note": "same stream as c10f32",
+   "en_src": "Several Snatchers are already complete."
   },
   {
    "id": "B250_c10f33",
@@ -615,8 +669,9 @@
    "end": 24973,
    "dur": 1.9,
    "speaker": "Gillian",
-   "en": "Look! The American president!",
-   "enabled": true
+   "en": "Смотри! Президент США!",
+   "enabled": true,
+   "en_src": "Look! The American president!"
   },
   {
    "id": "B250_c10f33b",
@@ -626,8 +681,9 @@
    "end": 25250,
    "dur": 1.9,
    "speaker": "Gillian",
-   "en": "The Japanese and British prime ministers!",
-   "enabled": true
+   "en": "Премьер-министры Японии и Британии!",
+   "enabled": true,
+   "en_src": "The Japanese and British prime ministers!"
   },
   {
    "id": "B250_c10f34",
@@ -637,8 +693,9 @@
    "end": 25442,
    "dur": 1.2,
    "speaker": "Metal Gear",
-   "en": "You too, Gillian!",
-   "enabled": true
+   "en": "И ты тоже, Гиллиан!",
+   "enabled": true,
+   "en_src": "You too, Gillian!"
   },
   {
    "id": "B250_c10f35",
@@ -648,8 +705,9 @@
    "end": 25616,
    "dur": 0.7,
    "speaker": "Gillian",
-   "en": "I knew it!",
-   "enabled": true
+   "en": "Так я и знал!",
+   "enabled": true,
+   "en_src": "I knew it!"
   },
   {
    "id": "B250_c10f35b",
@@ -659,8 +717,9 @@
    "end": 25889,
    "dur": 1.8,
    "speaker": "Gillian",
-   "en": "They'll attack the summit",
-   "enabled": true
+   "en": "Они нападут на саммит",
+   "enabled": true,
+   "en_src": "They'll attack the summit"
   },
   {
    "id": "B250_c10f35c",
@@ -670,8 +729,9 @@
    "end": 26306,
    "dur": 3.1,
    "speaker": "Gillian",
-   "en": "and snatch every country's leaders at once!",
-   "enabled": true
+   "en": "и разом подменят лидеров всех стран!",
+   "enabled": true,
+   "en_src": "and snatch every country's leaders at once!"
   },
   {
    "id": "B250_c10f36",
@@ -681,8 +741,9 @@
    "end": 27138,
    "dur": 5.5,
    "speaker": "Metal Gear",
-   "en": "They intend to snatch you, the last JUNKER, and then leave the city.",
-   "enabled": true
+   "en": "Они подменят тебя, последнего ДЖАНКЕРа, и уйдут из города.",
+   "enabled": true,
+   "en_src": "They intend to snatch you, the last JUNKER, and then leave the city."
   },
   {
    "id": "B250_c10f37",
@@ -692,8 +753,9 @@
    "end": 27599,
    "dur": 3.0,
    "speaker": "Gillian",
-   "en": "Snatch the world's leaders, and the world is theirs.",
-   "enabled": true
+   "en": "Подменить мировых лидеров - и мир у них в руках.",
+   "enabled": true,
+   "en_src": "Snatch the world's leaders, and the world is theirs."
   },
   {
    "id": "B250_c10f37b",
@@ -703,8 +765,9 @@
    "end": 27929,
    "dur": 1.4,
    "speaker": "Gillian",
-   "en": "But it doesn't make sense.",
-   "enabled": true
+   "en": "Но что-то не сходится.",
+   "enabled": true,
+   "en_src": "But it doesn't make sense."
   },
   {
    "id": "B250_c10f37bb",
@@ -714,8 +777,9 @@
    "end": 28262,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "Their defective artificial skin should",
-   "enabled": true
+   "en": "С их дефектной кожей",
+   "enabled": true,
+   "en_src": "Their defective artificial skin should"
   },
   {
    "id": "B250_c10f37bc",
@@ -725,8 +789,9 @@
    "end": 28498,
    "dur": 1.7,
    "speaker": "Gillian",
-   "en": "make global expansion difficult.",
-   "enabled": true
+   "en": "захватить весь мир было бы трудно.",
+   "enabled": true,
+   "en_src": "make global expansion difficult."
   },
   {
    "id": "B250_c10f38",
@@ -736,8 +801,9 @@
    "end": 29198,
    "dur": 4.6,
    "speaker": "Metal Gear",
-   "en": "Chin said they'd found a way to perfect their skin.",
-   "enabled": true
+   "en": "Чин говорил, что они нашли способ улучшить кожу.",
+   "enabled": true,
+   "en_src": "Chin said they'd found a way to perfect their skin."
   },
   {
    "id": "B250_c10f38b",
@@ -747,8 +813,9 @@
    "end": 29442,
    "dur": 1.6,
    "speaker": "Metal Gear",
-   "en": "Could something have happened?",
-   "enabled": true
+   "en": "Может, что-то случилось?",
+   "enabled": true,
+   "en_src": "Could something have happened?"
   },
   {
    "id": "B250_c10f39",
@@ -758,8 +825,9 @@
    "end": 29961,
    "dur": 3.4,
    "speaker": "Gillian",
-   "en": "I don't know. But look how many Snatchers there are.",
-   "enabled": true
+   "en": "Не знаю. Но посмотри, сколько тут снатчеров.",
+   "enabled": true,
+   "en_src": "I don't know. But look how many Snatchers there are."
   },
   {
    "id": "B250_c10f39b",
@@ -769,8 +837,9 @@
    "end": 30578,
    "dur": 3.4,
    "speaker": "Gillian",
-   "en": "They're certainly planning something new.",
-   "enabled": true
+   "en": "Они явно затевают что-то новое.",
+   "enabled": true,
+   "en_src": "They're certainly planning something new."
   },
   {
    "id": "B250_c10f40",
@@ -780,8 +849,9 @@
    "end": 31084,
    "dur": 3.2,
    "speaker": "Metal Gear",
-   "en": "This is definitely the Snatchers' base, Gillian.",
-   "enabled": true
+   "en": "Это точно база снатчеров, Гиллиан.",
+   "enabled": true,
+   "en_src": "This is definitely the Snatchers' base, Gillian."
   },
   {
    "id": "B250_c10f40b",
@@ -791,8 +861,9 @@
    "end": 31282,
    "dur": 1.4,
    "speaker": "Metal Gear",
-   "en": "Let's destroy it all!",
-   "enabled": true
+   "en": "Уничтожим всё!",
+   "enabled": true,
+   "en_src": "Let's destroy it all!"
   },
   {
    "id": "B250_c10f41",
@@ -802,8 +873,9 @@
    "end": 31842,
    "dur": 3.6,
    "speaker": "Gillian",
-   "en": "No! Jamie's still here! Metal, how much time is left?",
-   "enabled": true
+   "en": "Нет! Здесь ещё Джейми! Метал, сколько осталось времени?",
+   "enabled": true,
+   "en_src": "No! Jamie's still here! Metal, how much time is left?"
   },
   {
    "id": "B250_c10f42",
@@ -813,8 +885,9 @@
    "end": 32364,
    "dur": 3.4,
    "speaker": "Metal Gear",
-   "en": "The summit has started. We're out of time.",
-   "enabled": true
+   "en": "Саммит начался. Время вышло.",
+   "enabled": true,
+   "en_src": "The summit has started. We're out of time."
   },
   {
    "id": "B250_c10f42b",
@@ -824,8 +897,9 @@
    "end": 32859,
    "dur": 3.3,
    "speaker": "Metal Gear",
-   "en": "After the deadline, I can't help you anymore.",
-   "enabled": true
+   "en": "После срока я больше не смогу тебе помогать.",
+   "enabled": true,
+   "en_src": "After the deadline, I can't help you anymore."
   },
   {
    "id": "B250_c10f42c",
@@ -835,8 +909,9 @@
    "end": 33122,
    "dur": 1.7,
    "speaker": "Metal Gear",
-   "en": "I'll have to take you into custody.",
-   "enabled": true
+   "en": "Мне придётся взять тебя под стражу.",
+   "enabled": true,
+   "en_src": "I'll have to take you into custody."
   },
   {
    "id": "B250_c10f43",
@@ -846,8 +921,9 @@
    "end": 33247,
    "dur": 0.7,
    "speaker": "Gillian",
-   "en": "All right.",
-   "enabled": true
+   "en": "Ясно.",
+   "enabled": true,
+   "en_src": "All right."
   },
   {
    "id": "B250_c10f43b",
@@ -857,8 +933,9 @@
    "end": 33810,
    "dur": 3.8,
    "speaker": "Gillian",
-   "en": "If the military strikes here, what weapon will they use?",
-   "enabled": true
+   "en": "Если военные ударят сюда, чем они ударят?",
+   "enabled": true,
+   "en_src": "If the military strikes here, what weapon will they use?"
   },
   {
    "id": "B250_c10f44",
@@ -868,8 +945,9 @@
    "end": 34274,
    "dur": 3.0,
    "speaker": "Metal Gear",
-   "en": "Probably a particle beam from a killer satellite.",
-   "enabled": true
+   "en": "Скорее всего, пучком частиц со спутника-убийцы.",
+   "enabled": true,
+   "en_src": "Probably a particle beam from a killer satellite."
   },
   {
    "id": "B250_c10f45",
@@ -879,8 +957,9 @@
    "end": 34738,
    "dur": 3.0,
    "speaker": "Gillian",
-   "en": "A particle beam? There'll be nothing left.",
-   "enabled": true
+   "en": "Пучком частиц? Тут ничего не останется.",
+   "enabled": true,
+   "en_src": "A particle beam? There'll be nothing left."
   },
   {
    "id": "B250_c10f46",
@@ -890,8 +969,9 @@
    "end": 35378,
    "dur": 4.1,
    "speaker": "Metal Gear",
-   "en": "Everything will vaporize. Only a huge crater will remain.",
-   "enabled": true
+   "en": "Всё испарится. Останется лишь огромный кратер.",
+   "enabled": true,
+   "en_src": "Everything will vaporize. Only a huge crater will remain."
   },
   {
    "id": "B250_c10f47",
@@ -901,8 +981,9 @@
    "end": 36114,
    "dur": 4.8,
    "speaker": "Gillian",
-   "en": "Ask them for another hour, Metal! Even thirty minutes!",
-   "enabled": true
+   "en": "Выпроси у них ещё час, Метал! Хоть полчаса!",
+   "enabled": true,
+   "en_src": "Ask them for another hour, Metal! Even thirty minutes!"
   },
   {
    "id": "B250_c10f48",
@@ -912,8 +993,9 @@
    "end": 36418,
    "dur": 1.9,
    "speaker": "Metal Gear",
-   "en": "Understood. I'll do what I can.",
-   "enabled": true
+   "en": "Понял. Сделаю что смогу.",
+   "enabled": true,
+   "en_src": "Understood. I'll do what I can."
   },
   {
    "id": "B250_c10f49",
@@ -923,8 +1005,9 @@
    "end": 36658,
    "dur": 1.5,
    "speaker": "Gillian",
-   "en": "I'll rescue Jamie while you do that.",
-   "enabled": true
+   "en": "А я тем временем спасу Джейми.",
+   "enabled": true,
+   "en_src": "I'll rescue Jamie while you do that."
   },
   {
    "id": "B250_c10f50",
@@ -934,8 +1017,9 @@
    "end": 37178,
    "dur": 3.3,
    "speaker": "Metal Gear",
-   "en": "Snow Cedar makes the signal unstable here.",
-   "enabled": true
+   "en": "Из-за снежного кедра сигнал здесь нестабилен.",
+   "enabled": true,
+   "en_src": "Snow Cedar makes the signal unstable here."
   },
   {
    "id": "B250_c10f50b",
@@ -945,8 +1029,9 @@
    "end": 37490,
    "dur": 2.1,
    "speaker": "Metal Gear",
-   "en": "I'll go outside the area to contact them.",
-   "enabled": true
+   "en": "Выйду из зоны, чтобы связаться с ними.",
+   "enabled": true,
+   "en_src": "I'll go outside the area to contact them."
   },
   {
    "id": "B250_c10f51",
@@ -956,8 +1041,9 @@
    "end": 37577,
    "dur": 0.5,
    "speaker": "Gillian",
-   "en": "All right.",
-   "enabled": true
+   "en": "Хорошо.",
+   "enabled": true,
+   "en_src": "All right."
   },
   {
    "id": "B250_c10f51b",
@@ -967,8 +1053,9 @@
    "end": 37762,
    "dur": 0.7,
    "speaker": "Gillian",
-   "en": "Please, Metal.",
-   "enabled": true
+   "en": "Прошу, Метал.",
+   "enabled": true,
+   "en_src": "Please, Metal."
   },
   {
    "id": "B250_c10f52",
@@ -978,8 +1065,9 @@
    "end": 38370,
    "dur": 3.9,
    "speaker": "Metal Gear",
-   "en": "Thirty minutes, Gillian. Promise you'll come back.",
-   "enabled": true
+   "en": "Тридцать минут, Гиллиан. Обещай, что вернёшься.",
+   "enabled": true,
+   "en_src": "Thirty minutes, Gillian. Promise you'll come back."
   },
   {
    "id": "B250_c10f53",
@@ -989,8 +1077,9 @@
    "end": 38434,
    "dur": 0.3,
    "speaker": "Gillian",
-   "en": "I will.",
-   "enabled": true
+   "en": "Вернусь.",
+   "enabled": true,
+   "en_src": "I will."
   },
   {
    "id": "B250_c10f54",
@@ -1000,8 +1089,9 @@
    "end": 39090,
    "dur": 4.3,
    "speaker": "Metal Gear",
-   "en": "I'm sorry I couldn't be more help, Gillian.",
-   "enabled": true
+   "en": "Прости, что не смог помочь больше, Гиллиан.",
+   "enabled": true,
+   "en_src": "I'm sorry I couldn't be more help, Gillian."
   },
   {
    "id": "B250_c10f55",
@@ -1011,8 +1101,9 @@
    "end": 39714,
    "dur": 4.1,
    "speaker": "Gillian",
-   "en": "Don't worry. With no one slowing me down, thirty minutes is plenty!",
-   "enabled": true
+   "en": "Не волнуйся. Без балласта мне и тридцати минут хватит!",
+   "enabled": true,
+   "en_src": "Don't worry. With no one slowing me down, thirty minutes is plenty!"
   },
   {
    "id": "B250_c10f56",
@@ -1022,8 +1113,9 @@
    "end": 39778,
    "dur": 0.3,
    "speaker": "Gillian",
-   "en": "Go!",
-   "enabled": true
+   "en": "Лети!",
+   "enabled": true,
+   "en_src": "Go!"
   },
   {
    "id": "B250_c10f57",
@@ -1033,8 +1125,9 @@
    "end": 40130,
    "dur": 2.2,
    "speaker": "Metal Gear",
-   "en": "Understood! Thirty minutes!",
-   "enabled": true
+   "en": "Понял! Тридцать минут!",
+   "enabled": true,
+   "en_src": "Understood! Thirty minutes!"
   },
   {
    "id": "B250_c10f58",
@@ -1044,8 +1137,9 @@
    "end": 40658,
    "dur": 3.4,
    "speaker": "Gillian",
-   "en": "Thirty minutes. That's tight.",
-   "enabled": true
+   "en": "Тридцать минут. Впритык.",
+   "enabled": true,
+   "en_src": "Thirty minutes. That's tight."
   },
   {
    "id": "B250_c10f59",
@@ -1055,9 +1149,10 @@
    "end": 41122,
    "dur": 3.0,
    "speaker": "Gillian",
-   "en": "Only that room left. Let's open the door.",
+   "en": "Осталась только та комната. Откроем дверь.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Only that room left. Let's open the door."
   }
  ]
 }

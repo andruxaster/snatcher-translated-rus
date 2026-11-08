@@ -9,8 +9,9 @@
    "end": 69867,
    "dur": 6.1,
    "speaker": "Jamie",
-   "en": "Gillian, it's me. Listen carefully. It's about Queen Hospital.",
-   "enabled": true
+   "en": "Гиллиан, это я. Слушай внимательно. Насчёт больницы \"Куин\".",
+   "enabled": true,
+   "en_src": "Gillian, it's me. Listen carefully. It's about Queen Hospital."
   },
   {
    "id": "B180_j_00b",
@@ -20,8 +21,9 @@
    "end": 70915,
    "dur": 6.2,
    "speaker": "Jamie",
-   "en": "They built a large underground extension in 2030. That's right.",
-   "enabled": true
+   "en": "В 2030 году там построили большой подземный корпус. Да.",
+   "enabled": true,
+   "en_src": "They built a large underground extension in 2030. That's right."
   },
   {
    "id": "B180_j_00c",
@@ -31,8 +33,9 @@
    "end": 71322,
    "dur": 2.8,
    "speaker": "Jamie",
-   "en": "The hospital has a basement.",
-   "enabled": true
+   "en": "У больницы есть подвал.",
+   "enabled": true,
+   "en_src": "The hospital has a basement."
   },
   {
    "id": "B180_j_00d",
@@ -42,8 +45,9 @@
    "end": 71752,
    "dur": 4.4,
    "speaker": "Jamie",
-   "en": "Underground construction is rare in Neo Kobe.",
-   "enabled": true
+   "en": "Подземное строительство в Нео-Кобе - редкость.",
+   "enabled": true,
+   "en_src": "Underground construction is rare in Neo Kobe."
   },
   {
    "id": "B180_j_00e",
@@ -53,8 +57,9 @@
    "end": 72370,
    "dur": 4.9,
    "speaker": "Jamie",
-   "en": "That's why there was a record of it. There's more.",
-   "enabled": true
+   "en": "Поэтому о нём осталась запись. И ещё.",
+   "enabled": true,
+   "en_src": "That's why there was a record of it. There's more."
   },
   {
    "id": "B180_j_00f",
@@ -64,8 +69,9 @@
    "end": 72720,
    "dur": 5.4,
    "speaker": "Jamie",
-   "en": "The director, Chin Shu Ho, used an underground facility",
-   "enabled": true
+   "en": "Директор, Чин Шу Хо, в подземном помещении",
+   "enabled": true,
+   "en_src": "The director, Chin Shu Ho, used an underground facility"
   },
   {
    "id": "B180_j_00g",
@@ -75,8 +81,9 @@
    "end": 73300,
    "dur": 4.6,
    "speaker": "Jamie",
-   "en": "to perform illegal surrogate-mother operations.",
-   "enabled": true
+   "en": "проводил незаконные операции суррогатного материнства.",
+   "enabled": true,
+   "en_src": "to perform illegal surrogate-mother operations."
   },
   {
    "id": "B180_j_00h",
@@ -86,8 +93,9 @@
    "end": 73850,
    "dur": 4.0,
    "speaker": "Jamie",
-   "en": "His practice was suspended because of it.",
-   "enabled": true
+   "en": "Из-за этого его лишили практики.",
+   "enabled": true,
+   "en_src": "His practice was suspended because of it."
   },
   {
    "id": "B180_j_03",
@@ -97,8 +105,9 @@
    "end": 74228,
    "dur": 2.5,
    "speaker": "Gillian",
-   "en": "So there's a medical facility underground?",
-   "enabled": true
+   "en": "Значит, под землёй есть медицинский центр?",
+   "enabled": true,
+   "en_src": "So there's a medical facility underground?"
   },
   {
    "id": "B180_j_04",
@@ -108,8 +117,9 @@
    "end": 74596,
    "dur": 4.9,
    "speaker": "Metal Gear",
-   "en": "There's no doubt about it.",
-   "enabled": true
+   "en": "Сомнений нет.",
+   "enabled": true,
+   "en_src": "There's no doubt about it."
   },
   {
    "id": "B180_j_04b",
@@ -119,8 +129,9 @@
    "end": 74965,
    "dur": 4.9,
    "speaker": "Metal Gear",
-   "en": "Chin Shu Ho is servicing Snatchers underground.",
-   "enabled": true
+   "en": "Чин Шу Хо обслуживает снатчеров под землёй.",
+   "enabled": true,
+   "en_src": "Chin Shu Ho is servicing Snatchers underground."
   },
   {
    "id": "B180_j_05",
@@ -130,8 +141,9 @@
    "end": 75425,
    "dur": 5.3,
    "speaker": "Gillian",
-   "en": "Then Chin is a Snatcher too.",
-   "enabled": true
+   "en": "Значит, Чин тоже снатчер.",
+   "enabled": true,
+   "en_src": "Then Chin is a Snatcher too."
   },
   {
    "id": "B180_j_05b",
@@ -141,8 +153,9 @@
    "end": 75988,
    "dur": 8.3,
    "speaker": "Gillian",
-   "en": "No, they snatched him because he had the facilities they needed.",
-   "enabled": true
+   "en": "Нет, его подменили, потому что у него было нужное им оборудование.",
+   "enabled": true,
+   "en_src": "No, they snatched him because he had the facilities they needed."
   },
   {
    "id": "B180_j_06",
@@ -152,8 +165,9 @@
    "end": 76671,
    "dur": 4.6,
    "speaker": "Metal Gear",
-   "en": "The facilities above ground are a cover for it.",
-   "enabled": true
+   "en": "А наземная часть - лишь прикрытие.",
+   "enabled": true,
+   "en_src": "The facilities above ground are a cover for it."
   },
   {
    "id": "B180_j_07",
@@ -163,8 +177,9 @@
    "end": 77247,
    "dur": 3.7,
    "speaker": "Gillian",
-   "en": "Taking out this hospital will stop the Snatchers' advance.",
-   "enabled": true
+   "en": "Уничтожим больницу - остановим наступление снатчеров.",
+   "enabled": true,
+   "en_src": "Taking out this hospital will stop the Snatchers' advance."
   },
   {
    "id": "B180_j_07b",
@@ -174,8 +189,9 @@
    "end": 77898,
    "dur": 4.4,
    "speaker": "Gillian",
-   "en": "This is it, Metal. We're going into their base!",
-   "enabled": true
+   "en": "Вот оно, Метал. Идём в их логово!",
+   "enabled": true,
+   "en_src": "This is it, Metal. We're going into their base!"
   },
   {
    "id": "B180_j_08",
@@ -185,8 +201,9 @@
    "end": 78009,
    "dur": 0.7,
    "speaker": "Jamie",
-   "en": "Gillian.",
-   "enabled": true
+   "en": "Гиллиан.",
+   "enabled": true,
+   "en_src": "Gillian."
   },
   {
    "id": "B180_j_09",
@@ -196,8 +213,9 @@
    "end": 78243,
    "dur": 1.6,
    "speaker": "Gillian",
-   "en": "Hm?",
-   "enabled": true
+   "en": "М?",
+   "enabled": true,
+   "en_src": "Hm?"
   },
   {
    "id": "B180_j_10",
@@ -207,8 +225,9 @@
    "end": 79379,
    "dur": 7.6,
    "speaker": "Jamie",
-   "en": "Your work is dangerous. I want you to come back safely.",
-   "enabled": true
+   "en": "У тебя опасная работа. Я хочу, чтобы ты вернулся живым.",
+   "enabled": true,
+   "en_src": "Your work is dangerous. I want you to come back safely."
   },
   {
    "id": "B180_j_11",
@@ -218,8 +237,9 @@
    "end": 79592,
    "dur": 1.4,
    "speaker": "Gillian",
-   "en": "Jamie.",
-   "enabled": true
+   "en": "Джейми.",
+   "enabled": true,
+   "en_src": "Jamie."
   },
   {
    "id": "B180_j_12",
@@ -229,8 +249,9 @@
    "end": 80285,
    "dur": 8.4,
    "speaker": "Jamie",
-   "en": "I left you because I thought you were forcing yourself.",
-   "enabled": true
+   "en": "Я ушла, потому что думала, что ты себя заставляешь.",
+   "enabled": true,
+   "en_src": "I left you because I thought you were forcing yourself."
   },
   {
    "id": "B180_j_12b",
@@ -240,8 +261,9 @@
    "end": 80885,
    "dur": 4.3,
    "speaker": "Jamie",
-   "en": "No, because I felt you were.",
-   "enabled": true
+   "en": "Нет, потому что чувствовала это.",
+   "enabled": true,
+   "en_src": "No, because I felt you were."
   },
   {
    "id": "B180_j_12c",
@@ -251,8 +273,9 @@
    "end": 81600,
    "dur": 7.5,
    "speaker": "Jamie",
-   "en": "We were wearing wedding rings when they found us.",
-   "enabled": true
+   "en": "Когда нас нашли, на нас были обручальные кольца.",
+   "enabled": true,
+   "en_src": "We were wearing wedding rings when they found us."
   },
   {
    "id": "B180_j_12d",
@@ -262,8 +285,9 @@
    "end": 82201,
    "dur": 7.0,
    "speaker": "Jamie",
-   "en": "I wondered if that had become a burden to you.",
-   "enabled": true
+   "en": "Я думала, не стало ли это для тебя обузой.",
+   "enabled": true,
+   "en_src": "I wondered if that had become a burden to you."
   },
   {
    "id": "B180_j_12e",
@@ -273,8 +297,9 @@
    "end": 82939,
    "dur": 9.0,
    "speaker": "Jamie",
-   "en": "If that was all that kept us together, it would be too sad.",
-   "enabled": true
+   "en": "Если бы нас держало вместе только это, было бы слишком грустно.",
+   "enabled": true,
+   "en_src": "If that was all that kept us together, it would be too sad."
   },
   {
    "id": "B180_j_16",
@@ -284,8 +309,9 @@
    "end": 83167,
    "dur": 1.5,
    "speaker": "Gillian",
-   "en": "That's not true.",
-   "enabled": true
+   "en": "Это не так.",
+   "enabled": true,
+   "en_src": "That's not true."
   },
   {
    "id": "B180_j_17",
@@ -295,8 +321,9 @@
    "end": 83530,
    "dur": 3.1,
    "speaker": "Jamie",
-   "en": "I'll be waiting, Gillian.",
-   "enabled": true
+   "en": "Я буду ждать, Гиллиан.",
+   "enabled": true,
+   "en_src": "I'll be waiting, Gillian."
   },
   {
    "id": "B180_j_17b",
@@ -306,8 +333,9 @@
    "end": 83962,
    "dur": 3.9,
    "speaker": "Jamie",
-   "en": "We may have no memories,",
-   "enabled": true
+   "en": "Пусть у нас нет воспоминаний,",
+   "enabled": true,
+   "en_src": "We may have no memories,"
   },
   {
    "id": "B180_j_17c",
@@ -317,8 +345,9 @@
    "end": 84687,
    "dur": 6.6,
    "speaker": "Jamie",
-   "en": "but we're the only ones who shared that time together.",
-   "enabled": true
+   "en": "но то время пережили вместе только мы двое.",
+   "enabled": true,
+   "en_src": "but we're the only ones who shared that time together."
   },
   {
    "id": "B180_j_17d",
@@ -328,8 +357,9 @@
    "end": 85551,
    "dur": 2.4,
    "speaker": "Jamie",
-   "en": "Be careful, Gillian.",
-   "enabled": true
+   "en": "Будь осторожен, Гиллиан.",
+   "enabled": true,
+   "en_src": "Be careful, Gillian."
   },
   {
    "id": "B180_j_19",
@@ -339,8 +369,9 @@
    "end": 85719,
    "dur": 1.1,
    "speaker": "Gillian",
-   "en": "Jamie.",
-   "enabled": true
+   "en": "Джейми.",
+   "enabled": true,
+   "en_src": "Jamie."
   },
   {
    "id": "B180_j_20",
@@ -350,8 +381,9 @@
    "end": 86003,
    "dur": 1.9,
    "speaker": "Metal Gear",
-   "en": "Can you leave it at that?",
-   "enabled": true
+   "en": "Ты так это и оставишь?",
+   "enabled": true,
+   "en_src": "Can you leave it at that?"
   },
   {
    "id": "B180_j_21",
@@ -361,9 +393,10 @@
    "end": 86868,
    "dur": 5.8,
    "speaker": "Gillian",
-   "en": "Let's go, Metal. To Queen Hospital. Her Majesty awaits.",
+   "en": "Идём, Метал. В больницу \"Куин\". Её Величество ждёт.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Let's go, Metal. To Queen Hospital. Her Majesty awaits."
   }
  ],
  "options": {

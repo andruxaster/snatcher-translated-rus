@@ -15,183 +15,260 @@
   {
    "off": 794,
    "budget": 63,
-   "en": "Do not insert or remove the ＠赤Memory￥Card＠白 while saving."
+   "en": ".",
+   "en_src": "Do not insert or remove the ＠赤Memory￥Card＠白 while saving.",
+   "ru": true,
+   "long": "Не вставляйте и не извлекайте ＠赤карту￥памяти＠白 во время сохранения."
   },
   {
    "off": 857,
    "budget": 99,
-   "en": "＠赤No Memory Card inserted.＠白 A ＠赤Memory￥Card＠白 is required to save."
+   "en": "＠赤Карта памяти не вставлена.＠白 Для￥сохранения нужна ＠赤карта памяти＠白.",
+   "en_src": "＠赤No Memory Card inserted.＠白 A ＠赤Memory￥Card＠白 is required to save.",
+   "ru": true
   },
   {
    "off": 956,
    "budget": 63,
-   "en": "Insert a card into ＠赤Memory Card slot￥1＠白."
+   "en": "Вставьте карту в ＠赤слот карты памяти￥1＠白.",
+   "en_src": "Insert a card into ＠赤Memory Card slot￥1＠白.",
+   "ru": true
   },
   {
    "off": 1019,
    "budget": 51,
-   "en": "After inserting it, select \"Card￥inserted.\""
+   "en": "Вставив карту, выберите \"Карта￥вставлена\".",
+   "en_src": "After inserting it, select \"Card￥inserted.\"",
+   "ru": true
   },
   {
    "off": 1070,
    "budget": 13,
-   "en": "Card in",
-   "long": "Card inserted"
+   "en": ".",
+   "en_src": "Card in",
+   "long_src": "Card inserted",
+   "ru": true,
+   "long": "Карта вставлена"
   },
   {
    "off": 1083,
    "budget": 13,
-   "en": "Don't save"
+   "en": "Не сохранять",
+   "en_src": "Don't save",
+   "ru": true
   },
   {
    "off": 1096,
    "budget": 45,
-   "en": "The new data will not be saved."
+   "en": "Новые данные не будут сохранены.",
+   "en_src": "The new data will not be saved.",
+   "ru": true
   },
   {
    "off": 1141,
    "budget": 41,
-   "en": "＠赤This Memory Card is not formatted."
+   "en": "＠赤Карта памяти не отформатирована.",
+   "en_src": "＠赤This Memory Card is not formatted.",
+   "ru": true
   },
   {
    "off": 1182,
    "budget": 103,
-   "en": "You must ＠赤format＠白 the Memory Card￥before saving. Please select￥＠赤Format＠白."
+   "en": "Перед сохранением нужно￥＠赤отформатировать＠白 карту памяти.￥Выберите ＠赤\"Формат\"＠白.",
+   "en_src": "You must ＠赤format＠白 the Memory Card￥before saving. Please select￥＠赤Format＠白.",
+   "ru": true
   },
   {
    "off": 1285,
    "budget": 11,
-   "en": "Format"
+   "en": "Формат",
+   "en_src": "Format",
+   "ru": true
   },
   {
    "off": 1296,
    "budget": 61,
-   "en": "Do not remove the￥＠赤memory card＠白 while formatting.",
-   "long": "Do not insert or remove the ＠赤Memory￥Card＠白 while formatting."
+   "en": ".",
+   "en_src": "Do not remove the￥＠赤memory card＠白 while formatting.",
+   "long_src": "Do not insert or remove the ＠赤Memory￥Card＠白 while formatting.",
+   "ru": true,
+   "long": "Не вставляйте и не извлекайте ＠赤карту￥памяти＠白 во время форматирования."
   },
   {
    "off": 1357,
    "budget": 53,
-   "en": "This Memory Card has ＠赤no save file."
+   "en": "На карте памяти ＠赤нет файла￥сохранения.",
+   "en_src": "This Memory Card has ＠赤no save file.",
+   "ru": true
   },
   {
    "off": 1410,
    "budget": 89,
-   "en": "A Snatcher save file is required.￥Please create a ＠赤file＠白."
+   "en": "Нужен файл сохранения Snatcher.￥Создайте ＠赤файл＠白.",
+   "en_src": "A Snatcher save file is required.￥Please create a ＠赤file＠白.",
+   "ru": true
   },
   {
    "off": 1499,
    "budget": 13,
-   "en": "Create file"
+   "en": "Создать файл",
+   "en_src": "Create file",
+   "ru": true
   },
   {
    "off": 1512,
    "budget": 67,
-   "en": "Do not remove the ＠赤memory￥card＠白 while creating a file.",
-   "long": "Do not insert or remove the ＠赤Memory￥Card＠白 while the file is being￥created."
+   "en": ".",
+   "en_src": "Do not remove the ＠赤memory￥card＠白 while creating a file.",
+   "long_src": "Do not insert or remove the ＠赤Memory￥Card＠白 while the file is being￥created.",
+   "ru": true,
+   "long": "Не вставляйте и не извлекайте ＠赤карту￥памяти＠白, пока создаётся файл."
   },
   {
    "off": 1579,
    "budget": 21,
-   "en": "Formatting complete."
+   "en": "Форматирование ОК.",
+   "en_src": "Formatting complete.",
+   "ru": true
   },
   {
    "off": 1600,
    "budget": 101,
-   "en": "A Snatcher ＠赤save file＠白 is required.￥Please create a ＠赤file＠白."
+   "en": "Нужен ＠赤файл сохранения＠白 Snatcher.￥Создайте ＠赤файл＠白.",
+   "en_src": "A Snatcher ＠赤save file＠白 is required.￥Please create a ＠赤file＠白.",
+   "ru": true
   },
   {
    "off": 1701,
    "budget": 51,
-   "en": "Formatting failed. Try again?"
+   "en": "Ошибка форматирования. Повторить?",
+   "en_src": "Formatting failed. Try again?",
+   "ru": true
   },
   {
    "off": 1752,
    "budget": 29,
-   "en": "Formatting canceled."
+   "en": "Форматирование отменено.",
+   "en_src": "Formatting canceled.",
+   "ru": true
   },
   {
    "off": 1781,
    "budget": 27,
-   "en": "File created."
+   "en": "Файл создан.",
+   "en_src": "File created.",
+   "ru": true
   },
   {
    "off": 1808,
    "budget": 63,
-   "en": "File creation failed. Try again?"
+   "en": "Не удалось создать файл. Повторить?",
+   "en_src": "File creation failed. Try again?",
+   "ru": true
   },
   {
    "off": 1871,
    "budget": 35,
-   "en": "File creation canceled."
+   "en": "Создание файла отменено.",
+   "en_src": "File creation canceled.",
+   "ru": true
   },
   {
    "off": 1906,
    "budget": 71,
-   "en": "＠赤Not enough free blocks.＠白 Cannot￥create new save data."
+   "en": ".",
+   "en_src": "＠赤Not enough free blocks.＠白 Cannot￥create new save data.",
+   "ru": true,
+   "long": "＠赤Недостаточно свободных блоков.＠白 Новое￥сохранение создать нельзя."
   },
   {
    "off": 1977,
    "budget": 73,
-   "en": "Insert ＠赤another Memory Card＠白 and￥select \"Other card in.\""
+   "en": "Вставьте ＠赤другую карту памяти＠白 и￥выберите \"Другая карта\".",
+   "en_src": "Insert ＠赤another Memory Card＠白 and￥select \"Other card in.\"",
+   "ru": true
   },
   {
    "off": 2050,
    "budget": 15,
-   "en": "Other card in"
+   "en": "Другая карта",
+   "en_src": "Other card in",
+   "ru": true
   },
   {
    "off": 2065,
    "budget": 9,
-   "en": "Save 1"
+   "en": "Слот 1",
+   "en_src": "Save 1",
+   "ru": true
   },
   {
    "off": 2074,
    "budget": 93,
-   "en": "This file contains previously saved￥data. Overwrite it with the new￥data?"
+   "en": "В этом файле есть прежнее￥сохранение. Перезаписать его новыми￥данными?",
+   "en_src": "This file contains previously saved￥data. Overwrite it with the new￥data?",
+   "ru": true
   },
   {
    "off": 2167,
    "budget": 11,
-   "en": "Save"
+   "en": "Сохранить",
+   "en_src": "Save",
+   "ru": true
   },
   {
    "off": 2178,
    "budget": 9,
-   "en": "Save 2"
+   "en": "Слот 2",
+   "en_src": "Save 2",
+   "ru": true
   },
   {
    "off": 2187,
    "budget": 9,
-   "en": "Save 3"
+   "en": "Слот 3",
+   "en_src": "Save 3",
+   "ru": true
   },
   {
    "off": 2196,
    "budget": 9,
-   "en": "Save 4"
+   "en": "Слот 4",
+   "en_src": "Save 4",
+   "ru": true
   },
   {
    "off": 2205,
    "budget": 65,
-   "en": "＠赤Save failed.＠白 Try saving again?"
+   "en": "＠赤Сохранение не удалось.＠白 Повторить?",
+   "en_src": "＠赤Save failed.＠白 Try saving again?",
+   "ru": true
   },
   {
    "off": 2270,
    "budget": 41,
-   "en": "Save complete.￥Resuming the case.",
-   "long": "Save complete. Continuing the￥investigation."
+   "en": ".",
+   "en_src": "Save complete.￥Resuming the case.",
+   "long_src": "Save complete. Continuing the￥investigation.",
+   "ru": true,
+   "long": "Сохранение завершено. Продолжаем￥расследование."
   },
   {
    "off": 2311,
    "budget": 93,
-   "en": "＠赤A problem occurred during the card￥check. Please check the memory card.",
-   "long": "＠赤An error occurred while checking the￥card. Please check your Memory Card￥and connections."
+   "en": "＠赤Ошибка при проверке карты. Проверьте￥карту памяти и подключение.",
+   "en_src": "＠赤A problem occurred during the card￥check. Please check the memory card.",
+   "long_src": "＠赤An error occurred while checking the￥card. Please check your Memory Card￥and connections.",
+   "ru": true
   },
   {
    "off": 2404,
    "budget": 9,
-   "en": "Checked",
-   "long": "Confirmed"
+   "en": ".",
+   "en_src": "Checked",
+   "long_src": "Confirmed",
+   "ru": true,
+   "long": "Проверено"
   },
   {
    "off": 2415,

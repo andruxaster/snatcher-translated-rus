@@ -15,8 +15,9 @@
    "end": 23422,
    "dur": 1.6,
    "speaker": "Metal Gear",
-   "en": "We've arrived at Queen Hospital.",
-   "enabled": true
+   "en": "Мы прибыли к больнице \"Куин\".",
+   "enabled": true,
+   "en_src": "We've arrived at Queen Hospital."
   },
   {
    "id": "B1E0_f40_0",
@@ -26,8 +27,9 @@
    "end": 23758,
    "dur": 2.1,
    "speaker": "Gillian",
-   "en": "So this is Queen Hospital.",
-   "enabled": true
+   "en": "Так вот она, больница \"Куин\".",
+   "enabled": true,
+   "en_src": "So this is Queen Hospital."
   },
   {
    "id": "B1E0_f41_0",
@@ -37,8 +39,9 @@
    "end": 24149,
    "dur": 2.5,
    "speaker": "Gillian",
-   "en": "Are you sure, Randam? This will be dangerous.",
-   "enabled": true
+   "en": "Ты уверен, Рэндам? Будет опасно.",
+   "enabled": true,
+   "en_src": "Are you sure, Randam? This will be dangerous."
   },
   {
    "id": "B1E0_f41_0b",
@@ -48,8 +51,9 @@
    "end": 24446,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "A one-in-ten-thousand chance of survival.",
-   "enabled": true
+   "en": "Шанс выжить - один на десять тысяч.",
+   "enabled": true,
+   "en_src": "A one-in-ten-thousand chance of survival."
   },
   {
    "id": "B1E0_f42_0",
@@ -59,8 +63,9 @@
    "end": 24846,
    "dur": 2.6,
    "speaker": "Randam",
-   "en": "Then I'll expect a bigger bounty.",
-   "enabled": true
+   "en": "Тогда жду награду побольше.",
+   "enabled": true,
+   "en_src": "Then I'll expect a bigger bounty."
   },
   {
    "id": "B1E0_f43_0",
@@ -70,8 +75,9 @@
    "end": 25150,
    "dur": 1.9,
    "speaker": "Gillian",
-   "en": "You're a strange one, you know that?",
-   "enabled": true
+   "en": "Странный ты тип, знаешь?",
+   "enabled": true,
+   "en_src": "You're a strange one, you know that?"
   },
   {
    "id": "B1E0_f44_0",
@@ -81,8 +87,9 @@
    "end": 25470,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "Gillian, let's start the investigation!",
-   "enabled": true
+   "en": "Гиллиан, начнём расследование!",
+   "enabled": true,
+   "en_src": "Gillian, let's start the investigation!"
   },
   {
    "id": "B1E0_f45_0",
@@ -92,8 +99,9 @@
    "end": 26003,
    "dur": 3.4,
    "speaker": "Metal Gear",
-   "en": "Look! There's paper stuck between the drawers.",
-   "enabled": true
+   "en": "Смотри! Между ящиками застряла бумага.",
+   "enabled": true,
+   "en_src": "Look! There's paper stuck between the drawers."
   },
   {
    "id": "B1E0_f45_0b",
@@ -103,8 +111,9 @@
    "end": 26212,
    "dur": 1.4,
    "speaker": "Metal Gear",
-   "en": "They're empty otherwise.",
-   "enabled": true
+   "en": "А так они пустые.",
+   "enabled": true,
+   "en_src": "They're empty otherwise."
   },
   {
    "id": "B1E0_f45_0c",
@@ -114,8 +123,9 @@
    "end": 26718,
    "dur": 3.4,
    "speaker": "Metal Gear",
-   "en": "Someone seems to have cleared them out in a hurry.",
-   "enabled": true
+   "en": "Похоже, их кто-то спешно опустошил.",
+   "enabled": true,
+   "en_src": "Someone seems to have cleared them out in a hurry."
   },
   {
    "id": "B1E0_f46_0",
@@ -125,8 +135,9 @@
    "end": 26830,
    "dur": 0.6,
    "speaker": "Gillian",
-   "en": "That paper?",
-   "enabled": true
+   "en": "Та бумага?",
+   "enabled": true,
+   "en_src": "That paper?"
   },
   {
    "id": "B1E0_f47_0",
@@ -136,9 +147,10 @@
    "end": 26910,
    "dur": 0.4,
    "speaker": "Metal Gear",
-   "en": "Here it is.",
+   "en": "Вот она.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Here it is."
   },
   {
    "id": "B1E0_f48_0",
@@ -148,8 +160,9 @@
    "end": 27454,
    "dur": 3.5,
    "speaker": "Gillian",
-   "en": "What's this? Chinese? Read it for me, Metal.",
-   "enabled": true
+   "en": "Что это? Китайский? Прочти, Метал.",
+   "enabled": true,
+   "en_src": "What's this? Chinese? Read it for me, Metal."
   },
   {
    "id": "B1E0_f49_0",
@@ -159,8 +172,9 @@
    "end": 27988,
    "dur": 6.9,
    "speaker": "Metal Gear",
-   "en": "Yes. \"Medical record. New patient.\"",
-   "enabled": true
+   "en": "Да. \"Медкарта. Новый пациент\".",
+   "enabled": true,
+   "en_src": "Yes. \"Medical record. New patient.\""
   },
   {
    "id": "B1E0_f49_0b",
@@ -170,8 +184,9 @@
    "end": 28507,
    "dur": 6.9,
    "speaker": "Metal Gear",
-   "en": "I don't understand the next five characters.",
-   "enabled": true
+   "en": "Следующие пять иероглифов я не понимаю.",
+   "enabled": true,
+   "en_src": "I don't understand the next five characters."
   },
   {
    "id": "B1E0_f49_0b2",
@@ -181,8 +196,9 @@
    "end": 28782,
    "dur": 1.8,
    "speaker": "Metal Gear",
-   "en": "I've never seen characters like these.",
-   "enabled": true
+   "en": "Никогда не видел таких иероглифов.",
+   "enabled": true,
+   "en_src": "I've never seen characters like these."
   },
   {
    "id": "B1E0_f50_0",
@@ -192,8 +208,9 @@
    "end": 29166,
    "dur": 2.5,
    "speaker": "Gillian",
-   "en": "I thought you were good at Chinese, Metal.",
-   "enabled": true
+   "en": "Я думал, ты силён в китайском, Метал.",
+   "enabled": true,
+   "en_src": "I thought you were good at Chinese, Metal."
   },
   {
    "id": "B1E0_f51_0",
@@ -203,8 +220,9 @@
    "end": 29838,
    "dur": 8.8,
    "speaker": "Metal Gear",
-   "en": "My specialty is mahjong: riichi, tanyao, pinfu, dora one.",
-   "enabled": true
+   "en": "Я спец по маджонгу: риичи, таняо, пинфу, дора один.",
+   "enabled": true,
+   "en_src": "My specialty is mahjong: riichi, tanyao, pinfu, dora one."
   },
   {
    "id": "B1E0_f52_0",
@@ -214,8 +232,9 @@
    "end": 30491,
    "dur": 4.2,
    "speaker": "Gillian",
-   "en": "Unusual Chinese characters? Or a code?",
-   "enabled": true
+   "en": "Редкие иероглифы? Или шифр?",
+   "enabled": true,
+   "en_src": "Unusual Chinese characters? Or a code?"
   },
   {
    "id": "B1E0_f52_0b",
@@ -225,8 +244,9 @@
    "end": 30985,
    "dur": 3.4,
    "speaker": "Gillian",
-   "en": "It's definitely part of a medical record.",
-   "enabled": true
+   "en": "Это точно часть медкарты.",
+   "enabled": true,
+   "en_src": "It's definitely part of a medical record."
   },
   {
    "id": "B1E0_f52_0d",
@@ -236,8 +256,9 @@
    "end": 31474,
    "dur": 4.9,
    "speaker": "Gillian",
-   "en": "This code probably conceals a name.",
-   "enabled": true
+   "en": "Наверное, в шифре спрятано имя.",
+   "enabled": true,
+   "en_src": "This code probably conceals a name."
   },
   {
    "id": "B1E0_f52_0db",
@@ -247,8 +268,9 @@
    "end": 31838,
    "dur": 4.9,
    "speaker": "Gillian",
-   "en": "If we crack it, we'll identify a Snatcher.",
-   "enabled": true
+   "en": "Взломаем его - вычислим снатчера.",
+   "enabled": true,
+   "en_src": "If we crack it, we'll identify a Snatcher."
   },
   {
    "id": "B1E0_f53_0",
@@ -258,8 +280,9 @@
    "end": 32078,
    "dur": 1.5,
    "speaker": "Metal Gear",
-   "en": "What happened to the other records?",
-   "enabled": true
+   "en": "А что стало с остальными картами?",
+   "enabled": true,
+   "en_src": "What happened to the other records?"
   },
   {
    "id": "B1E0_f54_0",
@@ -269,8 +292,9 @@
    "end": 32462,
    "dur": 2.5,
    "speaker": "Gillian",
-   "en": "Someone must have taken them before we got here.",
-   "enabled": true
+   "en": "Кто-то, видно, забрал их до нас.",
+   "enabled": true,
+   "en_src": "Someone must have taken them before we got here."
   },
   {
    "id": "B1E0_f55_0",
@@ -280,8 +304,9 @@
    "end": 33102,
    "dur": 8.4,
    "speaker": "Metal Gear",
-   "en": "I feel like the Snatchers know what we're doing.",
-   "enabled": true
+   "en": "Мне кажется, снатчеры знают, что мы делаем.",
+   "enabled": true,
+   "en_src": "I feel like the Snatchers know what we're doing."
   },
   {
    "id": "B1E0_f56_0",
@@ -291,8 +316,9 @@
    "end": 33646,
    "dur": 3.5,
    "speaker": "Gillian",
-   "en": "A Snatcher inside JUNKER? I'd rather not think about it.",
-   "enabled": true
+   "en": "Снатчер в ДЖАНКЕРе? Не хочу об этом думать.",
+   "enabled": true,
+   "en_src": "A Snatcher inside JUNKER? I'd rather not think about it."
   },
   {
    "id": "B1E0_f57_0",
@@ -302,8 +328,9 @@
    "end": 33934,
    "dur": 1.8,
    "speaker": "Metal Gear",
-   "en": "I'll keep this piece of the medical record.",
-   "enabled": true
+   "en": "Я сохраню этот кусок медкарты.",
+   "enabled": true,
+   "en_src": "I'll keep this piece of the medical record."
   },
   {
    "id": "B1E0_f58_0",
@@ -313,8 +340,9 @@
    "end": 34238,
    "dur": 1.9,
    "speaker": "Metal Gear",
-   "en": "It seems to lead underground.",
-   "enabled": true
+   "en": "Похоже, ведёт под землю.",
+   "enabled": true,
+   "en_src": "It seems to lead underground."
   },
   {
    "id": "B1E0_f59_0",
@@ -324,8 +352,9 @@
    "end": 34830,
    "dur": 7.6,
    "speaker": "Gillian",
-   "en": "Jamie was right. Queen Hospital has an underground level.",
-   "enabled": true
+   "en": "Джейми была права. В больнице \"Куин\" есть подземный этаж.",
+   "enabled": true,
+   "en_src": "Jamie was right. Queen Hospital has an underground level."
   },
   {
    "id": "B1E0_f60_0",
@@ -335,8 +364,9 @@
    "end": 35406,
    "dur": 3.7,
    "speaker": "Gillian",
-   "en": "And that's the Snatchers' nest. Right beneath us.",
-   "enabled": true
+   "en": "И там гнездо снатчеров. Прямо под нами.",
+   "enabled": true,
+   "en_src": "And that's the Snatchers' nest. Right beneath us."
   },
   {
    "id": "B1E0_f61_0",
@@ -346,8 +376,9 @@
    "end": 36014,
    "dur": 3.9,
    "speaker": "Metal Gear",
-   "en": "We're finally inside the belly of the beast. What will you do, Gillian?",
-   "enabled": true
+   "en": "Вот мы и в логове зверя. Что будешь делать, Гиллиан?",
+   "enabled": true,
+   "en_src": "We're finally inside the belly of the beast. What will you do, Gillian?"
   },
   {
    "id": "B1E0_f62_0",
@@ -357,8 +388,9 @@
    "end": 36494,
    "dur": 3.1,
    "speaker": "Metal Gear",
-   "en": "The stairs are narrow. Let's go down in single file.",
-   "enabled": true
+   "en": "Лестница узкая. Спускаемся по одному.",
+   "enabled": true,
+   "en_src": "The stairs are narrow. Let's go down in single file."
   },
   {
    "id": "B1E0_f63_0",
@@ -368,8 +400,9 @@
    "end": 36654,
    "dur": 1.0,
    "speaker": "Gillian",
-   "en": "Who's going first?",
-   "enabled": true
+   "en": "Кто идёт первым?",
+   "enabled": true,
+   "en_src": "Who's going first?"
   },
   {
    "id": "B1E0_f64_0",
@@ -379,8 +412,9 @@
    "end": 37118,
    "dur": 3.0,
    "speaker": "Randam",
-   "en": "Obviously, the one with the light.",
-   "enabled": true
+   "en": "Ясное дело, тот, у кого фонарь.",
+   "enabled": true,
+   "en_src": "Obviously, the one with the light."
   },
   {
    "id": "B1E0_f65_0",
@@ -390,8 +424,9 @@
    "end": 37470,
    "dur": 2.2,
    "speaker": "Metal Gear",
-   "en": "That's not fair!",
-   "enabled": true
+   "en": "Это нечестно!",
+   "enabled": true,
+   "en_src": "That's not fair!"
   },
   {
    "id": "B1E0_f66_0",
@@ -401,8 +436,9 @@
    "end": 37758,
    "dur": 1.8,
    "speaker": "Metal Gear",
-   "en": "I know. Let's play rock-paper-scissors.",
-   "enabled": true
+   "en": "Придумал. Сыграем в камень-ножницы-бумагу.",
+   "enabled": true,
+   "en_src": "I know. Let's play rock-paper-scissors."
   },
   {
    "id": "B1E0_f67_0",
@@ -412,8 +448,9 @@
    "end": 38022,
    "dur": 3.3,
    "speaker": "Gillian",
-   "en": "Fine. Rock-paper-scissors it is.",
-   "enabled": true
+   "en": "Ладно. Камень-ножницы-бумага.",
+   "enabled": true,
+   "en_src": "Fine. Rock-paper-scissors it is."
   },
   {
    "id": "B1E0_f67_0b",
@@ -423,8 +460,9 @@
    "end": 38270,
    "dur": 3.3,
    "speaker": "Gillian",
-   "en": "But can you play, Metal?",
-   "enabled": true
+   "en": "Но ты-то умеешь играть, Метал?",
+   "enabled": true,
+   "en_src": "But can you play, Metal?"
   },
   {
    "id": "B1E0_f68_0",
@@ -434,8 +472,9 @@
    "end": 38766,
    "dur": 3.2,
    "speaker": "Metal Gear",
-   "en": "Leave it to me. I'm prepared for anything at times like this.",
-   "enabled": true
+   "en": "Положись на меня. На такой случай я готов ко всему.",
+   "enabled": true,
+   "en_src": "Leave it to me. I'm prepared for anything at times like this."
   },
   {
    "id": "B1E0_f69_0",
@@ -445,8 +484,9 @@
    "end": 39278,
    "dur": 3.3,
    "speaker": "Metal Gear",
-   "en": "All right, a fair match. No cheating!",
-   "enabled": true
+   "en": "Итак, играем честно. Без жульничества!",
+   "enabled": true,
+   "en_src": "All right, a fair match. No cheating!"
   },
   {
    "id": "B1E0_f70_0",
@@ -456,8 +496,9 @@
    "end": 39598,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "I promise. I'm a cop, after all.",
-   "enabled": true
+   "en": "Обещаю. Я же коп.",
+   "enabled": true,
+   "en_src": "I promise. I'm a cop, after all."
   },
   {
    "id": "B1E0_f71_0",
@@ -467,8 +508,9 @@
    "end": 40062,
    "dur": 3.0,
    "speaker": "Randam",
-   "en": "You two are unbelievable. At a time like this!",
-   "enabled": true
+   "en": "Вы двое невозможны. Нашли время!",
+   "enabled": true,
+   "en_src": "You two are unbelievable. At a time like this!"
   },
   {
    "id": "B1E0_f72_0",
@@ -478,8 +520,9 @@
    "end": 40494,
    "dur": 2.8,
    "speaker": "Metal Gear",
-   "en": "All right. Rock, paper, scissors!",
-   "enabled": true
+   "en": "Итак. Камень, ножницы, бумага!",
+   "enabled": true,
+   "en_src": "All right. Rock, paper, scissors!"
   },
   {
    "id": "B1E0_f73_0",
@@ -489,8 +532,9 @@
    "end": 41038,
    "dur": 3.5,
    "speaker": "Randam",
-   "en": "Ha! I win!",
-   "enabled": true
+   "en": "Ха! Я выиграл!",
+   "enabled": true,
+   "en_src": "Ha! I win!"
   },
   {
    "id": "B1E0_f74_0",
@@ -500,8 +544,9 @@
    "end": 41838,
    "dur": 10.4,
    "speaker": "Metal Gear",
-   "en": "Wait, wait, wait! That round doesn't count. Gillian didn't play.",
-   "enabled": true
+   "en": "Стоп-стоп-стоп! Не считается. Гиллиан не сыграл.",
+   "enabled": true,
+   "en_src": "Wait, wait, wait! That round doesn't count. Gillian didn't play."
   },
   {
    "id": "B1E0_f75_0",
@@ -511,8 +556,9 @@
    "end": 42270,
    "dur": 2.8,
    "speaker": "Randam",
-   "en": "Come on, Gillian! What are you doing? Play like a man!",
-   "enabled": true
+   "en": "Гиллиан, ты чего? Играй как мужик!",
+   "enabled": true,
+   "en_src": "Come on, Gillian! What are you doing? Play like a man!"
   },
   {
    "id": "B1E0_f76_0",
@@ -522,8 +568,9 @@
    "end": 42414,
    "dur": 0.9,
    "speaker": "Gillian",
-   "en": "Sorry, sorry.",
-   "enabled": true
+   "en": "Прости, прости.",
+   "enabled": true,
+   "en_src": "Sorry, sorry."
   },
   {
    "id": "B1E0_f77_0",
@@ -533,8 +580,9 @@
    "end": 42796,
    "dur": 2.4,
    "speaker": "Metal Gear",
-   "en": "Once more, a fair match!",
-   "enabled": true
+   "en": "Ещё раз, честно!",
+   "enabled": true,
+   "en_src": "Once more, a fair match!"
   },
   {
    "id": "B1E0_f77_0b",
@@ -544,9 +592,10 @@
    "end": 43102,
    "dur": 1.5,
    "speaker": "Metal Gear",
-   "en": "Rock, paper, scissors!",
+   "en": "Камень, ножницы, бумага!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Rock, paper, scissors!"
   }
  ]
 }

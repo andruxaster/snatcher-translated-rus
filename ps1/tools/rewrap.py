@@ -36,6 +36,7 @@ sys.path[:0] = [os.path.join(ROOT, d) for d in ('lib', 'lib/asr', 'ps1/tools', '
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 from pairfont import PairFont
+from textcodec import is_narrow
 
 TR = os.path.join(ROOT, "ps1/translation")
 
@@ -60,7 +61,7 @@ def cells(s):
     i = 0
     while i < len(s):
         ch = s[i]
-        if ord(ch) < 0x80:
+        if is_narrow(ch):
             run += ch
         else:
             n += _run_cells(run)

@@ -16,8 +16,9 @@
    "end": 3004,
    "dur": 3.9,
    "speaker": "Jamie",
-   "en": "Dr. Petrovich Madnar, a robotics specialist.",
-   "enabled": true
+   "en": "Доктор Петрович Мэднар, специалист по робототехнике.",
+   "enabled": true,
+   "en_src": "Dr. Petrovich Madnar, a robotics specialist."
   },
   {
    "id": "B260_c11f1b",
@@ -27,8 +28,9 @@
    "end": 3883,
    "dur": 5.6,
    "speaker": "Jamie",
-   "en": "His son Elijah Madnar, genetic engineering and microbiology.",
-   "enabled": true
+   "en": "Его сын Элайджа Мэднар - генная инженерия и микробиология.",
+   "enabled": true,
+   "en_src": "His son Elijah Madnar, genetic engineering and microbiology."
   },
   {
    "id": "B260_c11f1c",
@@ -38,8 +40,9 @@
    "end": 4349,
    "dur": 2.8,
    "speaker": "Jamie",
-   "en": "My fields were nanobiology and picobiology.",
-   "enabled": true
+   "en": "Моя область - нанобиология и пикобиология.",
+   "enabled": true,
+   "en_src": "My fields were nanobiology and picobiology."
   },
   {
    "id": "B260_c11f1d",
@@ -49,8 +52,9 @@
    "end": 5139,
    "dur": 3.8,
    "speaker": "Jamie",
-   "en": "Gillian, behavioral physiology and psychopathology.",
-   "enabled": true
+   "en": "Гиллиан - физиология поведения и психопатология.",
+   "enabled": true,
+   "en_src": "Gillian, behavioral physiology and psychopathology."
   },
   {
    "id": "B260_c11f2",
@@ -60,8 +64,9 @@
    "end": 6679,
    "dur": 10.4,
    "speaker": "Madnar",
-   "en": "You remember me? I am Elijah Madnar, Petrovich Madnar's only son.",
-   "enabled": true
+   "en": "Помните меня? Я Элайджа Мэднар, единственный сын Петровича.",
+   "enabled": true,
+   "en_src": "You remember me? I am Elijah Madnar, Petrovich Madnar's only son."
   },
   {
    "id": "B260_c11f2b",
@@ -71,8 +76,9 @@
    "end": 7859,
    "dur": 7.7,
    "speaker": "Madnar",
-   "en": "Elijah himself. Though I've grown old and frail.",
-   "enabled": true
+   "en": "Сам Элайджа. Хоть я и постарел, и одряхлел.",
+   "enabled": true,
+   "en_src": "Elijah himself. Though I've grown old and frail."
   },
   {
    "id": "B260_c11f3",
@@ -82,8 +88,9 @@
    "end": 8242,
    "dur": 2.6,
    "speaker": "Jamie",
-   "en": "Fifty years ago, we worked",
-   "enabled": true
+   "en": "Пятьдесят лет назад мы работали",
+   "enabled": true,
+   "en_src": "Fifty years ago, we worked"
   },
   {
    "id": "B260_c11f3b",
@@ -93,8 +100,9 @@
    "end": 8917,
    "dur": 4.3,
    "speaker": "Jamie",
-   "en": "on a top-secret project in the Soviet Union.",
-   "enabled": true
+   "en": "над сверхсекретным проектом в Советском Союзе.",
+   "enabled": true,
+   "en_src": "on a top-secret project in the Soviet Union."
   },
   {
    "id": "B260_c11f3d",
@@ -104,8 +112,9 @@
    "end": 9543,
    "dur": 3.1,
    "speaker": "Jamie",
-   "en": "The Cold War still divided East and West.",
-   "enabled": true
+   "en": "Холодная война всё ещё делила Восток и Запад.",
+   "enabled": true,
+   "en_src": "The Cold War still divided East and West."
   },
   {
    "id": "B260_c11f3db",
@@ -115,8 +124,9 @@
    "end": 9955,
    "dur": 2.8,
    "speaker": "Jamie",
-   "en": "Everyone lived in fear of nuclear war.",
-   "enabled": true
+   "en": "Все жили в страхе перед ядерной войной.",
+   "enabled": true,
+   "en_src": "Everyone lived in fear of nuclear war."
   },
   {
    "id": "B260_c11f4",
@@ -126,8 +136,9 @@
    "end": 10652,
    "dur": 4.6,
    "speaker": "Jamie",
-   "en": "The communist bloc was facing an economic crisis.",
-   "enabled": true
+   "en": "Соцлагерь переживал экономический кризис.",
+   "enabled": true,
+   "en_src": "The communist bloc was facing an economic crisis."
   },
   {
    "id": "B260_c11f4c",
@@ -137,8 +148,9 @@
    "end": 11445,
    "dur": 3.9,
    "speaker": "Jamie",
-   "en": "Democratic and nationalist movements were rising.",
-   "enabled": true
+   "en": "Набирали силу демократические и национальные движения.",
+   "enabled": true,
+   "en_src": "Democratic and nationalist movements were rising."
   },
   {
    "id": "B260_c11f4cb",
@@ -148,8 +160,9 @@
    "end": 11875,
    "dur": 2.9,
    "speaker": "Jamie",
-   "en": "The survival of socialism was at stake.",
-   "enabled": true
+   "en": "Под угрозой было само выживание социализма.",
+   "enabled": true,
+   "en_src": "The survival of socialism was at stake."
   },
   {
    "id": "B260_c11f5",
@@ -159,8 +172,9 @@
    "end": 12486,
    "dur": 4.0,
    "speaker": "Jamie",
-   "en": "A treaty to halt nuclear arms production was expected soon.",
-   "enabled": true
+   "en": "Вот-вот ждали договора о прекращении ядерных вооружений.",
+   "enabled": true,
+   "en_src": "A treaty to halt nuclear arms production was expected soon."
   },
   {
    "id": "B260_c11f5c",
@@ -170,8 +184,9 @@
    "end": 13164,
    "dur": 3.5,
    "speaker": "Jamie",
-   "en": "Meanwhile, America and the other military",
-   "enabled": true
+   "en": "А тем временем Америка и другие военные",
+   "enabled": true,
+   "en_src": "Meanwhile, America and the other military"
   },
   {
    "id": "B260_c11f5cb",
@@ -181,8 +196,9 @@
    "end": 13715,
    "dur": 3.7,
    "speaker": "Jamie",
-   "en": "powers were entering an arms race in space.",
-   "enabled": true
+   "en": "державы втягивались в гонку вооружений в космосе.",
+   "enabled": true,
+   "en_src": "powers were entering an arms race in space."
   },
   {
    "id": "B260_c11f6",
@@ -192,8 +208,9 @@
    "end": 14325,
    "dur": 4.0,
    "speaker": "Jamie",
-   "en": "The world's military balance had reached its limit.",
-   "enabled": true
+   "en": "Военный баланс мира дошёл до предела.",
+   "enabled": true,
+   "en_src": "The world's military balance had reached its limit."
   },
   {
    "id": "B260_c11f6c",
@@ -203,8 +220,9 @@
    "end": 14625,
    "dur": 1.1,
    "speaker": "Jamie",
-   "en": "It was a naive age.",
-   "enabled": true
+   "en": "Это была наивная эпоха.",
+   "enabled": true,
+   "en_src": "It was a naive age."
   },
   {
    "id": "B260_c11f6cb",
@@ -214,8 +232,9 @@
    "end": 15022,
    "dur": 2.5,
    "speaker": "Jamie",
-   "en": "The great powers' leaders believed military",
-   "enabled": true
+   "en": "Лидеры великих держав верили, что одна лишь",
+   "enabled": true,
+   "en_src": "The great powers' leaders believed military"
   },
   {
    "id": "B260_c11f6cc",
@@ -225,8 +244,9 @@
    "end": 15427,
    "dur": 2.6,
    "speaker": "Jamie",
-   "en": "force alone could make their nations stronger.",
-   "enabled": true
+   "en": "военная сила сделает их страны сильнее.",
+   "enabled": true,
+   "en_src": "force alone could make their nations stronger."
   },
   {
    "id": "B260_c11f7",
@@ -236,8 +256,9 @@
    "end": 15740,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "The Snatcher Project.",
-   "enabled": true
+   "en": "Проект \"Снатчер\".",
+   "enabled": true,
+   "en_src": "The Snatcher Project."
   },
   {
    "id": "B260_c11f7b",
@@ -247,8 +268,9 @@
    "end": 16401,
    "dur": 3.6,
    "speaker": "Gillian",
-   "en": "Secretly replace enemy VIPs with Kremlin puppets.",
-   "enabled": true
+   "en": "Тайно заменить важных лиц врага марионетками Кремля.",
+   "enabled": true,
+   "en_src": "Secretly replace enemy VIPs with Kremlin puppets."
   },
   {
    "id": "B260_c11f7bb",
@@ -258,8 +280,9 @@
    "end": 16730,
    "dur": 2.2,
    "speaker": "Gillian",
-   "en": "Control their politics and economies,",
-   "enabled": true
+   "en": "Управлять их политикой и экономикой",
+   "enabled": true,
+   "en_src": "Control their politics and economies,"
   },
   {
    "id": "B260_c11f7bc",
@@ -269,8 +292,9 @@
    "end": 17155,
    "dur": 2.9,
    "speaker": "Gillian",
-   "en": "and spread communism and socialism from within.",
-   "enabled": true
+   "en": "и насаждать коммунизм и социализм изнутри.",
+   "enabled": true,
+   "en_src": "and spread communism and socialism from within."
   },
   {
    "id": "B260_c11f8",
@@ -280,8 +304,9 @@
    "end": 17794,
    "dur": 4.3,
    "speaker": "Jamie",
-   "en": "They'd apparently been held here for three years",
-   "enabled": true
+   "en": "Похоже, их держали здесь три года,",
+   "enabled": true,
+   "en_src": "They'd apparently been held here for three years"
   },
   {
    "id": "B260_c11f8b",
@@ -291,8 +316,9 @@
    "end": 18739,
    "dur": 6.1,
    "speaker": "Jamie",
-   "en": "to develop artificial skin for the Snatchers. One was his own father.",
-   "enabled": true
+   "en": "чтобы создать кожу для снатчеров. Среди них - его отец.",
+   "enabled": true,
+   "en_src": "to develop artificial skin for the Snatchers. One was his own father."
   },
   {
    "id": "B260_c11f9",
@@ -302,8 +328,9 @@
    "end": 18967,
    "dur": 2.7,
    "speaker": "Jamie",
-   "en": "They gathered brilliant scientists",
-   "enabled": true
+   "en": "Для создания снатчеров собрали",
+   "enabled": true,
+   "en_src": "They gathered brilliant scientists"
   },
   {
    "id": "B260_c11f9b",
@@ -313,8 +340,9 @@
    "end": 19544,
    "dur": 3.8,
    "speaker": "Jamie",
-   "en": "from around the world to develop the Snatchers.",
-   "enabled": true
+   "en": "блестящих учёных со всего мира.",
+   "enabled": true,
+   "en_src": "from around the world to develop the Snatchers."
   },
   {
    "id": "B260_c11f9c",
@@ -324,8 +352,9 @@
    "end": 20115,
    "dur": 2.6,
    "speaker": "Jamie",
-   "en": "Some were brought there by force.",
-   "enabled": true
+   "en": "Некоторых привезли силой.",
+   "enabled": true,
+   "en_src": "Some were brought there by force."
   },
   {
    "id": "B260_c11f10",
@@ -335,8 +364,9 @@
    "end": 20872,
    "dur": 4.9,
    "speaker": "Jamie",
-   "en": "Development began in Neo Akademgorodok, in Novosibirsk.",
-   "enabled": true
+   "en": "Разработка началась в Нео-Академгородке в Новосибирске.",
+   "enabled": true,
+   "en_src": "Development began in Neo Akademgorodok, in Novosibirsk."
   },
   {
    "id": "B260_c11f10c",
@@ -346,8 +376,9 @@
    "end": 21523,
    "dur": 3.8,
    "speaker": "Jamie",
-   "en": "Then it moved beneath the Kremlin.",
-   "enabled": true
+   "en": "Потом её перенесли под Кремль.",
+   "enabled": true,
+   "en_src": "Then it moved beneath the Kremlin."
   },
   {
    "id": "B260_c11f11",
@@ -357,8 +388,9 @@
    "end": 22280,
    "dur": 5.0,
    "speaker": "Jamie",
-   "en": "Perestroika and glasnost were fueling calls for democracy.",
-   "enabled": true
+   "en": "Перестройка и гласность подстёгивали тягу к демократии.",
+   "enabled": true,
+   "en_src": "Perestroika and glasnost were fueling calls for democracy."
   },
   {
    "id": "B260_c11f11c",
@@ -368,8 +400,9 @@
    "end": 22899,
    "dur": 3.1,
    "speaker": "Jamie",
-   "en": "So the conservatives hid us underground.",
-   "enabled": true
+   "en": "И консерваторы спрятали нас под землёй.",
+   "enabled": true,
+   "en_src": "So the conservatives hid us underground."
   },
   {
    "id": "B260_c11f12",
@@ -379,8 +412,9 @@
    "end": 23805,
    "dur": 5.9,
    "speaker": "Jamie",
-   "en": "You were an intelligence agent sent by the CIA, Gillian.",
-   "enabled": true
+   "en": "Ты был разведчиком, которого прислало ЦРУ, Гиллиан.",
+   "enabled": true,
+   "en_src": "You were an intelligence agent sent by the CIA, Gillian."
   },
   {
    "id": "B260_c11f12b",
@@ -390,8 +424,9 @@
    "end": 24355,
    "dur": 2.7,
    "speaker": "Jamie",
-   "en": "Your mission was to sabotage the project.",
-   "enabled": true
+   "en": "Твоей задачей было сорвать проект.",
+   "enabled": true,
+   "en_src": "Your mission was to sabotage the project."
   },
   {
    "id": "B260_c11f13",
@@ -401,8 +436,9 @@
    "end": 24904,
    "dur": 4.0,
    "speaker": "Jamie",
-   "en": "A huge explosion struck Chernoton Laboratory. The cause was unknown.",
-   "enabled": true
+   "en": "В лаборатории Чернотона прогремел взрыв. Причина неизвестна.",
+   "enabled": true,
+   "en_src": "A huge explosion struck Chernoton Laboratory. The cause was unknown."
   },
   {
    "id": "B260_c11f13b",
@@ -412,8 +448,9 @@
    "end": 25407,
    "dur": 3.1,
    "speaker": "Jamie",
-   "en": "A germ weapon under development escaped into the air.",
-   "enabled": true
+   "en": "Разрабатываемое биооружие вырвалось в воздух.",
+   "enabled": true,
+   "en_src": "A germ weapon under development escaped into the air."
   },
   {
    "id": "B260_c11f13c",
@@ -423,8 +460,9 @@
    "end": 25795,
    "dur": 2.4,
    "speaker": "Jamie",
-   "en": "It destroyed the country and the project.",
-   "enabled": true
+   "en": "Оно уничтожило страну и проект.",
+   "enabled": true,
+   "en_src": "It destroyed the country and the project."
   },
   {
    "id": "B260_c11f14",
@@ -434,8 +472,9 @@
    "end": 26341,
    "dur": 3.5,
    "speaker": "Jamie",
-   "en": "But the Kremlin's conservative tyrants thought differently.",
-   "enabled": true
+   "en": "Но консервативные тираны Кремля думали иначе.",
+   "enabled": true,
+   "en_src": "But the Kremlin's conservative tyrants thought differently."
   },
   {
    "id": "B260_c11f14b",
@@ -445,8 +484,9 @@
    "end": 26745,
    "dur": 1.9,
    "speaker": "Jamie",
-   "en": "They sought military supremacy",
-   "enabled": true
+   "en": "Они искали военного превосходства",
+   "enabled": true,
+   "en_src": "They sought military supremacy"
   },
   {
    "id": "B260_c11f14bb",
@@ -456,8 +496,9 @@
    "end": 27091,
    "dur": 2.3,
    "speaker": "Jamie",
-   "en": "through a completely different approach.",
-   "enabled": true
+   "en": "совсем другим путём.",
+   "enabled": true,
+   "en_src": "through a completely different approach."
   },
   {
    "id": "B260_c11f15",
@@ -467,8 +508,9 @@
    "end": 27349,
    "dur": 1.6,
    "speaker": "Jamie",
-   "en": "The reformers were gaining ground.",
-   "enabled": true
+   "en": "Реформаторы набирали силу.",
+   "enabled": true,
+   "en_src": "The reformers were gaining ground."
   },
   {
    "id": "B260_c11f15b",
@@ -478,8 +520,9 @@
    "end": 27700,
    "dur": 2.4,
    "speaker": "Jamie",
-   "en": "The Kremlin conservatives were desperate.",
-   "enabled": true
+   "en": "Консерваторы в Кремле были в отчаянии.",
+   "enabled": true,
+   "en_src": "The Kremlin conservatives were desperate."
   },
   {
    "id": "B260_c11f15c",
@@ -489,8 +532,9 @@
    "end": 28403,
    "dur": 3.7,
    "speaker": "Jamie",
-   "en": "So they launched that childish scheme.",
-   "enabled": true
+   "en": "И затеяли эту детскую авантюру.",
+   "enabled": true,
+   "en_src": "So they launched that childish scheme."
   },
   {
    "id": "B260_c11f16",
@@ -500,8 +544,9 @@
    "end": 29011,
    "dur": 3.9,
    "speaker": "Jamie",
-   "en": "We entered cold sleep in a shelter beneath the Kremlin,",
-   "enabled": true
+   "en": "Мы легли в криосон в убежище под Кремлём,",
+   "enabled": true,
+   "en_src": "We entered cold sleep in a shelter beneath the Kremlin,"
   },
   {
    "id": "B260_c11f16b",
@@ -511,8 +556,9 @@
    "end": 29571,
    "dur": 2.7,
    "speaker": "Jamie",
-   "en": "until the bacteria would become harmless.",
-   "enabled": true
+   "en": "пока бактерии не станут безвредны.",
+   "enabled": true,
+   "en_src": "until the bacteria would become harmless."
   },
   {
    "id": "B260_c11f17",
@@ -522,8 +568,9 @@
    "end": 30105,
    "dur": 3.5,
    "speaker": "Jamie",
-   "en": "Elijah, why would you do this?",
-   "enabled": true
+   "en": "Элайджа, зачем ты это делаешь?",
+   "enabled": true,
+   "en_src": "Elijah, why would you do this?"
   },
   {
    "id": "B260_c11f17b",
@@ -533,8 +580,9 @@
    "end": 30787,
    "dur": 3.6,
    "speaker": "Jamie",
-   "en": "Dr. Petrovich just died.",
-   "enabled": true
+   "en": "Доктор Петрович только что умер.",
+   "enabled": true,
+   "en_src": "Dr. Petrovich just died."
   },
   {
    "id": "B260_c11f18",
@@ -544,8 +592,9 @@
    "end": 31099,
    "dur": 2.0,
    "speaker": "Madnar",
-   "en": "What? My father?",
-   "enabled": true
+   "en": "Что? Мой отец?",
+   "enabled": true,
+   "en_src": "What? My father?"
   },
   {
    "id": "B260_c11f18b",
@@ -555,8 +604,9 @@
    "end": 31939,
    "dur": 4.6,
    "speaker": "Madnar",
-   "en": "I see. My father is dead.",
-   "enabled": true
+   "en": "Вот как. Мой отец умер.",
+   "enabled": true,
+   "en_src": "I see. My father is dead."
   },
   {
    "id": "B260_c11f19",
@@ -566,8 +616,9 @@
    "end": 32361,
    "dur": 3.1,
    "speaker": "Jamie",
-   "en": "During the chaos of the Catastrophe, Dr. Petrovich",
-   "enabled": true
+   "en": "В хаосе Катастрофы доктора Петровича",
+   "enabled": true,
+   "en_src": "During the chaos of the Catastrophe, Dr. Petrovich"
   },
   {
    "id": "B260_c11f19b",
@@ -577,8 +628,9 @@
    "end": 33059,
    "dur": 4.3,
    "speaker": "Jamie",
-   "en": "and our son Harry were miraculously rescued by the American government.",
-   "enabled": true
+   "en": "и нашего сына Гарри чудом спасло правительство США.",
+   "enabled": true,
+   "en_src": "and our son Harry were miraculously rescued by the American government."
   },
   {
    "id": "B260_c11f20",
@@ -588,8 +640,9 @@
    "end": 33987,
    "dur": 6.1,
    "speaker": "Jamie",
-   "en": "Don't you remember Dr. Petrovich? Dr. Petrovich Madnar.",
-   "enabled": true
+   "en": "Ты не помнишь доктора Петровича? Петровича Мэднара.",
+   "enabled": true,
+   "en_src": "Don't you remember Dr. Petrovich? Dr. Petrovich Madnar."
   },
   {
    "id": "B260_c11f21",
@@ -599,8 +652,9 @@
    "end": 34931,
    "dur": 6.1,
    "speaker": "Jamie",
-   "en": "At the top was our team: the Frankenstein Project team.",
-   "enabled": true
+   "en": "Во главе была наша группа - проект \"Франкенштейн\".",
+   "enabled": true,
+   "en_src": "At the top was our team: the Frankenstein Project team."
   },
   {
    "id": "B260_c11f22",
@@ -610,8 +664,9 @@
    "end": 35923,
    "dur": 6.5,
    "speaker": "Jamie",
-   "en": "Then, on June 6, 1991, the accident happened.",
-   "enabled": true
+   "en": "А 6 июня 1991 года случилась авария.",
+   "enabled": true,
+   "en_src": "Then, on June 6, 1991, the accident happened."
   },
   {
    "id": "B260_c11f23",
@@ -621,8 +676,9 @@
    "end": 36899,
    "dur": 6.4,
    "speaker": "Gillian",
-   "en": "Fifty years later, three years ago, the 17th expedition found us.",
-   "enabled": true
+   "en": "Через пятьдесят лет, три года назад, нас нашла 17-я экспедиция.",
+   "enabled": true,
+   "en_src": "Fifty years later, three years ago, the 17th expedition found us."
   },
   {
    "id": "B260_c11f24",
@@ -632,8 +688,9 @@
    "end": 37763,
    "dur": 5.7,
    "speaker": "Jamie",
-   "en": "All right, Gillian. I'll tell you about that terrible past.",
-   "enabled": true
+   "en": "Хорошо, Гиллиан. Я расскажу об этом страшном прошлом.",
+   "enabled": true,
+   "en_src": "All right, Gillian. I'll tell you about that terrible past."
   },
   {
    "id": "B260_c11f25",
@@ -643,8 +700,9 @@
    "end": 38611,
    "dur": 5.5,
    "speaker": "Jamie",
-   "en": "The reformers joined forces with America to stop the project.",
-   "enabled": true
+   "en": "Реформаторы объединились с Америкой, чтобы остановить проект.",
+   "enabled": true,
+   "en_src": "The reformers joined forces with America to stop the project."
   },
   {
    "id": "B260_c11f26",
@@ -654,8 +712,9 @@
    "end": 39443,
    "dur": 5.4,
    "speaker": "Madnar",
-   "en": "It's been a long time, Jamie. And you, Gillian.",
-   "enabled": true
+   "en": "Давно не виделись, Джейми. И ты, Гиллиан.",
+   "enabled": true,
+   "en_src": "It's been a long time, Jamie. And you, Gillian."
   },
   {
    "id": "B260_c11f27",
@@ -665,8 +724,9 @@
    "end": 40163,
    "dur": 4.7,
    "speaker": "Gillian",
-   "en": "Tell me, Jamie. Who am I? What were we doing in the Kremlin?",
-   "enabled": true
+   "en": "Скажи, Джейми. Кто я? Что мы делали в Кремле?",
+   "enabled": true,
+   "en_src": "Tell me, Jamie. Who am I? What were we doing in the Kremlin?"
   },
   {
    "id": "B260_c11f28",
@@ -676,8 +736,9 @@
    "end": 40947,
    "dur": 5.1,
    "speaker": "Jamie",
-   "en": "Four scientists led by Dr. Petrovich Madnar, who lies here now.",
-   "enabled": true
+   "en": "Четыре учёных во главе с доктором Петровичем, что лежит здесь.",
+   "enabled": true,
+   "en_src": "Four scientists led by Dr. Petrovich Madnar, who lies here now."
   },
   {
    "id": "B260_c11f29",
@@ -687,8 +748,9 @@
    "end": 41375,
    "dur": 2.7,
    "speaker": "Jamie",
-   "en": "Our government must know about that.",
-   "enabled": true
+   "en": "Наше правительство наверняка знает об этом.",
+   "enabled": true,
+   "en_src": "Our government must know about that."
   },
   {
    "id": "B260_c11f29b",
@@ -698,8 +760,9 @@
    "end": 41699,
    "dur": 2.2,
    "speaker": "Jamie",
-   "en": "That's why they assigned you to JUNKER.",
-   "enabled": true
+   "en": "Потому тебя и направили в ДЖАНКЕР.",
+   "enabled": true,
+   "en_src": "That's why they assigned you to JUNKER."
   },
   {
    "id": "B260_c12f1",
@@ -709,8 +772,9 @@
    "end": 2500,
    "dur": 1.8,
    "speaker": "Madnar",
-   "en": "I was happy.",
-   "enabled": true
+   "en": "Я был счастлив.",
+   "enabled": true,
+   "en_src": "I was happy."
   },
   {
    "id": "B260_c12f1b",
@@ -720,8 +784,9 @@
    "end": 4063,
    "dur": 9.1,
    "speaker": "Madnar",
-   "en": "Despite all the political turmoil, every day was fulfilling.",
-   "enabled": true
+   "en": "Несмотря на политические бури, каждый день был полон смысла.",
+   "enabled": true,
+   "en_src": "Despite all the political turmoil, every day was fulfilling."
   },
   {
    "id": "B260_c12f1c",
@@ -731,8 +796,9 @@
    "end": 5212,
    "dur": 6.6,
    "speaker": "Madnar",
-   "en": "My father trusted me. Jamie watched over me.",
-   "enabled": true
+   "en": "Отец доверял мне. Джейми опекала меня.",
+   "enabled": true,
+   "en_src": "My father trusted me. Jamie watched over me."
   },
   {
    "id": "B260_c12f1cb",
@@ -742,8 +808,9 @@
    "end": 6212,
    "dur": 6.7,
    "speaker": "Madnar",
-   "en": "I worked desperately to complete my research.",
-   "enabled": true
+   "en": "Я отчаянно работал, чтобы завершить исследования.",
+   "enabled": true,
+   "en_src": "I worked desperately to complete my research."
   },
   {
    "id": "B260_c12f2",
@@ -753,8 +820,9 @@
    "end": 6742,
    "dur": 3.1,
    "speaker": "Madnar",
-   "en": "I was still young,",
-   "enabled": true
+   "en": "Я был ещё молод,",
+   "enabled": true,
+   "en_src": "I was still young,"
   },
   {
    "id": "B260_c12f2b",
@@ -764,8 +832,9 @@
    "end": 7399,
    "dur": 4.3,
    "speaker": "Madnar",
-   "en": "an electronics research student just starting out.",
-   "enabled": true
+   "en": "начинающий студент-электронщик.",
+   "enabled": true,
+   "en_src": "an electronics research student just starting out."
   },
   {
    "id": "B260_c12f2c",
@@ -775,8 +844,9 @@
    "end": 8175,
    "dur": 7.0,
    "speaker": "Madnar",
-   "en": "My father's connections got me into the Snatcher Project.",
-   "enabled": true
+   "en": "По связям отца я попал в проект \"Снатчер\".",
+   "enabled": true,
+   "en_src": "My father's connections got me into the Snatcher Project."
   },
   {
    "id": "B260_c12f2d",
@@ -786,8 +856,9 @@
    "end": 8867,
    "dur": 2.6,
    "speaker": "Madnar",
-   "en": "That's where I met you, Jamie.",
-   "enabled": true
+   "en": "Там я и встретил тебя, Джейми.",
+   "enabled": true,
+   "en_src": "That's where I met you, Jamie."
   },
   {
    "id": "B260_c12f2e",
@@ -797,8 +868,9 @@
    "end": 9652,
    "dur": 5.9,
    "speaker": "Madnar",
-   "en": "You were my father Petrovich's assistant.",
-   "enabled": true
+   "en": "Ты была ассистенткой моего отца, Петровича.",
+   "enabled": true,
+   "en_src": "You were my father Petrovich's assistant."
   },
   {
    "id": "B260_c12f3",
@@ -808,8 +880,9 @@
    "end": 10975,
    "dur": 8.7,
    "speaker": "Madnar",
-   "en": "That's when I learned you were a CIA agent, Gillian.",
-   "enabled": true
+   "en": "Тогда я и узнал, что ты агент ЦРУ, Гиллиан.",
+   "enabled": true,
+   "en_src": "That's when I learned you were a CIA agent, Gillian."
   },
   {
    "id": "B260_c12f3c",
@@ -819,8 +892,9 @@
    "end": 11882,
    "dur": 5.2,
    "speaker": "Madnar",
-   "en": "And you, Gillian, were planning to secretly hand our research",
-   "enabled": true
+   "en": "А ты, Гиллиан, собирался тайно передать наши работы",
+   "enabled": true,
+   "en_src": "And you, Gillian, were planning to secretly hand our research"
   },
   {
    "id": "B260_c12f3cb",
@@ -830,8 +904,9 @@
    "end": 12318,
    "dur": 2.8,
    "speaker": "Madnar",
-   "en": "over to your country's military.",
-   "enabled": true
+   "en": "военным своей страны.",
+   "enabled": true,
+   "en_src": "over to your country's military."
   },
   {
    "id": "B260_c12f3f",
@@ -841,8 +916,9 @@
    "end": 12804,
    "dur": 2.2,
    "speaker": "Madnar",
-   "en": "It was a cash deal with your government.",
-   "enabled": true
+   "en": "Сделка за деньги с твоим правительством.",
+   "enabled": true,
+   "en_src": "It was a cash deal with your government."
   },
   {
    "id": "B260_c12f4",
@@ -852,8 +928,9 @@
    "end": 13898,
    "dur": 6.3,
    "speaker": "Madnar",
-   "en": "Artificial skin didn't need T lymphocytes,",
-   "enabled": true
+   "en": "Искусственной коже не нужны Т-лимфоциты,",
+   "enabled": true,
+   "en_src": "Artificial skin didn't need T lymphocytes,"
   },
   {
    "id": "B260_c12f4b",
@@ -863,8 +940,9 @@
    "end": 14610,
    "dur": 5.4,
    "speaker": "Madnar",
-   "en": "Langerhans cells or endocrine cells.",
-   "enabled": true
+   "en": "клетки Лангерганса и эндокринные клетки.",
+   "enabled": true,
+   "en_src": "Langerhans cells or endocrine cells."
   },
   {
    "id": "B260_c12f4c",
@@ -874,8 +952,9 @@
    "end": 15828,
    "dur": 8.3,
    "speaker": "Madnar",
-   "en": "We needed keratinocytes and pigment cells: melanocytes.",
-   "enabled": true
+   "en": "Нужны были кератиноциты и пигментные клетки - меланоциты.",
+   "enabled": true,
+   "en_src": "We needed keratinocytes and pigment cells: melanocytes."
   },
   {
    "id": "B260_c12f5",
@@ -885,8 +964,9 @@
    "end": 16292,
    "dur": 6.9,
    "speaker": "Madnar",
-   "en": "The reformist leaders wanted to hide this insane project.",
-   "enabled": true
+   "en": "Лидеры-реформаторы хотели скрыть этот безумный проект.",
+   "enabled": true,
+   "en_src": "The reformist leaders wanted to hide this insane project."
   },
   {
    "id": "B260_c12f5b",
@@ -896,8 +976,9 @@
    "end": 17633,
    "dur": 6.9,
    "speaker": "Madnar",
-   "en": "They ordered us to dispose of all our research materials.",
-   "enabled": true
+   "en": "Нам приказали уничтожить все материалы исследований.",
+   "enabled": true,
+   "en_src": "They ordered us to dispose of all our research materials."
   },
   {
    "id": "B260_c12f5c",
@@ -907,8 +988,9 @@
    "end": 18564,
    "dur": 4.5,
    "speaker": "Madnar",
-   "en": "Then they planned to put us on trial.",
-   "enabled": true
+   "en": "А потом нас собирались судить.",
+   "enabled": true,
+   "en_src": "Then they planned to put us on trial."
   },
   {
    "id": "B260_c12f6",
@@ -918,8 +1000,9 @@
    "end": 19177,
    "dur": 4.0,
    "speaker": "Madnar",
-   "en": "The bioroids were 80 percent complete.",
-   "enabled": true
+   "en": "Биороиды были готовы на 80 процентов.",
+   "enabled": true,
+   "en_src": "The bioroids were 80 percent complete."
   },
   {
    "id": "B260_c12f6b",
@@ -929,8 +1012,9 @@
    "end": 19819,
    "dur": 3.3,
    "speaker": "Madnar",
-   "en": "The core endoskeleton was nearly finished.",
-   "enabled": true
+   "en": "Основной эндоскелет был почти готов,",
+   "enabled": true,
+   "en_src": "The core endoskeleton was nearly finished."
   },
   {
    "id": "B260_c12f6bb",
@@ -940,8 +1024,9 @@
    "end": 20519,
    "dur": 4.7,
    "speaker": "Madnar",
-   "en": "but the artificial skin was not.",
-   "enabled": true
+   "en": "но искусственная кожа - нет.",
+   "enabled": true,
+   "en_src": "but the artificial skin was not."
   },
   {
    "id": "B260_c12f6e",
@@ -951,8 +1036,9 @@
    "end": 21364,
    "dur": 4.6,
    "speaker": "Madnar",
-   "en": "That was my work, and Jamie's.",
-   "enabled": true
+   "en": "Это была моя работа и работа Джейми.",
+   "enabled": true,
+   "en_src": "That was my work, and Jamie's."
   },
   {
    "id": "B260_c12f7",
@@ -962,8 +1048,9 @@
    "end": 22038,
    "dur": 4.3,
    "speaker": "Madnar",
-   "en": "Artificial protein technology was too limited back then.",
-   "enabled": true
+   "en": "Синтез белка тогда был слишком несовершенен.",
+   "enabled": true,
+   "en_src": "Artificial protein technology was too limited back then."
   },
   {
    "id": "B260_c12f7b",
@@ -973,8 +1060,9 @@
    "end": 22571,
    "dur": 3.6,
    "speaker": "Madnar",
-   "en": "Synthesizing real cells was extremely difficult.",
-   "enabled": true
+   "en": "Синтезировать настоящие клетки было крайне трудно.",
+   "enabled": true,
+   "en_src": "Synthesizing real cells was extremely difficult."
   },
   {
    "id": "B260_c12f7d",
@@ -984,8 +1072,9 @@
    "end": 23572,
    "dur": 5.7,
    "speaker": "Madnar",
-   "en": "Research like that took years.",
-   "enabled": true
+   "en": "Такие исследования шли годами.",
+   "enabled": true,
+   "en_src": "Research like that took years."
   },
   {
    "id": "B260_c12f8",
@@ -995,8 +1084,9 @@
    "end": 24630,
    "dur": 6.9,
    "speaker": "Madnar",
-   "en": "Fifty years ago in Moscow, I was obsessed.",
-   "enabled": true
+   "en": "Пятьдесят лет назад в Москве я был одержим.",
+   "enabled": true,
+   "en_src": "Fifty years ago in Moscow, I was obsessed."
   },
   {
    "id": "B260_c12f8b",
@@ -1006,8 +1096,9 @@
    "end": 25700,
    "dur": 6.1,
    "speaker": "Madnar",
-   "en": "With my research, and with you, Jamie.",
-   "enabled": true
+   "en": "Своими исследованиями - и тобой, Джейми.",
+   "enabled": true,
+   "en_src": "With my research, and with you, Jamie."
   },
   {
    "id": "B260_c12f9",
@@ -1017,8 +1108,9 @@
    "end": 26371,
    "dur": 4.4,
    "speaker": "Madnar",
-   "en": "Even so, my feelings only grew stronger.",
-   "enabled": true
+   "en": "И всё же мои чувства только росли.",
+   "enabled": true,
+   "en_src": "Even so, my feelings only grew stronger."
   },
   {
    "id": "B260_c12f9b",
@@ -1028,8 +1120,9 @@
    "end": 27052,
    "dur": 3.1,
    "speaker": "Madnar",
-   "en": "My father worried about me.",
-   "enabled": true
+   "en": "Отец за меня беспокоился.",
+   "enabled": true,
+   "en_src": "My father worried about me."
   },
   {
    "id": "B260_c12f9bb",
@@ -1039,8 +1132,9 @@
    "end": 27732,
    "dur": 4.5,
    "speaker": "Madnar",
-   "en": "He tried to take me off the project, but I wouldn't let go.",
-   "enabled": true
+   "en": "Он пытался убрать меня из проекта, но я не уступил.",
+   "enabled": true,
+   "en_src": "He tried to take me off the project, but I wouldn't let go."
   },
   {
    "id": "B260_c12f10",
@@ -1050,8 +1144,9 @@
    "end": 28789,
    "dur": 6.9,
    "speaker": "Madnar",
-   "en": "Your beauty captivated me, Jamie. Your smile filled my heart.",
-   "enabled": true
+   "en": "Твоя красота пленила меня, Джейми. Улыбка наполняла сердце.",
+   "enabled": true,
+   "en_src": "Your beauty captivated me, Jamie. Your smile filled my heart."
   },
   {
    "id": "B260_c12f10b",
@@ -1061,8 +1156,9 @@
    "end": 29700,
    "dur": 5.1,
    "speaker": "Madnar",
-   "en": "You had something the women of the East didn't.",
-   "enabled": true
+   "en": "В тебе было то, чего не было у женщин Востока.",
+   "enabled": true,
+   "en_src": "You had something the women of the East didn't."
   },
   {
    "id": "B260_c12f11",
@@ -1072,8 +1168,9 @@
    "end": 30906,
    "dur": 7.9,
    "speaker": "Madnar",
-   "en": "I was young and withdrawn, but you slowly opened my heart.",
-   "enabled": true
+   "en": "Я был молод и замкнут, но ты понемногу открыла мне сердце.",
+   "enabled": true,
+   "en_src": "I was young and withdrawn, but you slowly opened my heart."
   },
   {
    "id": "B260_c12f11b",
@@ -1083,8 +1180,9 @@
    "end": 31716,
    "dur": 4.4,
    "speaker": "Madnar",
-   "en": "I couldn't stop my feelings.",
-   "enabled": true
+   "en": "Я не мог сдержать чувств.",
+   "enabled": true,
+   "en_src": "I couldn't stop my feelings."
   },
   {
    "id": "B260_c12f12",
@@ -1094,8 +1192,9 @@
    "end": 32104,
    "dur": 2.5,
    "speaker": "Madnar",
-   "en": "The Cold War between East and West ended.",
-   "enabled": true
+   "en": "Холодная война между Востоком и Западом закончилась.",
+   "enabled": true,
+   "en_src": "The Cold War between East and West ended."
   },
   {
    "id": "B260_c12f12b",
@@ -1105,8 +1204,9 @@
    "end": 32920,
    "dur": 3.3,
    "speaker": "Madnar",
-   "en": "The conservatives behind the project lost power.",
-   "enabled": true
+   "en": "Консерваторы, стоявшие за проектом, утратили власть.",
+   "enabled": true,
+   "en_src": "The conservatives behind the project lost power."
   },
   {
    "id": "B260_c12f12bb",
@@ -1116,8 +1216,9 @@
    "end": 33492,
    "dur": 3.9,
    "speaker": "Madnar",
-   "en": "The Frankenstein Project was canceled.",
-   "enabled": true
+   "en": "Проект \"Франкенштейн\" закрыли.",
+   "enabled": true,
+   "en_src": "The Frankenstein Project was canceled."
   },
   {
    "id": "B260_c12f13",
@@ -1127,8 +1228,9 @@
    "end": 34580,
    "dur": 7.1,
    "speaker": "Madnar",
-   "en": "I wasn't a politician. I didn't care what happened to the state.",
-   "enabled": true
+   "en": "Я не был политиком. Судьба государства меня не волновала.",
+   "enabled": true,
+   "en_src": "I wasn't a politician. I didn't care what happened to the state."
   },
   {
    "id": "B260_c12f13b",
@@ -1138,8 +1240,9 @@
    "end": 35284,
    "dur": 4.7,
    "speaker": "Madnar",
-   "en": "My research and Jamie were my whole world.",
-   "enabled": true
+   "en": "Исследования и Джейми были для меня всем.",
+   "enabled": true,
+   "en_src": "My research and Jamie were my whole world."
   },
   {
    "id": "B260_c12f14",
@@ -1149,8 +1252,9 @@
    "end": 35778,
    "dur": 3.0,
    "speaker": "Madnar",
-   "en": "You appeared, Gillian. You came into our lives.",
-   "enabled": true
+   "en": "Появился ты, Гиллиан. Ты вошёл в нашу жизнь.",
+   "enabled": true,
+   "en_src": "You appeared, Gillian. You came into our lives."
   },
   {
    "id": "B260_c12f14b",
@@ -1160,8 +1264,9 @@
    "end": 36884,
    "dur": 7.5,
    "speaker": "Madnar",
-   "en": "And everything fell apart.",
-   "enabled": true
+   "en": "И всё рухнуло.",
+   "enabled": true,
+   "en_src": "And everything fell apart."
   },
   {
    "id": "B260_c12f15",
@@ -1171,8 +1276,9 @@
    "end": 38388,
    "dur": 9.9,
    "speaker": "Madnar",
-   "en": "You and Jamie fell in love, married and had a child.",
-   "enabled": true
+   "en": "Вы с Джейми полюбили друг друга, поженились, родили ребёнка.",
+   "enabled": true,
+   "en_src": "You and Jamie fell in love, married and had a child."
   },
   {
    "id": "B260_c12f16",
@@ -1182,8 +1288,9 @@
    "end": 38839,
    "dur": 2.8,
    "speaker": "Madnar",
-   "en": "I was about to lose it all.",
-   "enabled": true
+   "en": "Я вот-вот должен был всё потерять.",
+   "enabled": true,
+   "en_src": "I was about to lose it all."
   },
   {
    "id": "B260_c12f16b",
@@ -1193,8 +1300,9 @@
    "end": 39876,
    "dur": 7.0,
    "speaker": "Madnar",
-   "en": "You can't imagine the shock that was to a young man.",
-   "enabled": true
+   "en": "Ты не представляешь, каким ударом это было для юноши.",
+   "enabled": true,
+   "en_src": "You can't imagine the shock that was to a young man."
   },
   {
    "id": "B260_c12f17",
@@ -1204,8 +1312,9 @@
    "end": 40102,
    "dur": 3.0,
    "speaker": "Madnar",
-   "en": "That year, the wave of democracy",
-   "enabled": true
+   "en": "В тот год волна демократии,",
+   "enabled": true,
+   "en_src": "That year, the wave of democracy"
   },
   {
    "id": "B260_c12f17b",
@@ -1215,8 +1324,9 @@
    "end": 41140,
    "dur": 5.2,
    "speaker": "Madnar",
-   "en": "that swept Eastern Europe spread throughout our country.",
-   "enabled": true
+   "en": "охватившая Восточную Европу, дошла и до нас.",
+   "enabled": true,
+   "en_src": "that swept Eastern Europe spread throughout our country."
   },
   {
    "id": "B260_c12f18",
@@ -1226,8 +1336,9 @@
    "end": 42372,
    "dur": 8.1,
    "speaker": "Madnar",
-   "en": "But even that small happiness didn't last.",
-   "enabled": true
+   "en": "Но даже это маленькое счастье длилось недолго.",
+   "enabled": true,
+   "en_src": "But even that small happiness didn't last."
   },
   {
    "id": "B260_c12f19",
@@ -1237,8 +1348,9 @@
    "end": 43386,
    "dur": 5.7,
    "speaker": "Madnar",
-   "en": "Far from home, Jamie quickly grew close to Gillian,",
-   "enabled": true
+   "en": "Вдали от дома Джейми быстро сблизилась с Гиллианом,",
+   "enabled": true,
+   "en_src": "Far from home, Jamie quickly grew close to Gillian,"
   },
   {
    "id": "B260_c12f19b",
@@ -1248,8 +1360,9 @@
    "end": 43604,
    "dur": 2.4,
    "speaker": "Madnar",
-   "en": "her fellow countryman.",
-   "enabled": true
+   "en": "своим соотечественником.",
+   "enabled": true,
+   "en_src": "her fellow countryman."
   },
   {
    "id": "B260_c13f1",
@@ -1259,8 +1372,9 @@
    "end": 3614,
    "dur": 8.0,
    "speaker": "Madnar",
-   "en": "The original plan was to Snatch an entire country at once.",
-   "enabled": true
+   "en": "По изначальному плану подменить нужно было целую страну сразу.",
+   "enabled": true,
+   "en_src": "The original plan was to Snatch an entire country at once."
   },
   {
    "id": "B260_c13f1d",
@@ -1270,8 +1384,9 @@
    "end": 5349,
    "dur": 10.5,
    "speaker": "Madnar",
-   "en": "We had to replace a whole nation or city in a single night.",
-   "enabled": true
+   "en": "Заменить народ или город за одну ночь.",
+   "enabled": true,
+   "en_src": "We had to replace a whole nation or city in a single night."
   },
   {
    "id": "B260_c13f2",
@@ -1281,8 +1396,9 @@
    "end": 6111,
    "dur": 5.0,
    "speaker": "Madnar",
-   "en": "Neo Kobe was cut off from the outside world.",
-   "enabled": true
+   "en": "Нео-Кобе был отрезан от внешнего мира.",
+   "enabled": true,
+   "en_src": "Neo Kobe was cut off from the outside world."
   },
   {
    "id": "B260_c13f2b",
@@ -1292,8 +1408,9 @@
    "end": 6857,
    "dur": 4.6,
    "speaker": "Madnar",
-   "en": "Ideal for simulating a miniature nation.",
-   "enabled": true
+   "en": "Идеально для модели страны в миниатюре.",
+   "enabled": true,
+   "en_src": "Ideal for simulating a miniature nation."
   },
   {
    "id": "B260_c13f2c",
@@ -1303,8 +1420,9 @@
    "end": 7552,
    "dur": 4.9,
    "speaker": "Madnar",
-   "en": "Its mix of ethnic groups also made it ideal",
-   "enabled": true
+   "en": "А смесь народов делала его идеальным",
+   "enabled": true,
+   "en_src": "Its mix of ethnic groups also made it ideal"
   },
   {
    "id": "B260_c13f2d",
@@ -1314,8 +1432,9 @@
    "end": 8341,
    "dur": 5.5,
    "speaker": "Madnar",
-   "en": "for gathering a wide range of data on Snatching.",
-   "enabled": true
+   "en": "для сбора самых разных данных о подмене.",
+   "enabled": true,
+   "en_src": "for gathering a wide range of data on Snatching."
   },
   {
    "id": "B260_c13f3",
@@ -1325,8 +1444,9 @@
    "end": 9058,
    "dur": 4.4,
    "speaker": "Madnar",
-   "en": "After I sealed off the institute, I entered cold sleep in an",
-   "enabled": true
+   "en": "Опечатав институт, я лёг в криосон в убежище",
+   "enabled": true,
+   "en_src": "After I sealed off the institute, I entered cold sleep in an"
   },
   {
    "id": "B260_c13f3b",
@@ -1336,8 +1456,9 @@
    "end": 9663,
    "dur": 4.3,
    "speaker": "Madnar",
-   "en": "underground shelter with you two, who had failed to escape.",
-   "enabled": true
+   "en": "вместе с вами двумя - вы не успели бежать.",
+   "enabled": true,
+   "en_src": "underground shelter with you two, who had failed to escape."
   },
   {
    "id": "B260_c13f3c",
@@ -1347,8 +1468,9 @@
    "end": 10132,
    "dur": 3.3,
    "speaker": "Madnar",
-   "en": "I left a satellite to monitor the atmosphere.",
-   "enabled": true
+   "en": "Я оставил спутник следить за атмосферой.",
+   "enabled": true,
+   "en_src": "I left a satellite to monitor the atmosphere."
   },
   {
    "id": "B260_c13f3g",
@@ -1358,8 +1480,9 @@
    "end": 10834,
    "dur": 3.5,
    "speaker": "Madnar",
-   "en": "We would wake automatically",
-   "enabled": true
+   "en": "Мы должны были проснуться сами,",
+   "enabled": true,
+   "en_src": "We would wake automatically"
   },
   {
    "id": "B260_c13f3gb",
@@ -1369,8 +1492,9 @@
    "end": 11109,
    "dur": 1.8,
    "speaker": "Madnar",
-   "en": "when Lucifer Alpha became harmless.",
-   "enabled": true
+   "en": "когда \"Люцифер-Альфа\" станет безвреден.",
+   "enabled": true,
+   "en_src": "when Lucifer Alpha became harmless."
   },
   {
    "id": "B260_c13f4",
@@ -1380,8 +1504,9 @@
    "end": 12198,
    "dur": 7.2,
    "speaker": "Madnar",
-   "en": "And back then, I couldn't have persuaded Jamie.",
-   "enabled": true
+   "en": "К тому же тогда я не смог бы убедить Джейми.",
+   "enabled": true,
+   "en_src": "And back then, I couldn't have persuaded Jamie."
   },
   {
    "id": "B260_c13f4b",
@@ -1391,8 +1516,9 @@
    "end": 13605,
    "dur": 7.6,
    "speaker": "Madnar",
-   "en": "It wasn't time yet. I reset your timers to infinity.",
-   "enabled": true
+   "en": "Время ещё не пришло. Я поставил ваши таймеры на бесконечность.",
+   "enabled": true,
+   "en_src": "It wasn't time yet. I reset your timers to infinity."
   },
   {
    "id": "B260_c13f5",
@@ -1402,8 +1528,9 @@
    "end": 14664,
    "dur": 7.0,
    "speaker": "Madnar",
-   "en": "But Jamie was always sleeping beside me.",
-   "enabled": true
+   "en": "Но Джейми всегда спала рядом со мной.",
+   "enabled": true,
+   "en_src": "But Jamie was always sleeping beside me."
   },
   {
    "id": "B260_c13f5b",
@@ -1413,8 +1540,9 @@
    "end": 15559,
    "dur": 5.0,
    "speaker": "Madnar",
-   "en": "I spoke to you for forty years,",
-   "enabled": true
+   "en": "Сорок лет я разговаривал с тобой",
+   "enabled": true,
+   "en_src": "I spoke to you for forty years,"
   },
   {
    "id": "B260_c13f5c",
@@ -1424,8 +1552,9 @@
    "end": 16149,
    "dur": 2.9,
    "speaker": "Madnar",
-   "en": "in that dark underground shelter.",
-   "enabled": true
+   "en": "в том тёмном подземном убежище.",
+   "enabled": true,
+   "en_src": "in that dark underground shelter."
   },
   {
    "id": "B260_c13f6",
@@ -1435,8 +1564,9 @@
    "end": 17344,
    "dur": 8.0,
    "speaker": "Madnar",
-   "en": "For forty years, I worked alone in the darkness beneath",
-   "enabled": true
+   "en": "Сорок лет я один работал во тьме под Кремлём,",
+   "enabled": true,
+   "en_src": "For forty years, I worked alone in the darkness beneath"
   },
   {
    "id": "B260_c13f6b",
@@ -1446,8 +1576,9 @@
    "end": 18549,
    "dur": 7.9,
    "speaker": "Madnar",
-   "en": "the Kremlin, developing the bioroids' artificial skin.",
-   "enabled": true
+   "en": "создавая искусственную кожу биороидов.",
+   "enabled": true,
+   "en_src": "the Kremlin, developing the bioroids' artificial skin."
   },
   {
    "id": "B260_c13f7",
@@ -1457,8 +1588,9 @@
    "end": 20757,
    "dur": 14.7,
    "speaker": "Madnar",
-   "en": "No, it worked. I woke exactly ten years later. Before you two, Gillian.",
-   "enabled": true
+   "en": "Нет, всё сработало. Я проснулся ровно через десять лет. Раньше вас.",
+   "enabled": true,
+   "en_src": "No, it worked. I woke exactly ten years later. Before you two, Gillian."
   },
   {
    "id": "B260_c13f8",
@@ -1468,8 +1600,9 @@
    "end": 21414,
    "dur": 4.2,
    "speaker": "Madnar",
-   "en": "I planned to wake only Jamie,",
-   "enabled": true
+   "en": "Я хотел разбудить только Джейми,",
+   "enabled": true,
+   "en_src": "I planned to wake only Jamie,"
   },
   {
    "id": "B260_c13f8b",
@@ -1479,8 +1612,9 @@
    "end": 22113,
    "dur": 4.7,
    "speaker": "Madnar",
-   "en": "so we could finish the bioroids together.",
-   "enabled": true
+   "en": "чтобы вместе закончить биороидов.",
+   "enabled": true,
+   "en_src": "so we could finish the bioroids together."
   },
   {
    "id": "B260_c13f8d",
@@ -1490,8 +1624,9 @@
    "end": 22965,
    "dur": 4.7,
    "speaker": "Madnar",
-   "en": "You would sleep forever, Gillian.",
-   "enabled": true
+   "en": "А ты, Гиллиан, спал бы вечно.",
+   "enabled": true,
+   "en_src": "You would sleep forever, Gillian."
   },
   {
    "id": "B260_c13f9",
@@ -1501,8 +1636,9 @@
    "end": 23558,
    "dur": 9.5,
    "speaker": "Madnar",
-   "en": "On June 6, I acted, after moving the bioroid research materials",
-   "enabled": true
+   "en": "6 июня я начал действовать, перенеся материалы по биороидам",
+   "enabled": true,
+   "en_src": "On June 6, I acted, after moving the bioroid research materials"
   },
   {
    "id": "B260_c13f9b",
@@ -1512,8 +1648,9 @@
    "end": 25045,
    "dur": 4.4,
    "speaker": "Madnar",
-   "en": "and records into the shelter.",
-   "enabled": true
+   "en": "и записи в убежище.",
+   "enabled": true,
+   "en_src": "and records into the shelter."
   },
   {
    "id": "B260_c13f10",
@@ -1523,8 +1660,9 @@
    "end": 25968,
    "dur": 6.4,
    "speaker": "Madnar",
-   "en": "So another team was developing a germ weapon alongside the Snatchers.",
-   "enabled": true
+   "en": "Значит, параллельно со снатчерами другая группа создавала биооружие.",
+   "enabled": true,
+   "en_src": "So another team was developing a germ weapon alongside the Snatchers."
   },
   {
    "id": "B260_c13f10b",
@@ -1534,8 +1672,9 @@
    "end": 26460,
    "dur": 2.3,
    "speaker": "Madnar",
-   "en": "Reliable and fast-acting,",
-   "enabled": true
+   "en": "Надёжное и быстродействующее,",
+   "enabled": true,
+   "en_src": "Reliable and fast-acting,"
   },
   {
    "id": "B260_c13f10c",
@@ -1545,8 +1684,9 @@
    "end": 27029,
    "dur": 4.4,
    "speaker": "Madnar",
-   "en": "able to kill an entire population in an instant.",
-   "enabled": true
+   "en": "способное мгновенно убить всё население.",
+   "enabled": true,
+   "en_src": "able to kill an entire population in an instant."
   },
   {
    "id": "B260_c13f11",
@@ -1556,8 +1696,9 @@
    "end": 28533,
    "dur": 9.9,
    "speaker": "Madnar",
-   "en": "Day after day, no visitors. No sunlight.",
-   "enabled": true
+   "en": "День за днём - ни гостей. Ни солнца.",
+   "enabled": true,
+   "en_src": "Day after day, no visitors. No sunlight."
   },
   {
    "id": "B260_c13f11b",
@@ -1567,8 +1708,9 @@
    "end": 28997,
    "dur": 3.1,
    "speaker": "Madnar",
-   "en": "No changing colors of the seasons.",
-   "enabled": true
+   "en": "Ни смены времён года.",
+   "enabled": true,
+   "en_src": "No changing colors of the seasons."
   },
   {
    "id": "B260_c13f12",
@@ -1578,8 +1720,9 @@
    "end": 30613,
    "dur": 10.6,
    "speaker": "Madnar",
-   "en": "Exactly. The RA011 virus, developed by another team.",
-   "enabled": true
+   "en": "Именно. Вирус RA011, созданный другой группой.",
+   "enabled": true,
+   "en_src": "Exactly. The RA011 virus, developed by another team."
   },
   {
    "id": "B260_c13f13",
@@ -1589,8 +1732,9 @@
    "end": 32277,
    "dur": 11.0,
    "speaker": "Madnar",
-   "en": "I chose Neo Kobe City as my first test of the Snatchers.",
-   "enabled": true
+   "en": "Первым испытанием снатчеров я выбрал Нео-Кобе.",
+   "enabled": true,
+   "en_src": "I chose Neo Kobe City as my first test of the Snatchers."
   },
   {
    "id": "B260_c13f14",
@@ -1600,8 +1744,9 @@
    "end": 33749,
    "dur": 9.7,
    "speaker": "Madnar",
-   "en": "But I couldn't do it. Not with Jamie sleeping so peacefully.",
-   "enabled": true
+   "en": "Но я не смог. Не когда Джейми спала так мирно.",
+   "enabled": true,
+   "en_src": "But I couldn't do it. Not with Jamie sleeping so peacefully."
   },
   {
    "id": "B260_c13f15",
@@ -1611,8 +1756,9 @@
    "end": 34683,
    "dur": 6.0,
    "speaker": "Madnar",
-   "en": "Yes. I found my father in a government hospital.",
-   "enabled": true
+   "en": "Да. Я нашёл отца в государственной больнице.",
+   "enabled": true,
+   "en_src": "Yes. I found my father in a government hospital."
   },
   {
    "id": "B260_c13f15b",
@@ -1622,8 +1768,9 @@
    "end": 35253,
    "dur": 3.9,
    "speaker": "Madnar",
-   "en": "He was old, but his mind was sharp.",
-   "enabled": true
+   "en": "Он был стар, но ум его был ясен.",
+   "enabled": true,
+   "en_src": "He was old, but his mind was sharp."
   },
   {
    "id": "B260_c13f16",
@@ -1633,8 +1780,9 @@
    "end": 35965,
    "dur": 4.2,
    "speaker": "Madnar",
-   "en": "First, I Snatched the Siberian search team",
-   "enabled": true
+   "en": "Сначала я подменил Сибирскую экспедицию,",
+   "enabled": true,
+   "en_src": "First, I Snatched the Siberian search team"
   },
   {
    "id": "B260_c13f16b",
@@ -1644,8 +1792,9 @@
    "end": 36613,
    "dur": 4.8,
    "speaker": "Madnar",
-   "en": "to secure a route for transporting the bioroids.",
-   "enabled": true
+   "en": "чтобы наладить путь для перевозки биороидов.",
+   "enabled": true,
+   "en_src": "to secure a route for transporting the bioroids."
   },
   {
    "id": "B260_c13f17",
@@ -1655,8 +1804,9 @@
    "end": 37296,
    "dur": 4.5,
    "speaker": "Madnar",
-   "en": "Another reason was Japanese culture itself,",
-   "enabled": true
+   "en": "Другой причиной была сама японская культура",
+   "enabled": true,
+   "en_src": "Another reason was Japanese culture itself,"
   },
   {
    "id": "B260_c13f17b",
@@ -1666,8 +1816,9 @@
    "end": 38005,
    "dur": 4.7,
    "speaker": "Madnar",
-   "en": "with its deep suspicion of others.",
-   "enabled": true
+   "en": "с её глубокой подозрительностью к чужим.",
+   "enabled": true,
+   "en_src": "with its deep suspicion of others."
   },
   {
    "id": "B260_c13f18",
@@ -1677,8 +1828,9 @@
    "end": 38974,
    "dur": 6.4,
    "speaker": "Madnar",
-   "en": "I gathered data and tried to find a solution.",
-   "enabled": true
+   "en": "Я собирал данные и искал решение.",
+   "enabled": true,
+   "en_src": "I gathered data and tried to find a solution."
   },
   {
    "id": "B260_c13f18b",
@@ -1688,8 +1840,9 @@
    "end": 39461,
    "dur": 3.2,
    "speaker": "Madnar",
-   "en": "But nothing worked.",
-   "enabled": true
+   "en": "Но ничего не выходило.",
+   "enabled": true,
+   "en_src": "But nothing worked."
   },
   {
    "id": "B260_c13f19",
@@ -1699,8 +1852,9 @@
    "end": 40661,
    "dur": 7.9,
    "speaker": "Madnar",
-   "en": "As an insider, I could easily blow up the laboratory.",
-   "enabled": true
+   "en": "Как свой, я легко мог взорвать лабораторию.",
+   "enabled": true,
+   "en_src": "As an insider, I could easily blow up the laboratory."
   },
   {
    "id": "B260_c13f20",
@@ -1710,8 +1864,9 @@
    "end": 41121,
    "dur": 3.0,
    "speaker": "Madnar",
-   "en": "Everything went according to plan.",
-   "enabled": true
+   "en": "Всё шло по плану.",
+   "enabled": true,
+   "en_src": "Everything went according to plan."
   },
   {
    "id": "B260_c13f20b",
@@ -1721,8 +1876,9 @@
    "end": 41861,
    "dur": 3.1,
    "speaker": "Madnar",
-   "en": "My real struggle began afterward.",
-   "enabled": true
+   "en": "Настоящая борьба началась потом.",
+   "enabled": true,
+   "en_src": "My real struggle began afterward."
   },
   {
    "id": "B260_c13f21",
@@ -1732,8 +1888,9 @@
    "end": 42247,
    "dur": 2.5,
    "speaker": "Madnar",
-   "en": "It was completely unexpected.",
-   "enabled": true
+   "en": "Это было полной неожиданностью.",
+   "enabled": true,
+   "en_src": "It was completely unexpected."
   },
   {
    "id": "B260_c13f21b",
@@ -1743,8 +1900,9 @@
    "end": 43013,
    "dur": 4.3,
    "speaker": "Madnar",
-   "en": "I'd spent forty years on that research.",
-   "enabled": true
+   "en": "Я потратил на эти исследования сорок лет.",
+   "enabled": true,
+   "en_src": "I'd spent forty years on that research."
   },
   {
    "id": "B260_c14f1",
@@ -1754,8 +1912,9 @@
    "end": 3462,
    "dur": 7.0,
    "speaker": "Madnar",
-   "en": "But a mistake put both you and Gillian in the government's hands.",
-   "enabled": true
+   "en": "Но по ошибке и ты, и Гиллиан попали в руки правительства.",
+   "enabled": true,
+   "en_src": "But a mistake put both you and Gillian in the government's hands."
   },
   {
    "id": "B260_c14f2",
@@ -1765,8 +1924,9 @@
    "end": 4086,
    "dur": 4.1,
    "speaker": "Gillian",
-   "en": "What are you planning? This won't bring Jamie back!",
-   "enabled": true
+   "en": "Что ты задумал? Джейми этим не вернёшь!",
+   "enabled": true,
+   "en_src": "What are you planning? This won't bring Jamie back!"
   },
   {
    "id": "B260_c14f3",
@@ -1776,8 +1936,9 @@
    "end": 4901,
    "dur": 5.3,
    "speaker": "Madnar",
-   "en": "I'm simply exploring what it means to be human.",
-   "enabled": true
+   "en": "Я лишь исследую, что значит быть человеком.",
+   "enabled": true,
+   "en_src": "I'm simply exploring what it means to be human."
   },
   {
    "id": "B260_c14f3b",
@@ -1787,8 +1948,9 @@
    "end": 5910,
    "dur": 6.7,
    "speaker": "Madnar",
-   "en": "Jamie may have inspired me once, but not anymore.",
-   "enabled": true
+   "en": "Когда-то Джейми меня вдохновляла, но не теперь.",
+   "enabled": true,
+   "en_src": "Jamie may have inspired me once, but not anymore."
   },
   {
    "id": "B260_c14f4",
@@ -1798,8 +1960,9 @@
    "end": 6230,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "Isn't that just a scientist's arrogance?",
-   "enabled": true
+   "en": "Разве это не просто гордыня учёного?",
+   "enabled": true,
+   "en_src": "Isn't that just a scientist's arrogance?"
   },
   {
    "id": "B260_c14f5",
@@ -1809,8 +1972,9 @@
    "end": 6617,
    "dur": 2.5,
    "speaker": "Madnar",
-   "en": "Humans are fragile.",
-   "enabled": true
+   "en": "Люди хрупки.",
+   "enabled": true,
+   "en_src": "Humans are fragile."
   },
   {
    "id": "B260_c14f5b",
@@ -1820,8 +1984,9 @@
    "end": 7167,
    "dur": 2.5,
    "speaker": "Madnar",
-   "en": "Even the strongest trust",
-   "enabled": true
+   "en": "Даже самое крепкое доверие",
+   "enabled": true,
+   "en_src": "Even the strongest trust"
   },
   {
    "id": "B260_c14f5c",
@@ -1831,8 +1996,9 @@
    "end": 7926,
    "dur": 3.8,
    "speaker": "Madnar",
-   "en": "crumbles under the slightest doubt.",
-   "enabled": true
+   "en": "рушится от малейшего сомнения.",
+   "enabled": true,
+   "en_src": "crumbles under the slightest doubt."
   },
   {
    "id": "B260_c14f6",
@@ -1842,8 +2008,9 @@
    "end": 8592,
    "dur": 4.3,
    "speaker": "Madnar",
-   "en": "Look how the Snatchers have shaken humanity.",
-   "enabled": true
+   "en": "Посмотри, как снатчеры потрясли человечество.",
+   "enabled": true,
+   "en_src": "Look how the Snatchers have shaken humanity."
   },
   {
    "id": "B260_c14f6b",
@@ -1853,8 +2020,9 @@
    "end": 9498,
    "dur": 5.2,
    "speaker": "Madnar",
-   "en": "For all our scientific progress and lofty ideals,",
-   "enabled": true
+   "en": "При всём прогрессе науки и высоких идеалах",
+   "enabled": true,
+   "en_src": "For all our scientific progress and lofty ideals,"
   },
   {
    "id": "B260_c14f6d",
@@ -1864,8 +2032,9 @@
    "end": 10486,
    "dur": 5.8,
    "speaker": "Madnar",
-   "en": "we still doubt, hate and kill each other.",
-   "enabled": true
+   "en": "мы всё так же сомневаемся, ненавидим, убиваем.",
+   "enabled": true,
+   "en_src": "we still doubt, hate and kill each other."
   },
   {
    "id": "B260_c14f7",
@@ -1875,8 +2044,9 @@
    "end": 11494,
    "dur": 6.6,
    "speaker": "Madnar",
-   "en": "Snatchers are merely tools that bring that out.",
-   "enabled": true
+   "en": "Снатчеры - лишь инструмент, который это проявляет.",
+   "enabled": true,
+   "en_src": "Snatchers are merely tools that bring that out."
   },
   {
    "id": "B260_c14f8",
@@ -1886,8 +2056,9 @@
    "end": 12726,
    "dur": 8.1,
    "speaker": "Madnar",
-   "en": "Through them, I simply reveal what lies within us.",
-   "enabled": true
+   "en": "Через них я лишь показываю, что внутри нас.",
+   "enabled": true,
+   "en_src": "Through them, I simply reveal what lies within us."
   },
   {
    "id": "B260_c14f9",
@@ -1897,8 +2068,9 @@
    "end": 13825,
    "dur": 7.2,
    "speaker": "Madnar",
-   "en": "I think this experiment has shown me humanity's limits.",
-   "enabled": true
+   "en": "Этот эксперимент показал мне пределы человечества.",
+   "enabled": true,
+   "en_src": "I think this experiment has shown me humanity's limits."
   },
   {
    "id": "B260_c14f9b",
@@ -1908,8 +2080,9 @@
    "end": 14758,
    "dur": 6.2,
    "speaker": "Madnar",
-   "en": "Perhaps they can advance no further on their own.",
-   "enabled": true
+   "en": "Возможно, само оно дальше не продвинется.",
+   "enabled": true,
+   "en_src": "Perhaps they can advance no further on their own."
   },
   {
    "id": "B260_c14f10",
@@ -1919,8 +2092,9 @@
    "end": 15853,
    "dur": 7.2,
    "speaker": "Madnar",
-   "en": "To evolve further, humanity needs a perfect leader.",
-   "enabled": true
+   "en": "Чтобы эволюционировать, людям нужен идеальный лидер.",
+   "enabled": true,
+   "en_src": "To evolve further, humanity needs a perfect leader."
   },
   {
    "id": "B260_c14f10b",
@@ -1930,8 +2104,9 @@
    "end": 17126,
    "dur": 6.6,
    "speaker": "Madnar",
-   "en": "A resolute leader, unmoved by petty doubts.",
-   "enabled": true
+   "en": "Твёрдый лидер, чуждый мелких сомнений.",
+   "enabled": true,
+   "en_src": "A resolute leader, unmoved by petty doubts."
   },
   {
    "id": "B260_c14f11",
@@ -1941,8 +2116,9 @@
    "end": 17542,
    "dur": 2.7,
    "speaker": "Gillian",
-   "en": "People will never follow Snatchers!",
-   "enabled": true
+   "en": "Люди никогда не пойдут за снатчерами!",
+   "enabled": true,
+   "en_src": "People will never follow Snatchers!"
   },
   {
    "id": "B260_c14f12",
@@ -1952,8 +2128,9 @@
    "end": 18153,
    "dur": 4.0,
    "speaker": "Madnar",
-   "en": "They will if they don't know what their leaders are.",
-   "enabled": true
+   "en": "Пойдут, если не будут знать, кто их лидеры.",
+   "enabled": true,
+   "en_src": "They will if they don't know what their leaders are."
   },
   {
    "id": "B260_c14f12b",
@@ -1963,8 +2140,9 @@
    "end": 19446,
    "dur": 7.6,
    "speaker": "Madnar",
-   "en": "People have always sought an absolute god.",
-   "enabled": true
+   "en": "Люди всегда искали абсолютного бога.",
+   "enabled": true,
+   "en_src": "People have always sought an absolute god."
   },
   {
    "id": "B260_c14f13",
@@ -1974,8 +2152,9 @@
    "end": 21040,
    "dur": 10.6,
    "speaker": "Madnar",
-   "en": "Remove all doubt, and Snatchers can be their gods.",
-   "enabled": true
+   "en": "Уберите сомнения - и снатчеры станут их богами.",
+   "enabled": true,
+   "en_src": "Remove all doubt, and Snatchers can be their gods."
   },
   {
    "id": "B260_c14f13b",
@@ -1985,8 +2164,9 @@
    "end": 21590,
    "dur": 3.6,
    "speaker": "Madnar",
-   "en": "A superior humanity made flesh.",
-   "enabled": true
+   "en": "Высшим человечеством во плоти.",
+   "enabled": true,
+   "en_src": "A superior humanity made flesh."
   },
   {
    "id": "B260_c14f14",
@@ -1996,8 +2176,9 @@
    "end": 21862,
    "dur": 1.6,
    "speaker": "Madnar",
-   "en": "I'm so close.",
-   "enabled": true
+   "en": "Я так близок.",
+   "enabled": true,
+   "en_src": "I'm so close."
   },
   {
    "id": "B260_c14f14b",
@@ -2007,8 +2188,9 @@
    "end": 22529,
    "dur": 4.5,
    "speaker": "Madnar",
-   "en": "Once the artificial skin is complete,",
-   "enabled": true
+   "en": "Когда искусственная кожа будет готова,",
+   "enabled": true,
+   "en_src": "Once the artificial skin is complete,"
   },
   {
    "id": "B260_c14f14c",
@@ -2018,8 +2200,9 @@
    "end": 23622,
    "dur": 7.4,
    "speaker": "Madnar",
-   "en": "Snatchers will surpass humanity and become true human beings.",
-   "enabled": true
+   "en": "снатчеры превзойдут людей и станут настоящими людьми.",
+   "enabled": true,
+   "en_src": "Snatchers will surpass humanity and become true human beings."
   },
   {
    "id": "B260_c14f15",
@@ -2029,8 +2212,9 @@
    "end": 24374,
    "dur": 4.9,
    "speaker": "Jamie",
-   "en": "Perfect artificial skin is impossible. Dr. Petrovich is dead.",
-   "enabled": true
+   "en": "Идеальная кожа невозможна. Доктор Петрович мёртв.",
+   "enabled": true,
+   "en_src": "Perfect artificial skin is impossible. Dr. Petrovich is dead."
   },
   {
    "id": "B260_c14f16",
@@ -2040,8 +2224,9 @@
    "end": 25283,
    "dur": 5.3,
    "speaker": "Madnar",
-   "en": "I no longer need my father. I have a sample he made.",
-   "enabled": true
+   "en": "Отец мне больше не нужен. У меня есть его образец.",
+   "enabled": true,
+   "en_src": "I no longer need my father. I have a sample he made."
   },
   {
    "id": "B260_c14f16b",
@@ -2051,8 +2236,9 @@
    "end": 25608,
    "dur": 2.2,
    "speaker": "Madnar",
-   "en": "Once I've analyzed it,",
-   "enabled": true
+   "en": "Проанализировав его,",
+   "enabled": true,
+   "en_src": "Once I've analyzed it,"
   },
   {
    "id": "B260_c14f16c",
@@ -2062,8 +2248,9 @@
    "end": 26550,
    "dur": 6.7,
    "speaker": "Madnar",
-   "en": "I can mass-produce perfect artificial skin in any quantity I need.",
-   "enabled": true
+   "en": "я смогу делать идеальную кожу в любых количествах.",
+   "enabled": true,
+   "en_src": "I can mass-produce perfect artificial skin in any quantity I need."
   },
   {
    "id": "B260_c14f17",
@@ -2073,8 +2260,9 @@
    "end": 27406,
    "dur": 5.7,
    "speaker": "Madnar",
-   "en": "Or I can simply culture the necessary cells: keratinocytes,",
-   "enabled": true
+   "en": "Или просто вырастить нужные клетки - кератиноциты,",
+   "enabled": true,
+   "en_src": "Or I can simply culture the necessary cells: keratinocytes,"
   },
   {
    "id": "B260_c14f17b",
@@ -2084,8 +2272,9 @@
    "end": 28214,
    "dur": 5.3,
    "speaker": "Madnar",
-   "en": "epithelial cells and pigment cells, then multiply them.",
-   "enabled": true
+   "en": "эпителий и пигментные клетки - и размножить их.",
+   "enabled": true,
+   "en_src": "epithelial cells and pigment cells, then multiply them."
   },
   {
    "id": "B260_c14f18",
@@ -2095,8 +2284,9 @@
    "end": 28982,
    "dur": 5.0,
    "speaker": "Gillian",
-   "en": "What are you talking about? Where's this perfect skin?",
-   "enabled": true
+   "en": "О чём ты? Где эта идеальная кожа?",
+   "enabled": true,
+   "en_src": "What are you talking about? Where's this perfect skin?"
   },
   {
    "id": "B260_c14f19",
@@ -2106,8 +2296,9 @@
    "end": 29206,
    "dur": 1.4,
    "speaker": "Madnar",
-   "en": "Look at this.",
-   "enabled": true
+   "en": "Взгляни.",
+   "enabled": true,
+   "en_src": "Look at this."
   },
   {
    "id": "B260_c14f20",
@@ -2117,8 +2308,9 @@
    "end": 29686,
    "dur": 3.1,
    "speaker": "Madnar",
-   "en": "It was found in the ruins of Queen Hospital.",
-   "enabled": true
+   "en": "Его нашли в руинах больницы \"Куин\".",
+   "enabled": true,
+   "en_src": "It was found in the ruins of Queen Hospital."
   },
   {
    "id": "B260_c14f21",
@@ -2128,8 +2320,9 @@
    "end": 29830,
    "dur": 0.9,
    "speaker": "Gillian",
-   "en": "Randam!",
-   "enabled": true
+   "en": "Рэндам!",
+   "enabled": true,
+   "en_src": "Randam!"
   },
   {
    "id": "B260_c14f22",
@@ -2139,8 +2332,9 @@
    "end": 30662,
    "dur": 5.4,
    "speaker": "Madnar",
-   "en": "Ah, so you do know him.",
-   "enabled": true
+   "en": "А, так ты его знаешь.",
+   "enabled": true,
+   "en_src": "Ah, so you do know him."
   },
   {
    "id": "B260_c14f23",
@@ -2150,8 +2344,9 @@
    "end": 30934,
    "dur": 1.7,
    "speaker": "Gillian",
-   "en": "He's a Snatcher?!",
-   "enabled": true
+   "en": "Он снатчер?!",
+   "enabled": true,
+   "en_src": "He's a Snatcher?!"
   },
   {
    "id": "B260_c14f24",
@@ -2161,8 +2356,9 @@
    "end": 31546,
    "dur": 4.0,
    "speaker": "Madnar",
-   "en": "That's not quite accurate.",
-   "enabled": true
+   "en": "Не совсем так.",
+   "enabled": true,
+   "en_src": "That's not quite accurate."
   },
   {
    "id": "B260_c14f24b",
@@ -2172,8 +2368,9 @@
    "end": 33110,
    "dur": 9.4,
    "speaker": "Madnar",
-   "en": "My father secretly built that bioroid in the likeness of his son. Me.",
-   "enabled": true
+   "en": "Отец тайно сделал этого биороида по образу сына. Меня.",
+   "enabled": true,
+   "en_src": "My father secretly built that bioroid in the likeness of his son. Me."
   },
   {
    "id": "B260_c14f25",
@@ -2183,8 +2380,9 @@
    "end": 34342,
    "dur": 8.1,
    "speaker": "Madnar",
-   "en": "Here in this factory. He programmed it to destroy Snatchers.",
-   "enabled": true
+   "en": "Здесь, на этом заводе. Он запрограммировал его убивать снатчеров.",
+   "enabled": true,
+   "en_src": "Here in this factory. He programmed it to destroy Snatchers."
   },
   {
    "id": "B260_c14f26",
@@ -2194,8 +2392,9 @@
    "end": 34923,
    "dur": 3.7,
    "speaker": "Madnar",
-   "en": "That bioroid gave me no end of trouble.",
-   "enabled": true
+   "en": "Этот биороид доставил мне массу хлопот.",
+   "enabled": true,
+   "en_src": "That bioroid gave me no end of trouble."
   },
   {
    "id": "B260_c14f26b",
@@ -2205,8 +2404,9 @@
    "end": 35638,
    "dur": 4.8,
    "speaker": "Madnar",
-   "en": "It's far superior to my Snatchers.",
-   "enabled": true
+   "en": "Он намного лучше моих снатчеров.",
+   "enabled": true,
+   "en_src": "It's far superior to my Snatchers."
   },
   {
    "id": "B260_c14f27",
@@ -2216,8 +2416,9 @@
    "end": 37030,
    "dur": 8.9,
    "speaker": "Madnar",
-   "en": "It believes it's human. He even gave it childhood memories. Ha!",
-   "enabled": true
+   "en": "Он мнит себя человеком. У него даже есть детские воспоминания. Ха!",
+   "enabled": true,
+   "en_src": "It believes it's human. He even gave it childhood memories. Ha!"
   },
   {
    "id": "B260_c14f27b",
@@ -2227,8 +2428,9 @@
    "end": 37702,
    "dur": 4.7,
    "speaker": "Madnar",
-   "en": "Copies of my memories, of course.",
-   "enabled": true
+   "en": "Копии моих, разумеется.",
+   "enabled": true,
+   "en_src": "Copies of my memories, of course."
   },
   {
    "id": "B260_c14f28",
@@ -2262,8 +2464,9 @@
    "end": 41847,
    "dur": 2.0,
    "speaker": "Madnar",
-   "en": "Just like my father.",
-   "enabled": true
+   "en": "Весь в отца.",
+   "enabled": true,
+   "en_src": "Just like my father."
   },
   {
    "id": "B260_c14f29b",
@@ -2273,8 +2476,9 @@
    "end": 42600,
    "dur": 6.9,
    "speaker": "Madnar",
-   "en": "That old fool easily made the skin I couldn't perfect in forty years.",
-   "enabled": true
+   "en": "Старый дурак запросто сделал кожу, что мне не далась за 40 лет.",
+   "enabled": true,
+   "en_src": "That old fool easily made the skin I couldn't perfect in forty years."
   },
   {
    "id": "B260_c14f29c",
@@ -2284,8 +2488,9 @@
    "end": 43830,
    "dur": 5.6,
    "speaker": "Madnar",
-   "en": "And a perfect bioroid that doesn't even know what it is.",
-   "enabled": true
+   "en": "И идеального биороида, который даже не знает, кто он.",
+   "enabled": true,
+   "en_src": "And a perfect bioroid that doesn't even know what it is."
   },
   {
    "id": "B260_c14f30",
@@ -2295,8 +2500,9 @@
    "end": 44627,
    "dur": 4.1,
    "speaker": "Madnar",
-   "en": "What's more, these cells regenerate themselves.",
-   "enabled": true
+   "en": "Более того, эти клетки сами регенерируют.",
+   "enabled": true,
+   "en_src": "What's more, these cells regenerate themselves."
   },
   {
    "id": "B260_c14f30b",
@@ -2306,8 +2512,9 @@
    "end": 45105,
    "dur": 3.2,
    "speaker": "Madnar",
-   "en": "Supply them once, and there's no need",
-   "enabled": true
+   "en": "Достаточно дать их один раз - и не нужны",
+   "enabled": true,
+   "en_src": "Supply them once, and there's no need"
   },
   {
    "id": "B260_c14f30c",
@@ -2317,8 +2524,9 @@
    "end": 45574,
    "dur": 4.4,
    "speaker": "Madnar",
-   "en": "for further grafts of their own skin, or cultures.",
-   "enabled": true
+   "en": "ни новые пересадки кожи, ни культуры.",
+   "enabled": true,
+   "en_src": "for further grafts of their own skin, or cultures."
   },
   {
    "id": "B260_c14f31",
@@ -2328,8 +2536,9 @@
    "end": 45718,
    "dur": 0.9,
    "speaker": "Gillian",
-   "en": "Is he dead?",
-   "enabled": true
+   "en": "Он мёртв?",
+   "enabled": true,
+   "en_src": "Is he dead?"
   },
   {
    "id": "B260_c14f32",
@@ -2339,8 +2548,9 @@
    "end": 46627,
    "dur": 5.9,
    "speaker": "Madnar",
-   "en": "Its power and main systems have shut down. It's just scrap.",
-   "enabled": true
+   "en": "Питание и основные системы отключены. Это просто лом.",
+   "enabled": true,
+   "en_src": "Its power and main systems have shut down. It's just scrap."
   },
   {
    "id": "B260_c14f32c",
@@ -2350,8 +2560,9 @@
    "end": 47926,
    "dur": 7.7,
    "speaker": "Madnar",
-   "en": "But I've kept the precious artificial skin alive.",
-   "enabled": true
+   "en": "Но драгоценную искусственную кожу я сохранил живой.",
+   "enabled": true,
+   "en_src": "But I've kept the precious artificial skin alive."
   },
   {
    "id": "B260_c14f33",
@@ -2361,8 +2572,9 @@
    "end": 49045,
    "dur": 7.3,
    "speaker": "Madnar",
-   "en": "Now I can begin phase two of the Snatch Project:",
-   "enabled": true
+   "en": "Теперь начнётся вторая фаза проекта \"Снатчер\":",
+   "enabled": true,
+   "en_src": "Now I can begin phase two of the Snatch Project:"
   },
   {
    "id": "B260_c14f33b",
@@ -2372,8 +2584,9 @@
    "end": 49670,
    "dur": 4.3,
    "speaker": "Madnar",
-   "en": "full-scale infiltration of the world.",
-   "enabled": true
+   "en": "полномасштабное проникновение по всему миру.",
+   "enabled": true,
+   "en_src": "full-scale infiltration of the world."
   },
   {
    "id": "B260_c14f34",
@@ -2383,8 +2596,9 @@
    "end": 50150,
    "dur": 3.1,
    "speaker": "Gillian",
-   "en": "The summit's over. You won't get away with it.",
-   "enabled": true
+   "en": "Саммит окончен. Тебе это с рук не сойдёт.",
+   "enabled": true,
+   "en_src": "The summit's over. You won't get away with it."
   },
   {
    "id": "B260_c14f35",
@@ -2394,8 +2608,9 @@
    "end": 50387,
    "dur": 4.0,
    "speaker": "Madnar",
-   "en": "What does the summit matter?",
-   "enabled": true
+   "en": "Какое мне дело до саммита?",
+   "enabled": true,
+   "en_src": "What does the summit matter?"
   },
   {
    "id": "B260_c14f35b",
@@ -2405,8 +2620,9 @@
    "end": 51507,
    "dur": 6.4,
    "speaker": "Madnar",
-   "en": "With perfect skin, nothing will hold us back.",
-   "enabled": true
+   "en": "С идеальной кожей нас ничто не остановит.",
+   "enabled": true,
+   "en_src": "With perfect skin, nothing will hold us back."
   },
   {
    "id": "B260_c14f35c",
@@ -2416,8 +2632,9 @@
    "end": 52630,
    "dur": 5.9,
    "speaker": "Madnar",
-   "en": "We can go anywhere, and no one will know.",
-   "enabled": true
+   "en": "Мы сможем пойти куда угодно, и никто не узнает.",
+   "enabled": true,
+   "en_src": "We can go anywhere, and no one will know."
   },
   {
    "id": "B260_c10f60",
@@ -2427,8 +2644,9 @@
    "end": 41602,
    "dur": 3.1,
    "speaker": "Gillian",
-   "en": "Jamie, are you all right?",
-   "enabled": true
+   "en": "Джейми, ты цела?",
+   "enabled": true,
+   "en_src": "Jamie, are you all right?"
   },
   {
    "id": "B260_c10f61",
@@ -2438,8 +2656,9 @@
    "end": 42066,
    "dur": 3.0,
    "speaker": "Jamie",
-   "en": "Gillian! You came for me.",
-   "enabled": true
+   "en": "Гиллиан! Ты пришёл за мной.",
+   "enabled": true,
+   "en_src": "Gillian! You came for me."
   },
   {
    "id": "B260_c10f62",
@@ -2449,8 +2668,9 @@
    "end": 42242,
    "dur": 1.1,
    "speaker": "Gillian",
-   "en": "Are you hurt?",
-   "enabled": true
+   "en": "Ты ранена?",
+   "enabled": true,
+   "en_src": "Are you hurt?"
   },
   {
    "id": "B260_c10f63",
@@ -2460,8 +2680,9 @@
    "end": 42675,
    "dur": 3.0,
    "speaker": "Jamie",
-   "en": "I'm all right. They won't hurt me.",
-   "enabled": true
+   "en": "Всё хорошо. Они мне не навредят.",
+   "enabled": true,
+   "en_src": "I'm all right. They won't hurt me."
   },
   {
    "id": "B260_c10f63b",
@@ -2471,8 +2692,9 @@
    "end": 43123,
    "dur": 2.7,
    "speaker": "Jamie",
-   "en": "At least, not until their work",
-   "enabled": true
+   "en": "По крайней мере, пока не закончат работу",
+   "enabled": true,
+   "en_src": "At least, not until their work"
   },
   {
    "id": "B260_c10f63c",
@@ -2482,8 +2704,9 @@
    "end": 43634,
    "dur": 3.5,
    "speaker": "Jamie",
-   "en": "on perfect artificial skin is complete.",
-   "enabled": true
+   "en": "над идеальной искусственной кожей.",
+   "enabled": true,
+   "en_src": "on perfect artificial skin is complete."
   },
   {
    "id": "B260_c10f64",
@@ -2493,8 +2716,9 @@
    "end": 43954,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "You're researching artificial skin?",
-   "enabled": true
+   "en": "Ты исследуешь искусственную кожу?",
+   "enabled": true,
+   "en_src": "You're researching artificial skin?"
   },
   {
    "id": "B260_c10f65",
@@ -2504,8 +2728,9 @@
    "end": 44562,
    "dur": 3.9,
    "speaker": "Jamie",
-   "en": "My memory's back. All of it.",
-   "enabled": true
+   "en": "Память вернулась. Вся.",
+   "enabled": true,
+   "en_src": "My memory's back. All of it."
   },
   {
    "id": "B260_c10f66",
@@ -2515,8 +2740,9 @@
    "end": 44962,
    "dur": 2.6,
    "speaker": "Gillian",
-   "en": "What happened, Jamie?",
-   "enabled": true
+   "en": "Что случилось, Джейми?",
+   "enabled": true,
+   "en_src": "What happened, Jamie?"
   },
   {
    "id": "B260_c10f67",
@@ -2526,8 +2752,9 @@
    "end": 45577,
    "dur": 4.0,
    "speaker": "Jamie",
-   "en": "They threatened to kill him. To kill Harry.",
-   "enabled": true
+   "en": "Они грозились убить его. Убить Гарри.",
+   "enabled": true,
+   "en_src": "They threatened to kill him. To kill Harry."
   },
   {
    "id": "B260_c10f67b",
@@ -2537,8 +2764,9 @@
    "end": 46210,
    "dur": 4.3,
    "speaker": "Jamie",
-   "en": "They forced me to help develop artificial skin.",
-   "enabled": true
+   "en": "Заставили меня помогать с искусственной кожей.",
+   "enabled": true,
+   "en_src": "They forced me to help develop artificial skin."
   },
   {
    "id": "B260_c10f68",
@@ -2548,8 +2776,9 @@
    "end": 46647,
    "dur": 2.8,
    "speaker": "Jamie",
-   "en": "The doctor's condition was getting worse,",
-   "enabled": true
+   "en": "Доктору становилось хуже,",
+   "enabled": true,
+   "en_src": "The doctor's condition was getting worse,"
   },
   {
    "id": "B260_c10f68b",
@@ -2559,8 +2788,9 @@
    "end": 46994,
    "dur": 2.3,
    "speaker": "Jamie",
-   "en": "so they brought me here to take his place.",
-   "enabled": true
+   "en": "и меня привезли сюда на его место.",
+   "enabled": true,
+   "en_src": "so they brought me here to take his place."
   },
   {
    "id": "B260_c10f69",
@@ -2570,8 +2800,9 @@
    "end": 47674,
    "dur": 4.4,
    "speaker": "Jamie",
-   "en": "Gillian, Harry the mechanic is our son.",
-   "enabled": true
+   "en": "Гиллиан, механик Гарри - наш сын.",
+   "enabled": true,
+   "en_src": "Gillian, Harry the mechanic is our son."
   },
   {
    "id": "B260_c10f69b",
@@ -2581,8 +2812,9 @@
    "end": 48258,
    "dur": 3.9,
    "speaker": "Jamie",
-   "en": "He's lived alone for fifty years.",
-   "enabled": true
+   "en": "Он прожил один пятьдесят лет.",
+   "enabled": true,
+   "en_src": "He's lived alone for fifty years."
   },
   {
    "id": "B260_c10f70",
@@ -2592,8 +2824,9 @@
    "end": 48578,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "Jamie, Harry's already...",
-   "enabled": true
+   "en": "Джейми, Гарри уже...",
+   "enabled": true,
+   "en_src": "Jamie, Harry's already..."
   },
   {
    "id": "B260_c10f71",
@@ -2603,8 +2836,9 @@
    "end": 49490,
    "dur": 5.9,
    "speaker": "Jamie",
-   "en": "I had no choice. They threatened me. But I can't go on.",
-   "enabled": true
+   "en": "У меня не было выбора. Мне угрожали. Но больше я не могу.",
+   "enabled": true,
+   "en_src": "I had no choice. They threatened me. But I can't go on."
   },
   {
    "id": "B260_c10f72",
@@ -2614,8 +2848,9 @@
    "end": 49570,
    "dur": 0.4,
    "speaker": "Gillian",
-   "en": "Jamie!",
-   "enabled": true
+   "en": "Джейми!",
+   "enabled": true,
+   "en_src": "Jamie!"
   },
   {
    "id": "B260_c10f73",
@@ -2625,9 +2860,10 @@
    "end": 50402,
    "dur": 5.4,
    "speaker": "Jamie",
-   "en": "The doctor just died. He was over a hundred.",
+   "en": "Доктор только что умер. Ему было больше ста.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "The doctor just died. He was over a hundred."
   },
   {
    "id": "B260_c11f30",
@@ -2637,8 +2873,9 @@
    "end": 42467,
    "dur": 5.1,
    "speaker": "Jamie",
-   "en": "The three of us failed to escape: you, me and Elijah.",
-   "enabled": true
+   "en": "Бежать не успели трое: ты, я и Элайджа.",
+   "enabled": true,
+   "en_src": "The three of us failed to escape: you, me and Elijah."
   },
   {
    "id": "B260_c11f31",
@@ -2648,8 +2885,9 @@
    "end": 43171,
    "dur": 4.6,
    "speaker": "Jamie",
-   "en": "Elijah's pod was already empty when we were rescued.",
-   "enabled": true
+   "en": "Когда нас спасли, капсула Элайджи уже была пуста.",
+   "enabled": true,
+   "en_src": "Elijah's pod was already empty when we were rescued."
   },
   {
    "id": "B260_c11f32",
@@ -2659,8 +2897,9 @@
    "end": 43763,
    "dur": 3.2,
    "speaker": "Gillian",
-   "en": "Whose father? I don't understand. Jamie, you've lost me.",
-   "enabled": true
+   "en": "Чей отец? Не понимаю. Джейми, я запутался.",
+   "enabled": true,
+   "en_src": "Whose father? I don't understand. Jamie, you've lost me."
   },
   {
    "id": "B260_c11f33",
@@ -2670,8 +2909,9 @@
    "end": 44435,
    "dur": 4.4,
    "speaker": "Gillian",
-   "en": "Elijah Madnar? The man in the chapel? The one who looked like Randam?",
-   "enabled": true
+   "en": "Элайджа Мэднар? Тот, что на портрете? Похожий на Рэндама?",
+   "enabled": true,
+   "en_src": "Elijah Madnar? The man in the chapel? The one who looked like Randam?"
   },
   {
    "id": "B260_c11f34",
@@ -2681,8 +2921,9 @@
    "end": 44597,
    "dur": 1.0,
    "speaker": "Gillian",
-   "en": "Randam?",
-   "enabled": true
+   "en": "Рэндам?",
+   "enabled": true,
+   "en_src": "Randam?"
   },
   {
    "id": "B260_c11f34b",
@@ -2692,8 +2933,9 @@
    "end": 45091,
    "dur": 1.3,
    "speaker": "Gillian",
-   "en": "No, that's not him.",
-   "enabled": true
+   "en": "Нет, это не он.",
+   "enabled": true,
+   "en_src": "No, that's not him."
   },
   {
    "id": "B260_c11f35",
@@ -2703,8 +2945,9 @@
    "end": 45571,
    "dur": 3.1,
    "speaker": "Gillian",
-   "en": "The doctor? That old man?",
-   "enabled": true
+   "en": "Доктор? Тот старик?",
+   "enabled": true,
+   "en_src": "The doctor? That old man?"
   },
   {
    "id": "B260_c11f36",
@@ -2714,8 +2957,9 @@
    "end": 46083,
    "dur": 3.3,
    "speaker": "Jamie",
-   "en": "All right? Stay calm and listen.",
-   "enabled": true
+   "en": "Хорошо? Успокойся и слушай.",
+   "enabled": true,
+   "en_src": "All right? Stay calm and listen."
   },
   {
    "id": "B260_c11f37",
@@ -2725,8 +2969,9 @@
    "end": 46611,
    "dur": 3.4,
    "speaker": "Jamie",
-   "en": "A plan more horrifying than anyone could imagine.",
-   "enabled": true
+   "en": "План ужаснее, чем можно вообразить.",
+   "enabled": true,
+   "en_src": "A plan more horrifying than anyone could imagine."
   },
   {
    "id": "B260_c11f38",
@@ -2736,8 +2981,9 @@
    "end": 47107,
    "dur": 3.2,
    "speaker": "Jamie",
-   "en": "Elijah Madnar is here, with the Snatchers...",
-   "enabled": true
+   "en": "Элайджа Мэднар здесь, со снатчерами...",
+   "enabled": true,
+   "en_src": "Elijah Madnar is here, with the Snatchers..."
   },
   {
    "id": "B260_c11f39",
@@ -2747,8 +2993,9 @@
    "end": 47571,
    "dur": 3.0,
    "speaker": "Madnar",
-   "en": "I'll tell you the rest.",
-   "enabled": true
+   "en": "Остальное расскажу я.",
+   "enabled": true,
+   "en_src": "I'll tell you the rest."
   },
   {
    "id": "B260_c11f40",
@@ -2758,8 +3005,9 @@
    "end": 48051,
    "dur": 3.1,
    "speaker": "Jamie",
-   "en": "Elijah? Is that you?",
-   "enabled": true
+   "en": "Элайджа? Это ты?",
+   "enabled": true,
+   "en_src": "Elijah? Is that you?"
   },
   {
    "id": "B260_c11f41",
@@ -2769,8 +3017,9 @@
    "end": 48483,
    "dur": 2.8,
    "speaker": "Gillian",
-   "en": "Madnar? This old man?",
-   "enabled": true
+   "en": "Мэднар? Этот старик?",
+   "enabled": true,
+   "en_src": "Madnar? This old man?"
   },
   {
    "id": "B260_c11f42",
@@ -2780,8 +3029,9 @@
    "end": 48867,
    "dur": 2.5,
    "speaker": "Jamie",
-   "en": "You really can't remember anything?",
-   "enabled": true
+   "en": "Ты правда ничего не помнишь?",
+   "enabled": true,
+   "en_src": "You really can't remember anything?"
   },
   {
    "id": "B260_c11f43",
@@ -2791,8 +3041,9 @@
    "end": 49219,
    "dur": 2.2,
    "speaker": "Gillian",
-   "en": "Who the hell am I?",
-   "enabled": true
+   "en": "Да кто я такой, чёрт возьми?",
+   "enabled": true,
+   "en_src": "Who the hell am I?"
   },
   {
    "id": "B260_c11f44",
@@ -2802,8 +3053,9 @@
    "end": 49651,
    "dur": 2.8,
    "speaker": "Jamie",
-   "en": "Gillian, was that your doing?",
-   "enabled": true
+   "en": "Гиллиан, это ты сделал?",
+   "enabled": true,
+   "en_src": "Gillian, was that your doing?"
   },
   {
    "id": "B260_c11f45",
@@ -2813,8 +3065,9 @@
    "end": 50099,
    "dur": 2.9,
    "speaker": "Gillian",
-   "en": "That's impossible! I caused the Catastrophe?",
-   "enabled": true
+   "en": "Не может быть! Катастрофу устроил я?",
+   "enabled": true,
+   "en_src": "That's impossible! I caused the Catastrophe?"
   },
   {
    "id": "B260_c11f46",
@@ -2824,8 +3077,9 @@
    "end": 50547,
    "dur": 2.9,
    "speaker": "Jamie",
-   "en": "Yes, Elijah is alive!",
-   "enabled": true
+   "en": "Да, Элайджа жив!",
+   "enabled": true,
+   "en_src": "Yes, Elijah is alive!"
   },
   {
    "id": "B260_c11f47",
@@ -2835,8 +3089,9 @@
    "end": 50835,
    "dur": 1.8,
    "speaker": "Jamie",
-   "en": "The project was going well.",
-   "enabled": true
+   "en": "Проект шёл успешно.",
+   "enabled": true,
+   "en_src": "The project was going well."
   },
   {
    "id": "B260_c11f48",
@@ -2846,8 +3101,9 @@
    "end": 51139,
    "dur": 1.9,
    "speaker": "Madnar",
-   "en": "It's me, Jamie.",
-   "enabled": true
+   "en": "Это я, Джейми.",
+   "enabled": true,
+   "en_src": "It's me, Jamie."
   },
   {
    "id": "B260_c11f49",
@@ -2857,8 +3113,9 @@
    "end": 51331,
    "dur": 1.2,
    "speaker": "Jamie",
-   "en": "That's right, Gillian.",
-   "enabled": true
+   "en": "Именно, Гиллиан.",
+   "enabled": true,
+   "en_src": "That's right, Gillian."
   },
   {
    "id": "B260_c11f50",
@@ -2868,8 +3125,9 @@
    "end": 51507,
    "dur": 1.1,
    "speaker": "Gillian",
-   "en": "I was in the CIA?",
-   "enabled": true
+   "en": "Я был в ЦРУ?",
+   "enabled": true,
+   "en_src": "I was in the CIA?"
   },
   {
    "id": "B260_c11f51",
@@ -2879,8 +3137,9 @@
    "end": 51571,
    "dur": 0.3,
    "speaker": "Gillian",
-   "en": "Who?!",
-   "enabled": true
+   "en": "Кто?!",
+   "enabled": true,
+   "en_src": "Who?!"
   },
   {
    "id": "B260_c12f20",
@@ -2890,8 +3149,9 @@
    "end": 43937,
    "dur": 2.0,
    "speaker": "Madnar",
-   "en": "That's when I decided",
-   "enabled": true
+   "en": "Тогда я и решился",
+   "enabled": true,
+   "en_src": "That's when I decided"
   },
   {
    "id": "B260_c12f20b",
@@ -2901,8 +3161,9 @@
    "end": 44788,
    "dur": 5.8,
    "speaker": "Madnar",
-   "en": "to carry out the insane plan I'd been developing in secret.",
-   "enabled": true
+   "en": "осуществить безумный план, который втайне вынашивал.",
+   "enabled": true,
+   "en_src": "to carry out the insane plan I'd been developing in secret."
   },
   {
    "id": "B260_c12f21",
@@ -2912,8 +3173,9 @@
    "end": 45892,
    "dur": 7.3,
    "speaker": "Madnar",
-   "en": "Why make me say it, Jamie?",
-   "enabled": true
+   "en": "Зачем ты заставляешь меня говорить это, Джейми?",
+   "enabled": true,
+   "en_src": "Why make me say it, Jamie?"
   },
   {
    "id": "B260_c12f22",
@@ -2923,8 +3185,9 @@
    "end": 46948,
    "dur": 6.9,
    "speaker": "Madnar",
-   "en": "It was all because of you, Jamie. Your beauty.",
-   "enabled": true
+   "en": "Всё из-за тебя, Джейми. Из-за твоей красоты.",
+   "enabled": true,
+   "en_src": "It was all because of you, Jamie. Your beauty."
   },
   {
    "id": "B260_c12f23",
@@ -2934,8 +3197,9 @@
    "end": 48020,
    "dur": 7.0,
    "speaker": "Madnar",
-   "en": "All I could do was watch from the shadows as you two grew closer.",
-   "enabled": true
+   "en": "Я мог лишь смотреть из тени, как вы сближаетесь.",
+   "enabled": true,
+   "en_src": "All I could do was watch from the shadows as you two grew closer."
   },
   {
    "id": "B260_c12f24",
@@ -2945,8 +3209,9 @@
    "end": 48454,
    "dur": 2.7,
    "speaker": "Jamie",
-   "en": "Elijah, what happened to you?",
-   "enabled": true
+   "en": "Элайджа, что с тобой стало?",
+   "enabled": true,
+   "en_src": "Elijah, what happened to you?"
   },
   {
    "id": "B260_c12f24b",
@@ -2956,8 +3221,9 @@
    "end": 49028,
    "dur": 3.9,
    "speaker": "Jamie",
-   "en": "You were never capable of anything like this.",
-   "enabled": true
+   "en": "Ты никогда не был способен на такое.",
+   "enabled": true,
+   "en_src": "You were never capable of anything like this."
   },
   {
    "id": "B260_c12f25",
@@ -2967,8 +3233,9 @@
    "end": 50004,
    "dur": 6.4,
    "speaker": "Madnar",
-   "en": "You and Gillian were to be sent back to your country.",
-   "enabled": true
+   "en": "Тебя и Гиллиана должны были отправить на родину.",
+   "enabled": true,
+   "en_src": "You and Gillian were to be sent back to your country."
   },
   {
    "id": "B260_c12f26",
@@ -2978,8 +3245,9 @@
    "end": 50804,
    "dur": 5.2,
    "speaker": "Madnar",
-   "en": "Forty years have changed me, too.",
-   "enabled": true
+   "en": "Сорок лет изменили и меня.",
+   "enabled": true,
+   "en_src": "Forty years have changed me, too."
   },
   {
    "id": "B260_c12f27",
@@ -2989,8 +3257,9 @@
    "end": 51556,
    "dur": 4.9,
    "speaker": "Madnar",
-   "en": "You joined our project, Gillian.",
-   "enabled": true
+   "en": "Ты пришёл в наш проект, Гиллиан.",
+   "enabled": true,
+   "en_src": "You joined our project, Gillian."
   },
   {
    "id": "B260_c12f28",
@@ -3000,8 +3269,9 @@
    "end": 52212,
    "dur": 4.3,
    "speaker": "Madnar",
-   "en": "I wanted to be near you, Jamie.",
-   "enabled": true
+   "en": "Я хотел быть рядом с тобой, Джейми.",
+   "enabled": true,
+   "en_src": "I wanted to be near you, Jamie."
   },
   {
    "id": "B260_c12f29",
@@ -3011,8 +3281,9 @@
    "end": 52756,
    "dur": 3.5,
    "speaker": "Jamie",
-   "en": "I can't believe it. Why?",
-   "enabled": true
+   "en": "Не могу поверить. Почему?",
+   "enabled": true,
+   "en_src": "I can't believe it. Why?"
   },
   {
    "id": "B260_c12f30",
@@ -3022,8 +3293,9 @@
    "end": 53044,
    "dur": 1.8,
    "speaker": "Jamie",
-   "en": "Harry.",
-   "enabled": true
+   "en": "Гарри.",
+   "enabled": true,
+   "en_src": "Harry."
   },
   {
    "id": "B260_c12f31",
@@ -3033,8 +3305,9 @@
    "end": 53348,
    "dur": 1.9,
    "speaker": "Jamie",
-   "en": "Elijah.",
-   "enabled": true
+   "en": "Элайджа.",
+   "enabled": true,
+   "en_src": "Elijah."
   },
   {
    "id": "B260_c12f32",
@@ -3044,8 +3317,9 @@
    "end": 53444,
    "dur": 0.5,
    "speaker": "Jamie",
-   "en": "Gillian!",
-   "enabled": true
+   "en": "Гиллиан!",
+   "enabled": true,
+   "en_src": "Gillian!"
   },
   {
    "id": "B260_c13f22",
@@ -3055,8 +3329,9 @@
    "end": 44069,
    "dur": 6.9,
    "speaker": "Madnar",
-   "en": "Without my father's help, I decided to wake you.",
-   "enabled": true
+   "en": "Без помощи отца я решил разбудить тебя.",
+   "enabled": true,
+   "en_src": "Without my father's help, I decided to wake you."
   },
   {
    "id": "B260_c13f23",
@@ -3066,8 +3341,9 @@
    "end": 44901,
    "dur": 5.4,
    "speaker": "Jamie",
-   "en": "How could you? Half the world died because of you!",
-   "enabled": true
+   "en": "Как ты мог? Из-за тебя погибла половина мира!",
+   "enabled": true,
+   "en_src": "How could you? Half the world died because of you!"
   },
   {
    "id": "B260_c13f24",
@@ -3077,8 +3353,9 @@
    "end": 45797,
    "dur": 5.9,
    "speaker": "Madnar",
-   "en": "Three years ago, I finally completed my research.",
-   "enabled": true
+   "en": "Три года назад я наконец завершил исследования.",
+   "enabled": true,
+   "en_src": "Three years ago, I finally completed my research."
   },
   {
    "id": "B260_c13f25",
@@ -3088,10 +3365,11 @@
    "end": 46485,
    "dur": 4.5,
    "speaker": "Madnar",
-   "en": "After ten years, Lucifer mutated naturally.",
+   "en": "Через десять лет \"Люцифер\" сам мутировал.",
    "enabled": true,
    "by_ear": true,
-   "ear_note": "pitch 94 Hz = Madnar (Gillian 134); the script animates Gillian"
+   "ear_note": "pitch 94 Hz = Madnar (Gillian 134); the script animates Gillian",
+   "en_src": "After ten years, Lucifer mutated naturally."
   },
   {
    "id": "B260_c13f26",
@@ -3101,8 +3379,9 @@
    "end": 47237,
    "dur": 4.9,
    "speaker": "Madnar",
-   "en": "The vaccine, L-Angels, was already complete.",
-   "enabled": true
+   "en": "Вакцина, \"Л-Ангелы\", уже была готова.",
+   "enabled": true,
+   "en_src": "The vaccine, L-Angels, was already complete."
   },
   {
    "id": "B260_c13f27",
@@ -3112,8 +3391,9 @@
    "end": 47973,
    "dur": 4.8,
    "speaker": "Jamie",
-   "en": "That's so sad.",
-   "enabled": true
+   "en": "Как это печально.",
+   "enabled": true,
+   "en_src": "That's so sad."
   },
   {
    "id": "B260_c13f28",
@@ -3123,8 +3403,9 @@
    "end": 48725,
    "dur": 4.9,
    "speaker": "Madnar",
-   "en": "Of course, my father refused to help.",
-   "enabled": true
+   "en": "Разумеется, отец помогать отказался.",
+   "enabled": true,
+   "en_src": "Of course, my father refused to help."
   },
   {
    "id": "B260_c13f29",
@@ -3134,8 +3415,9 @@
    "end": 49301,
    "dur": 3.7,
    "speaker": "Jamie",
-   "en": "But the automatic revival system didn't work.",
-   "enabled": true
+   "en": "Но автопробуждение не сработало.",
+   "enabled": true,
+   "en_src": "But the automatic revival system didn't work."
   },
   {
    "id": "B260_c13f30",
@@ -3145,8 +3427,9 @@
    "end": 49877,
    "dur": 3.7,
    "speaker": "Gillian",
-   "en": "Even sealed off, how did you avoid infection?",
-   "enabled": true
+   "en": "Даже взаперти - как ты избежал заражения?",
+   "enabled": true,
+   "en_src": "Even sealed off, how did you avoid infection?"
   },
   {
    "id": "B260_c13f31",
@@ -3156,8 +3439,9 @@
    "end": 50421,
    "dur": 3.5,
    "speaker": "Madnar",
-   "en": "But the test exposed a flaw in the artificial skin.",
-   "enabled": true
+   "en": "Но испытание выявило изъян искусственной кожи.",
+   "enabled": true,
+   "en_src": "But the test exposed a flaw in the artificial skin."
   },
   {
    "id": "B260_c13f32",
@@ -3167,8 +3451,9 @@
    "end": 50949,
    "dur": 3.4,
    "speaker": "Jamie",
-   "en": "So that's why you brought Dr. Petrovich here.",
-   "enabled": true
+   "en": "Так вот зачем ты привёз сюда доктора Петровича.",
+   "enabled": true,
+   "en_src": "So that's why you brought Dr. Petrovich here."
   },
   {
    "id": "B260_c13f33",
@@ -3178,8 +3463,9 @@
    "end": 51477,
    "dur": 3.4,
    "speaker": "Jamie",
-   "en": "Of course he refused. The doctor would never...",
-   "enabled": true
+   "en": "Конечно, он отказался. Доктор никогда бы...",
+   "enabled": true,
+   "en_src": "Of course he refused. The doctor would never..."
   },
   {
    "id": "B260_c13f34",
@@ -3189,8 +3475,9 @@
    "end": 51829,
    "dur": 2.2,
    "speaker": "Gillian",
-   "en": "Lucifer Alpha.",
-   "enabled": true
+   "en": "\"Люцифер-Альфа\".",
+   "enabled": true,
+   "en_src": "Lucifer Alpha."
   },
   {
    "id": "B260_c13f35",
@@ -3200,8 +3487,9 @@
    "end": 52277,
    "dur": 2.9,
    "speaker": "Gillian",
-   "en": "Then all of it...",
-   "enabled": true
+   "en": "Значит, всё это...",
+   "enabled": true,
+   "en_src": "Then all of it..."
   },
   {
    "id": "B260_c13f36",
@@ -3211,8 +3499,9 @@
    "end": 52501,
    "dur": 1.4,
    "speaker": "Gillian",
-   "en": "How could you?",
-   "enabled": true
+   "en": "Как ты мог?",
+   "enabled": true,
+   "en_src": "How could you?"
   },
   {
    "id": "B260_f1_0",
@@ -3222,8 +3511,9 @@
    "end": 3911,
    "dur": 9.9,
    "speaker": "Madnar",
-   "en": "The world will obey me. No one can stop me now.",
-   "enabled": true
+   "en": "Мир будет повиноваться мне. Теперь меня никто не остановит.",
+   "enabled": true,
+   "en_src": "The world will obey me. No one can stop me now."
   },
   {
    "id": "B260_f2_0",
@@ -3233,8 +3523,9 @@
    "end": 4372,
    "dur": 3.0,
    "speaker": "Madnar",
-   "en": "Politics and ideology mean nothing.",
-   "enabled": true
+   "en": "Политика и идеология ничего не значат.",
+   "enabled": true,
+   "en_src": "Politics and ideology mean nothing."
   },
   {
    "id": "B260_f2_0b",
@@ -3244,8 +3535,9 @@
    "end": 5351,
    "dur": 6.5,
    "speaker": "Madnar",
-   "en": "My will alone shall decide humanity's future.",
-   "enabled": true
+   "en": "Будущее человечества решит лишь моя воля.",
+   "enabled": true,
+   "en_src": "My will alone shall decide humanity's future."
   },
   {
    "id": "B260_f3_0",
@@ -3255,8 +3547,9 @@
    "end": 5911,
    "dur": 3.6,
    "speaker": "Gillian",
-   "en": "You're insane! You can't Snatch all of humanity!",
-   "enabled": true
+   "en": "Ты безумец! Всё человечество не подменить!",
+   "enabled": true,
+   "en_src": "You're insane! You can't Snatch all of humanity!"
   },
   {
    "id": "B260_f4_0",
@@ -3266,8 +3559,9 @@
    "end": 6639,
    "dur": 4.7,
    "speaker": "Madnar",
-   "en": "There's an automated Snatcher factory beneath the Kremlin.",
-   "enabled": true
+   "en": "Под Кремлём есть автоматический завод снатчеров.",
+   "enabled": true,
+   "en_src": "There's an automated Snatcher factory beneath the Kremlin."
   },
   {
    "id": "B260_f4_0b",
@@ -3277,8 +3571,9 @@
    "end": 7367,
    "dur": 4.9,
    "speaker": "Madnar",
-   "en": "It's still producing new Snatchers.",
-   "enabled": true
+   "en": "Он всё ещё выпускает новых снатчеров.",
+   "enabled": true,
+   "en_src": "It's still producing new Snatchers."
   },
   {
    "id": "B260_f5_0",
@@ -3288,8 +3583,9 @@
    "end": 7943,
    "dur": 3.7,
    "speaker": "Jamie",
-   "en": "No matter what you do, you can't Snatch a human heart.",
-   "enabled": true
+   "en": "Что бы ты ни делал, человеческое сердце не подменить.",
+   "enabled": true,
+   "en_src": "No matter what you do, you can't Snatch a human heart."
   },
   {
    "id": "B260_f5_0b",
@@ -3299,8 +3595,9 @@
    "end": 8295,
    "dur": 2.3,
    "speaker": "Jamie",
-   "en": "What would any of this achieve?",
-   "enabled": true
+   "en": "Чего ты этим добьёшься?",
+   "enabled": true,
+   "en_src": "What would any of this achieve?"
   },
   {
    "id": "B260_f6_0",
@@ -3310,8 +3607,9 @@
    "end": 9556,
    "dur": 8.3,
    "speaker": "Madnar",
-   "en": "Humanity is foolish, Jamie. But I'm different.",
-   "enabled": true
+   "en": "Человечество глупо, Джейми. Но я другой.",
+   "enabled": true,
+   "en_src": "Humanity is foolish, Jamie. But I'm different."
   },
   {
    "id": "B260_f6_0b",
@@ -3321,8 +3619,9 @@
    "end": 11271,
    "dur": 11.4,
    "speaker": "Madnar",
-   "en": "I'm the savior of humanity. No, of all life on Earth!",
-   "enabled": true
+   "en": "Я спаситель человечества. Нет, всей жизни на Земле!",
+   "enabled": true,
+   "en_src": "I'm the savior of humanity. No, of all life on Earth!"
   },
   {
    "id": "B260_f7_0",
@@ -3332,8 +3631,9 @@
    "end": 11591,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "I'm afraid that won't happen.",
-   "enabled": true
+   "en": "Боюсь, этому не бывать.",
+   "enabled": true,
+   "en_src": "I'm afraid that won't happen."
   },
   {
    "id": "B260_f8_0",
@@ -3343,8 +3643,9 @@
    "end": 11703,
    "dur": 0.6,
    "speaker": "Gillian",
-   "en": "Metal!",
-   "enabled": true
+   "en": "Метал!",
+   "enabled": true,
+   "en_src": "Metal!"
   },
   {
    "id": "B260_f9_0",
@@ -3354,8 +3655,9 @@
    "end": 12311,
    "dur": 4.0,
    "speaker": "Metal Gear",
-   "en": "In ten minutes, a particle beam will strike this church.",
-   "enabled": true
+   "en": "Через десять минут по церкви ударит пучок частиц.",
+   "enabled": true,
+   "en_src": "In ten minutes, a particle beam will strike this church."
   },
   {
    "id": "B260_f10_0",
@@ -3365,8 +3667,9 @@
    "end": 12847,
    "dur": 3.9,
    "speaker": "Metal Gear",
-   "en": "I'm guiding a killer satellite's beam here",
-   "enabled": true
+   "en": "Я навожу сюда луч спутника-убийцы",
+   "enabled": true,
+   "en_src": "I'm guiding a killer satellite's beam here"
   },
   {
    "id": "B260_f10_0b",
@@ -3376,8 +3679,9 @@
    "end": 13543,
    "dur": 4.3,
    "speaker": "Metal Gear",
-   "en": "with GPS and fifteen satellites. It won't miss.",
-   "enabled": true
+   "en": "через GPS и пятнадцать спутников. Промаха не будет.",
+   "enabled": true,
+   "en_src": "with GPS and fifteen satellites. It won't miss."
   },
   {
    "id": "B260_f11_0",
@@ -3387,8 +3691,9 @@
    "end": 14055,
    "dur": 3.3,
    "speaker": "Metal Gear",
-   "en": "Everything within several kilometers of me will be destroyed.",
-   "enabled": true
+   "en": "Всё в радиусе нескольких километров от меня будет уничтожено.",
+   "enabled": true,
+   "en_src": "Everything within several kilometers of me will be destroyed."
   },
   {
    "id": "B260_f12_0",
@@ -3398,8 +3703,9 @@
    "end": 14360,
    "dur": 1.8,
    "speaker": "Madnar",
-   "en": "Stop this madness! You'll destroy my research!",
-   "enabled": true
+   "en": "Прекрати это безумие! Ты уничтожишь мои исследования!",
+   "enabled": true,
+   "en_src": "Stop this madness! You'll destroy my research!"
   },
   {
    "id": "B260_f12_0b",
@@ -3409,8 +3715,9 @@
    "end": 14999,
    "dur": 4.4,
    "speaker": "Madnar",
-   "en": "You inferior analyzer!",
-   "enabled": true
+   "en": "Жалкий анализатор!",
+   "enabled": true,
+   "en_src": "You inferior analyzer!"
   },
   {
    "id": "B260_f13_0",
@@ -3420,8 +3727,9 @@
    "end": 15255,
    "dur": 1.6,
    "speaker": "Gillian",
-   "en": "Metal, what did the summit decide?",
-   "enabled": true
+   "en": "Метал, что решил саммит?",
+   "enabled": true,
+   "en_src": "Metal, what did the summit decide?"
   },
   {
    "id": "B260_f14_0",
@@ -3431,8 +3739,9 @@
    "end": 15701,
    "dur": 3.9,
    "speaker": "Metal Gear",
-   "en": "Fearing the spread of Snatchers, every nation's delegates",
-   "enabled": true
+   "en": "Боясь распространения снатчеров, делегаты всех стран",
+   "enabled": true,
+   "en_src": "Fearing the spread of Snatchers, every nation's delegates"
   },
   {
    "id": "B260_f14_0b",
@@ -3442,8 +3751,9 @@
    "end": 16217,
    "dur": 3.4,
    "speaker": "Metal Gear",
-   "en": "unanimously authorized the use of nuclear weapons.",
-   "enabled": true
+   "en": "единогласно одобрили ядерный удар.",
+   "enabled": true,
+   "en_src": "unanimously authorized the use of nuclear weapons."
   },
   {
    "id": "B260_f14_0c",
@@ -3453,8 +3763,9 @@
    "end": 16743,
    "dur": 2.5,
    "speaker": "Metal Gear",
-   "en": "The military is sealing off the city.",
-   "enabled": true
+   "en": "Армия блокирует город.",
+   "enabled": true,
+   "en_src": "The military is sealing off the city."
   },
   {
    "id": "B260_f15_0",
@@ -3464,8 +3775,9 @@
    "end": 17047,
    "dur": 1.9,
    "speaker": "Jamie",
-   "en": "They're going to let the citizens die?",
-   "enabled": true
+   "en": "Они бросят жителей умирать?",
+   "enabled": true,
+   "en_src": "They're going to let the citizens die?"
   },
   {
    "id": "B260_f16_0",
@@ -3475,8 +3787,9 @@
    "end": 17340,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "The citizens are panicking.",
-   "enabled": true
+   "en": "Горожане в панике.",
+   "enabled": true,
+   "en_src": "The citizens are panicking."
   },
   {
    "id": "B260_f16_0b",
@@ -3486,8 +3799,9 @@
    "end": 18067,
    "dur": 4.9,
    "speaker": "Metal Gear",
-   "en": "But if the beam destroys this place, the blockade will be lifted.",
-   "enabled": true
+   "en": "Но если луч уничтожит это место, блокаду снимут.",
+   "enabled": true,
+   "en_src": "But if the beam destroys this place, the blockade will be lifted."
   },
   {
    "id": "B260_f16_0c",
@@ -3497,8 +3811,9 @@
    "end": 18375,
    "dur": 1.8,
    "speaker": "Metal Gear",
-   "en": "This is our last chance.",
-   "enabled": true
+   "en": "Это наш последний шанс.",
+   "enabled": true,
+   "en_src": "This is our last chance."
   },
   {
    "id": "B260_f17_0",
@@ -3508,8 +3823,9 @@
    "end": 18935,
    "dur": 3.6,
    "speaker": "Metal Gear",
-   "en": "I'll handle things here. Gillian, take Jamie and go.",
-   "enabled": true
+   "en": "Здесь я разберусь. Гиллиан, забирай Джейми и уходи.",
+   "enabled": true,
+   "en_src": "I'll handle things here. Gillian, take Jamie and go."
   },
   {
    "id": "B260_f18_0",
@@ -3519,8 +3835,9 @@
    "end": 19287,
    "dur": 2.2,
    "speaker": "Madnar",
-   "en": "You insolent robot!",
-   "enabled": true
+   "en": "Наглый робот!",
+   "enabled": true,
+   "en_src": "You insolent robot!"
   },
   {
    "id": "B260_f19_0",
@@ -3530,8 +3847,9 @@
    "end": 19863,
    "dur": 3.7,
    "speaker": "Metal Gear",
-   "en": "Move and I'll detonate! Hurry, Gillian!",
-   "enabled": true
+   "en": "Шевельнёшься - взорвусь! Скорее, Гиллиан!",
+   "enabled": true,
+   "en_src": "Move and I'll detonate! Hurry, Gillian!"
   },
   {
    "id": "B260_f20_0",
@@ -3541,8 +3859,9 @@
    "end": 19991,
    "dur": 0.7,
    "speaker": "Gillian",
-   "en": "Metal, don't!",
-   "enabled": true
+   "en": "Метал, не надо!",
+   "enabled": true,
+   "en_src": "Metal, don't!"
   },
   {
    "id": "B260_f21_0",
@@ -3552,8 +3871,9 @@
    "end": 20374,
    "dur": 2.4,
    "speaker": "Metal Gear",
-   "en": "I won't let a single Snatcher escape!",
-   "enabled": true
+   "en": "Ни один снатчер не уйдёт!",
+   "enabled": true,
+   "en_src": "I won't let a single Snatcher escape!"
   },
   {
    "id": "B260_f21_0b",
@@ -3563,8 +3883,9 @@
    "end": 20711,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "I'll destroy this artificial skin, too!",
-   "enabled": true
+   "en": "И эту искусственную кожу я тоже уничтожу!",
+   "enabled": true,
+   "en_src": "I'll destroy this artificial skin, too!"
   },
   {
    "id": "B260_f22_0",
@@ -3574,8 +3895,9 @@
    "end": 21087,
    "dur": 2.0,
    "speaker": "Madnar",
-   "en": "A piece of junk like you?",
-   "enabled": true
+   "en": "Ты, железяка?",
+   "enabled": true,
+   "en_src": "A piece of junk like you?"
   },
   {
    "id": "B260_f22_0b",
@@ -3585,8 +3907,9 @@
    "end": 21735,
    "dur": 4.8,
    "speaker": "Madnar",
-   "en": "If you're the beam's target, we'll just carry you outside!",
-   "enabled": true
+   "en": "Раз луч наводится на тебя, мы просто вынесем тебя наружу!",
+   "enabled": true,
+   "en_src": "If you're the beam's target, we'll just carry you outside!"
   },
   {
    "id": "B260_f23_0",
@@ -3596,8 +3919,9 @@
    "end": 22231,
    "dur": 3.2,
    "speaker": "Madnar",
-   "en": "Get this runt out of here!",
-   "enabled": true
+   "en": "Уберите отсюда этого коротышку!",
+   "enabled": true,
+   "en_src": "Get this runt out of here!"
   },
   {
    "id": "B260_f25_0",
@@ -3607,8 +3931,9 @@
    "end": 22375,
    "dur": 0.4,
    "speaker": "Gillian",
-   "en": "Metal!",
-   "enabled": true
+   "en": "Метал!",
+   "enabled": true,
+   "en_src": "Metal!"
   },
   {
    "id": "B260_f26_0",
@@ -3618,8 +3943,9 @@
    "end": 22583,
    "dur": 1.3,
    "speaker": "Madnar",
-   "en": "Stupid robot!",
-   "enabled": true
+   "en": "Тупой робот!",
+   "enabled": true,
+   "en_src": "Stupid robot!"
   },
   {
    "id": "B260_f27_0",
@@ -3629,8 +3955,9 @@
    "end": 22791,
    "dur": 1.3,
    "speaker": "Madnar",
-   "en": "What a nuisance!",
-   "enabled": true
+   "en": "Какая досада!",
+   "enabled": true,
+   "en_src": "What a nuisance!"
   },
   {
    "id": "B260_f28_0",
@@ -3640,8 +3967,9 @@
    "end": 22919,
    "dur": 0.7,
    "speaker": "Jamie",
-   "en": "What's happening?",
-   "enabled": true
+   "en": "Что происходит?",
+   "enabled": true,
+   "en_src": "What's happening?"
   },
   {
    "id": "B260_f29_0",
@@ -3652,8 +3980,9 @@
    "end": 23495,
    "dur": 3.7,
    "speaker": "Madnar",
-   "en": "How? You shouldn't be able to move!",
-   "enabled": true
+   "en": "Как? Ты не должен двигаться!",
+   "enabled": true,
+   "en_src": "How? You shouldn't be able to move!"
   },
   {
    "id": "B260_f30_0",
@@ -3664,8 +3993,9 @@
    "end": 23815,
    "dur": 2.0,
    "speaker": "Randam",
-   "en": "I don't know when to quit.",
-   "enabled": true
+   "en": "Не умею вовремя остановиться.",
+   "enabled": true,
+   "en_src": "I don't know when to quit."
   },
   {
    "id": "B260_f31_0",
@@ -3676,8 +4006,9 @@
    "end": 23991,
    "dur": 1.1,
    "speaker": "Madnar",
-   "en": "Impossible!",
-   "enabled": true
+   "en": "Невозможно!",
+   "enabled": true,
+   "en_src": "Impossible!"
   },
   {
    "id": "B260_f32_0",
@@ -3688,8 +4019,9 @@
    "end": 24442,
    "dur": 3.6,
    "speaker": "Randam",
-   "en": "You're dying with me. Don't fight it. Hey, Snatchers!",
-   "enabled": true
+   "en": "Ты умрёшь вместе со мной. Не дёргайся. Эй, снатчеры!",
+   "enabled": true,
+   "en_src": "You're dying with me. Don't fight it. Hey, Snatchers!"
   },
   {
    "id": "B260_f32_0b",
@@ -3700,8 +4032,9 @@
    "end": 25127,
    "dur": 3.9,
    "speaker": "Randam",
-   "en": "Keep your hands off the little guy, or I'll snap his neck!",
-   "enabled": true
+   "en": "Руки прочь от малыша, или я сверну ему шею!",
+   "enabled": true,
+   "en_src": "Keep your hands off the little guy, or I'll snap his neck!"
   },
   {
    "id": "B260_f33_0",
@@ -3712,8 +4045,9 @@
    "end": 25239,
    "dur": 0.6,
    "speaker": "Gillian",
-   "en": "Randam!",
-   "enabled": true
+   "en": "Рэндам!",
+   "enabled": true,
+   "en_src": "Randam!"
   },
   {
    "id": "B260_f34_0",
@@ -3724,8 +4058,9 @@
    "end": 26119,
    "dur": 5.8,
    "speaker": "Randam",
-   "en": "I don't like being used. You and I will see the end together.",
-   "enabled": true
+   "en": "Не люблю, когда меня используют. Встретим конец вместе.",
+   "enabled": true,
+   "en_src": "I don't like being used. You and I will see the end together."
   },
   {
    "id": "B260_f35_0",
@@ -3736,8 +4071,9 @@
    "end": 26887,
    "dur": 5.0,
    "speaker": "Metal Gear",
-   "en": "Five minutes, Gillian. The Tricycle's waiting outside. Get in it.",
-   "enabled": true
+   "en": "Пять минут, Гиллиан. Снаружи ждёт трицикл. Садись в него.",
+   "enabled": true,
+   "en_src": "Five minutes, Gillian. The Tricycle's waiting outside. Get in it."
   },
   {
    "id": "B260_f36_0",
@@ -3748,8 +4084,9 @@
    "end": 27575,
    "dur": 4.5,
    "speaker": "Madnar",
-   "en": "Let go! I'm Elijah Madnar! You're a copy of me!",
-   "enabled": true
+   "en": "Пусти! Я Элайджа Мэднар! Ты - моя копия!",
+   "enabled": true,
+   "en_src": "Let go! I'm Elijah Madnar! You're a copy of me!"
   },
   {
    "id": "B260_f37_0",
@@ -3760,8 +4097,9 @@
    "end": 28270,
    "dur": 4.5,
    "speaker": "Randam",
-   "en": "Real or fake, we're both going to die here.",
-   "enabled": true
+   "en": "Настоящий или нет, мы оба здесь умрём.",
+   "enabled": true,
+   "en_src": "Real or fake, we're both going to die here."
   },
   {
    "id": "B260_f37_0b",
@@ -3772,8 +4110,9 @@
    "end": 28759,
    "dur": 3.3,
    "speaker": "Randam",
-   "en": "Once we're both dead, there won't be a fake anymore.",
-   "enabled": true
+   "en": "Когда мы оба умрём, подделки больше не будет.",
+   "enabled": true,
+   "en_src": "Once we're both dead, there won't be a fake anymore."
   },
   {
    "id": "B260_f38_0",
@@ -3784,8 +4123,9 @@
    "end": 29287,
    "dur": 3.4,
    "speaker": "Madnar",
-   "en": "Just logic! A machine's programming!",
-   "enabled": true
+   "en": "Просто логика! Программа машины!",
+   "enabled": true,
+   "en_src": "Just logic! A machine's programming!"
   },
   {
    "id": "B260_f39_0",
@@ -3796,8 +4136,9 @@
    "end": 29463,
    "dur": 1.1,
    "speaker": "Randam",
-   "en": "This is my choice!",
-   "enabled": true
+   "en": "Это мой выбор!",
+   "enabled": true,
+   "en_src": "This is my choice!"
   },
   {
    "id": "B260_f40_0",
@@ -3808,8 +4149,9 @@
    "end": 30151,
    "dur": 4.5,
    "speaker": "Madnar",
-   "en": "Machines have no will! They can't sacrifice themselves!",
-   "enabled": true
+   "en": "У машин нет воли! Они не могут жертвовать собой!",
+   "enabled": true,
+   "en_src": "Machines have no will! They can't sacrifice themselves!"
   },
   {
    "id": "B260_f41_0",
@@ -3820,8 +4162,9 @@
    "end": 30295,
    "dur": 0.9,
    "speaker": "Randam",
-   "en": "You sure about that?",
-   "enabled": true
+   "en": "Ты уверен?",
+   "enabled": true,
+   "en_src": "You sure about that?"
   },
   {
    "id": "B260_f42_0",
@@ -3832,8 +4175,9 @@
    "end": 30604,
    "dur": 1.7,
    "speaker": "Metal Gear",
-   "en": "Four minutes. Get out, now!",
-   "enabled": true
+   "en": "Четыре минуты. Уходи, живо!",
+   "enabled": true,
+   "en_src": "Four minutes. Get out, now!"
   },
   {
    "id": "B260_f42_0b",
@@ -3844,8 +4188,9 @@
    "end": 30999,
    "dur": 3.0,
    "speaker": "Metal Gear",
-   "en": "Destroy the automated factory beneath the Kremlin.",
-   "enabled": true
+   "en": "Уничтожь автоматический завод под Кремлём.",
+   "enabled": true,
+   "en_src": "Destroy the automated factory beneath the Kremlin."
   },
   {
    "id": "B260_f43_0",
@@ -3856,8 +4201,9 @@
    "end": 31143,
    "dur": 0.9,
    "speaker": "Gillian",
-   "en": "Stop!",
-   "enabled": true
+   "en": "Стой!",
+   "enabled": true,
+   "en_src": "Stop!"
   },
   {
    "id": "B260_f44_0",
@@ -3868,8 +4214,9 @@
    "end": 31767,
    "dur": 4.1,
    "speaker": "Randam",
-   "en": "Gillian! Even if the memories in my head were made up...",
-   "enabled": true
+   "en": "Гиллиан! Даже если память в моей голове выдумана...",
+   "enabled": true,
+   "en_src": "Gillian! Even if the memories in my head were made up..."
   },
   {
    "id": "B260_f45_0",
@@ -3880,8 +4227,9 @@
    "end": 32196,
    "dur": 2.8,
    "speaker": "Gillian",
-   "en": "I know! Our memories of fighting together are real!",
-   "enabled": true
+   "en": "Знаю! Но то, как мы сражались вместе, - правда!",
+   "enabled": true,
+   "en_src": "I know! Our memories of fighting together are real!"
   },
   {
    "id": "B260_f45_0b",
@@ -3892,8 +4240,9 @@
    "end": 32391,
    "dur": 1.3,
    "speaker": "Gillian",
-   "en": "There's no doubt about that!",
-   "enabled": true
+   "en": "В этом нет сомнений!",
+   "enabled": true,
+   "en_src": "There's no doubt about that!"
   },
   {
    "id": "B260_f46_0",
@@ -3904,8 +4253,9 @@
    "end": 32839,
    "dur": 2.9,
    "speaker": "Randam",
-   "en": "You've become a fine JUNKER, Gillian.",
-   "enabled": true
+   "en": "Из тебя вышел отличный ДЖАНКЕР, Гиллиан.",
+   "enabled": true,
+   "en_src": "You've become a fine JUNKER, Gillian."
   },
   {
    "id": "B260_f47_0",
@@ -3916,8 +4266,9 @@
    "end": 33287,
    "dur": 2.9,
    "speaker": "Metal Gear",
-   "en": "I enjoyed working with you, Gillian.",
-   "enabled": true
+   "en": "Мне было приятно работать с тобой, Гиллиан.",
+   "enabled": true,
+   "en_src": "I enjoyed working with you, Gillian."
   },
   {
    "id": "B260_f48_0",
@@ -3928,8 +4279,9 @@
    "end": 33415,
    "dur": 0.7,
    "speaker": "Gillian",
-   "en": "Metal!",
-   "enabled": true
+   "en": "Метал!",
+   "enabled": true,
+   "en_src": "Metal!"
   },
   {
    "id": "B260_f49_0",
@@ -3940,8 +4292,9 @@
    "end": 34023,
    "dur": 3.9,
    "speaker": "Metal Gear",
-   "en": "If you can, recover my remains, like Little John's.",
-   "enabled": true
+   "en": "Если сможешь, забери мои останки, как у Литл Джона.",
+   "enabled": true,
+   "en_src": "If you can, recover my remains, like Little John's."
   },
   {
    "id": "B260_f50_0",
@@ -3952,8 +4305,9 @@
    "end": 34359,
    "dur": 2.2,
    "speaker": "Gillian",
-   "en": "Little John? I understand!",
-   "enabled": true
+   "en": "Литл Джон? Понял!",
+   "enabled": true,
+   "en_src": "Little John? I understand!"
   },
   {
    "id": "B260_f51_0",
@@ -3964,8 +4318,9 @@
    "end": 34583,
    "dur": 1.4,
    "speaker": "Metal Gear",
-   "en": "Hurry! Three minutes!",
-   "enabled": true
+   "en": "Скорее! Три минуты!",
+   "enabled": true,
+   "en_src": "Hurry! Three minutes!"
   },
   {
    "id": "B260_f52_0",
@@ -3976,8 +4331,9 @@
    "end": 34743,
    "dur": 1.0,
    "speaker": "Gillian",
-   "en": "I'm sorry. Both of you!",
-   "enabled": true
+   "en": "Простите меня. Вы оба!",
+   "enabled": true,
+   "en_src": "I'm sorry. Both of you!"
   },
   {
    "id": "B260_f52_0b",
@@ -3988,8 +4344,9 @@
    "end": 34983,
    "dur": 0.8,
    "speaker": "Gillian",
-   "en": "Let's go, Jamie!",
-   "enabled": true
+   "en": "Идём, Джейми!",
+   "enabled": true,
+   "en_src": "Let's go, Jamie!"
   },
   {
    "id": "B260_f53_0",
@@ -4000,8 +4357,9 @@
    "end": 35335,
    "dur": 2.2,
    "speaker": "Madnar",
-   "en": "No! Don't let her go! Jamie!",
-   "enabled": true
+   "en": "Нет! Не отпускайте её! Джейми!",
+   "enabled": true,
+   "en_src": "No! Don't let her go! Jamie!"
   },
   {
    "id": "B260_f54_0",
@@ -4012,8 +4370,9 @@
    "end": 35767,
    "dur": 2.8,
    "speaker": "Randam",
-   "en": "Pathetic. You don't even know how to love someone.",
-   "enabled": true
+   "en": "Жалкий. Ты даже любить не умеешь.",
+   "enabled": true,
+   "en_src": "Pathetic. You don't even know how to love someone."
   },
   {
    "id": "B260_f55_0",
@@ -4024,8 +4383,9 @@
    "end": 36183,
    "dur": 2.7,
    "speaker": "Madnar",
-   "en": "What are you laughing at, machine?!",
-   "enabled": true
+   "en": "Над чем смеёшься, машина?!",
+   "enabled": true,
+   "en_src": "What are you laughing at, machine?!"
   },
   {
    "id": "B260_f56_0",
@@ -4036,8 +4396,9 @@
    "end": 36887,
    "dur": 4.6,
    "speaker": "Randam",
-   "en": "By Snatching you, I'll take myself back.",
-   "enabled": true
+   "en": "Подменив тебя, я верну себе себя.",
+   "enabled": true,
+   "en_src": "By Snatching you, I'll take myself back."
   },
   {
    "id": "B260_f57_0",
@@ -4048,8 +4409,9 @@
    "end": 37495,
    "dur": 3.9,
    "speaker": "Metal Gear",
-   "en": "Under a minute, Randam. It's all right now. Thank you.",
-   "enabled": true
+   "en": "Меньше минуты, Рэндам. Теперь всё. Спасибо.",
+   "enabled": true,
+   "en_src": "Under a minute, Randam. It's all right now. Thank you."
   },
   {
    "id": "B260_f58_0",
@@ -4060,8 +4422,9 @@
    "end": 38119,
    "dur": 4.1,
    "speaker": "Randam",
-   "en": "Don't thank me. Sorry I dragged you into such a big job.",
-   "enabled": true
+   "en": "Не за что. Прости, что втянул тебя в такое дело.",
+   "enabled": true,
+   "en_src": "Don't thank me. Sorry I dragged you into such a big job."
   },
   {
    "id": "B260_f59_0",
@@ -4072,8 +4435,9 @@
    "end": 38519,
    "dur": 2.6,
    "speaker": "Randam",
-   "en": "Well done. You're a fine JUNKER.",
-   "enabled": true
+   "en": "Молодец. Ты отличный ДЖАНКЕР.",
+   "enabled": true,
+   "en_src": "Well done. You're a fine JUNKER."
   },
   {
    "id": "B260_f60_0",
@@ -4084,8 +4448,9 @@
    "end": 38999,
    "dur": 3.1,
    "speaker": "Metal Gear",
-   "en": "Three, two, one. Here it comes!",
-   "enabled": true
+   "en": "Три, два, один. Сейчас ударит!",
+   "enabled": true,
+   "en_src": "Three, two, one. Here it comes!"
   },
   {
    "id": "B260_f61_0",
@@ -4096,8 +4461,9 @@
    "end": 39095,
    "dur": 0.5,
    "speaker": "Randam",
-   "en": "So long!",
-   "enabled": true
+   "en": "Прощай!",
+   "enabled": true,
+   "en_src": "So long!"
   },
   {
    "id": "B260_f62_0",
@@ -4108,9 +4474,10 @@
    "end": 39719,
    "dur": 4.1,
    "speaker": "Gillian",
-   "en": "Metal!",
+   "en": "Метал!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Metal!"
   },
   {
    "id": "B260_e_01",
@@ -4120,8 +4487,9 @@
    "end": 74689,
    "dur": 4.6,
    "speaker": "Announcer",
-   "en": "5th Airborne Division, boarding complete. 7th Mechanized Infantry...",
-   "enabled": true
+   "en": "5-я десантная дивизия, посадка окончена. 7-я мотопехотная...",
+   "enabled": true,
+   "en_src": "5th Airborne Division, boarding complete. 7th Mechanized Infantry..."
   },
   {
    "id": "B260_e_02",
@@ -4131,8 +4499,9 @@
    "end": 74974,
    "dur": 1.9,
    "speaker": "Jamie",
-   "en": "So you're really going.",
-   "enabled": true
+   "en": "Значит, ты правда уезжаешь.",
+   "enabled": true,
+   "en_src": "So you're really going."
   },
   {
    "id": "B260_e_03",
@@ -4142,8 +4511,9 @@
    "end": 75349,
    "dur": 2.5,
    "speaker": "Gillian",
-   "en": "We're responsible, too.",
-   "enabled": true
+   "en": "Мы тоже в ответе.",
+   "enabled": true,
+   "en_src": "We're responsible, too."
   },
   {
    "id": "B260_e_04",
@@ -4153,8 +4523,9 @@
    "end": 75814,
    "dur": 2.7,
    "speaker": "Gillian",
-   "en": "And going to the Kremlin might bring my memory back.",
-   "enabled": true
+   "en": "А в Кремле ко мне, может, вернётся память.",
+   "enabled": true,
+   "en_src": "And going to the Kremlin might bring my memory back."
   },
   {
    "id": "B260_e_05",
@@ -4164,8 +4535,9 @@
    "end": 76324,
    "dur": 2.6,
    "speaker": "Gillian",
-   "en": "Then I could love you even more than I do now.",
-   "enabled": true
+   "en": "И тогда я смогу любить тебя ещё сильнее.",
+   "enabled": true,
+   "en_src": "Then I could love you even more than I do now."
   },
   {
    "id": "B260_e_06",
@@ -4175,8 +4547,9 @@
    "end": 77299,
    "dur": 4.9,
    "speaker": "Gillian",
-   "en": "Wait for me. I'll destroy the factory beneath the Kremlin.",
-   "enabled": true
+   "en": "Жди меня. Я уничтожу завод под Кремлём.",
+   "enabled": true,
+   "en_src": "Wait for me. I'll destroy the factory beneath the Kremlin."
   },
   {
    "id": "B260_e_07",
@@ -4186,8 +4559,9 @@
    "end": 77838,
    "dur": 3.6,
    "speaker": "Gillian",
-   "en": "Let's live together when I get back, Jamie.",
-   "enabled": true
+   "en": "Когда вернусь, давай жить вместе, Джейми.",
+   "enabled": true,
+   "en_src": "Let's live together when I get back, Jamie."
   },
   {
    "id": "B260_e_08",
@@ -4197,8 +4571,9 @@
    "end": 78498,
    "dur": 4.4,
    "speaker": "Announcer",
-   "en": "17th Special Operations Team, boarding complete.",
-   "enabled": true
+   "en": "17-я группа спецопераций, посадка завершена.",
+   "enabled": true,
+   "en_src": "17th Special Operations Team, boarding complete."
   },
   {
    "id": "B260_e_09",
@@ -4208,8 +4583,9 @@
    "end": 81737,
    "dur": 3.6,
    "speaker": "Jamie",
-   "en": "Harry and I will be waiting for you.",
-   "enabled": true
+   "en": "Мы с Гарри будем тебя ждать.",
+   "enabled": true,
+   "en_src": "Harry and I will be waiting for you."
   },
   {
    "id": "B260_e_10",
@@ -4219,8 +4595,9 @@
    "end": 82067,
    "dur": 1.6,
    "speaker": "Gillian",
-   "en": "Harry's hat.",
-   "enabled": true
+   "en": "Шляпа Гарри.",
+   "enabled": true,
+   "en_src": "Harry's hat."
   },
   {
    "id": "B260_e_11",
@@ -4230,8 +4607,9 @@
    "end": 82757,
    "dur": 3.1,
    "speaker": "Jamie",
-   "en": "We'll make it work this time.",
-   "enabled": true
+   "en": "На этот раз у нас всё получится.",
+   "enabled": true,
+   "en_src": "We'll make it work this time."
   },
   {
    "id": "B260_e_12",
@@ -4241,8 +4619,9 @@
    "end": 83342,
    "dur": 3.9,
    "speaker": "Jamie",
-   "en": "A real marriage, with trust in each other.",
-   "enabled": true
+   "en": "Настоящий брак, с доверием друг к другу.",
+   "enabled": true,
+   "en_src": "A real marriage, with trust in each other."
   },
   {
    "id": "B260_e_13",
@@ -4252,8 +4631,9 @@
    "end": 83537,
    "dur": 1.3,
    "speaker": "Gillian",
-   "en": "I know, Jamie.",
-   "enabled": true
+   "en": "Знаю, Джейми.",
+   "enabled": true,
+   "en_src": "I know, Jamie."
   },
   {
    "id": "B260_e_14",
@@ -4263,8 +4643,9 @@
    "end": 84212,
    "dur": 2.7,
    "speaker": "Jamie",
-   "en": "Take care, Gillian.",
-   "enabled": true
+   "en": "Береги себя, Гиллиан.",
+   "enabled": true,
+   "en_src": "Take care, Gillian."
   },
   {
    "id": "B260_e_15",
@@ -4274,8 +4655,9 @@
    "end": 84377,
    "dur": 1.1,
    "speaker": "Gillian",
-   "en": "I'm off, Jamie.",
-   "enabled": true
+   "en": "Я пошёл, Джейми.",
+   "enabled": true,
+   "en_src": "I'm off, Jamie."
   },
   {
    "id": "B260_e_16",
@@ -4285,8 +4667,9 @@
    "end": 85066,
    "dur": 1.5,
    "speaker": "Metal Gear",
-   "en": "Wait! Wait for me!",
-   "enabled": true
+   "en": "Стой! Подожди меня!",
+   "enabled": true,
+   "en_src": "Wait! Wait for me!"
   },
   {
    "id": "B260_e_17",
@@ -4296,8 +4679,9 @@
    "end": 85696,
    "dur": 1.9,
    "speaker": "Metal Gear",
-   "en": "Take me with you!",
-   "enabled": true
+   "en": "Возьми меня с собой!",
+   "enabled": true,
+   "en_src": "Take me with you!"
   },
   {
    "id": "B260_e_18",
@@ -4307,8 +4691,9 @@
    "end": 86116,
    "dur": 1.7,
    "speaker": "Gillian",
-   "en": "Metal? Is that you?",
-   "enabled": true
+   "en": "Метал? Это ты?",
+   "enabled": true,
+   "en_src": "Metal? Is that you?"
   },
   {
    "id": "B260_e_19",
@@ -4318,8 +4703,9 @@
    "end": 87046,
    "dur": 6.4,
    "speaker": "Metal Gear",
-   "en": "Yes, it's me. They had no proper frame, so this body's temporary.",
-   "enabled": true
+   "en": "Да, я. Нормального корпуса не нашлось, это тело временное.",
+   "enabled": true,
+   "en_src": "Yes, it's me. They had no proper frame, so this body's temporary."
   },
   {
    "id": "B260_e_19b",
@@ -4329,8 +4715,9 @@
    "end": 87466,
    "dur": 2.2,
    "speaker": "Metal Gear",
-   "en": "Call me Metal Gear PS.",
-   "enabled": true
+   "en": "Зови меня Метал Гир PS.",
+   "enabled": true,
+   "en_src": "Call me Metal Gear PS."
   },
   {
    "id": "B260_e_22",
@@ -4340,8 +4727,9 @@
    "end": 87841,
    "dur": 1.8,
    "speaker": "Gillian",
-   "en": "Looks like your chip survived.",
-   "enabled": true
+   "en": "Похоже, твой чип уцелел.",
+   "enabled": true,
+   "en_src": "Looks like your chip survived."
   },
   {
    "id": "B260_e_23",
@@ -4351,8 +4739,9 @@
    "end": 88470,
    "dur": 4.2,
    "speaker": "Metal Gear",
-   "en": "Randam shielded my chip from the beam.",
-   "enabled": true
+   "en": "Рэндам заслонил мой чип от луча.",
+   "enabled": true,
+   "en_src": "Randam shielded my chip from the beam."
   },
   {
    "id": "B260_e_24",
@@ -4362,8 +4751,9 @@
    "end": 88725,
    "dur": 1.1,
    "speaker": "Gillian",
-   "en": "Randam?",
-   "enabled": true
+   "en": "Рэндам?",
+   "enabled": true,
+   "en_src": "Randam?"
   },
   {
    "id": "B260_e_25",
@@ -4373,8 +4763,9 @@
    "end": 89130,
    "dur": 2.3,
    "speaker": "Metal Gear",
-   "en": "Take me with you, Gillian!",
-   "enabled": true
+   "en": "Возьми меня с собой, Гиллиан!",
+   "enabled": true,
+   "en_src": "Take me with you, Gillian!"
   },
   {
    "id": "B260_e_26",
@@ -4384,8 +4775,9 @@
    "end": 89520,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "Please, please, please!",
-   "enabled": true
+   "en": "Ну пожалуйста, пожалуйста!",
+   "enabled": true,
+   "en_src": "Please, please, please!"
   },
   {
    "id": "B260_e_27",
@@ -4395,8 +4787,9 @@
    "end": 89775,
    "dur": 1.7,
    "speaker": "Gillian",
-   "en": "Hurry aboard, partner.",
-   "enabled": true
+   "en": "Залезай скорее, напарник.",
+   "enabled": true,
+   "en_src": "Hurry aboard, partner."
   },
   {
    "id": "B260_e_28",
@@ -4406,9 +4799,10 @@
    "end": 90180,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "Right, Gillian!",
+   "en": "Есть, Гиллиан!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Right, Gillian!"
   }
  ]
 }

@@ -15,8 +15,9 @@
    "end": 126724,
    "dur": 4.3,
    "speaker": "Randam",
-   "en": "That was close. You were nearly a dead man.",
-   "enabled": true
+   "en": "Вовремя я. Ты был почти покойник.",
+   "enabled": true,
+   "en_src": "That was close. You were nearly a dead man."
   },
   {
    "id": "B130_r_01",
@@ -26,8 +27,9 @@
    "end": 126940,
    "dur": 1.4,
    "speaker": "Gillian",
-   "en": "Who are you?",
-   "enabled": true
+   "en": "Ты кто такой?",
+   "enabled": true,
+   "en_src": "Who are you?"
   },
   {
    "id": "B130_r_02",
@@ -37,8 +39,9 @@
    "end": 127701,
    "dur": 5.1,
    "speaker": "Randam",
-   "en": "Me? Randam Hajile. Bounty hunter.",
-   "enabled": true
+   "en": "Я? Рэндам Хаджайл. Охотник за головами.",
+   "enabled": true,
+   "en_src": "Me? Randam Hajile. Bounty hunter."
   },
   {
    "id": "B130_r_03",
@@ -48,8 +51,9 @@
    "end": 128013,
    "dur": 2.1,
    "speaker": "Gillian",
-   "en": "Bounty hunter?",
-   "enabled": true
+   "en": "Охотник за головами?",
+   "enabled": true,
+   "en_src": "Bounty hunter?"
   },
   {
    "id": "B130_r_04",
@@ -59,8 +63,9 @@
    "end": 128540,
    "dur": 9.0,
    "speaker": "Metal Gear",
-   "en": "A civilian who hunts for rewards. JUNKER work is dangerous.",
-   "enabled": true
+   "en": "Гражданский, охотится за награду. Работа ДЖАНКЕРа опасна.",
+   "enabled": true,
+   "en_src": "A civilian who hunts for rewards. JUNKER work is dangerous."
   },
   {
    "id": "B130_r_04b",
@@ -70,8 +75,9 @@
    "end": 129105,
    "dur": 4.6,
    "speaker": "Metal Gear",
-   "en": "Their numbers fall every year.",
-   "enabled": true
+   "en": "Их с каждым годом всё меньше.",
+   "enabled": true,
+   "en_src": "Their numbers fall every year."
   },
   {
    "id": "B130_r_04c",
@@ -81,8 +87,9 @@
    "end": 129546,
    "dur": 10.1,
    "speaker": "Metal Gear",
-   "en": "So the government put bounties on Snatchers to enlist public help.",
-   "enabled": true
+   "en": "И власти назначили награду за снатчеров, чтобы привлечь людей.",
+   "enabled": true,
+   "en_src": "So the government put bounties on Snatchers to enlist public help."
   },
   {
    "id": "B130_r_04d",
@@ -92,8 +99,9 @@
    "end": 130259,
    "dur": 6.0,
    "speaker": "Metal Gear",
-   "en": "Of course, hunters must register first.",
-   "enabled": true
+   "en": "Конечно, охотники обязаны регистрироваться.",
+   "enabled": true,
+   "en_src": "Of course, hunters must register first."
   },
   {
    "id": "B130_r_06",
@@ -103,8 +111,9 @@
    "end": 130772,
    "dur": 3.4,
    "speaker": "Gillian",
-   "en": "Randam, was it? Were you following me?",
-   "enabled": true
+   "en": "Рэндам, значит? Ты следил за мной?",
+   "enabled": true,
+   "en_src": "Randam, was it? Were you following me?"
   },
   {
    "id": "B130_r_07",
@@ -114,8 +123,9 @@
    "end": 131813,
    "dur": 13.8,
    "speaker": "Randam",
-   "en": "Detective work isn't my style. You find them. I take them out.",
-   "enabled": true
+   "en": "Сыск - не моё. Ты их находишь, я их убираю.",
+   "enabled": true,
+   "en_src": "Detective work isn't my style. You find them. I take them out."
   },
   {
    "id": "B130_r_08",
@@ -125,8 +135,9 @@
    "end": 132357,
    "dur": 8.8,
    "speaker": "Metal Gear",
-   "en": "Regulations require your bounty hunter registration number.",
-   "enabled": true
+   "en": "По правилам назовите регистрационный номер охотника.",
+   "enabled": true,
+   "en_src": "Regulations require your bounty hunter registration number."
   },
   {
    "id": "B130_r_08b",
@@ -136,9 +147,10 @@
    "end": 132620,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "I'll verify it.",
+   "en": "Я проверю.",
    "enabled": true,
-   "by_text": true
+   "by_text": true,
+   "en_src": "I'll verify it."
   },
   {
    "id": "B130_r_09",
@@ -148,8 +160,9 @@
    "end": 133963,
    "dur": 18.0,
    "speaker": "Randam",
-   "en": "BH-75001. Randam Hajile. R-A-N-D-A-M H-A-J-I-L-E.",
-   "enabled": true
+   "en": "BH-75001. Рэндам Хаджайл. R-A-N-D-A-M H-A-J-I-L-E.",
+   "enabled": true,
+   "en_src": "BH-75001. Randam Hajile. R-A-N-D-A-M H-A-J-I-L-E."
   },
   {
    "id": "B130_r_10",
@@ -159,8 +172,9 @@
    "end": 135340,
    "dur": 10.3,
    "speaker": "Metal Gear",
-   "en": "BH-75001, Randam Hajile. Confirmed. You are a bounty hunter.",
-   "enabled": true
+   "en": "BH-75001, Рэндам Хаджайл. Подтверждено. Вы охотник.",
+   "enabled": true,
+   "en_src": "BH-75001, Randam Hajile. Confirmed. You are a bounty hunter."
   },
   {
    "id": "B130_r_10b",
@@ -170,8 +184,9 @@
    "end": 136353,
    "dur": 13.5,
    "speaker": "Metal Gear",
-   "en": "Gillian, he's already disposed of three Snatchers.",
-   "enabled": true
+   "en": "Гиллиан, он уже уничтожил трёх снатчеров.",
+   "enabled": true,
+   "en_src": "Gillian, he's already disposed of three Snatchers."
   },
   {
    "id": "B130_r_10bb",
@@ -181,8 +196,9 @@
    "end": 136566,
    "dur": 2.8,
    "speaker": "Metal Gear",
-   "en": "Freddy makes four.",
-   "enabled": true
+   "en": "Фредди - четвёртый.",
+   "enabled": true,
+   "en_src": "Freddy makes four."
   },
   {
    "id": "B130_r_12",
@@ -192,9 +208,10 @@
    "end": 136803,
    "dur": 1.6,
    "speaker": "Gillian",
-   "en": "Four?",
+   "en": "Четвёртый?",
    "enabled": true,
-   "by_text": true
+   "by_text": true,
+   "en_src": "Four?"
   },
   {
    "id": "B130_r_13",
@@ -204,8 +221,9 @@
    "end": 137346,
    "dur": 6.7,
    "speaker": "Randam",
-   "en": "I've been at this longer than you. Don't rush it, rookie.",
-   "enabled": true
+   "en": "Я в деле дольше тебя. Не гони, новичок.",
+   "enabled": true,
+   "en_src": "I've been at this longer than you. Don't rush it, rookie."
   },
   {
    "id": "B130_r_13b",
@@ -215,8 +233,9 @@
    "end": 137889,
    "dur": 4.5,
    "speaker": "Randam",
-   "en": "Here's a tip for you, Mr. JUNKER.",
-   "enabled": true
+   "en": "Вот тебе подсказка, господин ДЖАНКЕР.",
+   "enabled": true,
+   "en_src": "Here's a tip for you, Mr. JUNKER."
   },
   {
    "id": "B130_r_13c",
@@ -226,8 +245,9 @@
    "end": 138107,
    "dur": 3.3,
    "speaker": "Randam",
-   "en": "You might already know this,",
-   "enabled": true
+   "en": "Может, ты уже знаешь,",
+   "enabled": true,
+   "en_src": "You might already know this,"
   },
   {
    "id": "B130_r_13d",
@@ -237,8 +257,9 @@
    "end": 138746,
    "dur": 5.9,
    "speaker": "Randam",
-   "en": "but their artificial skin is their weak point.",
-   "enabled": true
+   "en": "но их слабое место - искусственная кожа.",
+   "enabled": true,
+   "en_src": "but their artificial skin is their weak point."
   },
   {
    "id": "B130_r_13e",
@@ -248,8 +269,9 @@
    "end": 139462,
    "dur": 6.0,
    "speaker": "Randam",
-   "en": "Ultraviolet light apparently makes their skin cancerous.",
-   "enabled": true
+   "en": "От ультрафиолета у их кожи, говорят, бывает рак.",
+   "enabled": true,
+   "en_src": "Ultraviolet light apparently makes their skin cancerous."
   },
   {
    "id": "B130_r_13f",
@@ -259,8 +281,9 @@
    "end": 140138,
    "dur": 5.7,
    "speaker": "Randam",
-   "en": "So they've secured a hospital to maintain it.",
-   "enabled": true
+   "en": "Поэтому у них есть своя больница для ухода за ней.",
+   "enabled": true,
+   "en_src": "So they've secured a hospital to maintain it."
   },
   {
    "id": "B130_r_13g",
@@ -270,8 +293,9 @@
    "end": 140696,
    "dur": 6.6,
    "speaker": "Randam",
-   "en": "Hit that hospital and you can wipe them all out.",
-   "enabled": true
+   "en": "Накрой эту больницу - и уничтожишь их всех.",
+   "enabled": true,
+   "en_src": "Hit that hospital and you can wipe them all out."
   },
   {
    "id": "B130_r_17",
@@ -281,8 +305,9 @@
    "end": 141529,
    "dur": 11.2,
    "speaker": "Gillian",
-   "en": "How do you know? I get it. You stole Gibson's information.",
-   "enabled": true
+   "en": "Откуда ты знаешь? Ясно. Ты украл данные Гибсона.",
+   "enabled": true,
+   "en_src": "How do you know? I get it. You stole Gibson's information."
   },
   {
    "id": "B130_r_18",
@@ -292,8 +317,9 @@
    "end": 142510,
    "dur": 9.9,
    "speaker": "Randam",
-   "en": "Never mind that. With Gibson gone, I'll need you to do the work.",
-   "enabled": true
+   "en": "Неважно. Гибсона нет, так что работать придётся тебе.",
+   "enabled": true,
+   "en_src": "Never mind that. With Gibson gone, I'll need you to do the work."
   },
   {
    "id": "B130_r_18b",
@@ -303,8 +329,9 @@
    "end": 142888,
    "dur": 5.2,
    "speaker": "Randam",
-   "en": "That's how it is. You're the JUNKER.",
-   "enabled": true
+   "en": "Такие дела. ДЖАНКЕР у нас ты.",
+   "enabled": true,
+   "en_src": "That's how it is. You're the JUNKER."
   },
   {
    "id": "B130_r_18c",
@@ -314,8 +341,9 @@
    "end": 143289,
    "dur": 7.1,
    "speaker": "Randam",
-   "en": "Anyway, Gibson seems to have found that hospital.",
-   "enabled": true
+   "en": "Короче, Гибсон, похоже, нашёл эту больницу.",
+   "enabled": true,
+   "en_src": "Anyway, Gibson seems to have found that hospital."
   },
   {
    "id": "B130_r_18d",
@@ -325,8 +353,9 @@
    "end": 143691,
    "dur": 4.1,
    "speaker": "Randam",
-   "en": "He must have left some kind of clue.",
-   "enabled": true
+   "en": "Наверняка он оставил какую-то зацепку.",
+   "enabled": true,
+   "en_src": "He must have left some kind of clue."
   },
   {
    "id": "B130_r_21",
@@ -336,8 +365,9 @@
    "end": 144201,
    "dur": 3.4,
    "speaker": "Gillian",
-   "en": "Seems to? You don't know a thing, do you, Randam?",
-   "enabled": true
+   "en": "\"Похоже\"? Да ты сам ничего не знаешь, Рэндам.",
+   "enabled": true,
+   "en_src": "Seems to? You don't know a thing, do you, Randam?"
   },
   {
    "id": "B130_r_22",
@@ -347,8 +377,9 @@
    "end": 145533,
    "dur": 8.9,
    "speaker": "Randam",
-   "en": "Finding out is your job.",
-   "enabled": true
+   "en": "Выяснять - твоя работа.",
+   "enabled": true,
+   "en_src": "Finding out is your job."
   },
   {
    "id": "B130_r_23",
@@ -358,8 +389,9 @@
    "end": 145806,
    "dur": 1.8,
    "speaker": "Gillian",
-   "en": "I owe you one, Randam.",
-   "enabled": true
+   "en": "Я твой должник, Рэндам.",
+   "enabled": true,
+   "en_src": "I owe you one, Randam."
   },
   {
    "id": "B130_r_24",
@@ -369,8 +401,9 @@
    "end": 146990,
    "dur": 7.9,
    "speaker": "Randam",
-   "en": "You can pay me back someday. See you, JUNKER.",
-   "enabled": true
+   "en": "Когда-нибудь вернёшь должок. Бывай, ДЖАНКЕР.",
+   "enabled": true,
+   "en_src": "You can pay me back someday. See you, JUNKER."
   },
   {
    "id": "B130_r_26",
@@ -380,9 +413,10 @@
    "end": 147269,
    "dur": 3.7,
    "speaker": "Metal Gear",
-   "en": "He's a Snatcher hunter, all right.",
+   "en": "Он и правда охотник на снатчеров.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "He's a Snatcher hunter, all right."
   },
   {
    "id": "B130_r_26b",
@@ -392,9 +426,10 @@
    "end": 147548,
    "dur": 3.7,
    "speaker": "Metal Gear",
-   "en": "There's a Snatcher in him.",
+   "en": "В нём самом что-то от снатчера.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "There's a Snatcher in him."
   }
  ]
 }
