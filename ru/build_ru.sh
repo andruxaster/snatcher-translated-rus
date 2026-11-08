@@ -18,4 +18,4 @@ for i in 1 2; do
     if [ -d work/ru/out ]; then $PY ru/rutools.py merge --all; fi
     $PY ps1/tools/rebuild_pairs.py
 done
-$PY build.py ps1 --variant censored "$@"
+$PY build.py ps1 "$@"

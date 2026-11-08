@@ -26,7 +26,7 @@ import os, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.abspath(os.path.join(HERE, ".."))
 
-REQUIRED = ["arial.ttf", "arialbd.ttf", "impact.ttf", "times.ttf", "msgothic.ttc"]
+REQUIRED = ["arial.ttf", "arialbd.ttf", "impact.ttf"]   # the PS1 boot screens (Cyrillic needed)
 # other spellings of the same files (msttcorefonts, macOS)
 ALIASES = {
     "arial.ttf": ["Arial.ttf"],

@@ -286,17 +286,16 @@ SATURN_LISA_PNG = os.path.join(ROOT, "work", "saturn", "sat_433.png")
 
 
 def saturn_picture():
-    """Saturn chunk 433 as a 240x128 RGB PNG, rendered once by the Saturn
-    tree's own satgfx.py (SNATCHER_SATURN, default this tree: the Saturn port
-    lives in saturn/ beside the PS1's, and needs discs/extracted_saturn)."""
+    """Saturn chunk 433 as a 240x128 RGB PNG, rendered once by
+    ps1/tools/satgfx.py from discs/extracted_saturn (build.py extracts it)."""
     if os.path.exists(SATURN_LISA_PNG):
         return SATURN_LISA_PNG
     import shutil, subprocess
-    sat = os.environ.get("SNATCHER_SATURN", ROOT)
-    tool = os.path.join(sat, "saturn", "tools", "satgfx.py")
-    if not os.path.exists(tool):
-        sys.exit(f"{SATURN_LISA_PNG} missing and no Saturn tree at {sat} "
-                 f"(set SNATCHER_SATURN to a checkout with discs/extracted_saturn)")
+    sat = ROOT
+    tool = os.path.join(ROOT, "ps1", "tools", "satgfx.py")
+    if not os.path.exists(os.path.join(ROOT, "discs", "extracted_saturn", "DATA.BIN")):
+        sys.exit(f"{SATURN_LISA_PNG} missing and no Saturn extraction "
+                 f"(discs/extracted_saturn) - see `build.py discs`")
     subprocess.run([sys.executable, tool, "render", str(SATURN_LISA)], cwd=sat, check=True,
                    stdout=subprocess.DEVNULL)
     src = os.path.join(sat, "work", "saturn", "gfx", f"{SATURN_LISA:03d}",
