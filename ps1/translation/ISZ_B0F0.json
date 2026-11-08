@@ -168,10 +168,11 @@
   {
    "off": 5037,
    "budget": 41,
-   "en": "Детектив, держите своё звание при себе.",
+   "en": ".",
    "en_src": "Detective,￥keep your position quiet!",
    "long_src": "Keep your identity to yourself,￥Detective.",
-   "ru": true
+   "ru": true,
+   "long": "Детектив, держите своё звание при￥себе."
   },
   {
    "off": 5078,
@@ -240,9 +241,10 @@
   {
    "off": 5701,
    "budget": 5,
-   "en": "Осм.",
+   "en": ".",
    "en_src": "Look",
-   "ru": true
+   "ru": true,
+   "long": "Осмотреть"
   },
   {
    "off": 5706,
@@ -488,18 +490,20 @@
   {
    "off": 7060,
    "budget": 43,
-   "en": "По обе стороны улицы - клубы для взрослых.",
+   "en": ".",
    "en_src": "Adult shops line both sides of the￥road.",
    "long_src": "Adult clubs line both sides of the￥street.",
-   "ru": true
+   "ru": true,
+   "long": "По обе стороны улицы - клубы для￥взрослых."
   },
   {
    "off": 7103,
    "budget": 51,
-   "en": "Другие места, честно, скучные. И дерут втридорога.",
+   "en": ".",
    "en_src": "The other shops are dull.￥And they fleece you...",
    "long_src": "The other places are boring,￥honestly. And they overcharge.",
-   "ru": true
+   "ru": true,
+   "long": "Другие места, честно, скучные. И￥дерут втридорога."
   },
   {
    "off": 7154,
@@ -538,9 +542,10 @@
   {
    "off": 7278,
    "budget": 5,
-   "en": "Спр.",
+   "en": ".",
    "en_src": "Ask",
-   "ru": true
+   "ru": true,
+   "long": "Спросить"
   },
   {
    "off": 7283,
@@ -713,10 +718,11 @@
   {
    "off": 8057,
    "budget": 53,
-   "en": "Изабелла танцует до следующей недели. Приходите ещё.",
+   "en": ".",
    "en_src": "Isabella dances until next week.￥Do come again.",
    "long_src": "Isabella will be dancing through￥next week. Come again.",
-   "ru": true
+   "ru": true,
+   "long": "Изабелла танцует до следующей￥недели. Приходите ещё."
   },
   {
    "off": 8110,
@@ -1001,16 +1007,18 @@
   {
    "off": 10002,
    "budget": 5,
-   "en": "Вещь",
+   "en": ".",
    "en_src": "Item",
-   "ru": true
+   "ru": true,
+   "long": "Предметы"
   },
   {
    "off": 10007,
    "budget": 7,
-   "en": "Показ",
+   "en": ".",
    "en_src": "Show",
-   "ru": true
+   "ru": true,
+   "long": "Показать"
   },
   {
    "off": 10014,
@@ -1125,16 +1133,17 @@
   {
    "off": 10352,
    "budget": 9,
-   "en": "Дискета",
+   "en": "Диск",
    "en_src": "Disk",
    "ru": true
   },
   {
    "off": 10361,
    "budget": 11,
-   "en": "Защ. крем",
+   "en": ".",
    "en_src": "Sunblock",
-   "ru": true
+   "ru": true,
+   "long": "Защитный крем"
   },
   {
    "off": 10372,
@@ -1225,9 +1234,10 @@
   {
    "off": 10646,
    "budget": 5,
-   "en": "Исп.",
+   "en": ".",
    "en_src": "Use",
-   "ru": true
+   "ru": true,
+   "long": "Использовать"
   },
   {
    "off": 10651,
@@ -1687,9 +1697,10 @@
   {
    "off": 13171,
    "budget": 45,
-   "en": "Шахматная фигура, найденная в плаще Гибсона.",
+   "en": ".",
    "en_src": "The chess piece we found in Gibson's￥coat.",
-   "ru": true
+   "ru": true,
+   "long": "Шахматная фигура, найденная в плаще￥Гибсона."
   },
   {
    "off": 13216,

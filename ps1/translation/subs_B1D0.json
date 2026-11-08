@@ -15,8 +15,9 @@
    "end": 39453,
    "dur": 4.6,
    "speaker": "Napoleon",
-   "en": "Sit down, Gillian. It's safer in a crowd.",
-   "enabled": true
+   "en": "Садись, Гиллиан. В толпе безопаснее.",
+   "enabled": true,
+   "en_src": "Sit down, Gillian. It's safer in a crowd."
   },
   {
    "id": "B1D0_c5f79_0",
@@ -26,8 +27,9 @@
    "end": 39997,
    "dur": 3.5,
    "speaker": "Gillian",
-   "en": "You really fooled me, playing two parts like that.",
-   "enabled": true
+   "en": "Ловко ты меня провёл, играя две роли.",
+   "enabled": true,
+   "en_src": "You really fooled me, playing two parts like that."
   },
   {
    "id": "B1D0_c5f80_0",
@@ -48,8 +50,9 @@
    "end": 40445,
    "dur": 0.7,
    "speaker": "Napoleon",
-   "en": "Bless you.",
-   "enabled": true
+   "en": "Будь здоров.",
+   "enabled": true,
+   "en_src": "Bless you."
   },
   {
    "id": "B1D0_c5f82_0",
@@ -59,8 +62,9 @@
    "end": 41602,
    "dur": 8.2,
    "speaker": "Napoleon",
-   "en": "I wasn't trying to fool you. Being an informant is a dangerous business.",
-   "enabled": true
+   "en": "Я не хотел тебя обманывать. Информатор - опасное ремесло.",
+   "enabled": true,
+   "en_src": "I wasn't trying to fool you. Being an informant is a dangerous business."
   },
   {
    "id": "B1D0_c5f82_0b",
@@ -70,8 +74,9 @@
    "end": 42189,
    "dur": 3.5,
    "speaker": "Napoleon",
-   "en": "You never reveal your identity.",
-   "enabled": true
+   "en": "Никогда не раскрывай, кто ты.",
+   "enabled": true,
+   "en_src": "You never reveal your identity."
   },
   {
    "id": "B1D0_c5f83_0",
@@ -81,8 +86,9 @@
    "end": 42399,
    "dur": 3.2,
    "speaker": "Gillian",
-   "en": "Still, I feel cheated.",
-   "enabled": true
+   "en": "И всё равно я чувствую себя обманутым.",
+   "enabled": true,
+   "en_src": "Still, I feel cheated."
   },
   {
    "id": "B1D0_c5f83_0b",
@@ -92,8 +98,9 @@
    "end": 43181,
    "dur": 9.8,
    "speaker": "Gillian",
-   "en": "I asked you where Outer Heaven was, and you worked there all along.",
-   "enabled": true
+   "en": "Я спрашивал, где \"Аутер Хэвен\", а ты там работал.",
+   "enabled": true,
+   "en_src": "I asked you where Outer Heaven was, and you worked there all along."
   },
   {
    "id": "B1D0_c5f84_0",
@@ -103,8 +110,9 @@
    "end": 43643,
    "dur": 3.7,
    "speaker": "Napoleon",
-   "en": "I was the one who was surprised.",
-   "enabled": true
+   "en": "Это я удивился.",
+   "enabled": true,
+   "en_src": "I was the one who was surprised."
   },
   {
    "id": "B1D0_c5f84_0b",
@@ -114,8 +122,9 @@
    "end": 44813,
    "dur": 7.1,
    "speaker": "Napoleon",
-   "en": "I didn't know Gibson had been to the club. I was off that day.",
-   "enabled": true
+   "en": "Я не знал, что Гибсон был в клубе. У меня был выходной.",
+   "enabled": true,
+   "en_src": "I didn't know Gibson had been to the club. I was off that day."
   },
   {
    "id": "B1D0_c5f85_0",
@@ -125,8 +134,9 @@
    "end": 45419,
    "dur": 4.1,
    "speaker": "Gillian",
-   "en": "It's not costume time tonight. Take off the mask, Napoleon.",
-   "enabled": true
+   "en": "Сегодня не время костюмов. Сними маску, Наполеон.",
+   "enabled": true,
+   "en_src": "It's not costume time tonight. Take off the mask, Napoleon."
   },
   {
    "id": "B1D0_c5f85_0b",
@@ -136,8 +146,9 @@
    "end": 45789,
    "dur": 2.4,
    "speaker": "Gillian",
-   "en": "Talking to a werewolf makes me nervous.",
-   "enabled": true
+   "en": "Мне не по себе говорить с оборотнем.",
+   "enabled": true,
+   "en_src": "Talking to a werewolf makes me nervous."
   },
   {
    "id": "B1D0_c5f86_0",
@@ -147,8 +158,9 @@
    "end": 46317,
    "dur": 3.4,
    "speaker": "Napoleon",
-   "en": "Well, if you don't mind.",
-   "enabled": true
+   "en": "Ну, раз ты не против.",
+   "enabled": true,
+   "en_src": "Well, if you don't mind."
   },
   {
    "id": "B1D0_c5f87_0",
@@ -158,8 +170,9 @@
    "end": 47261,
    "dur": 6.2,
    "speaker": "Napoleon",
-   "en": "Whew! This full-face mask gets pretty stuffy.",
-   "enabled": true
+   "en": "Фух! В этой маске на всё лицо так душно.",
+   "enabled": true,
+   "en_src": "Whew! This full-face mask gets pretty stuffy."
   },
   {
    "id": "B1D0_c5f88_0",
@@ -169,8 +182,9 @@
    "end": 47597,
    "dur": 2.1,
    "speaker": "Gillian",
-   "en": "Maybe you should've left it on.",
-   "enabled": true
+   "en": "Может, лучше было её не снимать.",
+   "enabled": true,
+   "en_src": "Maybe you should've left it on."
   },
   {
    "id": "B1D0_c5f89_0",
@@ -180,8 +194,9 @@
    "end": 47761,
    "dur": 1.0,
    "speaker": "Napoleon",
-   "en": "What?",
-   "enabled": true
+   "en": "Что?",
+   "enabled": true,
+   "en_src": "What?"
   },
   {
    "id": "B1D0_c5f89_0b",
@@ -191,9 +206,10 @@
    "end": 48765,
    "dur": 2.1,
    "speaker": "Napoleon",
-   "en": "How did you figure it out?",
+   "en": "Как ты догадался?",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "How did you figure it out?"
   },
   {
    "id": "B1D0_f1_0",
@@ -203,8 +219,9 @@
    "end": 2889,
    "dur": 6.3,
    "speaker": "Gillian",
-   "en": "That werewolf in the message.",
-   "enabled": true
+   "en": "Оборотень в том сообщении.",
+   "enabled": true,
+   "en_src": "That werewolf in the message."
   },
   {
    "id": "B1D0_f1_0b",
@@ -214,8 +231,9 @@
    "end": 3364,
    "dur": 6.3,
    "speaker": "Gillian",
-   "en": "KTT would never use a picture that tasteless.",
-   "enabled": true
+   "en": "KTT никогда не взяли бы такую безвкусную картинку.",
+   "enabled": true,
+   "en_src": "KTT would never use a picture that tasteless."
   },
   {
    "id": "B1D0_f1_0b2",
@@ -225,8 +243,9 @@
    "end": 3886,
    "dur": 3.5,
    "speaker": "Gillian",
-   "en": "And your sneeze clinched it.",
-   "enabled": true
+   "en": "А твой чих всё решил.",
+   "enabled": true,
+   "en_src": "And your sneeze clinched it."
   },
   {
    "id": "B1D0_f2_0",
@@ -236,8 +255,9 @@
    "end": 4862,
    "dur": 6.4,
    "speaker": "Napoleon",
-   "en": "My sneeze, huh? Want to know why they call me Napoleon?",
-   "enabled": true
+   "en": "Мой чих, значит? Знаешь, почему меня зовут Наполеоном?",
+   "enabled": true,
+   "en_src": "My sneeze, huh? Want to know why they call me Napoleon?"
   },
   {
    "id": "B1D0_f3_0",
@@ -247,8 +267,9 @@
    "end": 5310,
    "dur": 8.6,
    "speaker": "Napoleon",
-   "en": "I can't handle winter.",
-   "enabled": true
+   "en": "Я не переношу зиму.",
+   "enabled": true,
+   "en_src": "I can't handle winter."
   },
   {
    "id": "B1D0_f3_0b",
@@ -258,8 +279,9 @@
    "end": 5742,
    "dur": 8.6,
    "speaker": "Napoleon",
-   "en": "Napoleon Bonaparte sent his Grand Army into Russia in 1812.",
-   "enabled": true
+   "en": "В 1812 году Наполеон Бонапарт повёл Великую армию в Россию.",
+   "enabled": true,
+   "en_src": "Napoleon Bonaparte sent his Grand Army into Russia in 1812."
   },
   {
    "id": "B1D0_f3_0c",
@@ -269,8 +291,9 @@
    "end": 6174,
    "dur": 8.6,
    "speaker": "Napoleon",
-   "en": "The snow forced him into a disastrous retreat.",
-   "enabled": true
+   "en": "Снег заставил его позорно отступить.",
+   "enabled": true,
+   "en_src": "The snow forced him into a disastrous retreat."
   },
   {
    "id": "B1D0_f4_0",
@@ -280,8 +303,9 @@
    "end": 6382,
    "dur": 1.3,
    "speaker": "Gillian",
-   "en": "I see.",
-   "enabled": true
+   "en": "Понятно.",
+   "enabled": true,
+   "en_src": "I see."
   },
   {
    "id": "B1D0_f5_0",
@@ -291,8 +315,9 @@
    "end": 7134,
    "dur": 4.9,
    "speaker": "Napoleon",
-   "en": "But my sneezing is caused by Snow Cedar pollen.",
-   "enabled": true
+   "en": "Но чихаю я от пыльцы снежного кедра.",
+   "enabled": true,
+   "en_src": "But my sneezing is caused by Snow Cedar pollen."
   },
   {
    "id": "B1D0_f6_0",
@@ -302,8 +327,9 @@
    "end": 7438,
    "dur": 1.9,
    "speaker": "Napoleon",
-   "en": "So, what do you want?",
-   "enabled": true
+   "en": "Так что тебе нужно?",
+   "enabled": true,
+   "en_src": "So, what do you want?"
   },
   {
    "id": "B1D0_f7_0",
@@ -313,8 +339,9 @@
    "end": 7630,
    "dur": 1.2,
    "speaker": "Gillian",
-   "en": "I have a question.",
-   "enabled": true
+   "en": "У меня вопрос.",
+   "enabled": true,
+   "en_src": "I have a question."
   },
   {
    "id": "B1D0_f8_0",
@@ -324,8 +351,9 @@
    "end": 7774,
    "dur": 0.9,
    "speaker": "Napoleon",
-   "en": "Go ahead.",
-   "enabled": true
+   "en": "Валяй.",
+   "enabled": true,
+   "en_src": "Go ahead."
   },
   {
    "id": "B1D0_f9_0",
@@ -335,8 +363,9 @@
    "end": 8206,
    "dur": 2.8,
    "speaker": "Gillian",
-   "en": "That's it! Benson!",
-   "enabled": true
+   "en": "Точно! Бенсон!",
+   "enabled": true,
+   "en_src": "That's it! Benson!"
   },
   {
    "id": "B1D0_f10_0",
@@ -346,10 +375,11 @@
    "end": 8798,
    "dur": 3.8,
    "speaker": "Gillian",
-   "en": "Benson? Could it be Chief Benson Cunningham?",
+   "en": "Бенсон? Неужели шеф Бенсон Каннингем?",
    "enabled": true,
    "by_text": true,
-   "note": "2026-11-07: the engine animates the other speaker (f10 Metal Gear, f11 Gillian); the Japanese of both is plain speech, no polite ending either way - kept as all three ports have it, to be settled by ear"
+   "note": "2026-11-07: the engine animates the other speaker (f10 Metal Gear, f11 Gillian); the Japanese of both is plain speech, no polite ending either way - kept as all three ports have it, to be settled by ear",
+   "en_src": "Benson? Could it be Chief Benson Cunningham?"
   },
   {
    "id": "B1D0_f11_0",
@@ -359,10 +389,11 @@
    "end": 9342,
    "dur": 3.5,
    "speaker": "Metal Gear",
-   "en": "Or our mechanic. His full name is Harry Benson.",
+   "en": "Или наш механик. Его полное имя - Гарри Бенсон.",
    "enabled": true,
    "by_text": true,
-   "note": "2026-11-07: the engine animates the other speaker (f10 Metal Gear, f11 Gillian); the Japanese of both is plain speech, no polite ending either way - kept as all three ports have it, to be settled by ear"
+   "note": "2026-11-07: the engine animates the other speaker (f10 Metal Gear, f11 Gillian); the Japanese of both is plain speech, no polite ending either way - kept as all three ports have it, to be settled by ear",
+   "en_src": "Or our mechanic. His full name is Harry Benson."
   },
   {
    "id": "B1D0_f12_0",
@@ -372,8 +403,9 @@
    "end": 9652,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "One of those two is a Snatcher.",
-   "enabled": true
+   "en": "Один из них - снатчер.",
+   "enabled": true,
+   "en_src": "One of those two is a Snatcher."
   },
   {
    "id": "B1D0_f12_0b",
@@ -383,8 +415,9 @@
    "end": 10126,
    "dur": 2.3,
    "speaker": "Gillian",
-   "en": "They've even infiltrated JUNKER headquarters.",
-   "enabled": true
+   "en": "Они проникли даже в штаб ДЖАНКЕРа.",
+   "enabled": true,
+   "en_src": "They've even infiltrated JUNKER headquarters."
   },
   {
    "id": "B1D0_f13_0",
@@ -394,8 +427,9 @@
    "end": 10761,
    "dur": 4.1,
    "speaker": "Metal Gear",
-   "en": "Now we know how they anticipated our every move.",
-   "enabled": true
+   "en": "Вот как они предугадывали каждый наш шаг.",
+   "enabled": true,
+   "en_src": "Now we know how they anticipated our every move."
   },
   {
    "id": "B1D0_f13_0b",
@@ -405,8 +439,9 @@
    "end": 11310,
    "dur": 3.0,
    "speaker": "Metal Gear",
-   "en": "We send all our investigation data to headquarters.",
-   "enabled": true
+   "en": "Мы отправляем в штаб все данные расследования.",
+   "enabled": true,
+   "en_src": "We send all our investigation data to headquarters."
   },
   {
    "id": "B1D0_f14_0",
@@ -416,8 +451,9 @@
    "end": 11758,
    "dur": 5.8,
    "speaker": "Gillian",
-   "en": "Metal, stop sending data to headquarters. Now!",
-   "enabled": true
+   "en": "Метал, прекрати отправлять данные в штаб. Сейчас же!",
+   "enabled": true,
+   "en_src": "Metal, stop sending data to headquarters. Now!"
   },
   {
    "id": "B1D0_f15_0",
@@ -427,8 +463,9 @@
    "end": 12121,
    "dur": 4.6,
    "speaker": "Metal Gear",
-   "en": "I'm doing it now.",
-   "enabled": true
+   "en": "Уже делаю.",
+   "enabled": true,
+   "en_src": "I'm doing it now."
   },
   {
    "id": "B1D0_f15_0b",
@@ -438,8 +475,9 @@
    "end": 12469,
    "dur": 4.6,
    "speaker": "Metal Gear",
-   "en": "I've disconnected the automatic transfer routine.",
-   "enabled": true
+   "en": "Я отключил автоматическую передачу.",
+   "enabled": true,
+   "en_src": "I've disconnected the automatic transfer routine."
   },
   {
    "id": "B1D0_f15_0b2",
@@ -449,8 +487,9 @@
    "end": 12942,
    "dur": 2.4,
    "speaker": "Metal Gear",
-   "en": "No more data will be sent.",
-   "enabled": true
+   "en": "Больше данные не уйдут.",
+   "enabled": true,
+   "en_src": "No more data will be sent."
   },
   {
    "id": "B1D0_f16_0",
@@ -460,8 +499,9 @@
    "end": 13342,
    "dur": 2.6,
    "speaker": "Gillian",
-   "en": "A Snatcher at JUNKER headquarters. Damn it!",
-   "enabled": true
+   "en": "Снатчер в штабе ДЖАНКЕРа. Чёрт!",
+   "enabled": true,
+   "en_src": "A Snatcher at JUNKER headquarters. Damn it!"
   },
   {
    "id": "B1D0_f17_0",
@@ -471,8 +511,9 @@
    "end": 13934,
    "dur": 7.6,
    "speaker": "Metal Gear",
-   "en": "We need proof of which one is a Snatcher, as soon as possible.",
-   "enabled": true
+   "en": "Нужно как можно скорее доказать, кто из них снатчер.",
+   "enabled": true,
+   "en_src": "We need proof of which one is a Snatcher, as soon as possible."
   },
   {
    "id": "B1D0_f18_0",
@@ -482,8 +523,9 @@
    "end": 14190,
    "dur": 1.6,
    "speaker": "Gillian",
-   "en": "Metal, hurry to JUNKER HQ!",
-   "enabled": true
+   "en": "Метал, скорее в штаб ДЖАНКЕРа!",
+   "enabled": true,
+   "en_src": "Metal, hurry to JUNKER HQ!"
   },
   {
    "id": "B1D0_f19_0",
@@ -493,8 +535,9 @@
    "end": 14895,
    "dur": 4.6,
    "speaker": "Napoleon",
-   "en": "See you, JUNKER. Today's information is on me.",
-   "enabled": true
+   "en": "Бывай, ДЖАНКЕР. Сегодняшняя информация - за мой счёт.",
+   "enabled": true,
+   "en_src": "See you, JUNKER. Today's information is on me."
   },
   {
    "id": "B1D0_f19_0b",
@@ -504,8 +547,9 @@
    "end": 15275,
    "dur": 1.4,
    "speaker": "Napoleon",
-   "en": "Take care, Gillian.",
-   "enabled": true
+   "en": "Береги себя, Гиллиан.",
+   "enabled": true,
+   "en_src": "Take care, Gillian."
   },
   {
    "id": "B1D0_f19_0c",
@@ -515,8 +559,9 @@
    "end": 15758,
    "dur": 2.6,
    "speaker": "Napoleon",
-   "en": "Don't let those Snatchers get you.",
-   "enabled": true
+   "en": "Не дай снатчерам себя достать.",
+   "enabled": true,
+   "en_src": "Don't let those Snatchers get you."
   },
   {
    "id": "B1D0_f20_0",
@@ -526,8 +571,9 @@
    "end": 16766,
    "dur": 13.2,
    "speaker": "Napoleon",
-   "en": "I'll lie low for a while. You're my best source of income.",
-   "enabled": true
+   "en": "Я на время залягу на дно. Ты мой лучший источник дохода.",
+   "enabled": true,
+   "en_src": "I'll lie low for a while. You're my best source of income."
   },
   {
    "id": "B1D0_f21_0",
@@ -537,8 +583,9 @@
    "end": 17438,
    "dur": 4.4,
    "speaker": "Gillian",
-   "en": "You take care too, Napoleon. Dead men don't sneeze.",
-   "enabled": true
+   "en": "И ты береги себя, Наполеон. Мертвецы не чихают.",
+   "enabled": true,
+   "en_src": "You take care too, Napoleon. Dead men don't sneeze."
   },
   {
    "id": "B1D0_f22_0",
@@ -548,8 +595,9 @@
    "end": 17678,
    "dur": 1.5,
    "speaker": "Napoleon",
-   "en": "What are you talking about?",
-   "enabled": true
+   "en": "Ты о чём это?",
+   "enabled": true,
+   "en_src": "What are you talking about?"
   },
   {
    "id": "B1D0_f23_0",
@@ -559,8 +607,9 @@
    "end": 17838,
    "dur": 1.0,
    "speaker": "Gillian",
-   "en": "See you, Napoleon.",
-   "enabled": true
+   "en": "Бывай, Наполеон.",
+   "enabled": true,
+   "en_src": "See you, Napoleon."
   },
   {
    "id": "B1D0_f23_0b",
@@ -570,9 +619,10 @@
    "end": 18078,
    "dur": 0.6,
    "speaker": "Gillian",
-   "en": "Let's go, Metal.",
+   "en": "Поехали, Метал.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Let's go, Metal."
   },
   {
    "id": "B1D0_f34_0",
@@ -582,8 +632,9 @@
    "end": 21998,
    "dur": 1.1,
    "speaker": "Metal Gear",
-   "en": "Beryllium is Be.",
-   "enabled": true
+   "en": "Бериллий - Be.",
+   "enabled": true,
+   "en_src": "Beryllium is Be."
   },
   {
    "id": "B1D0_f35_0",
@@ -593,8 +644,9 @@
    "end": 22110,
    "dur": 0.6,
    "speaker": "Metal Gear",
-   "en": "Nitrogen is N.",
-   "enabled": true
+   "en": "Азот - N.",
+   "enabled": true,
+   "en_src": "Nitrogen is N."
   },
   {
    "id": "B1D0_f36_0",
@@ -604,8 +656,9 @@
    "end": 22222,
    "dur": 0.6,
    "speaker": "Metal Gear",
-   "en": "Sulfur is S.",
-   "enabled": true
+   "en": "Сера - S.",
+   "enabled": true,
+   "en_src": "Sulfur is S."
   },
   {
    "id": "B1D0_f37_0",
@@ -615,8 +668,9 @@
    "end": 22334,
    "dur": 0.6,
    "speaker": "Metal Gear",
-   "en": "Oxygen is O.",
-   "enabled": true
+   "en": "Кислород - O.",
+   "enabled": true,
+   "en_src": "Oxygen is O."
   },
   {
    "id": "B1D0_f38_0",
@@ -626,9 +680,10 @@
    "end": 22758,
    "dur": 5.4,
    "speaker": "Gillian",
-   "en": "So it's Benson.",
+   "en": "Значит, Бенсон.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "So it's Benson."
   },
   {
    "id": "B1D0_f38_0b",
@@ -638,9 +693,10 @@
    "end": 23166,
    "dur": 5.4,
    "speaker": "Gillian",
-   "en": "The name Benson was hidden in this record.",
+   "en": "В этой медкарте было спрятано имя Бенсон.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "The name Benson was hidden in this record."
   }
  ]
 }

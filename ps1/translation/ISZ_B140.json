@@ -322,10 +322,11 @@
   {
    "off": 5772,
    "budget": 51,
-   "en": "Будь увереннее в себе. Ты же теперь профессионал.",
+   "en": ".",
    "en_src": "Have some confidence. You're a￥professional now.",
    "long_src": "Have confidence in yourself. You're￥a professional now.",
-   "ru": true
+   "ru": true,
+   "long": "Будь увереннее в себе. Ты же теперь￥профессионал."
   },
   {
    "off": 5823,
@@ -346,9 +347,10 @@
   {
    "off": 5887,
    "budget": 85,
-   "en": "Да, безусловно идеально, но посмотри внимательно. Ты перебил и всех мирных жителей.",
+   "en": ".",
    "en_src": "Yes, it's certainly perfect, but￥look closely. You killed all the￥civilians too.",
-   "ru": true
+   "ru": true,
+   "long": "Да, безусловно идеально, но посмотри￥внимательно. Ты перебил и всех￥мирных жителей."
   },
   {
    "off": 5972,
@@ -548,9 +550,10 @@
   {
    "off": 7251,
    "budget": 57,
-   "en": "Шальных выстрелов мало, так что прицел, похоже, хороший.",
+   "en": ".",
    "en_src": "Few stray shots, so your aim seems￥good.",
-   "ru": true
+   "ru": true,
+   "long": "Шальных выстрелов мало, так что￥прицел, похоже, хороший."
   },
   {
    "off": 7308,
@@ -619,10 +622,11 @@
   {
    "off": 7808,
    "budget": 71,
-   "en": "Лишних выстрелов всё ещё много, а меткость низкая. Тренируйся дальше.",
+   "en": ".",
    "en_src": "Still many wasted shots and a low￥hit rate, so keep practising.",
    "long_src": "You're still wasting too many shots￥and your accuracy is low. Keep￥practicing.",
-   "ru": true
+   "ru": true,
+   "long": "Лишних выстрелов всё ещё много, а￥меткость низкая. Тренируйся дальше."
   },
   {
    "off": 7879,
@@ -865,10 +869,11 @@
   {
    "off": 9365,
    "budget": 59,
-   "en": "Что ты творишь? Зачем стреляешь в столько мирных жителей?",
+   "en": ".",
    "en_src": "What's the idea?￥Why shoot civilians like that?",
    "long_src": "What are you doing? Why are you￥shooting so many civilians?",
-   "ru": true
+   "ru": true,
+   "long": "Что ты творишь? Зачем стреляешь в￥столько мирных жителей?"
   },
   {
    "off": 9424,
@@ -1017,10 +1022,11 @@
   {
    "off": 10420,
    "budget": 55,
-   "en": "Какой ты упорный. Я стал тебя немного больше уважать.",
+   "en": ".",
    "en_src": "You do try hard.￥I've changed my mind about you.",
    "long_src": "You really do keep trying. I have a￥little more respect for you now.",
-   "ru": true
+   "ru": true,
+   "long": "Какой ты упорный. Я стал тебя￥немного больше уважать."
   },
   {
    "off": 10475,
@@ -1094,10 +1100,11 @@
   {
    "off": 10810,
    "budget": 39,
-   "en": "Не будь так строг. Я неважный стрелок.",
+   "en": ".",
    "en_src": "Don't scold me.￥I'm bad at shooting.",
    "long_src": "Don't be so hard on me. I'm not a￥good shot.",
-   "ru": true
+   "ru": true,
+   "long": "Не будь так строг. Я неважный￥стрелок."
   },
   {
    "off": 10849,
@@ -1134,9 +1141,10 @@
   {
    "off": 11057,
    "budget": 45,
-   "en": "От тебя зависит будущее всего человечества.",
+   "en": ".",
    "en_src": "The future of all humanity depends￥on you.",
-   "ru": true
+   "ru": true,
+   "long": "От тебя зависит будущее всего￥человечества."
   },
   {
    "off": 11102,

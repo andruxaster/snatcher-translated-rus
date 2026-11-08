@@ -17,8 +17,9 @@
    "end": 65367,
    "dur": 0.4,
    "speaker": "Metal Gear",
-   "en": "What?!",
-   "enabled": true
+   "en": "Что?!",
+   "enabled": true,
+   "en_src": "What?!"
   },
   {
    "id": "B020_000",
@@ -28,8 +29,9 @@
    "end": 65415,
    "dur": 0.3,
    "speaker": "Gillian",
-   "en": "What was that?",
-   "enabled": true
+   "en": "Что это было?",
+   "enabled": true,
+   "en_src": "What was that?"
   },
   {
    "id": "B020_001",
@@ -39,8 +41,9 @@
    "end": 65651,
    "dur": 3.0,
    "speaker": "Metal Gear",
-   "en": "A man screamed.",
-   "enabled": true
+   "en": "Кричал мужчина.",
+   "enabled": true,
+   "en_src": "A man screamed."
   },
   {
    "id": "B020_001b",
@@ -50,8 +53,9 @@
    "end": 65879,
    "dur": 3.0,
    "speaker": "Metal Gear",
-   "en": "Has something happened to Jean?",
-   "enabled": true
+   "en": "Что-то случилось с Жаном?",
+   "enabled": true,
+   "en_src": "Has something happened to Jean?"
   },
   {
    "id": "B020_002",
@@ -61,8 +65,9 @@
    "end": 66021,
    "dur": 1.2,
    "speaker": "Metal Gear",
-   "en": "Careful, Gillian.",
-   "enabled": true
+   "en": "Осторожно, Гиллиан.",
+   "enabled": true,
+   "en_src": "Careful, Gillian."
   },
   {
    "id": "B020_002b",
@@ -72,8 +77,9 @@
    "end": 66409,
    "dur": 2.6,
    "speaker": "Metal Gear",
-   "en": "I'm detecting several moving objects.",
-   "enabled": true
+   "en": "Засекаю несколько движущихся объектов.",
+   "enabled": true,
+   "en_src": "I'm detecting several moving objects."
   },
   {
    "id": "B020_002c",
@@ -83,8 +89,9 @@
    "end": 66943,
    "dur": 3.1,
    "speaker": "Metal Gear",
-   "en": "Snatchers or Insectors may be hiding nearby.",
-   "enabled": true
+   "en": "Рядом могут прятаться снатчеры или инсекторы.",
+   "enabled": true,
+   "en_src": "Snatchers or Insectors may be hiding nearby."
   },
   {
    "id": "B020_003",
@@ -94,8 +101,9 @@
    "end": 67151,
    "dur": 1.3,
    "speaker": "Gillian",
-   "en": "What's an Insector?",
-   "enabled": true
+   "en": "Что такое инсектор?",
+   "enabled": true,
+   "en_src": "What's an Insector?"
   },
   {
    "id": "B020_004",
@@ -105,8 +113,9 @@
    "end": 67519,
    "dur": 5.1,
    "speaker": "Metal Gear",
-   "en": "A spider-shaped robot the Snatchers use",
-   "enabled": true
+   "en": "Робот-паук, которого снатчеры используют",
+   "enabled": true,
+   "en_src": "A spider-shaped robot the Snatchers use"
   },
   {
    "id": "B020_004b",
@@ -116,8 +125,9 @@
    "end": 67755,
    "dur": 2.6,
    "speaker": "Metal Gear",
-   "en": "as a warning sensor.",
-   "enabled": true
+   "en": "как сигнальный датчик.",
+   "enabled": true,
+   "en_src": "as a warning sensor."
   },
   {
    "id": "B020_004c",
@@ -127,8 +137,9 @@
    "end": 68202,
    "dur": 6.3,
    "speaker": "Metal Gear",
-   "en": "They're small, but they attack with needle guns.",
-   "enabled": true
+   "en": "Он маленький, но стреляет иглами.",
+   "enabled": true,
+   "en_src": "They're small, but they attack with needle guns."
   },
   {
    "id": "B020_004d",
@@ -138,9 +149,10 @@
    "end": 68407,
    "dur": 1.4,
    "speaker": "Metal Gear",
-   "en": "Be careful.",
+   "en": "Осторожнее.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Be careful."
   },
   {
    "id": "B020_005",
@@ -150,8 +162,9 @@
    "end": 68743,
    "dur": 1.5,
    "speaker": "Metal Gear",
-   "en": "Little John!",
-   "enabled": true
+   "en": "Литл Джон!",
+   "enabled": true,
+   "en_src": "Little John!"
   },
   {
    "id": "B020_006",
@@ -161,8 +174,9 @@
    "end": 68943,
    "dur": 1.3,
    "speaker": "Gillian",
-   "en": "Little John?",
-   "enabled": true
+   "en": "Литл Джон?",
+   "enabled": true,
+   "en_src": "Little John?"
   },
   {
    "id": "B020_007",
@@ -172,8 +186,9 @@
    "end": 69415,
    "dur": 3.1,
    "speaker": "Metal Gear",
-   "en": "He's Jean Jack Gibson's personal Navigator.",
-   "enabled": true
+   "en": "Личный навигатор Жан-Джека Гибсона.",
+   "enabled": true,
+   "en_src": "He's Jean Jack Gibson's personal Navigator."
   },
   {
    "id": "B020_008",
@@ -183,8 +198,9 @@
    "end": 69663,
    "dur": 3.2,
    "speaker": "Gillian",
-   "en": "How's Little John's memory?",
-   "enabled": true
+   "en": "Что с памятью Литл Джона?",
+   "enabled": true,
+   "en_src": "How's Little John's memory?"
   },
   {
    "id": "B020_008b",
@@ -194,8 +210,9 @@
    "end": 69903,
    "dur": 3.2,
    "speaker": "Gillian",
-   "en": "If it's intact, take it out.",
-   "enabled": true
+   "en": "Если цела - вынимай.",
+   "enabled": true,
+   "en_src": "If it's intact, take it out."
   },
   {
    "id": "B020_009",
@@ -205,8 +222,9 @@
    "end": 70407,
    "dur": 3.3,
    "speaker": "Metal Gear",
-   "en": "Let's recover his memory, just in case.",
-   "enabled": true
+   "en": "Извлечём память на всякий случай.",
+   "enabled": true,
+   "en_src": "Let's recover his memory, just in case."
   },
   {
    "id": "B020_010",
@@ -216,9 +234,10 @@
    "end": 70783,
    "dur": 2.5,
    "speaker": "Metal Gear",
-   "en": "I've recovered the memory chip.",
+   "en": "Чип памяти извлечён.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "I've recovered the memory chip."
   },
   {
    "id": "B020_011",
@@ -228,9 +247,10 @@
    "end": 71071,
    "dur": 1.9,
    "speaker": "Gillian",
-   "en": "The bastards. Look what they did.",
+   "en": "Сволочи. Что они с ним сделали.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "The bastards. Look what they did."
   },
   {
    "id": "B020_012",
@@ -240,8 +260,9 @@
    "end": 71778,
    "dur": 3.8,
    "speaker": "Metal Gear",
-   "en": "A scan of Jean's stomach shows damage extending",
-   "enabled": true
+   "en": "Скан желудка Жана: повреждение идёт",
+   "enabled": true,
+   "en_src": "A scan of Jean's stomach shows damage extending"
   },
   {
    "id": "B020_012b",
@@ -251,8 +272,9 @@
    "end": 72383,
    "dur": 3.4,
    "speaker": "Metal Gear",
-   "en": "from the submucosa into the muscle layer.",
-   "enabled": true
+   "en": "от подслизистой до мышечного слоя.",
+   "enabled": true,
+   "en_src": "from the submucosa into the muscle layer."
   },
   {
    "id": "B020_013",
@@ -262,8 +284,9 @@
    "end": 72671,
    "dur": 1.9,
    "speaker": "Gillian",
-   "en": "Gibson had a stomach ulcer?",
-   "enabled": true
+   "en": "У Гибсона была язва?",
+   "enabled": true,
+   "en_src": "Gibson had a stomach ulcer?"
   },
   {
    "id": "B020_014",
@@ -273,8 +296,9 @@
    "end": 73247,
    "dur": 7.6,
    "speaker": "Metal Gear",
-   "en": "Yes. There are remains in his stomach, too.",
-   "enabled": true
+   "en": "Да. И в желудке есть остатки пищи.",
+   "enabled": true,
+   "en_src": "Yes. There are remains in his stomach, too."
   },
   {
    "id": "B020_015",
@@ -284,8 +308,9 @@
    "end": 73359,
    "dur": 0.7,
    "speaker": "Gillian",
-   "en": "Something left?",
-   "enabled": true
+   "en": "Что-то осталось?",
+   "enabled": true,
+   "en_src": "Something left?"
   },
   {
    "id": "B020_015b",
@@ -295,8 +320,9 @@
    "end": 73821,
    "dur": 3.1,
    "speaker": "Gillian",
-   "en": "If we identify it and how far it's digested,",
-   "enabled": true
+   "en": "Выясним, что это и насколько переварено,",
+   "enabled": true,
+   "en_src": "If we identify it and how far it's digested,"
   },
   {
    "id": "B020_015c",
@@ -306,8 +332,9 @@
    "end": 74191,
    "dur": 2.5,
    "speaker": "Gillian",
-   "en": "we can retrace Gibson's movements.",
-   "enabled": true
+   "en": "- и восстановим путь Гибсона.",
+   "enabled": true,
+   "en_src": "we can retrace Gibson's movements."
   },
   {
    "id": "B020_016",
@@ -317,8 +344,9 @@
    "end": 74727,
    "dur": 7.0,
    "speaker": "Metal Gear",
-   "en": "I'll analyze the hair sample now.",
-   "enabled": true
+   "en": "Анализирую образец волос.",
+   "enabled": true,
+   "en_src": "I'll analyze the hair sample now."
   },
   {
    "id": "B020_017",
@@ -328,8 +356,9 @@
    "end": 75359,
    "dur": 8.4,
    "speaker": "Metal Gear",
-   "en": "Analysis complete. Displaying results.",
-   "enabled": true
+   "en": "Анализ завершён. Вывожу результаты.",
+   "enabled": true,
+   "en_src": "Analysis complete. Displaying results."
   },
   {
    "id": "B020_018",
@@ -339,8 +368,9 @@
    "end": 75742,
    "dur": 4.0,
    "speaker": "Metal Gear",
-   "en": "1. Nuclear sex chromatin staining",
-   "enabled": true
+   "en": "1. Окраска полового хроматина",
+   "enabled": true,
+   "en_src": "1. Nuclear sex chromatin staining"
   },
   {
    "id": "B020_018b",
@@ -350,8 +380,9 @@
    "end": 76663,
    "dur": 4.6,
    "speaker": "Metal Gear",
-   "en": "of the root sheath shows 46XY, a male.",
-   "enabled": true
+   "en": "корневого влагалища: 46XY, мужчина.",
+   "enabled": true,
+   "en_src": "of the root sheath shows 46XY, a male."
   },
   {
    "id": "B020_018c",
@@ -361,8 +392,9 @@
    "end": 77390,
    "dur": 5.6,
    "speaker": "Metal Gear",
-   "en": "2. The hair is brown, with a hair index of 65.",
-   "enabled": true
+   "en": "2. Волосы каштановые, индекс 65.",
+   "enabled": true,
+   "en_src": "2. The hair is brown, with a hair index of 65."
   },
   {
    "id": "B020_018d",
@@ -372,8 +404,9 @@
    "end": 77869,
    "dur": 4.4,
    "speaker": "Metal Gear",
-   "en": "It's wavy hair of European ancestry.",
-   "enabled": true
+   "en": "Волнистые, европейского типа.",
+   "enabled": true,
+   "en_src": "It's wavy hair of European ancestry."
   },
   {
    "id": "B020_018e",
@@ -383,8 +416,9 @@
    "end": 78317,
    "dur": 4.7,
    "speaker": "Metal Gear",
-   "en": "3. Attached tissue and thick roots show",
-   "enabled": true
+   "en": "3. Ткань и толстые корни показывают,",
+   "enabled": true,
+   "en_src": "3. Attached tissue and thick roots show"
   },
   {
    "id": "B020_018f",
@@ -394,8 +428,9 @@
    "end": 78738,
    "dur": 3.5,
    "speaker": "Metal Gear",
-   "en": "that the hair was pulled out.",
-   "enabled": true
+   "en": "что волосы были вырваны.",
+   "enabled": true,
+   "en_src": "that the hair was pulled out."
   },
   {
    "id": "B020_018g",
@@ -405,8 +440,9 @@
    "end": 79376,
    "dur": 4.9,
    "speaker": "Metal Gear",
-   "en": "4. An enzyme antibody test gives type A,",
-   "enabled": true
+   "en": "4. Иммуноферментный тест: группа A,",
+   "enabled": true,
+   "en_src": "4. An enzyme antibody test gives type A,"
   },
   {
    "id": "B020_018h",
@@ -416,8 +452,9 @@
    "end": 79563,
    "dur": 1.5,
    "speaker": "Metal Gear",
-   "en": "Rh negative.",
-   "enabled": true
+   "en": "резус отрицательный.",
+   "enabled": true,
+   "en_src": "Rh negative."
   },
   {
    "id": "B020_018i",
@@ -427,8 +464,9 @@
    "end": 79777,
    "dur": 2.3,
    "speaker": "Metal Gear",
-   "en": "5. Cell composition",
-   "enabled": true
+   "en": "5. Состав и строение клеток",
+   "enabled": true,
+   "en_src": "5. Cell composition"
   },
   {
    "id": "B020_018j",
@@ -438,8 +476,9 @@
    "end": 80293,
    "dur": 5.4,
    "speaker": "Metal Gear",
-   "en": "and arrangement indicate artificial protein.",
-   "enabled": true
+   "en": "указывают на искусственный белок.",
+   "enabled": true,
+   "en_src": "and arrangement indicate artificial protein."
   },
   {
    "id": "B020_018k",
@@ -449,8 +488,9 @@
    "end": 81090,
    "dur": 5.6,
    "speaker": "Metal Gear",
-   "en": "The results suggest Jean pulled this hair from",
-   "enabled": true
+   "en": "Видимо, Жан вырвал эти волосы",
+   "enabled": true,
+   "en_src": "The results suggest Jean pulled this hair from"
   },
   {
    "id": "B020_018l",
@@ -460,8 +500,9 @@
    "end": 81759,
    "dur": 5.2,
    "speaker": "Metal Gear",
-   "en": "the killer's head while they were fighting.",
-   "enabled": true
+   "en": "у убийцы во время схватки.",
+   "enabled": true,
+   "en_src": "the killer's head while they were fighting."
   },
   {
    "id": "B020_023",
@@ -471,8 +512,9 @@
    "end": 82350,
    "dur": 3.8,
    "speaker": "Metal Gear",
-   "en": "The hair probably belongs to the killer:",
-   "enabled": true
+   "en": "Волосы, вероятно, принадлежат убийце:",
+   "enabled": true,
+   "en_src": "The hair probably belongs to the killer:"
   },
   {
    "id": "B020_023b",
@@ -482,8 +524,9 @@
    "end": 83064,
    "dur": 4.9,
    "speaker": "Metal Gear",
-   "en": "a Snatcher posing as a European male",
-   "enabled": true
+   "en": "снатчеру в облике европейца",
+   "enabled": true,
+   "en_src": "a Snatcher posing as a European male"
   },
   {
    "id": "B020_023c",
@@ -493,8 +536,9 @@
    "end": 83271,
    "dur": 1.4,
    "speaker": "Metal Gear",
-   "en": "with type A negative blood.",
-   "enabled": true
+   "en": "с группой крови A, резус отрицательный.",
+   "enabled": true,
+   "en_src": "with type A negative blood."
   },
   {
    "id": "B020_024",
@@ -504,8 +548,9 @@
    "end": 83791,
    "dur": 6.8,
    "speaker": "Metal Gear",
-   "en": "I'll analyze the skin sample now.",
-   "enabled": true
+   "en": "Анализирую образец кожи.",
+   "enabled": true,
+   "en_src": "I'll analyze the skin sample now."
   },
   {
    "id": "B020_025",
@@ -515,8 +560,9 @@
    "end": 84459,
    "dur": 4.1,
    "speaker": "Metal Gear",
-   "en": "1. An enzyme antibody test gives type O,",
-   "enabled": true
+   "en": "1. Иммуноферментный тест: группа O,",
+   "enabled": true,
+   "en_src": "1. An enzyme antibody test gives type O,"
   },
   {
    "id": "B020_025b",
@@ -526,8 +572,9 @@
    "end": 84652,
    "dur": 1.2,
    "speaker": "Metal Gear",
-   "en": "Rh negative.",
-   "enabled": true
+   "en": "резус отрицательный.",
+   "enabled": true,
+   "en_src": "Rh negative."
   },
   {
    "id": "B020_025c",
@@ -537,8 +584,9 @@
    "end": 85524,
    "dur": 3.8,
    "speaker": "Metal Gear",
-   "en": "2. Sex chromatin staining shows 46XX,",
-   "enabled": true
+   "en": "2. Окраска хроматина: 46XX,",
+   "enabled": true,
+   "en_src": "2. Sex chromatin staining shows 46XX,"
   },
   {
    "id": "B020_025d",
@@ -548,8 +596,9 @@
    "end": 85730,
    "dur": 0.9,
    "speaker": "Metal Gear",
-   "en": "a female.",
-   "enabled": true
+   "en": "женщина.",
+   "enabled": true,
+   "en_src": "a female."
   },
   {
    "id": "B020_025e",
@@ -559,8 +608,9 @@
    "end": 85961,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "3. Cell composition",
-   "enabled": true
+   "en": "3. Состав и строение клеток",
+   "enabled": true,
+   "en_src": "3. Cell composition"
   },
   {
    "id": "B020_025f",
@@ -570,8 +620,9 @@
    "end": 86418,
    "dur": 4.5,
    "speaker": "Metal Gear",
-   "en": "and arrangement indicate artificial protein.",
-   "enabled": true
+   "en": "указывают на искусственный белок.",
+   "enabled": true,
+   "en_src": "and arrangement indicate artificial protein."
   },
   {
    "id": "B020_025g",
@@ -581,8 +632,9 @@
    "end": 86983,
    "dur": 4.7,
    "speaker": "Metal Gear",
-   "en": "4. The melanocyte count shows white ancestry.",
-   "enabled": true
+   "en": "4. Число меланоцитов: белая раса.",
+   "enabled": true,
+   "en_src": "4. The melanocyte count shows white ancestry."
   },
   {
    "id": "B020_028",
@@ -592,8 +644,9 @@
    "end": 87517,
    "dur": 3.7,
    "speaker": "Metal Gear",
-   "en": "The results suggest Jean scratched his attacker",
-   "enabled": true
+   "en": "Видимо, Жан оцарапал нападавшего",
+   "enabled": true,
+   "en_src": "The results suggest Jean scratched his attacker"
   },
   {
    "id": "B020_028b",
@@ -603,8 +656,9 @@
    "end": 87881,
    "dur": 1.7,
    "speaker": "Metal Gear",
-   "en": "during their struggle,",
-   "enabled": true
+   "en": "во время схватки,",
+   "enabled": true,
+   "en_src": "during their struggle,"
   },
   {
    "id": "B020_028c",
@@ -614,8 +668,9 @@
    "end": 88188,
    "dur": 2.7,
    "speaker": "Metal Gear",
-   "en": "leaving skin under his fingernails.",
-   "enabled": true
+   "en": "и кожа осталась под ногтями.",
+   "enabled": true,
+   "en_src": "leaving skin under his fingernails."
   },
   {
    "id": "B020_028d",
@@ -625,8 +680,9 @@
    "end": 88965,
    "dur": 4.0,
    "speaker": "Metal Gear",
-   "en": "The skin probably belongs to the killer:",
-   "enabled": true
+   "en": "Кожа, вероятно, принадлежит убийце:",
+   "enabled": true,
+   "en_src": "The skin probably belongs to the killer:"
   },
   {
    "id": "B020_028db",
@@ -636,8 +692,9 @@
    "end": 89751,
    "dur": 5.3,
    "speaker": "Metal Gear",
-   "en": "a Snatcher posing as a European female",
-   "enabled": true
+   "en": "снатчеру в облике европейки",
+   "enabled": true,
+   "en_src": "a Snatcher posing as a European female"
   },
   {
    "id": "B020_028dc",
@@ -647,8 +704,9 @@
    "end": 89967,
    "dur": 1.4,
    "speaker": "Metal Gear",
-   "en": "with type O negative blood.",
-   "enabled": true
+   "en": "с группой крови O, резус отрицательный.",
+   "enabled": true,
+   "en_src": "with type O negative blood."
   },
   {
    "id": "B020_030",
@@ -658,8 +716,9 @@
    "end": 90385,
    "dur": 5.4,
    "speaker": "Metal Gear",
-   "en": "I'll cut open Jean's stomach",
-   "enabled": true
+   "en": "Вскрываю желудок Жана",
+   "enabled": true,
+   "en_src": "I'll cut open Jean's stomach"
   },
   {
    "id": "B020_030b",
@@ -669,8 +728,9 @@
    "end": 90743,
    "dur": 4.8,
    "speaker": "Metal Gear",
-   "en": "and analyze its contents.",
-   "enabled": true
+   "en": "и анализирую содержимое.",
+   "enabled": true,
+   "en_src": "and analyze its contents."
   },
   {
    "id": "B020_031",
@@ -680,8 +740,9 @@
    "end": 91070,
    "dur": 2.4,
    "speaker": "Metal Gear",
-   "en": "Based on these results, the food has",
-   "enabled": true
+   "en": "Судя по результатам, пища",
+   "enabled": true,
+   "en_src": "Based on these results, the food has"
   },
   {
    "id": "B020_031b",
@@ -691,8 +752,9 @@
    "end": 91497,
    "dur": 2.5,
    "speaker": "Metal Gear",
-   "en": "been digesting for about three hours.",
-   "enabled": true
+   "en": "переваривалась около трёх часов.",
+   "enabled": true,
+   "en_src": "been digesting for about three hours."
   },
   {
    "id": "B020_031c2",
@@ -702,8 +764,9 @@
    "end": 92295,
    "dur": 9.6,
    "speaker": "Metal Gear",
-   "en": "The remains are protein. The meat is cetacean.",
-   "enabled": true
+   "en": "Остатки - белок. Мясо китообразного.",
+   "enabled": true,
+   "en_src": "The remains are protein. The meat is cetacean."
   },
   {
    "id": "B020_033",
@@ -713,8 +776,9 @@
    "end": 92519,
    "dur": 1.4,
    "speaker": "Gillian",
-   "en": "Cetacean?",
-   "enabled": true
+   "en": "Китообразного?",
+   "enabled": true,
+   "en_src": "Cetacean?"
   },
   {
    "id": "B020_034",
@@ -724,8 +788,9 @@
    "end": 92710,
    "dur": 1.1,
    "speaker": "Metal Gear",
-   "en": "Whale meat.",
-   "enabled": true
+   "en": "Китовое мясо.",
+   "enabled": true,
+   "en_src": "Whale meat."
   },
   {
    "id": "B020_034b",
@@ -735,8 +800,9 @@
    "end": 92947,
    "dur": 2.8,
    "speaker": "Metal Gear",
-   "en": "Gibson must have eaten whale",
-   "enabled": true
+   "en": "Гибсон где-то ел китовое мясо",
+   "enabled": true,
+   "en_src": "Gibson must have eaten whale"
   },
   {
    "id": "B020_034c",
@@ -746,8 +812,9 @@
    "end": 93551,
    "dur": 3.1,
    "speaker": "Metal Gear",
-   "en": "meat somewhere three hours ago.",
-   "enabled": true
+   "en": "около трёх часов назад.",
+   "enabled": true,
+   "en_src": "meat somewhere three hours ago."
   },
   {
    "id": "B020_035",
@@ -757,8 +824,9 @@
    "end": 93847,
    "dur": 1.9,
    "speaker": "Metal Gear",
-   "en": "Motion detected!",
-   "enabled": true
+   "en": "Засечено движение!",
+   "enabled": true,
+   "en_src": "Motion detected!"
   },
   {
    "id": "B020_036",
@@ -768,8 +836,9 @@
    "end": 94031,
    "dur": 1.2,
    "speaker": "Gillian",
-   "en": "A Snatcher?",
-   "enabled": true
+   "en": "Снатчер?",
+   "enabled": true,
+   "en_src": "A Snatcher?"
   },
   {
    "id": "B020_037",
@@ -779,9 +848,10 @@
    "end": 94239,
    "dur": 1.3,
    "speaker": "Metal Gear",
-   "en": "Let's go and see!",
+   "en": "Идём посмотрим!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Let's go and see!"
   },
   {
    "id": "B020_038a",
@@ -791,8 +861,9 @@
    "end": 95439,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "Wh-what's this?!",
-   "enabled": true
+   "en": "Ч-что это?!",
+   "enabled": true,
+   "en_src": "Wh-what's this?!"
   },
   {
    "id": "B020_038b",
@@ -802,8 +873,9 @@
    "end": 100295,
    "dur": 2.2,
    "speaker": "Gillian",
-   "en": "A time bomb!",
-   "enabled": true
+   "en": "Бомба!",
+   "enabled": true,
+   "en_src": "A time bomb!"
   },
   {
    "id": "B020_038",
@@ -813,8 +885,9 @@
    "end": 95791,
    "dur": 2.3,
    "speaker": "Metal Gear",
-   "en": "We have to get out! There's no time!",
-   "enabled": true
+   "en": "Надо уходить! Времени нет!",
+   "enabled": true,
+   "en_src": "We have to get out! There's no time!"
   },
   {
    "id": "B020_039",
@@ -824,8 +897,9 @@
    "end": 95935,
    "dur": 0.9,
    "speaker": "Gillian",
-   "en": "Let's get outside!",
-   "enabled": true
+   "en": "Наружу!",
+   "enabled": true,
+   "en_src": "Let's get outside!"
   },
   {
    "id": "B020_040",
@@ -835,9 +909,10 @@
    "end": 96111,
    "dur": 1.1,
    "speaker": "Metal Gear",
-   "en": "I can't!",
+   "en": "Я не могу!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "I can't!"
   },
   {
    "id": "B020_042a",
@@ -847,8 +922,9 @@
    "end": 96295,
    "dur": 1.2,
    "speaker": "Gillian",
-   "en": "What's wrong? Hurry!",
-   "enabled": true
+   "en": "Что такое? Скорее!",
+   "enabled": true,
+   "en_src": "What's wrong? Hurry!"
   },
   {
    "id": "B020_041",
@@ -858,9 +934,10 @@
    "end": 96551,
    "dur": 1.7,
    "speaker": "Metal Gear",
-   "en": "My legs have given out.",
+   "en": "У меня отказали ноги.",
    "enabled": true,
-   "by_ear": true
+   "by_ear": true,
+   "en_src": "My legs have given out."
   },
   {
    "id": "B020_042",
@@ -870,8 +947,9 @@
    "end": 96935,
    "dur": 2.5,
    "speaker": "Gillian",
-   "en": "Stop arguing! Run! It's going to blow!",
-   "enabled": true
+   "en": "Не спорь! Беги! Сейчас рванёт!",
+   "enabled": true,
+   "en_src": "Stop arguing! Run! It's going to blow!"
   },
   {
    "id": "B020_043",
@@ -881,9 +959,10 @@
    "end": 97239,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "It's no use. I can't move.",
+   "en": "Бесполезно. Я не могу двигаться.",
    "enabled": true,
-   "by_ear": true
+   "by_ear": true,
+   "en_src": "It's no use. I can't move."
   },
   {
    "id": "B020_044",
@@ -893,9 +972,10 @@
    "end": 97607,
    "dur": 2.4,
    "speaker": "Gillian",
-   "en": "You're a handful! Here!",
+   "en": "Морока с тобой! Давай сюда!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "You're a handful! Here!"
   },
   {
    "id": "B020_047a",
@@ -905,8 +985,9 @@
    "end": 97943,
    "dur": 2.2,
    "speaker": "Metal Gear",
-   "en": "It's no use. I can't move.",
-   "enabled": true
+   "en": "Бесполезно. Я не могу двигаться.",
+   "enabled": true,
+   "en_src": "It's no use. I can't move."
   },
   {
    "id": "B020_045",
@@ -916,8 +997,9 @@
    "end": 98383,
    "dur": 2.9,
    "speaker": "Gillian",
-   "en": "Whew, that was a shock! My ears are ringing.",
-   "enabled": true
+   "en": "Фух, ну и шок! В ушах звенит.",
+   "enabled": true,
+   "en_src": "Whew, that was a shock! My ears are ringing."
   },
   {
    "id": "B020_046",
@@ -927,8 +1009,9 @@
    "end": 98799,
    "dur": 2.7,
    "speaker": "Metal Gear",
-   "en": "You left the volume turned up.",
-   "enabled": true
+   "en": "Ты оставил громкость на максимуме.",
+   "enabled": true,
+   "en_src": "You left the volume turned up."
   },
   {
    "id": "B020_047",
@@ -938,8 +1021,9 @@
    "end": 99079,
    "dur": 1.8,
    "speaker": "Gillian",
-   "en": "Damn those Snatchers!",
-   "enabled": true
+   "en": "Чёртовы снатчеры!",
+   "enabled": true,
+   "en_src": "Damn those Snatchers!"
   },
   {
    "id": "B020_048",
@@ -949,8 +1033,9 @@
    "end": 99264,
    "dur": 1.1,
    "speaker": "Metal Gear",
-   "en": "It's all right.",
-   "enabled": true
+   "en": "Всё в порядке.",
+   "enabled": true,
+   "en_src": "It's all right."
   },
   {
    "id": "B020_048b",
@@ -960,8 +1045,9 @@
    "end": 99707,
    "dur": 3.0,
    "speaker": "Metal Gear",
-   "en": "I've recorded all the evidence at the scene.",
-   "enabled": true
+   "en": "Я записал все улики на месте.",
+   "enabled": true,
+   "en_src": "I've recorded all the evidence at the scene."
   },
   {
    "id": "B020_048c",
@@ -971,9 +1057,10 @@
    "end": 99951,
    "dur": 1.6,
    "speaker": "Metal Gear",
-   "en": "Let's head back to headquarters.",
+   "en": "Возвращаемся в штаб.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Let's head back to headquarters."
   }
  ]
 }

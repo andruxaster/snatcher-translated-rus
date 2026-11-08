@@ -379,9 +379,10 @@
   {
    "off": 13449,
    "budget": 5,
-   "en": "См.",
+   "en": ".",
    "en_src": "Look",
-   "ru": true
+   "ru": true,
+   "long": "Осмотреть"
   },
   {
    "off": 13454,
@@ -628,10 +629,11 @@
   {
    "off": 14797,
    "budget": 57,
-   "en": "Вампир, который возвращается, сколько бы раз ни умирал?",
+   "en": ".",
    "en_src": "The vampire who dies and dies￥and still comes back?",
    "long_src": "The vampire who keeps coming back,￥no matter how many times he dies?",
-   "ru": true
+   "ru": true,
+   "long": "Вампир, который возвращается,￥сколько бы раз ни умирал?"
   },
   {
    "off": 14854,
@@ -769,10 +771,11 @@
   {
    "off": 15565,
    "budget": 45,
-   "en": "Прямо встреча выпускников персонажей Konami.",
+   "en": ".",
    "en_src": "Like a Konami character reunion.",
    "long_src": "It's like a reunion of Konami game￥characters.",
-   "ru": true
+   "ru": true,
+   "long": "Прямо встреча выпускников персонажей￥Konami."
   },
   {
    "off": 15610,
@@ -800,9 +803,10 @@
   {
    "off": 15797,
    "budget": 9,
-   "en": "Танцовщ.",
+   "en": ".",
    "en_src": "Dancer",
-   "ru": true
+   "ru": true,
+   "long": "Танцовщица"
   },
   {
    "off": 15806,
@@ -957,9 +961,10 @@
   {
    "off": 16319,
    "budget": 5,
-   "en": "Зов",
+   "en": ".",
    "en_src": "Call",
-   "ru": true
+   "ru": true,
+   "long": "Позвать"
   },
   {
    "off": 16324,
@@ -1280,21 +1285,23 @@
   {
    "off": 17452,
    "budget": 5,
-   "en": "Вещь",
+   "en": ".",
    "en_src": "Item",
-   "ru": true
+   "ru": true,
+   "long": "Предметы"
   },
   {
    "off": 17457,
    "budget": 7,
-   "en": "Показ",
+   "en": ".",
    "en_src": "Show",
-   "ru": true
+   "ru": true,
+   "long": "Показать"
   },
   {
    "off": 17464,
    "budget": 15,
-   "en": "Удост.ДЖАНКЕРа",
+   "en": "Удостоверение",
    "en_src": "JUNKER ID",
    "ru": true
   },
@@ -1358,7 +1365,7 @@
   {
    "off": 17773,
    "budget": 15,
-   "en": "Исп. Метала",
+   "en": "Позвать Метала",
    "en_src": "Use Metal Gear",
    "ru": true
   },
@@ -1821,9 +1828,10 @@
   {
    "off": 19929,
    "budget": 5,
-   "en": "Спр.",
+   "en": ".",
    "en_src": "Ask",
-   "ru": true
+   "ru": true,
+   "long": "Спросить"
   },
   {
    "off": 19934,
@@ -2486,9 +2494,10 @@
   {
    "off": 22916,
    "budget": 41,
-   "en": "В детстве я обожала полицейские сериалы.",
+   "en": ".",
    "en_src": "I loved cop shows when I was little.",
-   "ru": true
+   "ru": true,
+   "long": "В детстве я обожала полицейские￥сериалы."
   },
   {
    "off": 22957,
@@ -2721,9 +2730,10 @@
   {
    "off": 24042,
    "budget": 41,
-   "en": "Опять отказ. Сначала Джейми, теперь она.",
+   "en": ".",
    "en_src": "Rejected again. First Jamie, now￥her.",
-   "ru": true
+   "ru": true,
+   "long": "Опять отказ. Сначала Джейми, теперь￥она."
   },
   {
    "off": 24083,
@@ -2773,10 +2783,11 @@
   {
    "off": 24243,
    "budget": 45,
-   "en": "Конфета? Этим ты моё внимание не привлечёшь.",
+   "en": ".",
    "en_src": "Candy?￥That won't catch my interest.",
    "long_src": "Candy? You won't get my attention￥with that.",
-   "ru": true
+   "ru": true,
+   "long": "Конфета? Этим ты моё внимание не￥привлечёшь."
   },
   {
    "off": 24288,
@@ -2821,9 +2832,10 @@
   {
    "off": 24319,
    "budget": 11,
-   "en": "Крем от УФ",
+   "en": ".",
    "en_src": "Sunblock",
-   "ru": true
+   "ru": true,
+   "long": "Защитный крем"
   },
   {
    "off": 24330,
@@ -3105,10 +3117,11 @@
   {
    "off": 25589,
    "budget": 47,
-   "en": "Не повезло. Вряд ли мы узнаем что-то полезное.",
+   "en": ".",
    "en_src": "No good.￥Nothing solid to be had here.",
    "long_src": "No luck. I don't think we'll learn￥anything useful.",
-   "ru": true
+   "ru": true,
+   "long": "Не повезло. Вряд ли мы узнаем что-то￥полезное."
   },
   {
    "off": 25636,
@@ -3974,10 +3987,11 @@
   {
    "off": 30107,
    "budget": 59,
-   "en": "Сейчас в клуб без защиты от сканирования никто не пойдёт.",
+   "en": ".",
    "en_src": "These days guests shun a club￥without scan blocking.",
    "long_src": "People won't visit a club without￥protection against scans these days.",
-   "ru": true
+   "ru": true,
+   "long": "Сейчас в клуб без защиты от￥сканирования никто не пойдёт."
   },
   {
    "off": 30166,
@@ -4021,9 +4035,10 @@
   {
    "off": 30361,
    "budget": 69,
-   "en": "Удостоверение подтверждает все твои полномочия ДЖАНКЕРа. Береги его.",
+   "en": ".",
    "en_src": "This ID card confirms all your￥powers as a JUNKER. Keep it safe.",
-   "ru": true
+   "ru": true,
+   "long": "Удостоверение подтверждает все твои￥полномочия ДЖАНКЕРа. Береги его."
   },
   {
    "off": 30430,
@@ -4288,7 +4303,7 @@
    "en_src": "A fine special make-up mask by￥the fashionable Rick Bakery.",
    "long_src": "An elaborate special effects mask by￥Rick Bakery. His work is very￥popular now.",
    "ru": true,
-   "long": "Искусная маска со спецэффектами от￥Рика Бейкери. Его работы сейчас￥очень популярны."
+   "long": "Искусная маска со спецэффектами от￥\"Рик Бейкери\". Их работы сейчас￥очень популярны."
   },
   {
    "off": 32011,
@@ -4329,10 +4344,11 @@
   {
    "off": 32228,
    "budget": 53,
-   "en": "Нельзя винить систему сличения \"Альфавиля\" в ошибке.",
+   "en": ".",
    "en_src": "We can't blame Alphaville's￥matching for this.",
    "long_src": "We can't blame Alphaville's matching￥system for getting it wrong.",
-   "ru": true
+   "ru": true,
+   "long": "Нельзя винить систему сличения￥\"Альфавиля\" в ошибке."
   },
   {
    "off": 32281,

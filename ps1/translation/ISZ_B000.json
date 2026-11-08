@@ -327,9 +327,10 @@
   {
    "off": 4285,
    "budget": 5,
-   "en": "Назд",
+   "en": ".",
    "en_src": "Back",
-   "ru": true
+   "ru": true,
+   "long": "Назад"
   },
   {
    "off": 4290,
@@ -434,7 +435,7 @@
   {
    "off": 4456,
    "budget": 9,
-   "en": "Чих",
+   "en": "Чихать",
    "en_src": "Sneeze",
    "ru": true
   },
@@ -560,9 +561,10 @@
   {
    "off": 4636,
    "budget": 11,
-   "en": "Альтамира",
+   "en": ".",
    "en_src": "Altamira",
-   "ru": true
+   "ru": true,
+   "long": "\"Альтамира\""
   },
   {
    "off": 4647,
@@ -595,7 +597,7 @@
   {
    "off": 4693,
    "budget": 19,
-   "en": "Джой Дивижн",
+   "en": "\"Джой Дивижн\"",
    "en_src": "Joy Division",
    "ru": true
   },
@@ -623,7 +625,7 @@
   {
    "off": 4753,
    "budget": 15,
-   "en": "Аутер Хэвен",
+   "en": "\"Аутер Хэвен\"",
    "en_src": "Outer Heaven",
    "ru": true
   },
@@ -1680,7 +1682,7 @@
   {
    "off": 6762,
    "budget": 13,
-   "en": "Монтаж",
+   "en": "Фоторобот",
    "en_src": "Montage",
    "ru": true
   },

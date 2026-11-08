@@ -15,414 +15,586 @@
   {
    "off": 2120,
    "budget": 19,
-   "en": "Put your feet out"
+   "en": "Выставить ноги",
+   "en_src": "Put your feet out",
+   "ru": true
   },
   {
    "off": 2139,
    "budget": 51,
-   "en": "We're in the Tricycle. Where shall￥we go?"
+   "en": "Мы в трицикле. Куда едем?",
+   "en_src": "We're in the Tricycle. Where shall￥we go?",
+   "ru": true
   },
   {
    "off": 2190,
    "budget": 11,
-   "en": "Get out",
-   "long": "Exit Tricycle"
+   "en": ".",
+   "en_src": "Get out",
+   "long_src": "Exit Tricycle",
+   "ru": true,
+   "long": "Выйти из трицикла"
   },
   {
    "off": 2201,
    "budget": 37,
-   "en": "Let's search headquarters again."
+   "en": "Обыщем штаб ещё раз.",
+   "en_src": "Let's search headquarters again.",
+   "ru": true
   },
   {
    "off": 2238,
    "budget": 11,
-   "en": "Gillian's",
-   "long": "Gillian's home"
+   "en": ".",
+   "en_src": "Gillian's",
+   "long_src": "Gillian's home",
+   "ru": true,
+   "long": "Дом Гиллиана"
   },
   {
    "off": 2249,
    "budget": 23,
-   "en": "Stop at my place.",
-   "long": "Let's stop by my place."
+   "en": "Заедем ко мне домой.",
+   "en_src": "Stop at my place.",
+   "long_src": "Let's stop by my place.",
+   "ru": true
   },
   {
    "off": 2272,
    "budget": 13,
-   "en": "Altamira"
+   "en": "\"Альтамира\"",
+   "en_src": "Altamira",
+   "ru": true
   },
   {
    "off": 2285,
    "budget": 33,
-   "en": "Let's stop at Altamira first."
+   "en": "Сначала заедем в \"Альтамиру\".",
+   "en_src": "Let's stop at Altamira first.",
+   "ru": true
   },
   {
    "off": 2318,
    "budget": 13,
-   "en": "Queen Hosp",
-   "long": "Queen Hospital"
+   "en": ".",
+   "en_src": "Queen Hosp",
+   "long_src": "Queen Hospital",
+   "ru": true,
+   "long": "Больница \"Куин\""
   },
   {
    "off": 2331,
    "budget": 35,
-   "en": "Heading to Queen Hospital."
+   "en": "Едем в больницу \"Куин\".",
+   "en_src": "Heading to Queen Hospital.",
+   "ru": true
   },
   {
    "off": 2366,
    "budget": 63,
-   "en": "Gillian, where are you going!￥Hurry to Queen Hospital!!",
-   "long": "Where are you going, Gillian? We￥need to hurry to Queen Hospital!"
+   "en": "Куда ты, Гиллиан? Нам надо скорее в￥больницу \"Куин\"!",
+   "en_src": "Gillian, where are you going!￥Hurry to Queen Hospital!!",
+   "long_src": "Where are you going, Gillian? We￥need to hurry to Queen Hospital!",
+   "ru": true
   },
   {
    "off": 2429,
    "budget": 41,
-   "en": "It's too late to get cold feet now!"
+   "en": "Поздно теперь трусить!",
+   "en_src": "It's too late to get cold feet now!",
+   "ru": true
   },
   {
    "off": 2470,
    "budget": 45,
-   "en": "Let's head for the Snatchers' base!"
+   "en": "Едем на базу снатчеров!",
+   "en_src": "Let's head for the Snatchers' base!",
+   "ru": true
   },
   {
    "off": 2515,
    "budget": 67,
-   "en": "There's no time, Gillian! Let's go￥straight to Queen Hospital."
+   "en": "Некогда, Гиллиан! Едем прямо в￥больницу \"Куин\".",
+   "en_src": "There's no time, Gillian! Let's go￥straight to Queen Hospital.",
+   "ru": true
   },
   {
    "off": 2582,
    "budget": 29,
-   "en": "It's no good! It's over!",
-   "long": "It's hopeless! We're finished!"
+   "en": "Всё безнадёжно! Нам конец!",
+   "en_src": "It's no good! It's over!",
+   "long_src": "It's hopeless! We're finished!",
+   "ru": true
   },
   {
    "off": 2611,
    "budget": 53,
-   "en": "Don't give up yet! There has to be a￥way out!"
+   "en": "Рано сдаваться! Должен быть выход!",
+   "en_src": "Don't give up yet! There has to be a￥way out!",
+   "ru": true
   },
   {
    "off": 2664,
    "budget": 25,
-   "en": "What will you do?",
-   "long": "What are you going to do?"
+   "en": "Что ты будешь делать?",
+   "en_src": "What will you do?",
+   "long_src": "What are you going to do?",
+   "ru": true
   },
   {
    "off": 2689,
    "budget": 45,
-   "en": "No good! Gillian!￥A short while, but...",
-   "long": "It's no use, Gillian! We haven't￥known each other long, but"
+   "en": ".",
+   "en_src": "No good! Gillian!￥A short while, but...",
+   "long_src": "It's no use, Gillian! We haven't￥known each other long, but",
+   "ru": true,
+   "long": "Бесполезно, Гиллиан! Мы были знакомы￥недолго, но"
   },
   {
    "off": 2734,
    "budget": 31,
-   "en": "Quiet! There must be a way!",
-   "long": "Shut up! There has to be a way!"
+   "en": "Заткнись! Должен быть способ!",
+   "en_src": "Quiet! There must be a way!",
+   "long_src": "Shut up! There has to be a way!",
+   "ru": true
   },
   {
    "off": 2765,
    "budget": 73,
-   "en": "Impossible.￥We're at 250 kph...￥There's no surviving it!",
-   "long": "Impossible! We're going over 250￥kilometers an hour. We can't survive￥this!"
+   "en": "Невозможно! Мы несёмся больше 250￥километров в час. Нам не выжить!",
+   "en_src": "Impossible.￥We're at 250 kph...￥There's no surviving it!",
+   "long_src": "Impossible! We're going over 250￥kilometers an hour. We can't survive￥this!",
+   "ru": true
   },
   {
    "off": 2838,
    "budget": 31,
-   "en": "Damn! Faster and faster.",
-   "long": "Damn it! We're going faster and￥faster!"
+   "en": "Чёрт! Мы всё разгоняемся!",
+   "en_src": "Damn! Faster and faster.",
+   "long_src": "Damn it! We're going faster and￥faster!",
+   "ru": true
   },
   {
    "off": 2869,
    "budget": 45,
-   "en": "It won't stop!￥I'm out of ideas...!",
-   "long": "I can't stop! I can't take this! I￥don't know anymore!"
+   "en": ".",
+   "en_src": "It won't stop!￥I'm out of ideas...!",
+   "long_src": "I can't stop! I can't take this! I￥don't know anymore!",
+   "ru": true,
+   "long": "Не остановить! Не могу больше! Я уже￥ничего не понимаю!"
   },
   {
    "off": 2914,
    "budget": 31,
-   "en": "Is this it? Jamie!"
+   "en": "Неужели всё? Джейми!",
+   "en_src": "Is this it? Jamie!",
+   "ru": true
   },
   {
    "off": 2945,
    "budget": 37,
-   "en": "I'll do anything to stay alive!"
+   "en": "Сделаю что угодно, лишь бы выжить!",
+   "en_src": "I'll do anything to stay alive!",
+   "ru": true
   },
   {
    "off": 2982,
    "budget": 11,
-   "en": "Jump off"
+   "en": "Прыгнуть",
+   "en_src": "Jump off",
+   "ru": true
   },
   {
    "off": 2993,
    "budget": 23,
-   "en": "That won't work now."
+   "en": "Это уже не сработает.",
+   "en_src": "That won't work now.",
+   "ru": true
   },
   {
    "off": 3016,
    "budget": 49,
-   "en": "No good!￥The door is rigged and won't open!",
-   "long": "No! The door's been tampered with￥too. It won't open!"
+   "en": "Нет! Дверь тоже испорчена. Не￥открывается!",
+   "en_src": "No good!￥The door is rigged and won't open!",
+   "long_src": "No! The door's been tampered with￥too. It won't open!",
+   "ru": true
   },
   {
    "off": 3065,
    "budget": 15,
-   "en": "What?!"
+   "en": "Что?!",
+   "en_src": "What?!",
+   "ru": true
   },
   {
    "off": 3080,
    "budget": 73,
-   "en": "Even if it opened, we'd be torn￥apart at this speed!"
+   "en": "Даже если откроется, на такой￥скорости нас разорвёт!",
+   "en_src": "Even if it opened, we'd be torn￥apart at this speed!",
+   "ru": true
   },
   {
    "off": 3153,
    "budget": 53,
-   "en": "Blast the lock and the door￥should open!",
-   "long": "If I shoot the lock with my Blaster,￥the door should open!"
+   "en": ".",
+   "en_src": "Blast the lock and the door￥should open!",
+   "long_src": "If I shoot the lock with my Blaster,￥the door should open!",
+   "ru": true,
+   "long": "Если прострелить замок из бластера,￥дверь откроется!"
   },
   {
    "off": 3206,
    "budget": 59,
-   "en": "Open or not, jumping at this￥speed is certain death!!",
-   "long": "Even if it opens, jumping out at￥this speed would kill you!"
+   "en": ".",
+   "en_src": "Open or not, jumping at this￥speed is certain death!!",
+   "long_src": "Even if it opens, jumping out at￥this speed would kill you!",
+   "ru": true,
+   "long": "Даже если откроется, прыгать на￥такой скорости - верная смерть!"
   },
   {
    "off": 3265,
    "budget": 49,
-   "en": "Breaking the door only adds￥danger!!",
-   "long": "Destroying the door will only make￥things more dangerous!"
+   "en": "Если сломать дверь, станет только￥опаснее!",
+   "en_src": "Breaking the door only adds￥danger!!",
+   "long_src": "Destroying the door will only make￥things more dangerous!",
+   "ru": true
   },
   {
    "off": 3314,
    "budget": 81,
-   "en": "Don't do anything reckless! That's￥really taking a leap of faith!"
+   "en": "Не делай глупостей! Это же прыжок в￥омут с головой!",
+   "en_src": "Don't do anything reckless! That's￥really taking a leap of faith!",
+   "ru": true
   },
   {
    "off": 3395,
    "budget": 25,
-   "en": "Am I using it wrong?",
-   "long": "Isn't that the wrong expression?"
+   "en": "Ты не путаешь выражения?",
+   "en_src": "Am I using it wrong?",
+   "long_src": "Isn't that the wrong expression?",
+   "ru": true
   },
   {
    "off": 3420,
    "budget": 9,
-   "en": "Glide"
+   "en": "Взлететь",
+   "en_src": "Glide",
+   "ru": true
   },
   {
    "off": 3429,
    "budget": 67,
-   "en": "No good.￥Past 80 kph the safety trips￥and we can't lift off.",
-   "long": "No. The safety system prevents￥takeoff above 80 kilometers an hour."
+   "en": ".",
+   "en_src": "No good.￥Past 80 kph the safety trips￥and we can't lift off.",
+   "long_src": "No. The safety system prevents￥takeoff above 80 kilometers an hour.",
+   "ru": true,
+   "long": "Нет. Система безопасности не даёт￥взлететь на скорости выше 80￥километров в час."
   },
   {
    "off": 3496,
    "budget": 51,
-   "en": "What! Some safety!￥Sticking useless junk on it!",
-   "long": "What? Some safety system! Why'd they￥put that damn thing in?"
+   "en": ".",
+   "en_src": "What! Some safety!￥Sticking useless junk on it!",
+   "long_src": "What? Some safety system! Why'd they￥put that damn thing in?",
+   "ru": true,
+   "long": "Что? Какая ещё система безопасности!￥Зачем было ставить эту дрянь?"
   },
   {
    "off": 3547,
    "budget": 47,
-   "en": "Releasing the safety needs￥a special tool!",
-   "long": "We need special tools to disable the￥safety system!"
+   "en": ".",
+   "en_src": "Releasing the safety needs￥a special tool!",
+   "long_src": "We need special tools to disable the￥safety system!",
+   "ru": true,
+   "long": "Чтобы отключить систему￥безопасности, нужны особые￥инструменты!"
   },
   {
    "off": 3594,
    "budget": 25,
-   "en": "No tool, so it's no go.",
-   "long": "We can't without the tools."
+   "en": "Без инструментов никак.",
+   "en_src": "No tool, so it's no go.",
+   "long_src": "We can't without the tools.",
+   "ru": true
   },
   {
    "off": 3619,
    "budget": 49,
-   "en": "Why didn't you bring the tools,￥＠赤idiot?!"
+   "en": "Почему ты не взял инструменты,￥＠赤дурак?!",
+   "en_src": "Why didn't you bring the tools,￥＠赤idiot?!",
+   "ru": true
   },
   {
    "off": 3668,
    "budget": 55,
-   "en": "The one saying fool is a fool!￥Gillian, ＠赤fool!",
-   "long": "Takes one to know one! You're the￥＠赤idiot, Gillian!"
+   "en": ".",
+   "en_src": "The one saying fool is a fool!￥Gillian, ＠赤fool!",
+   "long_src": "Takes one to know one! You're the￥＠赤idiot, Gillian!",
+   "ru": true,
+   "long": "Кто обзывается, тот сам так￥называется! Сам ты ＠赤дурак, Гиллиан!"
   },
   {
    "off": 3723,
    "budget": 7,
-   "en": "Quit",
-   "long": "Give up"
+   "en": ".",
+   "en_src": "Quit",
+   "long_src": "Give up",
+   "ru": true,
+   "long": "Сдаться"
   },
   {
    "off": 3730,
    "budget": 29,
-   "en": "What? You're giving up?"
+   "en": "Что? Ты сдаёшься?",
+   "en_src": "What? You're giving up?",
+   "ru": true
   },
   {
    "off": 3759,
    "budget": 59,
-   "en": "Gillian's given up! We're doomed!"
+   "en": "Гиллиан сдался! Мы обречены!",
+   "en_src": "Gillian's given up! We're doomed!",
+   "ru": true
   },
   {
    "off": 3818,
    "budget": 57,
-   "en": "Shut up, will you? All right, I'll￥do something!"
+   "en": "Да заткнись ты! Ладно, сейчас￥что-нибудь сделаю!",
+   "en_src": "Shut up, will you? All right, I'll￥do something!",
+   "ru": true
   },
   {
    "off": 3875,
    "budget": 17,
-   "en": "Pull the lever"
+   "en": "Дёрнуть рычаг",
+   "en_src": "Pull the lever",
+   "ru": true
   },
   {
    "off": 3892,
    "budget": 35,
-   "en": "Metal! Pull that lever!"
+   "en": "Метал! Дёрни тот рычаг!",
+   "en_src": "Metal! Pull that lever!",
+   "ru": true
   },
   {
    "off": 3927,
    "budget": 19,
-   "en": "Right! Pulling it!"
+   "en": "Есть! Дёргаю!",
+   "en_src": "Right! Pulling it!",
+   "ru": true
   },
   {
    "off": 3946,
    "budget": 27,
-   "en": "It came off."
+   "en": "Он оторвался.",
+   "en_src": "It came off.",
+   "ru": true
   },
   {
    "off": 3973,
    "budget": 25,
-   "en": "Oh, give me a break!",
-   "long": "You've got to be kidding me!"
+   "en": "Ты издеваешься!",
+   "en_src": "Oh, give me a break!",
+   "long_src": "You've got to be kidding me!",
+   "ru": true
   },
   {
    "off": 3998,
    "budget": 11,
-   "en": "Hit wall"
+   "en": ".",
+   "en_src": "Hit wall",
+   "ru": true,
+   "long": "Удар в стену"
   },
   {
    "off": 4009,
    "budget": 47,
-   "en": "Right! We hit the wall!￥Metal, hold on!",
-   "long": "All right! I'm hitting the wall!￥Hold on, Metal!"
+   "en": "Так! Бьюсь об стену! Держись, Метал!",
+   "en_src": "Right! We hit the wall!￥Metal, hold on!",
+   "long_src": "All right! I'm hitting the wall!￥Hold on, Metal!",
+   "ru": true
   },
   {
    "off": 4056,
    "budget": 43,
-   "en": "I'll hit the wall again! Here goes!"
+   "en": "Ещё раз об стену! Поехали!",
+   "en_src": "I'll hit the wall again! Here goes!",
+   "ru": true
   },
   {
    "off": 4099,
    "budget": 15,
-   "en": "Aaaah!"
+   "en": "А-а-а-а!",
+   "en_src": "Aaaah!",
+   "ru": true
   },
   {
    "off": 4114,
    "budget": 43,
-   "en": "No good!￥We'll break up before we stop!",
-   "long": "No good! We'll fall apart before we￥stop!"
+   "en": ".",
+   "en_src": "No good!￥We'll break up before we stop!",
+   "long_src": "No good! We'll fall apart before we￥stop!",
+   "ru": true,
+   "long": "Не выйдет! Мы развалимся раньше, чем￥остановимся!"
   },
   {
    "off": 4157,
    "budget": 15,
-   "en": "Hit sand",
-   "long": "Drive into sand"
+   "en": ".",
+   "en_src": "Hit sand",
+   "long_src": "Drive into sand",
+   "ru": true,
+   "long": "Влететь в песок"
   },
   {
    "off": 4172,
    "budget": 53,
-   "en": "I'm heading into the sand! Hold on￥tight!"
+   "en": "Ныряю в песок! Держись крепче!",
+   "en_src": "I'm heading into the sand! Hold on￥tight!",
+   "ru": true
   },
   {
    "off": 4225,
    "budget": 49,
-   "en": "I'll try the sand again! Here goes!"
+   "en": "Ещё раз в песок! Поехали!",
+   "en_src": "I'll try the sand again! Here goes!",
+   "ru": true
   },
   {
    "off": 4274,
    "budget": 19,
-   "en": "Damn! No good!",
-   "long": "Damn it! Still no good!"
+   "en": ".",
+   "en_src": "Damn! No good!",
+   "long_src": "Damn it! Still no good!",
+   "ru": true,
+   "long": "Чёрт! Опять не вышло!"
   },
   {
    "off": 4293,
    "budget": 11,
-   "en": "Press",
-   "long": "Press button"
+   "en": ".",
+   "en_src": "Press",
+   "long_src": "Press button",
+   "ru": true,
+   "long": "Нажать кнопку"
   },
   {
    "off": 4304,
    "budget": 47,
-   "en": "All or nothing. I'll try this￥button!"
+   "en": "Пан или пропал. Попробую эту кнопку!",
+   "en_src": "All or nothing. I'll try this￥button!",
+   "ru": true
   },
   {
    "off": 4351,
    "budget": 53,
-   "en": "The radio came on, Gillian! What are￥you doing!",
-   "long": "You've turned on the radio, Gillian!￥What are you doing?"
+   "en": "Ты включил радио, Гиллиан! Что ты￥делаешь?",
+   "en_src": "The radio came on, Gillian! What are￥you doing!",
+   "long_src": "You've turned on the radio, Gillian!￥What are you doing?",
+   "ru": true
   },
   {
    "off": 4404,
    "budget": 25,
-   "en": "Right, this button next!",
-   "long": "All right, this button next!"
+   "en": "Так, теперь эта кнопка!",
+   "en_src": "Right, this button next!",
+   "long_src": "All right, this button next!",
+   "ru": true
   },
   {
    "off": 4429,
    "budget": 47,
-   "en": "Wait! That's the afterburner switch!"
+   "en": "Стой! Это форсаж!",
+   "en_src": "Wait! That's the afterburner switch!",
+   "ru": true
   },
   {
    "off": 4476,
    "budget": 23,
-   "en": "Damn it! My mistake!"
+   "en": "Чёрт! Промахнулся!",
+   "en_src": "Damn it! My mistake!",
+   "ru": true
   },
   {
    "off": 4499,
    "budget": 59,
-   "en": "Thrust is up 23 percent! What now,￥Gillian?"
+   "en": "Тяга выросла на 23 процента! Что￥теперь, Гиллиан?",
+   "en_src": "Thrust is up 23 percent! What now,￥Gillian?",
+   "ru": true
   },
   {
    "off": 4558,
    "budget": 25,
-   "en": "How about this button?"
+   "en": "А если эту кнопку?",
+   "en_src": "How about this button?",
+   "ru": true
   },
   {
    "off": 4583,
    "budget": 75,
-   "en": "Climate control activated! Cabin￥temperature rising. 24, 25, 26￥degrees."
+   "en": ".",
+   "en_src": "Climate control activated! Cabin￥temperature rising. 24, 25, 26￥degrees.",
+   "ru": true,
+   "long": "Климат-контроль включён! Температура￥в салоне растёт. 24, 25, 26￥градусов."
   },
   {
    "off": 4658,
    "budget": 25,
-   "en": "A comfortable heat!",
-   "long": "We've reached a comfortable￥temperature!"
+   "en": ".",
+   "en_src": "A comfortable heat!",
+   "long_src": "We've reached a comfortable￥temperature!",
+   "ru": true,
+   "long": "Достигнута комфортная температура!"
   },
   {
    "off": 4683,
    "budget": 29,
-   "en": "Who cares about that now?"
+   "en": "Да кому это сейчас важно?",
+   "en_src": "Who cares about that now?",
+   "ru": true
   },
   {
    "off": 4712,
    "budget": 9,
-   "en": "Imagine"
+   "en": "Думать",
+   "en_src": "Imagine",
+   "ru": true
   },
   {
    "off": 4721,
    "budget": 47,
-   "en": "How would Jamie feel if I died?"
+   "en": "Что почувствует Джейми, если я умру?",
+   "en_src": "How would Jamie feel if I died?",
+   "ru": true
   },
   {
    "off": 4768,
    "budget": 15,
-   "en": "Gillian..."
+   "en": "Гиллиан...",
+   "en_src": "Gillian...",
+   "ru": true
   },
   {
    "off": 4783,
    "budget": 55,
-   "en": "She'd cry. But maybe she'd forget me￥right away."
+   "en": "Она поплачет. А может, тут же меня￥забудет.",
+   "en_src": "She'd cry. But maybe she'd forget me￥right away.",
+   "ru": true
   },
   {
    "off": 4838,
    "budget": 93,
-   "en": "Then she'd marry another man. He￥might even be a violent bastard."
+   "en": "Потом выйдет за другого. А он,￥может, окажется мерзавцем, который￥её бьёт.",
+   "en_src": "Then she'd marry another man. He￥might even be a violent bastard.",
+   "ru": true
   },
   {
    "off": 4931,
    "budget": 65,
-   "en": "Poor Jamie would hide from her￥husband and cry over my picture."
+   "en": ".",
+   "en_src": "Poor Jamie would hide from her￥husband and cry over my picture.",
+   "ru": true,
+   "long": "Бедная Джейми будет тайком от мужа￥плакать над моей фотографией."
   },
   {
    "off": 4996,
@@ -432,29 +604,40 @@
   {
    "off": 5009,
    "budget": 27,
-   "en": "I'm not dying! No way!"
+   "en": "Я не умру! Ни за что!",
+   "en_src": "I'm not dying! No way!",
+   "ru": true
   },
   {
    "off": 5036,
    "budget": 61,
-   "en": "If we don't stop, I'm going to die."
+   "en": "Если не остановимся, я умру.",
+   "en_src": "If we don't stop, I'm going to die.",
+   "ru": true
   },
   {
    "off": 5097,
    "budget": 53,
-   "en": "Every bone would shatter...￥It would hurt...",
-   "long": "Every bone in my body will break.￥It's going to hurt."
+   "en": "Все кости переломаются. Будет￥больно.",
+   "en_src": "Every bone would shatter...￥It would hurt...",
+   "long_src": "Every bone in my body will break.￥It's going to hurt.",
+   "ru": true
   },
   {
    "off": 5150,
    "budget": 35,
-   "en": "No! I don't want to die!"
+   "en": "Нет! Не хочу умирать!",
+   "en_src": "No! I don't want to die!",
+   "ru": true
   },
   {
    "off": 5185,
    "budget": 9,
-   "en": "Feet",
-   "long": "Stick feet out"
+   "en": ".",
+   "en_src": "Feet",
+   "long_src": "Stick feet out",
+   "ru": true,
+   "long": "Выставить ноги"
   },
   {
    "off": 5196,

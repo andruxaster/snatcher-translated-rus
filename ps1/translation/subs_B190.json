@@ -15,8 +15,9 @@
    "end": 27500,
    "dur": 1.7,
    "speaker": "Gillian",
-   "en": "Hey, it's you!",
-   "enabled": true
+   "en": "Эй, это ты!",
+   "enabled": true,
+   "en_src": "Hey, it's you!"
   },
   {
    "id": "B190_f36_0",
@@ -26,8 +27,9 @@
    "end": 27852,
    "dur": 2.2,
    "speaker": "Napoleon",
-   "en": "You recognized me, huh?",
-   "enabled": true
+   "en": "Узнал меня, да?",
+   "enabled": true,
+   "en_src": "You recognized me, huh?"
   },
   {
    "id": "B190_f37_0",
@@ -37,8 +39,9 @@
    "end": 28204,
    "dur": 2.2,
    "speaker": "Gillian",
-   "en": "Napoleon, what's with that outfit?",
-   "enabled": true
+   "en": "Наполеон, что за наряд?",
+   "enabled": true,
+   "en_src": "Napoleon, what's with that outfit?"
   },
   {
    "id": "B190_f38_0",
@@ -48,8 +51,9 @@
    "end": 28953,
    "dur": 4.7,
    "speaker": "Napoleon",
-   "en": "What do you mean, what's with it? I'm quitting.",
-   "enabled": true
+   "en": "В смысле \"что за наряд\"? Я завязываю.",
+   "enabled": true,
+   "en_src": "What do you mean, what's with it? I'm quitting."
   },
   {
    "id": "B190_f38_0b",
@@ -59,8 +63,9 @@
    "end": 29738,
    "dur": 5.4,
    "speaker": "Napoleon",
-   "en": "This work's too dangerous. I think someone's after me.",
-   "enabled": true
+   "en": "Слишком опасная работа. Кажется, за мной охотятся.",
+   "enabled": true,
+   "en_src": "This work's too dangerous. I think someone's after me."
   },
   {
    "id": "B190_f38_0c",
@@ -70,8 +75,9 @@
    "end": 30236,
    "dur": 3.2,
    "speaker": "Napoleon",
-   "en": "I'll be killed just like Gibson.",
-   "enabled": true
+   "en": "Меня убьют, как Гибсона.",
+   "enabled": true,
+   "en_src": "I'll be killed just like Gibson."
   },
   {
    "id": "B190_f39_0",
@@ -81,8 +87,9 @@
    "end": 30716,
    "dur": 3.1,
    "speaker": "Napoleon",
-   "en": "I've had enough. Let's call it quits.",
-   "enabled": true
+   "en": "С меня хватит. Давай на этом закончим.",
+   "enabled": true,
+   "en_src": "I've had enough. Let's call it quits."
   },
   {
    "id": "B190_f40_0",
@@ -92,8 +99,9 @@
    "end": 31212,
    "dur": 3.2,
    "speaker": "Gillian",
-   "en": "Wait, Napoleon. I'll protect you from the Snatchers.",
-   "enabled": true
+   "en": "Постой, Наполеон. Я защищу тебя от снатчеров.",
+   "enabled": true,
+   "en_src": "Wait, Napoleon. I'll protect you from the Snatchers."
   },
   {
    "id": "B190_f41_0",
@@ -103,8 +111,9 @@
    "end": 31852,
    "dur": 8.4,
    "speaker": "Napoleon",
-   "en": "We're both targets. Watch out for the Snatchers.",
-   "enabled": true
+   "en": "Мы оба мишени. Берегись снатчеров.",
+   "enabled": true,
+   "en_src": "We're both targets. Watch out for the Snatchers."
   },
   {
    "id": "B190_f42_0",
@@ -114,8 +123,9 @@
    "end": 32444,
    "dur": 3.8,
    "speaker": "Napoleon",
-   "en": "Here, take this. A Christmas present.",
-   "enabled": true
+   "en": "Вот, держи. Подарок на Рождество.",
+   "enabled": true,
+   "en_src": "Here, take this. A Christmas present."
   },
   {
    "id": "B190_f43_0",
@@ -125,8 +135,9 @@
    "end": 32668,
    "dur": 1.4,
    "speaker": "Gillian",
-   "en": "What? Tissues?",
-   "enabled": true
+   "en": "Что? Салфетки?",
+   "enabled": true,
+   "en_src": "What? Tissues?"
   },
   {
    "id": "B190_f44_0",
@@ -136,8 +147,9 @@
    "end": 33036,
    "dur": 2.3,
    "speaker": "Napoleon",
-   "en": "See you. Merry Christmas!",
-   "enabled": true
+   "en": "Бывай. Счастливого Рождества!",
+   "enabled": true,
+   "en_src": "See you. Merry Christmas!"
   },
   {
    "id": "B190_f45_0",
@@ -147,9 +159,10 @@
    "end": 33324,
    "dur": 1.8,
    "speaker": "Metal Gear",
-   "en": "Napoleon has gone home.",
+   "en": "Наполеон ушёл домой.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Napoleon has gone home."
   },
   {
    "id": "B190_c4f46_0",
@@ -159,8 +172,9 @@
    "end": 33766,
    "dur": 2.8,
    "speaker": "Gillian",
-   "en": "Can't blame him for being scared.",
-   "enabled": true
+   "en": "Неудивительно, что он боится.",
+   "enabled": true,
+   "en_src": "Can't blame him for being scared."
   },
   {
    "id": "B190_c4f46_0b",
@@ -170,8 +184,9 @@
    "end": 34108,
    "dur": 1.6,
    "speaker": "Gillian",
-   "en": "We got the answers we needed, anyway.",
-   "enabled": true
+   "en": "Зато мы получили нужные ответы.",
+   "enabled": true,
+   "en_src": "We got the answers we needed, anyway."
   },
   {
    "id": "B190_c4f47_0",
@@ -181,8 +196,9 @@
    "end": 34476,
    "dur": 4.6,
    "speaker": "Metal Gear",
-   "en": "There's an ad on the back of the tissues.",
-   "enabled": true
+   "en": "На обороте салфеток реклама.",
+   "enabled": true,
+   "en_src": "There's an ad on the back of the tissues."
   },
   {
    "id": "B190_c4f48_0",
@@ -192,9 +208,10 @@
    "end": 35212,
    "dur": 4.8,
    "speaker": "Gillian",
-   "en": "An ad for Outer Heaven! He does this too?",
+   "en": "Реклама \"Аутер Хэвен\"! Он и этим занимается?",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "An ad for Outer Heaven! He does this too?"
   },
   {
    "id": "B190_c4f49_0",
@@ -204,8 +221,9 @@
    "end": 35484,
    "dur": 1.7,
    "speaker": "Metal Gear",
-   "en": "Oh, there's an udon stand!",
-   "enabled": true
+   "en": "О, лоток с удоном!",
+   "enabled": true,
+   "en_src": "Oh, there's an udon stand!"
   },
   {
    "id": "B190_c4f50_0",
@@ -215,8 +233,9 @@
    "end": 35660,
    "dur": 1.1,
    "speaker": "Gillian",
-   "en": "Let's get something to eat.",
-   "enabled": true
+   "en": "Давай перекусим.",
+   "enabled": true,
+   "en_src": "Let's get something to eat."
   },
   {
    "id": "B190_c4f51_0",
@@ -226,8 +245,9 @@
    "end": 36172,
    "dur": 3.3,
    "speaker": "Metal Gear",
-   "en": "No seats free. We'll have to wait a little.",
-   "enabled": true
+   "en": "Мест нет. Придётся немного подождать.",
+   "enabled": true,
+   "en_src": "No seats free. We'll have to wait a little."
   },
   {
    "id": "B190_c4f52_0",
@@ -237,8 +257,9 @@
    "end": 36780,
    "dur": 3.9,
    "speaker": "Cook",
-   "en": "Seats open! Come on in! Welcome!",
-   "enabled": true
+   "en": "Место свободно! Заходите! Добро пожаловать!",
+   "enabled": true,
+   "en_src": "Seats open! Come on in! Welcome!"
   },
   {
    "id": "B190_c4f53_0",
@@ -248,8 +269,9 @@
    "end": 37132,
    "dur": 2.2,
    "speaker": "Metal Gear",
-   "en": "Looks like a seat opened up. Let's go.",
-   "enabled": true
+   "en": "Похоже, место освободилось. Идём.",
+   "enabled": true,
+   "en_src": "Looks like a seat opened up. Let's go."
   },
   {
    "id": "B190_c4f54_0",
@@ -259,8 +281,9 @@
    "end": 37468,
    "dur": 2.1,
    "speaker": "Cook",
-   "en": "Come on, what'll you have?",
-   "enabled": true
+   "en": "Ну, что будете?",
+   "enabled": true,
+   "en_src": "Come on, what'll you have?"
   },
   {
    "id": "B190_c4f55_0",
@@ -270,8 +293,9 @@
    "end": 37644,
    "dur": 1.1,
    "speaker": "Gillian",
-   "en": "Give me four of those.",
-   "enabled": true
+   "en": "Дайте мне четыре вот этих.",
+   "enabled": true,
+   "en_src": "Give me four of those."
   },
   {
    "id": "B190_c4f56_0",
@@ -281,8 +305,9 @@
    "end": 37900,
    "dur": 1.6,
    "speaker": "Cook",
-   "en": "Two is plenty.",
-   "enabled": true
+   "en": "Двух хватит.",
+   "enabled": true,
+   "en_src": "Two is plenty."
   },
   {
    "id": "B190_c4f57_0",
@@ -292,8 +317,9 @@
    "end": 38044,
    "dur": 0.9,
    "speaker": "Gillian",
-   "en": "No, four.",
-   "enabled": true
+   "en": "Нет, четыре.",
+   "enabled": true,
+   "en_src": "No, four."
   },
   {
    "id": "B190_c4f58_0",
@@ -303,8 +329,9 @@
    "end": 38332,
    "dur": 1.8,
    "speaker": "Cook",
-   "en": "Two is plenty!",
-   "enabled": true
+   "en": "Двух хватит!",
+   "enabled": true,
+   "en_src": "Two is plenty!"
   },
   {
    "id": "B190_c4f59_0",
@@ -314,8 +341,9 @@
    "end": 38460,
    "dur": 0.7,
    "speaker": "Gillian",
-   "en": "And udon!",
-   "enabled": true
+   "en": "И удон!",
+   "enabled": true,
+   "en_src": "And udon!"
   },
   {
    "id": "B190_c4f60_0",
@@ -325,8 +353,9 @@
    "end": 38748,
    "dur": 1.8,
    "speaker": "Cook",
-   "en": "Come on, be reasonable!",
-   "enabled": true
+   "en": "Да будьте благоразумны!",
+   "enabled": true,
+   "en_src": "Come on, be reasonable!"
   },
   {
    "id": "B190_c4f61_0",
@@ -336,8 +365,9 @@
    "end": 39164,
    "dur": 2.7,
    "speaker": "Gillian",
-   "en": "My wife used to say I ate a lot.",
-   "enabled": true
+   "en": "Жена говорила, что я много ем.",
+   "enabled": true,
+   "en_src": "My wife used to say I ate a lot."
   },
   {
    "id": "B190_c4f62_0",
@@ -347,8 +377,9 @@
    "end": 39474,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "Gillian, hurry up and eat. We should go.",
-   "enabled": true
+   "en": "Гиллиан, ешь быстрее. Нам пора.",
+   "enabled": true,
+   "en_src": "Gillian, hurry up and eat. We should go."
   },
   {
    "id": "B190_c4f62_0b",
@@ -358,8 +389,9 @@
    "end": 39996,
    "dur": 1.5,
    "speaker": "Metal Gear",
-   "en": "Come on, hurry. Come on.",
-   "enabled": true
+   "en": "Давай, скорее. Ну же.",
+   "enabled": true,
+   "en_src": "Come on, hurry. Come on."
   },
   {
    "id": "B190_c4f63_0",
@@ -369,9 +401,10 @@
    "end": 40348,
    "dur": 2.2,
    "speaker": "Gillian",
-   "en": "All right. Let's go.",
+   "en": "Ладно. Идём.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "All right. Let's go."
   },
   {
    "id": "B190_c4f64_0",
@@ -381,8 +414,9 @@
    "end": 41052,
    "dur": 4.6,
    "speaker": "Teller",
-   "en": "You again! I knew you'd come back.",
-   "enabled": true
+   "en": "Опять вы! Я знала, что вернётесь.",
+   "enabled": true,
+   "en_src": "You again! I knew you'd come back."
   },
   {
    "id": "B190_c4f65_0",
@@ -392,8 +426,9 @@
    "end": 41228,
    "dur": 1.1,
    "speaker": "Gillian",
-   "en": "Not because I wanted to.",
-   "enabled": true
+   "en": "Не по своей воле.",
+   "enabled": true,
+   "en_src": "Not because I wanted to."
   },
   {
    "id": "B190_c4f66_0",
@@ -403,8 +438,9 @@
    "end": 41820,
    "dur": 3.8,
    "speaker": "Teller",
-   "en": "Coming back proves you believe me. What is it today?",
-   "enabled": true
+   "en": "Раз вернулись - значит, верите. Что сегодня?",
+   "enabled": true,
+   "en_src": "Coming back proves you believe me. What is it today?"
   },
   {
    "id": "B190_c4f67_0",
@@ -414,8 +450,9 @@
    "end": 41964,
    "dur": 0.9,
    "speaker": "Gillian",
-   "en": "A missing person.",
-   "enabled": true
+   "en": "Пропавший человек.",
+   "enabled": true,
+   "en_src": "A missing person."
   },
   {
    "id": "B190_c4f68_0",
@@ -425,8 +462,9 @@
    "end": 42046,
    "dur": 0.6,
    "speaker": "Teller",
-   "en": "Who?",
-   "enabled": true
+   "en": "Кто?",
+   "enabled": true,
+   "en_src": "Who?"
   },
   {
    "id": "B190_c4f68_0b",
@@ -436,8 +474,9 @@
    "end": 42636,
    "dur": 8.2,
    "speaker": "Teller",
-   "en": "Do you have a photo, a retinal pattern, an ID, anything?",
-   "enabled": true
+   "en": "Есть фото, рисунок сетчатки, ID, хоть что-нибудь?",
+   "enabled": true,
+   "en_src": "Do you have a photo, a retinal pattern, an ID, anything?"
   },
   {
    "id": "B190_c4f69_0",
@@ -447,8 +486,9 @@
    "end": 43372,
    "dur": 9.6,
    "speaker": "Metal Gear",
-   "en": "I have her data. I'll transfer it to your terminal.",
-   "enabled": true
+   "en": "У меня есть её данные. Переброшу на ваш терминал.",
+   "enabled": true,
+   "en_src": "I have her data. I'll transfer it to your terminal."
   },
   {
    "id": "B190_c4f70_0",
@@ -458,8 +498,9 @@
    "end": 43516,
    "dur": 0.9,
    "speaker": "Gillian",
-   "en": "Just a little.",
-   "enabled": true
+   "en": "Совсем немного.",
+   "enabled": true,
+   "en_src": "Just a little."
   },
   {
    "id": "B190_c4f71_0",
@@ -469,8 +510,9 @@
    "end": 44460,
    "dur": 6.2,
    "speaker": "Teller",
-   "en": "Got it. Catherine, is it? Let me read her fortune.",
-   "enabled": true
+   "en": "Есть. Кэтрин, да? Сейчас погадаю.",
+   "enabled": true,
+   "en_src": "Got it. Catherine, is it? Let me read her fortune."
   },
   {
    "id": "B190_c4f72_0",
@@ -480,8 +522,9 @@
    "end": 44636,
    "dur": 1.1,
    "speaker": "Gillian",
-   "en": "Metal, let's just leave!",
-   "enabled": true
+   "en": "Метал, давай просто уйдём!",
+   "enabled": true,
+   "en_src": "Metal, let's just leave!"
   },
   {
    "id": "B190_c4f73_0",
@@ -491,8 +534,9 @@
    "end": 44799,
    "dur": 1.0,
    "speaker": "Teller",
-   "en": "Quiet!",
-   "enabled": true
+   "en": "Тихо!",
+   "enabled": true,
+   "en_src": "Quiet!"
   },
   {
    "id": "B190_c4f73_0b",
@@ -502,8 +546,9 @@
    "end": 45092,
    "dur": 1.0,
    "speaker": "Teller",
-   "en": "Hnnnnngh!",
-   "enabled": true
+   "en": "Хм-м-м-м-м!",
+   "enabled": true,
+   "en_src": "Hnnnnngh!"
   },
   {
    "id": "B190_c4f73_0c",
@@ -513,8 +558,9 @@
    "end": 45356,
    "dur": 0.8,
    "speaker": "Teller",
-   "en": "I have it.",
-   "enabled": true
+   "en": "Вижу.",
+   "enabled": true,
+   "en_src": "I have it."
   },
   {
    "id": "B190_c4f74_0",
@@ -524,8 +570,9 @@
    "end": 45532,
    "dur": 1.1,
    "speaker": "Gillian",
-   "en": "Where is she?",
-   "enabled": true
+   "en": "Где она?",
+   "enabled": true,
+   "en_src": "Where is she?"
   },
   {
    "id": "B190_c4f75_0",
@@ -535,8 +582,9 @@
    "end": 46188,
    "dur": 4.3,
    "speaker": "Teller",
-   "en": "Right near you. She's very close.",
-   "enabled": true
+   "en": "Рядом с вами. Совсем близко.",
+   "enabled": true,
+   "en_src": "Right near you. She's very close."
   },
   {
    "id": "B190_c4f76_0",
@@ -546,8 +594,9 @@
    "end": 46316,
    "dur": 0.7,
    "speaker": "Gillian",
-   "en": "Don't talk nonsense!",
-   "enabled": true
+   "en": "Не несите чушь!",
+   "enabled": true,
+   "en_src": "Don't talk nonsense!"
   },
   {
    "id": "B190_c4f77_0",
@@ -557,8 +606,9 @@
    "end": 46524,
    "dur": 1.3,
    "speaker": "Teller",
-   "en": "I'm not lying!",
-   "enabled": true
+   "en": "Я не вру!",
+   "enabled": true,
+   "en_src": "I'm not lying!"
   },
   {
    "id": "B190_c4f78_0",
@@ -568,8 +618,9 @@
    "end": 46668,
    "dur": 0.9,
    "speaker": "Gillian",
-   "en": "What proof?",
-   "enabled": true
+   "en": "Доказательства?",
+   "enabled": true,
+   "en_src": "What proof?"
   },
   {
    "id": "B190_c4f79_0",
@@ -579,8 +630,9 @@
    "end": 47136,
    "dur": 3.0,
    "speaker": "Teller",
-   "en": "Would you believe me if I put it this way?",
-   "enabled": true
+   "en": "А так поверите?",
+   "enabled": true,
+   "en_src": "Would you believe me if I put it this way?"
   },
   {
    "id": "B190_c4f79_0b",
@@ -590,8 +642,9 @@
    "end": 47466,
    "dur": 2.7,
    "speaker": "Teller",
-   "en": "A few hours ago,",
-   "enabled": true
+   "en": "Несколько часов назад",
+   "enabled": true,
+   "en_src": "A few hours ago,"
   },
   {
    "id": "B190_c4f79_0bb",
@@ -601,8 +654,9 @@
    "end": 48088,
    "dur": 8.9,
    "speaker": "Teller",
-   "en": "this girl used a public terminal near your apartment.",
-   "enabled": true
+   "en": "эта девушка пользовалась уличным терминалом у вашего дома.",
+   "enabled": true,
+   "en_src": "this girl used a public terminal near your apartment."
   },
   {
    "id": "B190_c4f79_0bc",
@@ -612,8 +666,9 @@
    "end": 48492,
    "dur": 3.9,
    "speaker": "Teller",
-   "en": "There's a record of it.",
-   "enabled": true
+   "en": "Это записано.",
+   "enabled": true,
+   "en_src": "There's a record of it."
   },
   {
    "id": "B190_c5f1",
@@ -623,8 +678,9 @@
    "end": 3069,
    "dur": 4.4,
    "speaker": "Metal Gear",
-   "en": "Could that be when Catherine called headquarters?",
-   "enabled": true
+   "en": "Может, тогда Кэтрин и звонила в штаб?",
+   "enabled": true,
+   "en_src": "Could that be when Catherine called headquarters?"
   },
   {
    "id": "B190_c5f2",
@@ -634,8 +690,9 @@
    "end": 3453,
    "dur": 2.5,
    "speaker": "Gillian",
-   "en": "Where did you get that information?",
-   "enabled": true
+   "en": "Откуда у вас эта информация?",
+   "enabled": true,
+   "en_src": "Where did you get that information?"
   },
   {
    "id": "B190_c5f3",
@@ -645,8 +702,9 @@
    "end": 3885,
    "dur": 2.8,
    "speaker": "Teller",
-   "en": "The phone company. Satisfied?",
-   "enabled": true
+   "en": "Из телефонной компании. Довольны?",
+   "enabled": true,
+   "en_src": "The phone company. Satisfied?"
   },
   {
    "id": "B190_c5f4",
@@ -656,8 +714,9 @@
    "end": 4429,
    "dur": 3.5,
    "speaker": "Gillian",
-   "en": "I'm impressed. Better informed than headquarters!",
-   "enabled": true
+   "en": "Впечатляет. Вы осведомлённее штаба!",
+   "enabled": true,
+   "en_src": "I'm impressed. Better informed than headquarters!"
   },
   {
    "id": "B190_c5f5",
@@ -667,8 +726,9 @@
    "end": 4816,
    "dur": 2.5,
    "speaker": "Teller",
-   "en": "Fortune telling is all in the mind!",
-   "enabled": true
+   "en": "Гадание - это всё в голове!",
+   "enabled": true,
+   "en_src": "Fortune telling is all in the mind!"
   },
   {
    "id": "B190_c5f5b",
@@ -678,8 +738,9 @@
    "end": 5007,
    "dur": 0.6,
    "speaker": "Teller",
-   "en": "Hmph!",
-   "enabled": true
+   "en": "Хмф!",
+   "enabled": true,
+   "en_src": "Hmph!"
   },
   {
    "id": "B190_c5f5c",
@@ -689,8 +750,9 @@
    "end": 5277,
    "dur": 1.2,
    "speaker": "Teller",
-   "en": "Come again!",
-   "enabled": true
+   "en": "Заходите ещё!",
+   "enabled": true,
+   "en_src": "Come again!"
   },
   {
    "id": "B190_c5f6",
@@ -700,8 +762,9 @@
    "end": 5789,
    "dur": 3.3,
    "speaker": "Gillian",
-   "en": "Some fortune teller. She's a hacker selling information!",
-   "enabled": true
+   "en": "Ну и гадалка. Она хакер, торгующий информацией!",
+   "enabled": true,
+   "en_src": "Some fortune teller. She's a hacker selling information!"
   },
   {
    "id": "B190_c5f7",
@@ -711,9 +774,10 @@
    "end": 6269,
    "dur": 3.1,
    "speaker": "Metal Gear",
-   "en": "She may be more reliable than Napoleon.",
+   "en": "Возможно, она надёжнее Наполеона.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "She may be more reliable than Napoleon."
   }
  ]
 }

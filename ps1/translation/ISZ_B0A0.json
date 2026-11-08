@@ -10,157 +10,216 @@
   {
    "off": 1165,
    "budget": 51,
-   "en": "You board the tricycle.￥Where to?",
-   "long": "We've boarded the tricycle.￥Where would you like to go?"
+   "en": "Мы в трицикле. Куда едем?",
+   "en_src": "You board the tricycle.￥Where to?",
+   "long_src": "We've boarded the tricycle.￥Where would you like to go?",
+   "ru": true
   },
   {
    "off": 1216,
    "budget": 17,
-   "en": "JUNKER HQ"
+   "en": "Штаб ДЖАНКЕРа",
+   "en_src": "JUNKER HQ",
+   "ru": true
   },
   {
    "off": 1233,
    "budget": 11,
-   "en": "Gillian's",
-   "long": "Gillian's home"
+   "en": ".",
+   "en_src": "Gillian's",
+   "long_src": "Gillian's home",
+   "ru": true,
+   "long": "Дом Гиллиана"
   },
   {
    "off": 1244,
    "budget": 11,
-   "en": "Gibson's",
-   "long": "Gibson's home"
+   "en": ".",
+   "en_src": "Gibson's",
+   "long_src": "Gibson's home",
+   "ru": true,
+   "long": "Дом Гибсона"
   },
   {
    "off": 1255,
    "budget": 13,
-   "en": "Altamira"
+   "en": "\"Альтамира\"",
+   "en_src": "Altamira",
+   "ru": true
   },
   {
    "off": 1268,
    "budget": 15,
-   "en": "Outer Heaven"
+   "en": "\"Аутер Хэвен\"",
+   "en_src": "Outer Heaven",
+   "ru": true
   },
   {
    "off": 1283,
    "budget": 17,
-   "en": "Joy Division"
+   "en": "\"Джой Дивижн\"",
+   "en_src": "Joy Division",
+   "ru": true
   },
   {
    "off": 1300,
    "budget": 9,
-   "en": "Ivan's",
-   "long": "Ivan's home"
+   "en": ".",
+   "en_src": "Ivan's",
+   "long_src": "Ivan's home",
+   "ru": true,
+   "long": "Дом Ивана"
   },
   {
    "off": 1309,
    "budget": 11,
-   "en": "Freddy's",
-   "long": "Freddy's home"
+   "en": "Дом Фредди",
+   "en_src": "Freddy's",
+   "long_src": "Freddy's home",
+   "ru": true
   },
   {
    "off": 1320,
    "budget": 11,
-   "en": "Get out",
-   "long": "Exit Tricycle"
+   "en": "Выйти",
+   "en_src": "Get out",
+   "long_src": "Exit Tricycle",
+   "ru": true
   },
   {
    "off": 1331,
    "budget": 43,
-   "en": "Ivan is clean.￥No business with him now.",
-   "long": "Ivan's in the clear. We've got no￥more business with him."
+   "en": "Иван чист. Больше у нас к нему дел￥нет.",
+   "en_src": "Ivan is clean.￥No business with him now.",
+   "long_src": "Ivan's in the clear. We've got no￥more business with him.",
+   "ru": true
   },
   {
    "off": 1374,
    "budget": 27,
-   "en": "Hurry to Freddy's place.",
-   "long": "Let's hurry to Freddy's place."
+   "en": "Скорее к Фредди.",
+   "en_src": "Hurry to Freddy's place.",
+   "long_src": "Let's hurry to Freddy's place.",
+   "ru": true
   },
   {
    "off": 1401,
    "budget": 45,
-   "en": "We've reached JUNKER HQ.￥What now?"
+   "en": "Мы у штаба ДЖАНКЕРа. Что дальше?",
+   "en_src": "We've reached JUNKER HQ.￥What now?",
+   "ru": true
   },
   {
    "off": 1446,
    "budget": 41,
-   "en": "We're at your place.￥What now?"
+   "en": "Мы у твоего дома. Что дальше?",
+   "en_src": "We're at your place.￥What now?",
+   "ru": true
   },
   {
    "off": 1487,
    "budget": 57,
-   "en": "We're at Jean Jack Gibson's house.￥What now?"
+   "en": "Мы у дома Жан-Джека Гибсона. Что￥дальше?",
+   "en_src": "We're at Jean Jack Gibson's house.￥What now?",
+   "ru": true
   },
   {
    "off": 1544,
    "budget": 41,
-   "en": "We're at Altamira.￥What now?"
+   "en": "Мы у \"Альтамиры\". Что дальше?",
+   "en_src": "We're at Altamira.￥What now?",
+   "ru": true
   },
   {
    "off": 1585,
    "budget": 45,
-   "en": "We're at Outer Heaven.￥What now?"
+   "en": "Мы у \"Аутер Хэвен\". Что дальше?",
+   "en_src": "We're at Outer Heaven.￥What now?",
+   "ru": true
   },
   {
    "off": 1630,
    "budget": 49,
-   "en": "We're at Joy Division. What now?"
+   "en": "Мы у \"Джой Дивижн\". Что дальше?",
+   "en_src": "We're at Joy Division. What now?",
+   "ru": true
   },
   {
    "off": 1679,
    "budget": 49,
-   "en": "We're at Ivan Rodriguez's apartment.￥What now?"
+   "en": "Мы у квартиры Ивана Родригеса. Что￥дальше?",
+   "en_src": "We're at Ivan Rodriguez's apartment.￥What now?",
+   "ru": true
   },
   {
    "off": 1728,
    "budget": 53,
-   "en": "We're at Freddy Nielsen's apartment.￥What now?"
+   "en": "Мы у квартиры Фредди Нильсена. Что￥дальше?",
+   "en_src": "We're at Freddy Nielsen's apartment.￥What now?",
+   "ru": true
   },
   {
    "off": 1781,
    "budget": 41,
-   "en": "All right. We're heading to JUNKER￥HQ."
+   "en": "Хорошо. Едем в штаб ДЖАНКЕРа.",
+   "en_src": "All right. We're heading to JUNKER￥HQ.",
+   "ru": true
   },
   {
    "off": 1822,
    "budget": 35,
-   "en": "Heading for Gillian's home, then.",
-   "long": "All right. We're heading to your￥place."
+   "en": "Хорошо. Едем к тебе домой.",
+   "en_src": "Heading for Gillian's home, then.",
+   "long_src": "All right. We're heading to your￥place.",
+   "ru": true
   },
   {
    "off": 1857,
    "budget": 53,
-   "en": "Heading for Jean Jack Gibson's home,￥then.",
-   "long": "All right. We're heading to Jean￥Jack Gibson's house."
+   "en": "Хорошо. Едем к дому Жан-Джека￥Гибсона.",
+   "en_src": "Heading for Jean Jack Gibson's home,￥then.",
+   "long_src": "All right. We're heading to Jean￥Jack Gibson's house.",
+   "ru": true
   },
   {
    "off": 1910,
    "budget": 35,
-   "en": "Heading for Altamira, then.",
-   "long": "All right. We're heading to￥Altamira."
+   "en": "Хорошо. Едем к \"Альтамире\".",
+   "en_src": "Heading for Altamira, then.",
+   "long_src": "All right. We're heading to￥Altamira.",
+   "ru": true
   },
   {
    "off": 1945,
    "budget": 37,
-   "en": "Heading for Outer Heaven, then.",
-   "long": "All right. We're heading to Outer￥Heaven."
+   "en": "Хорошо. Едем в \"Аутер Хэвен\".",
+   "en_src": "Heading for Outer Heaven, then.",
+   "long_src": "All right. We're heading to Outer￥Heaven.",
+   "ru": true
   },
   {
    "off": 1982,
    "budget": 43,
-   "en": "All right. We're heading to Joy Division.",
-   "long": "All right. We're heading to Joy￥Division."
+   "en": "Хорошо. Едем в \"Джой Дивижн\".",
+   "en_src": "All right. We're heading to Joy Division.",
+   "long_src": "All right. We're heading to Joy￥Division.",
+   "ru": true
   },
   {
    "off": 2025,
    "budget": 45,
-   "en": "Heading for Ivan Rodriguez's home,￥then.",
-   "long": "All right. We're heading to Ivan￥Rodriguez's apartment."
+   "en": "Хорошо. Едем к квартире Ивана￥Родригеса.",
+   "en_src": "Heading for Ivan Rodriguez's home,￥then.",
+   "long_src": "All right. We're heading to Ivan￥Rodriguez's apartment.",
+   "ru": true
   },
   {
    "off": 2070,
    "budget": 47,
-   "en": "Heading for Freddy Nielsen's home,￥then.",
-   "long": "All right. We're heading to Freddy￥Nielsen's apartment."
+   "en": "Хорошо. Едем к квартире Фредди￥Нильсена.",
+   "en_src": "Heading for Freddy Nielsen's home,￥then.",
+   "long_src": "All right. We're heading to Freddy￥Nielsen's apartment.",
+   "ru": true
   },
   {
    "off": 2119,

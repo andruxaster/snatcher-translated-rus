@@ -26,9 +26,10 @@
   {
    "off": 2812,
    "budget": 87,
-   "en": "Неужели это и есть та больница, где обслуживают снатчеров, о которой говорил Гибсон?",
+   "en": ".",
    "en_src": "Could this be the Snatcher￥maintenance hospital Gibson￥mentioned?",
-   "ru": true
+   "ru": true,
+   "long": "Неужели это и есть та больница, где￥обслуживают снатчеров, о которой￥говорил Гибсон?"
   },
   {
    "off": 2899,
@@ -73,9 +74,10 @@
   {
    "off": 2990,
    "budget": 5,
-   "en": "Вид",
+   "en": ".",
    "en_src": "Look",
-   "ru": true
+   "ru": true,
+   "long": "Осмотреть"
   },
   {
    "off": 2995,
@@ -260,10 +262,11 @@
   {
    "off": 3769,
    "budget": 47,
-   "en": "Немного видно, что внутри. Кажется, там тепло.",
+   "en": ".",
    "en_src": "The inside shows faintly.￥Warm within.",
    "long_src": "I can just see inside. It looks warm￥in there.",
-   "ru": true
+   "ru": true,
+   "long": "Немного видно, что внутри. Кажется,￥там тепло."
   },
   {
    "off": 3816,
@@ -417,14 +420,15 @@
   {
    "off": 4567,
    "budget": 5,
-   "en": "Вещи",
+   "en": ".",
    "en_src": "Item",
-   "ru": true
+   "ru": true,
+   "long": "Предметы"
   },
   {
    "off": 4572,
    "budget": 15,
-   "en": "Исп. Метал Гир",
+   "en": "Позвать Метала",
    "en_src": "Use Metal Gear",
    "ru": true
   },
@@ -668,7 +672,7 @@
    "en": ".",
    "en_src": "A Magellantic Kobe Penguin. A￥synthetic breed developed by Aborits￥in 2033 for temperate regions.",
    "ru": true,
-   "long": "Магеллантический кобийский￥пингвин. Синтетическая порода,￥выведенная \"Аборитс\" в 2033 году для￥умеренного климата."
+   "long": "Магеллантический кобийский пингвин.￥Синтетическая порода, выведенная￥\"Аборитс\" в 2033 году для умеренного￥климата."
   },
   {
    "off": 5595,
@@ -763,10 +767,11 @@
   {
    "off": 6024,
    "budget": 77,
-   "en": "Похоже, у неё поранена сумка изнутри. У \"питомцев-сумочек\" так часто бывает.",
+   "en": ".",
    "en_src": "It seems hurt inside the pouch.￥A common thing with pochette pets.",
    "long_src": "It seems to have an injury inside￥its pouch. That's common with Purse￥Pets.",
-   "ru": true
+   "ru": true,
+   "long": "Похоже, у неё поранена сумка￥изнутри. У \"питомцев-сумочек\" так￥часто бывает."
   },
   {
    "off": 6101,
@@ -923,9 +928,10 @@
   {
    "off": 7076,
    "budget": 5,
-   "en": "Спр.",
+   "en": ".",
    "en_src": "Ask",
-   "ru": true
+   "ru": true,
+   "long": "Спросить"
   },
   {
    "off": 7081,
@@ -1117,10 +1123,11 @@
   {
    "off": 8220,
    "budget": 49,
-   "en": "Чудесный доктор, любит животных. И очень умелый.",
+   "en": ".",
    "en_src": "A fine doctor, fond of animals.￥Sound too...",
    "long_src": "A wonderful doctor who loves￥animals. Very skilled, too.",
-   "ru": true
+   "ru": true,
+   "long": "Чудесный доктор, любит животных. И￥очень умелый."
   },
   {
    "off": 8269,
@@ -1163,14 +1170,15 @@
   {
    "off": 8396,
    "budget": 7,
-   "en": "Показ",
+   "en": ".",
    "en_src": "Show",
-   "ru": true
+   "ru": true,
+   "long": "Показать"
   },
   {
    "off": 8403,
    "budget": 15,
-   "en": "ID ДЖАНКЕРа",
+   "en": "Удостоверение",
    "en_src": "JUNKER ID",
    "ru": true
   },
@@ -1382,9 +1390,10 @@
   {
    "off": 9232,
    "budget": 47,
-   "en": "Изображение, извлечённое из памяти Литл Джона.",
+   "en": ".",
    "en_src": "An image recovered from Little￥John's memory.",
-   "ru": true
+   "ru": true,
+   "long": "Изображение, извлечённое из памяти￥Литл Джона."
   },
   {
    "off": 9279,
@@ -1398,10 +1407,11 @@
   {
    "off": 9288,
    "budget": 41,
-   "en": "Фотография, спрятанная в кабинете шефа.",
+   "en": ".",
    "en_src": "A still photo hidden in￥the Chief's rm",
    "long_src": "The photograph hidden in the chief's￥office.",
-   "ru": true
+   "ru": true,
+   "long": "Фотография, спрятанная в кабинете￥шефа."
   },
   {
    "off": 9329,
@@ -1486,10 +1496,11 @@
   {
    "off": 9841,
    "budget": 67,
-   "en": "Собор Василия Блаженного, знаменитый собор в Москве до Катастрофы.",
+   "en": ".",
    "en_src": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
    "long_src": "St. Basil's Cathedral, a famous￥cathedral in Moscow before the￥Catastrophe.",
-   "ru": true
+   "ru": true,
+   "long": "Собор Василия Блаженного, знаменитый￥собор в Москве до Катастрофы."
   },
   {
    "off": 9910,

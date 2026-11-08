@@ -15,8 +15,9 @@
    "end": 18286,
    "dur": 1.3,
    "speaker": "Gillian",
-   "en": "Where are you taking us?",
-   "enabled": true
+   "en": "Куда ты нас везёшь?",
+   "enabled": true,
+   "en_src": "Where are you taking us?"
   },
   {
    "id": "B1F0_f25_0",
@@ -26,8 +27,9 @@
    "end": 18766,
    "dur": 3.1,
    "speaker": "Metal Gear",
-   "en": "Something's wrong. The Tricycle is out of control.",
-   "enabled": true
+   "en": "Что-то не так. Трицикл не слушается.",
+   "enabled": true,
+   "en_src": "Something's wrong. The Tricycle is out of control."
   },
   {
    "id": "B1F0_f26_0",
@@ -37,8 +39,9 @@
    "end": 19006,
    "dur": 1.5,
    "speaker": "Gillian",
-   "en": "Switch from autopilot to manual!",
-   "enabled": true
+   "en": "Переключи с автопилота на ручное!",
+   "enabled": true,
+   "en_src": "Switch from autopilot to manual!"
   },
   {
    "id": "B1F0_f27_0",
@@ -48,8 +51,9 @@
    "end": 19518,
    "dur": 3.3,
    "speaker": "Metal Gear",
-   "en": "Understood. Switched to manual control.",
-   "enabled": true
+   "en": "Понял. Переключено на ручное управление.",
+   "enabled": true,
+   "en_src": "Understood. Switched to manual control."
   },
   {
    "id": "B1F0_f28_0",
@@ -59,8 +63,9 @@
    "end": 19630,
    "dur": 0.6,
    "speaker": "Metal Gear",
-   "en": "How is it?",
-   "enabled": true
+   "en": "Ну как?",
+   "enabled": true,
+   "en_src": "How is it?"
   },
   {
    "id": "B1F0_f29_0",
@@ -70,8 +75,9 @@
    "end": 19982,
    "dur": 2.2,
    "speaker": "Gillian",
-   "en": "They're gone! No brakes!",
-   "enabled": true
+   "en": "Отказали! Тормозов нет!",
+   "enabled": true,
+   "en_src": "They're gone! No brakes!"
   },
   {
    "id": "B1F0_f30_0",
@@ -81,8 +87,9 @@
    "end": 20398,
    "dur": 2.7,
    "speaker": "Gillian",
-   "en": "Metal! Check the brakes! Hurry!",
-   "enabled": true
+   "en": "Метал! Проверь тормоза! Быстрее!",
+   "enabled": true,
+   "en_src": "Metal! Check the brakes! Hurry!"
   },
   {
    "id": "B1F0_f31_0",
@@ -92,8 +99,9 @@
    "end": 20718,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "A Snatcher must have sabotaged them!",
-   "enabled": true
+   "en": "Наверное, их испортил снатчер!",
+   "enabled": true,
+   "en_src": "A Snatcher must have sabotaged them!"
   },
   {
    "id": "B1F0_f32_0",
@@ -103,8 +111,9 @@
    "end": 21278,
    "dur": 7.2,
    "speaker": "Gillian",
-   "en": "Sabotage? Of course! Only one person could sabotage the Tricycle!",
-   "enabled": true
+   "en": "Испортил? Ну конечно! Трицикл мог испортить только один человек!",
+   "enabled": true,
+   "en_src": "Sabotage? Of course! Only one person could sabotage the Tricycle!"
   },
   {
    "id": "B1F0_f33_0",
@@ -114,9 +123,10 @@
    "end": 21822,
    "dur": 3.5,
    "speaker": "Metal Gear",
-   "en": "Never mind that! Do something, Gillian!",
+   "en": "Не до того! Сделай что-нибудь, Гиллиан!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Never mind that! Do something, Gillian!"
   },
   {
    "id": "B1F0_r_00",
@@ -126,8 +136,9 @@
    "end": 78800,
    "dur": 4.3,
    "speaker": "Gillian",
-   "en": "To hell with it! Metal, put your feet out on my signal!",
-   "enabled": true
+   "en": "Была не была! Метал, по моему сигналу выставь ноги!",
+   "enabled": true,
+   "en_src": "To hell with it! Metal, put your feet out on my signal!"
   },
   {
    "id": "B1F0_r_01",
@@ -137,8 +148,9 @@
    "end": 78955,
    "dur": 1.0,
    "speaker": "Metal Gear",
-   "en": "Our feet?",
-   "enabled": true
+   "en": "Ноги?",
+   "enabled": true,
+   "en_src": "Our feet?"
   },
   {
    "id": "B1F0_r_02",
@@ -148,8 +160,9 @@
    "end": 80364,
    "dur": 8.2,
    "speaker": "Gillian",
-   "en": "Ready? Here goes! One, two, three! Ow! Hot! Metal, it's no good!",
-   "enabled": true
+   "en": "Готов? Раз, два, три! Ай! Горячо! Метал, бесполезно!",
+   "enabled": true,
+   "en_src": "Ready? Here goes! One, two, three! Ow! Hot! Metal, it's no good!"
   },
   {
    "id": "B1F0_r_02b",
@@ -159,8 +172,9 @@
    "end": 80454,
    "dur": 1.8,
    "speaker": "Gillian",
-   "en": "We can't stop!",
-   "enabled": true
+   "en": "Нам не остановиться!",
+   "enabled": true,
+   "en_src": "We can't stop!"
   },
   {
    "id": "B1F0_r_05",
@@ -170,8 +184,9 @@
    "end": 80865,
    "dur": 5.5,
    "speaker": "Metal Gear",
-   "en": "Gillian! There's a sharp bend in 500 meters!",
-   "enabled": true
+   "en": "Гиллиан! Через 500 метров крутой поворот!",
+   "enabled": true,
+   "en_src": "Gillian! There's a sharp bend in 500 meters!"
   },
   {
    "id": "B1F0_r_05b",
@@ -181,8 +196,9 @@
    "end": 81276,
    "dur": 5.5,
    "speaker": "Metal Gear",
-   "en": "We can't make the turn at this speed!",
-   "enabled": true
+   "en": "На такой скорости нам его не пройти!",
+   "enabled": true,
+   "en_src": "We can't make the turn at this speed!"
   },
   {
    "id": "B1F0_r_06",
@@ -192,8 +208,9 @@
    "end": 81761,
    "dur": 3.2,
    "speaker": "Randam",
-   "en": "Gillian! Gillian! Hey, Gillian!",
-   "enabled": true
+   "en": "Гиллиан! Гиллиан! Эй, Гиллиан!",
+   "enabled": true,
+   "en_src": "Gillian! Gillian! Hey, Gillian!"
   },
   {
    "id": "B1F0_r_08",
@@ -203,8 +220,9 @@
    "end": 81959,
    "dur": 1.3,
    "speaker": "Gillian",
-   "en": "Huh?",
-   "enabled": true
+   "en": "А?",
+   "enabled": true,
+   "en_src": "Huh?"
   },
   {
    "id": "B1F0_r_09",
@@ -214,8 +232,9 @@
    "end": 82157,
    "dur": 1.3,
    "speaker": "Randam",
-   "en": "Hey! Over here!",
-   "enabled": true
+   "en": "Эй! Сюда!",
+   "enabled": true,
+   "en_src": "Hey! Over here!"
   },
   {
    "id": "B1F0_r_10",
@@ -225,8 +244,9 @@
    "end": 82397,
    "dur": 1.6,
    "speaker": "Gillian",
-   "en": "What?",
-   "enabled": true
+   "en": "Что?",
+   "enabled": true,
+   "en_src": "What?"
   },
   {
    "id": "B1F0_r_11",
@@ -236,8 +256,9 @@
    "end": 82805,
    "dur": 2.7,
    "speaker": "Randam",
-   "en": "Over here, Gillian!",
-   "enabled": true
+   "en": "Сюда, Гиллиан!",
+   "enabled": true,
+   "en_src": "Over here, Gillian!"
   },
   {
    "id": "B1F0_r_12",
@@ -247,8 +268,9 @@
    "end": 83728,
    "dur": 6.2,
    "speaker": "Gillian",
-   "en": "Randam!",
-   "enabled": true
+   "en": "Рэндам!",
+   "enabled": true,
+   "en_src": "Randam!"
   },
   {
    "id": "B1F0_r_13",
@@ -258,8 +280,9 @@
    "end": 84070,
    "dur": 2.3,
    "speaker": "Randam",
-   "en": "Jump over here, Gillian! Hurry!",
-   "enabled": true
+   "en": "Прыгай сюда, Гиллиан! Быстрее!",
+   "enabled": true,
+   "en_src": "Jump over here, Gillian! Hurry!"
   },
   {
    "id": "B1F0_r_14",
@@ -269,8 +292,9 @@
    "end": 84370,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "Three hundred meters to the bend!",
-   "enabled": true
+   "en": "До поворота триста метров!",
+   "enabled": true,
+   "en_src": "Three hundred meters to the bend!"
   },
   {
    "id": "B1F0_r_15",
@@ -280,8 +304,9 @@
    "end": 84597,
    "dur": 1.5,
    "speaker": "Gillian",
-   "en": "You go first, Metal!",
-   "enabled": true
+   "en": "Ты первый, Метал!",
+   "enabled": true,
+   "en_src": "You go first, Metal!"
   },
   {
    "id": "B1F0_r_16",
@@ -291,8 +316,9 @@
    "end": 85077,
    "dur": 3.2,
    "speaker": "Metal Gear",
-   "en": "No! Not another jump!",
-   "enabled": true
+   "en": "Нет! Только не опять прыгать!",
+   "enabled": true,
+   "en_src": "No! Not another jump!"
   },
   {
    "id": "B1F0_r_17",
@@ -302,8 +328,9 @@
    "end": 85329,
    "dur": 1.7,
    "speaker": "Randam",
-   "en": "Hurry! The bend's coming!",
-   "enabled": true
+   "en": "Быстрее! Поворот близко!",
+   "enabled": true,
+   "en_src": "Hurry! The bend's coming!"
   },
   {
    "id": "B1F0_r_18",
@@ -313,8 +340,9 @@
    "end": 85958,
    "dur": 4.2,
    "speaker": "Metal Gear",
-   "en": "All right! Here goes!",
-   "enabled": true
+   "en": "Ладно! Поехали!",
+   "enabled": true,
+   "en_src": "All right! Here goes!"
   },
   {
    "id": "B1F0_r_20",
@@ -324,8 +352,9 @@
    "end": 86552,
    "dur": 4.0,
    "speaker": "Randam",
-   "en": "All right, Gillian! Your turn! Hold your course!",
-   "enabled": true
+   "en": "Так, Гиллиан! Твоя очередь! Держи курс!",
+   "enabled": true,
+   "en_src": "All right, Gillian! Your turn! Hold your course!"
   },
   {
    "id": "B1F0_r_21",
@@ -335,8 +364,9 @@
    "end": 86852,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "One hundred meters left!",
-   "enabled": true
+   "en": "Осталось сто метров!",
+   "enabled": true,
+   "en_src": "One hundred meters left!"
   },
   {
    "id": "B1F0_r_22",
@@ -346,8 +376,9 @@
    "end": 87002,
    "dur": 1.0,
    "speaker": "Randam",
-   "en": "Jump, Gillian!",
-   "enabled": true
+   "en": "Прыгай, Гиллиан!",
+   "enabled": true,
+   "en_src": "Jump, Gillian!"
   },
   {
    "id": "B1F0_r_23",
@@ -357,8 +388,9 @@
    "end": 87451,
    "dur": 3.0,
    "speaker": "Gillian",
-   "en": "I can't! I can't time it!",
-   "enabled": true
+   "en": "Не могу! Не могу поймать момент!",
+   "enabled": true,
+   "en_src": "I can't! I can't time it!"
   },
   {
    "id": "B1F0_r_24",
@@ -368,8 +400,9 @@
    "end": 87751,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "Fifty meters!",
-   "enabled": true
+   "en": "Пятьдесят метров!",
+   "enabled": true,
+   "en_src": "Fifty meters!"
   },
   {
    "id": "B1F0_r_25",
@@ -379,8 +412,9 @@
    "end": 87901,
    "dur": 1.0,
    "speaker": "Randam",
-   "en": "Hurry, Gillian!",
-   "enabled": true
+   "en": "Быстрее, Гиллиан!",
+   "enabled": true,
+   "en_src": "Hurry, Gillian!"
   },
   {
    "id": "B1F0_r_26",
@@ -390,8 +424,9 @@
    "end": 88051,
    "dur": 1.0,
    "speaker": "Metal Gear",
-   "en": "Thirty meters!",
-   "enabled": true
+   "en": "Тридцать метров!",
+   "enabled": true,
+   "en_src": "Thirty meters!"
   },
   {
    "id": "B1F0_r_27",
@@ -401,8 +436,9 @@
    "end": 88351,
    "dur": 2.0,
    "speaker": "Randam",
-   "en": "Hurry! Hurry!",
-   "enabled": true
+   "en": "Быстрее! Быстрее!",
+   "enabled": true,
+   "en_src": "Hurry! Hurry!"
   },
   {
    "id": "B1F0_r_28",
@@ -412,8 +448,9 @@
    "end": 88651,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "It's no use!",
-   "enabled": true
+   "en": "Бесполезно!",
+   "enabled": true,
+   "en_src": "It's no use!"
   },
   {
    "id": "B1F0_r_29",
@@ -423,9 +460,10 @@
    "end": 89502,
    "dur": 5.7,
    "speaker": "Randam",
-   "en": "Now!",
+   "en": "Давай!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Now!"
   },
   {
    "id": "B1F0_j_00",
@@ -435,8 +473,9 @@
    "end": 69474,
    "dur": 3.3,
    "speaker": "Jamie",
-   "en": "Gillian, it's me. Listen carefully.",
-   "enabled": true
+   "en": "Гиллиан, это я. Слушай внимательно.",
+   "enabled": true,
+   "en_src": "Gillian, it's me. Listen carefully."
   },
   {
    "id": "B1F0_j_00b",
@@ -446,8 +485,9 @@
    "end": 69813,
    "dur": 4.1,
    "speaker": "Jamie",
-   "en": "Queen Hospital underwent major construction",
-   "enabled": true
+   "en": "В больнице \"Куин\" шла большая стройка",
+   "enabled": true,
+   "en_src": "Queen Hospital underwent major construction"
   },
   {
    "id": "B1F0_j_00c",
@@ -457,8 +497,9 @@
    "end": 70875,
    "dur": 5.6,
    "speaker": "Jamie",
-   "en": "in 2030 to expand its underground facilities. That's right.",
-   "enabled": true
+   "en": "в 2030 году - расширяли подземные помещения. Да.",
+   "enabled": true,
+   "en_src": "in 2030 to expand its underground facilities. That's right."
   },
   {
    "id": "B1F0_j_00d",
@@ -468,8 +509,9 @@
    "end": 71322,
    "dur": 3.6,
    "speaker": "Jamie",
-   "en": "The hospital has an underground level.",
-   "enabled": true
+   "en": "У больницы есть подземный этаж.",
+   "enabled": true,
+   "en_src": "The hospital has an underground level."
   },
   {
    "id": "B1F0_j_00e",
@@ -479,8 +521,9 @@
    "end": 71752,
    "dur": 4.6,
    "speaker": "Jamie",
-   "en": "Underground construction is unusual in Neo Kobe.",
-   "enabled": true
+   "en": "В Нео-Кобе под землёй почти не строят.",
+   "enabled": true,
+   "en_src": "Underground construction is unusual in Neo Kobe."
   },
   {
    "id": "B1F0_j_00f",
@@ -490,8 +533,9 @@
    "end": 72370,
    "dur": 4.2,
    "speaker": "Jamie",
-   "en": "That's why there was a record. There's more.",
-   "enabled": true
+   "en": "Поэтому сохранилась запись. Это не всё.",
+   "enabled": true,
+   "en_src": "That's why there was a record. There's more."
   },
   {
    "id": "B1F0_j_00g",
@@ -501,8 +545,9 @@
    "end": 72720,
    "dur": 5.5,
    "speaker": "Jamie",
-   "en": "The director, Chin Shu Ho, once had his practice suspended",
-   "enabled": true
+   "en": "Директора, Чин Шу Хо, однажды отстраняли от практики",
+   "enabled": true,
+   "en_src": "The director, Chin Shu Ho, once had his practice suspended"
   },
   {
    "id": "B1F0_j_00h",
@@ -512,8 +557,9 @@
    "end": 73300,
    "dur": 4.8,
    "speaker": "Jamie",
-   "en": "for performing illegal surrogate-mother operations",
-   "enabled": true
+   "en": "за незаконные операции суррогатного материнства",
+   "enabled": true,
+   "en_src": "for performing illegal surrogate-mother operations"
   },
   {
    "id": "B1F0_j_00i",
@@ -523,8 +569,9 @@
    "end": 73850,
    "dur": 2.6,
    "speaker": "Jamie",
-   "en": "in an underground facility.",
-   "enabled": true
+   "en": "в подземном помещении.",
+   "enabled": true,
+   "en_src": "in an underground facility."
   },
   {
    "id": "B1F0_j_03",
@@ -534,8 +581,9 @@
    "end": 74228,
    "dur": 2.5,
    "speaker": "Gillian",
-   "en": "So there's a treatment facility underground.",
-   "enabled": true
+   "en": "Значит, под землёй есть клиника.",
+   "enabled": true,
+   "en_src": "So there's a treatment facility underground."
   },
   {
    "id": "B1F0_j_04",
@@ -545,8 +593,9 @@
    "end": 74298,
    "dur": 1.0,
    "speaker": "Metal Gear",
-   "en": "Exactly.",
-   "enabled": true
+   "en": "Именно.",
+   "enabled": true,
+   "en_src": "Exactly."
   },
   {
    "id": "B1F0_j_04b",
@@ -556,8 +605,9 @@
    "end": 74965,
    "dur": 8.8,
    "speaker": "Metal Gear",
-   "en": "Chin Shu Ho is servicing the Snatchers in the underground facility.",
-   "enabled": true
+   "en": "Чин Шу Хо обслуживает снатчеров в подземной клинике.",
+   "enabled": true,
+   "en_src": "Chin Shu Ho is servicing the Snatchers in the underground facility."
   },
   {
    "id": "B1F0_j_05",
@@ -567,8 +617,9 @@
    "end": 75425,
    "dur": 5.3,
    "speaker": "Gillian",
-   "en": "Then Chin is a Snatcher too.",
-   "enabled": true
+   "en": "Значит, Чин тоже снатчер.",
+   "enabled": true,
+   "en_src": "Then Chin is a Snatcher too."
   },
   {
    "id": "B1F0_j_05b",
@@ -578,8 +629,9 @@
    "end": 75988,
    "dur": 8.3,
    "speaker": "Gillian",
-   "en": "They must have snatched him to get access to his facilities.",
-   "enabled": true
+   "en": "Его, видно, подменили, чтобы заполучить клинику.",
+   "enabled": true,
+   "en_src": "They must have snatched him to get access to his facilities."
   },
   {
    "id": "B1F0_j_06",
@@ -589,8 +641,9 @@
    "end": 76671,
    "dur": 4.6,
    "speaker": "Metal Gear",
-   "en": "The facilities above ground are a cover for it.",
-   "enabled": true
+   "en": "А наземная больница - прикрытие.",
+   "enabled": true,
+   "en_src": "The facilities above ground are a cover for it."
   },
   {
    "id": "B1F0_j_07",
@@ -600,8 +653,9 @@
    "end": 77247,
    "dur": 3.7,
    "speaker": "Gillian",
-   "en": "If we hit this hospital, we can stop their advance.",
-   "enabled": true
+   "en": "Если ударим по больнице, остановим их наступление.",
+   "enabled": true,
+   "en_src": "If we hit this hospital, we can stop their advance."
   },
   {
    "id": "B1F0_j_07b",
@@ -611,8 +665,9 @@
    "end": 77898,
    "dur": 4.4,
    "speaker": "Gillian",
-   "en": "This is it, Metal. We're going into the Snatchers' base.",
-   "enabled": true
+   "en": "Вот и всё, Метал. Идём на базу снатчеров.",
+   "enabled": true,
+   "en_src": "This is it, Metal. We're going into the Snatchers' base."
   },
   {
    "id": "B1F0_j_08",
@@ -622,8 +677,9 @@
    "end": 78009,
    "dur": 0.7,
    "speaker": "Jamie",
-   "en": "Gillian.",
-   "enabled": true
+   "en": "Гиллиан.",
+   "enabled": true,
+   "en_src": "Gillian."
   },
   {
    "id": "B1F0_j_09",
@@ -633,8 +689,9 @@
    "end": 78243,
    "dur": 1.6,
    "speaker": "Gillian",
-   "en": "Hmm?",
-   "enabled": true
+   "en": "Хм?",
+   "enabled": true,
+   "en_src": "Hmm?"
   },
   {
    "id": "B1F0_j_10",
@@ -644,8 +701,9 @@
    "end": 79379,
    "dur": 7.6,
    "speaker": "Jamie",
-   "en": "It's dangerous work, isn't it? I want you to come back safely.",
-   "enabled": true
+   "en": "Это опасная работа, да? Вернись живым.",
+   "enabled": true,
+   "en_src": "It's dangerous work, isn't it? I want you to come back safely."
   },
   {
    "id": "B1F0_j_11",
@@ -655,8 +713,9 @@
    "end": 79592,
    "dur": 1.4,
    "speaker": "Gillian",
-   "en": "Jamie.",
-   "enabled": true
+   "en": "Джейми.",
+   "enabled": true,
+   "en_src": "Jamie."
   },
   {
    "id": "B1F0_j_12",
@@ -666,8 +725,9 @@
    "end": 80437,
    "dur": 8.5,
    "speaker": "Jamie",
-   "en": "I left because I thought you were forcing yourself,",
-   "enabled": true
+   "en": "Я ушла, потому что думала, что ты себя заставляешь,",
+   "enabled": true,
+   "en_src": "I left because I thought you were forcing yourself,"
   },
   {
    "id": "B1F0_j_12b",
@@ -677,8 +737,9 @@
    "end": 80885,
    "dur": 3.5,
    "speaker": "Jamie",
-   "en": "or rather, I felt it.",
-   "enabled": true
+   "en": "вернее, я это чувствовала.",
+   "enabled": true,
+   "en_src": "or rather, I felt it."
   },
   {
    "id": "B1F0_j_12c",
@@ -688,8 +749,9 @@
    "end": 81378,
    "dur": 6.5,
    "speaker": "Jamie",
-   "en": "I wondered if the wedding rings we wore",
-   "enabled": true
+   "en": "Я думала, что обручальные кольца, что были на нас,",
+   "enabled": true,
+   "en_src": "I wondered if the wedding rings we wore"
   },
   {
    "id": "B1F0_j_12d",
@@ -699,8 +761,9 @@
    "end": 82201,
    "dur": 7.7,
    "speaker": "Jamie",
-   "en": "when we were found had become a burden to you.",
-   "enabled": true
+   "en": "когда нас нашли, стали для тебя обузой.",
+   "enabled": true,
+   "en_src": "when we were found had become a burden to you."
   },
   {
    "id": "B1F0_j_12e",
@@ -710,8 +773,9 @@
    "end": 82939,
    "dur": 9.7,
    "speaker": "Jamie",
-   "en": "If only those rings kept us together, it would be too sad.",
-   "enabled": true
+   "en": "Если нас держат вместе лишь кольца, это слишком грустно.",
+   "enabled": true,
+   "en_src": "If only those rings kept us together, it would be too sad."
   },
   {
    "id": "B1F0_j_16",
@@ -721,8 +785,9 @@
    "end": 83167,
    "dur": 1.5,
    "speaker": "Gillian",
-   "en": "That's not true.",
-   "enabled": true
+   "en": "Это не так.",
+   "enabled": true,
+   "en_src": "That's not true."
   },
   {
    "id": "B1F0_j_17",
@@ -732,8 +797,9 @@
    "end": 83530,
    "dur": 3.3,
    "speaker": "Jamie",
-   "en": "I'll be waiting, Gillian.",
-   "enabled": true
+   "en": "Я буду ждать, Гиллиан.",
+   "enabled": true,
+   "en_src": "I'll be waiting, Gillian."
   },
   {
    "id": "B1F0_j_17b",
@@ -743,8 +809,9 @@
    "end": 83723,
    "dur": 2.7,
    "speaker": "Jamie",
-   "en": "We may not remember,",
-   "enabled": true
+   "en": "Пусть мы и не помним,",
+   "enabled": true,
+   "en_src": "We may not remember,"
   },
   {
    "id": "B1F0_j_17c",
@@ -754,8 +821,9 @@
    "end": 84687,
    "dur": 7.5,
    "speaker": "Jamie",
-   "en": "but you're the only person who shared that time with me.",
-   "enabled": true
+   "en": "но ты - единственный, с кем я разделила то время.",
+   "enabled": true,
+   "en_src": "but you're the only person who shared that time with me."
   },
   {
    "id": "B1F0_j_17d",
@@ -765,8 +833,9 @@
    "end": 85551,
    "dur": 2.5,
    "speaker": "Jamie",
-   "en": "Take care, Gillian.",
-   "enabled": true
+   "en": "Береги себя, Гиллиан.",
+   "enabled": true,
+   "en_src": "Take care, Gillian."
   },
   {
    "id": "B1F0_j_19",
@@ -776,8 +845,9 @@
    "end": 85719,
    "dur": 1.1,
    "speaker": "Gillian",
-   "en": "Jamie.",
-   "enabled": true
+   "en": "Джейми.",
+   "enabled": true,
+   "en_src": "Jamie."
   },
   {
    "id": "B1F0_j_20",
@@ -787,8 +857,9 @@
    "end": 86003,
    "dur": 1.9,
    "speaker": "Metal Gear",
-   "en": "Are you going to leave it at that?",
-   "enabled": true
+   "en": "И ты так всё и оставишь?",
+   "enabled": true,
+   "en_src": "Are you going to leave it at that?"
   },
   {
    "id": "B1F0_j_21",
@@ -798,9 +869,10 @@
    "end": 86868,
    "dur": 5.8,
    "speaker": "Gillian",
-   "en": "Let's go, Metal. To Queen Hospital. Her Majesty awaits.",
+   "en": "Поехали, Метал. В больницу \"Куин\". Её Величество ждёт.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Let's go, Metal. To Queen Hospital. Her Majesty awaits."
   },
   {
    "id": "B1F0_t_00",
@@ -810,8 +882,9 @@
    "end": 66538,
    "dur": 3.9,
    "speaker": "Randam",
-   "en": "Gillian! He didn't make it?",
-   "enabled": true
+   "en": "Гиллиан! Неужели не успел?",
+   "enabled": true,
+   "en_src": "Gillian! He didn't make it?"
   },
   {
    "id": "B1F0_t_01",
@@ -821,8 +894,9 @@
    "end": 67436,
    "dur": 6.0,
    "speaker": "Gillian",
-   "en": "Don't be stupid! I'm right here!",
-   "enabled": true
+   "en": "Не дождёшься! Я здесь!",
+   "enabled": true,
+   "en_src": "Don't be stupid! I'm right here!"
   },
   {
    "id": "B1F0_t_02",
@@ -832,8 +906,9 @@
    "end": 67960,
    "dur": 3.5,
    "speaker": "Randam",
-   "en": "Gillian, don't you know how to ride a bike?",
-   "enabled": true
+   "en": "Гиллиан, ты что, на велике кататься не умеешь?",
+   "enabled": true,
+   "en_src": "Gillian, don't you know how to ride a bike?"
   },
   {
    "id": "B1F0_t_03",
@@ -843,8 +918,9 @@
    "end": 68417,
    "dur": 3.1,
    "speaker": "Metal Gear",
-   "en": "We're almost at Queen Hospital, Gillian.",
-   "enabled": true
+   "en": "Мы почти у больницы \"Куин\", Гиллиан.",
+   "enabled": true,
+   "en_src": "We're almost at Queen Hospital, Gillian."
   },
   {
    "id": "B1F0_t_04",
@@ -854,9 +930,10 @@
    "end": 69339,
    "dur": 6.2,
    "speaker": "Metal Gear",
-   "en": "You could use the exercise, so let's keep going like this.",
+   "en": "Тебе полезно размяться, так что едем дальше так.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "You could use the exercise, so let's keep going like this."
   }
  ]
 }

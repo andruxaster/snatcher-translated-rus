@@ -10,342 +10,488 @@
   {
    "off": 4209,
    "budget": 7,
-   "en": "Infra",
-   "long": "Infrared"
+   "en": ".",
+   "en_src": "Infra",
+   "long_src": "Infrared",
+   "ru": true,
+   "long": "Инфракрасные"
   },
   {
    "off": 4216,
    "budget": 7,
-   "en": "UV ray",
-   "long": "UV rays"
+   "en": ".",
+   "en_src": "UV ray",
+   "long_src": "UV rays",
+   "ru": true,
+   "long": "Ультрафиолет"
   },
   {
    "off": 4223,
    "budget": 5,
-   "en": "X",
-   "long": "X-rays"
+   "en": ".",
+   "en_src": "X",
+   "long_src": "X-rays",
+   "ru": true,
+   "long": "Рентген"
   },
   {
    "off": 4228,
    "budget": 9,
-   "en": "Gamma",
-   "long": "Gamma rays"
+   "en": ".",
+   "en_src": "Gamma",
+   "long_src": "Gamma rays",
+   "ru": true,
+   "long": "Гамма-лучи"
   },
   {
    "off": 4237,
    "budget": 7,
-   "en": "Radtn",
-   "long": "Radiation"
+   "en": ".",
+   "en_src": "Radtn",
+   "long_src": "Radiation",
+   "ru": true,
+   "long": "Радиация"
   },
   {
    "off": 4244,
    "budget": 41,
-   "en": "I see... from that enema exam?",
-   "long": "Oh, the rays they used for my barium￥enema?"
+   "en": ".",
+   "en_src": "I see... from that enema exam?",
+   "long_src": "Oh, the rays they used for my barium￥enema?",
+   "ru": true,
+   "long": "А, это те лучи, которыми мне светили￥при клизме с барием?"
   },
   {
    "off": 4285,
    "budget": 17,
-   "en": "What's that?",
-   "long": "What are you talking about?"
+   "en": "Ты о чём?",
+   "en_src": "What's that?",
+   "long_src": "What are you talking about?",
+   "ru": true
   },
   {
    "off": 4302,
    "budget": 41,
-   "en": "An army exam.￥A tube up the rear...",
-   "long": "An army medical exam. They put a￥tube up my..."
+   "en": ".",
+   "en_src": "An army exam.￥A tube up the rear...",
+   "long_src": "An army medical exam. They put a￥tube up my...",
+   "ru": true,
+   "long": "Медосмотр в армии. Мне вставили￥трубку в..."
   },
   {
    "off": 4343,
    "budget": 9,
-   "en": "Rear?",
-   "long": "Up your what?"
+   "en": "Куда?",
+   "en_src": "Rear?",
+   "long_src": "Up your what?",
+   "ru": true
   },
   {
    "off": 4352,
    "budget": 25,
-   "en": "Never mind."
+   "en": "Неважно.",
+   "en_src": "Never mind.",
+   "ru": true
   },
   {
    "off": 4377,
    "budget": 7,
-   "en": "Life",
-   "long": "Life line"
+   "en": ".",
+   "en_src": "Life",
+   "long_src": "Life line",
+   "ru": true,
+   "long": "Линия жизни"
   },
   {
    "off": 4384,
    "budget": 29,
-   "en": "I'm no fortune teller...",
-   "long": "I'm no fortune-teller, but..."
+   "en": ".",
+   "en_src": "I'm no fortune teller...",
+   "long_src": "I'm no fortune-teller, but...",
+   "ru": true,
+   "long": "Я, конечно, не гадалка, но..."
   },
   {
    "off": 4413,
    "budget": 7,
-   "en": "Loop",
-   "long": "Loop line"
+   "en": ".",
+   "en_src": "Loop",
+   "long_src": "Loop line",
+   "ru": true,
+   "long": "Кольцевая"
   },
   {
    "off": 4420,
    "budget": 25,
-   "en": "Then the loop line...?",
-   "long": "Then how about the loop line?"
+   "en": ".",
+   "en_src": "Then the loop line...?",
+   "long_src": "Then how about the loop line?",
+   "ru": true,
+   "long": "Тогда, может, кольцевая линия?"
   },
   {
    "off": 4445,
    "budget": 27,
-   "en": "You're unbelievable."
+   "en": "Ты невыносим.",
+   "en_src": "You're unbelievable.",
+   "ru": true
   },
   {
    "off": 4472,
    "budget": 7,
-   "en": "Heart",
-   "long": "Heart line"
+   "en": ".",
+   "en_src": "Heart",
+   "long_src": "Heart line",
+   "ru": true,
+   "long": "Линия сердца"
   },
   {
    "off": 4479,
    "budget": 61,
-   "en": "How about ＠黄'heart line'＠白?￥Palmistry again, but...",
-   "long": "How about the ＠黄heart line＠白? Back to￥palm reading again."
+   "en": "Может, ＠黄линия сердца＠白? Опять гадаем￥по руке.",
+   "en_src": "How about ＠黄'heart line'＠白?￥Palmistry again, but...",
+   "long_src": "How about the ＠黄heart line＠白? Back to￥palm reading again.",
+   "ru": true
   },
   {
    "off": 4540,
    "budget": 41,
-   "en": "How can you joke at a time like￥this?"
+   "en": "Как можно шутить в такой момент?",
+   "en_src": "How can you joke at a time like￥this?",
+   "ru": true
   },
   {
    "off": 4581,
    "budget": 35,
-   "en": "No need to get so emotional."
+   "en": "Зачем так переживать?",
+   "en_src": "No need to get so emotional.",
+   "ru": true
   },
   {
    "off": 4616,
    "budget": 45,
-   "en": "That's enough, Gillian. I'll choose!"
+   "en": "Хватит, Гиллиан. Я сама выберу!",
+   "en_src": "That's enough, Gillian. I'll choose!",
+   "ru": true
   },
   {
    "off": 4661,
    "budget": 49,
-   "en": "...Their weakness is￥＠黄ultraviolet＠白!",
-   "long": "The Snatchers' weakness is￥＠黄ultraviolet light＠白!"
+   "en": "Слабость снатчеров - ＠黄ультрафиолет＠白!",
+   "en_src": "...Their weakness is￥＠黄ultraviolet＠白!",
+   "long_src": "The Snatchers' weakness is￥＠黄ultraviolet light＠白!",
+   "ru": true
   },
   {
    "off": 4710,
    "budget": 37,
-   "en": "Mika, sorry... I'll be serious.",
-   "long": "Sorry, Mika. I'll take this￥seriously."
+   "en": "Прости, Мика. Буду серьёзен.",
+   "en_src": "Mika, sorry... I'll be serious.",
+   "long_src": "Sorry, Mika. I'll take this￥seriously.",
+   "ru": true
   },
   {
    "off": 4747,
    "budget": 31,
-   "en": "Right. UV is their weakness.",
-   "long": "That's right. Their weakness is￥ultraviolet light."
+   "en": ".",
+   "en_src": "Right. UV is their weakness.",
+   "long_src": "That's right. Their weakness is￥ultraviolet light.",
+   "ru": true,
+   "long": "Точно. Их слабость - ультрафиолет."
   },
   {
    "off": 4778,
    "budget": 61,
-   "en": "Yes.￥The Snatchers' weakness is their￥flawed skin.",
-   "long": "Correct. The Snatchers' weakness￥lies in their imperfect artificial￥skin."
+   "en": ".",
+   "en_src": "Yes.￥The Snatchers' weakness is their￥flawed skin.",
+   "long_src": "Correct. The Snatchers' weakness￥lies in their imperfect artificial￥skin.",
+   "ru": true,
+   "long": "Верно. Слабость снатчеров - в￥несовершенной искусственной коже."
   },
   {
    "off": 4839,
    "budget": 115,
-   "en": "Long exposure to strong ＠赤ultraviolet＠白￥makes the melanocytes in the basal￥layer mutate and turn cancerous.",
-   "long": "Prolonged exposure to strong￥＠赤ultraviolet light＠白 causes￥melanocytes in the skin's basal￥layer to mutate and become￥cancerous."
+   "en": ".",
+   "en_src": "Long exposure to strong ＠赤ultraviolet＠白￥makes the melanocytes in the basal￥layer mutate and turn cancerous.",
+   "long_src": "Prolonged exposure to strong￥＠赤ultraviolet light＠白 causes￥melanocytes in the skin's basal￥layer to mutate and become￥cancerous.",
+   "ru": true,
+   "long": "При долгом облучении сильным￥＠赤ультрафиолетом＠白 меланоциты базального￥слоя кожи мутируют и перерождаются в￥рак."
   },
   {
    "off": 4954,
    "budget": 97,
-   "en": "To be exact, ultraviolet in the 250￥to 350 nanometre band causes skin￥cancer.",
-   "long": "More precisely, ultraviolet￥wavelengths between 250 and 350￥nanometers cause the skin cancer."
+   "en": "Точнее, рак кожи вызывает￥ультрафиолет с длиной волны от 250￥до 350 нанометров.",
+   "en_src": "To be exact, ultraviolet in the 250￥to 350 nanometre band causes skin￥cancer.",
+   "long_src": "More precisely, ultraviolet￥wavelengths between 250 and 350￥nanometers cause the skin cancer.",
+   "ru": true
   },
   {
    "off": 5051,
    "budget": 47,
-   "en": "Yes, UV limited how they could act.",
-   "long": "Right. Ultraviolet light limited￥their movements."
+   "en": ".",
+   "en_src": "Yes, UV limited how they could act.",
+   "long_src": "Right. Ultraviolet light limited￥their movements.",
+   "ru": true,
+   "long": "Да. Ультрафиолет ограничивал их￥передвижения."
   },
   {
    "off": 5098,
    "budget": 71,
-   "en": "Moving only on midwinter nights, and￥needing sunblock even then.",
-   "long": "They only went out on winter nights,￥and had to wear sunscreen even in￥winter."
+   "en": ".",
+   "en_src": "Moving only on midwinter nights, and￥needing sunblock even then.",
+   "long_src": "They only went out on winter nights,￥and had to wear sunscreen even in￥winter.",
+   "ru": true,
+   "long": "Выходили только зимними ночами и￥даже зимой мазались солнцезащитным￥кремом."
   },
   {
    "off": 5169,
    "budget": 51,
-   "en": "That's how Jean identified the￥Snatchers."
+   "en": "Так Жан и вычислял снатчеров.",
+   "en_src": "That's how Jean identified the￥Snatchers.",
+   "ru": true
   },
   {
    "off": 5220,
    "budget": 63,
-   "en": "Ironic. That the ozone hole￥should help mankind like this.",
-   "long": "How ironic. The destruction of the￥ozone layer actually helped￥humanity."
+   "en": "Какая ирония. Разрушение озонового￥слоя помогло человечеству.",
+   "en_src": "Ironic. That the ozone hole￥should help mankind like this.",
+   "long_src": "How ironic. The destruction of the￥ozone layer actually helped￥humanity.",
+   "ru": true
   },
   {
    "off": 5283,
    "budget": 81,
-   "en": "Yes. What route did they use to￥avoid sunlight and its ultraviolet￥rays?"
+   "en": "Да. А каким путём они передвигались,￥избегая солнца и ультрафиолета?",
+   "en_src": "Yes. What route did they use to￥avoid sunlight and its ultraviolet￥rays?",
+   "ru": true
   },
   {
    "off": 5364,
    "budget": 9,
-   "en": "Canal"
+   "en": "Канал",
+   "en_src": "Canal",
+   "ru": true
   },
   {
    "off": 5373,
    "budget": 9,
-   "en": "Highway"
+   "en": "Трасса",
+   "en_src": "Highway",
+   "ru": true
   },
   {
    "off": 5382,
    "budget": 7,
-   "en": "Tunnel",
-   "long": "Underpass"
+   "en": ".",
+   "en_src": "Tunnel",
+   "long_src": "Underpass",
+   "ru": true,
+   "long": "Подземка"
   },
   {
    "off": 5389,
    "budget": 85,
-   "en": "Yes.￥They used the ＠赤tunnel＠白 of the old tube￥liner to move.",
-   "long": "Correct. They traveled through the￥＠赤underground tunnels＠白 of the￥abandoned Tube Liner."
+   "en": ".",
+   "en_src": "Yes.￥They used the ＠赤tunnel＠白 of the old tube￥liner to move.",
+   "long_src": "Correct. They traveled through the￥＠赤underground tunnels＠白 of the￥abandoned Tube Liner.",
+   "ru": true,
+   "long": "Верно. Они передвигались по￥＠赤подземным туннелям＠白 заброшенного￥тьюб-лайнера."
   },
   {
    "off": 5474,
    "budget": 45,
-   "en": "That let them move around unnoticed."
+   "en": "Так они перемещались незамеченными.",
+   "en_src": "That let them move around unnoticed.",
+   "ru": true
   },
   {
    "off": 5519,
    "budget": 101,
-   "en": "....The Nielsen flat... the factory￥ruins.. Queen Hospital, all joined￥by tunnel.",
-   "long": "The Nielsens' home, the factory￥ruins, Queen Hospital. All their key￥locations were connected by tunnels."
+   "en": "Дом Нильсенов, руины завода,￥больница \"Куин\". Все их ключевые￥точки соединены туннелями.",
+   "en_src": "....The Nielsen flat... the factory￥ruins.. Queen Hospital, all joined￥by tunnel.",
+   "long_src": "The Nielsens' home, the factory￥ruins, Queen Hospital. All their key￥locations were connected by tunnels.",
+   "ru": true
   },
   {
    "off": 5620,
    "budget": 35,
-   "en": "Then a tunnel to their base too?",
-   "long": "Then is their hideout connected,￥too?"
+   "en": ".",
+   "en_src": "Then a tunnel to their base too?",
+   "long_src": "Then is their hideout connected,￥too?",
+   "ru": true,
+   "long": "Значит, и их логово соединено с￥ними?"
   },
   {
    "off": 5655,
    "budget": 19,
-   "en": "Quite possible.",
-   "long": "It's quite possible."
+   "en": "Вполне возможно.",
+   "en_src": "Quite possible.",
+   "long_src": "It's quite possible.",
+   "ru": true
   },
   {
    "off": 5674,
    "budget": 25,
-   "en": "Second showing, but...?",
-   "long": "Making its second appearance, but..."
+   "en": ".",
+   "en_src": "Second showing, but...?",
+   "long_src": "Making its second appearance, but...",
+   "ru": true,
+   "long": "Второй выход на сцену, но..."
   },
   {
    "off": 5699,
    "budget": 15,
-   "en": "Tricycle"
+   "en": "Трицикл",
+   "en_src": "Tricycle",
+   "ru": true
   },
   {
    "off": 5714,
    "budget": 11,
-   "en": "Black taxi"
+   "en": "Бомбила",
+   "en_src": "Black taxi",
+   "ru": true
   },
   {
    "off": 5725,
    "budget": 57,
-   "en": "Freddy did use an unlicensed taxi,￥but..."
+   "en": "Фредди и правда ездил на бомбиле,￥но...",
+   "en_src": "Freddy did use an unlicensed taxi,￥but...",
+   "ru": true
   },
   {
    "off": 5782,
    "budget": 53,
-   "en": "Wasn't that to find people to￥snatch?"
+   "en": "Это ведь чтобы искать жертв?",
+   "en_src": "Wasn't that to find people to￥snatch?",
+   "ru": true
   },
   {
    "off": 5835,
    "budget": 7,
-   "en": "Warper",
-   "long": "Teleporter"
+   "en": ".",
+   "en_src": "Warper",
+   "long_src": "Teleporter",
+   "ru": true,
+   "long": "Телепорт"
   },
   {
    "off": 5842,
    "budget": 13,
-   "en": "Time machine"
+   "en": "Маш. времени",
+   "en_src": "Time machine",
+   "ru": true
   },
   {
    "off": 5855,
    "budget": 27,
-   "en": "Was that there before?"
+   "en": "А это тут раньше было?",
+   "en_src": "Was that there before?",
+   "ru": true
   },
   {
    "off": 5882,
    "budget": 89,
-   "en": "Next, what symptom always appeared￥at Snatcher sites, including the￥tunnels?"
+   "en": "Далее: какой симптом всегда￥проявлялся там, где были снатчеры,￥включая туннели?",
+   "en_src": "Next, what symptom always appeared￥at Snatcher sites, including the￥tunnels?",
+   "ru": true
   },
   {
    "off": 5971,
    "budget": 3,
-   "en": "Co",
-   "long": "Cough"
+   "en": ".",
+   "en_src": "Co",
+   "long_src": "Cough",
+   "ru": true,
+   "long": "Кашлять"
   },
   {
    "off": 5974,
    "budget": 7,
-   "en": "Yawn"
+   "en": "Зевать",
+   "en_src": "Yawn",
+   "ru": true
   },
   {
    "off": 5981,
    "budget": 11,
-   "en": "Hiccup"
+   "en": "Икать",
+   "en_src": "Hiccup",
+   "ru": true
   },
   {
    "off": 5992,
    "budget": 7,
-   "en": "Burp"
+   "en": "Рыгать",
+   "en_src": "Burp",
+   "ru": true
   },
   {
    "off": 5999,
    "budget": 9,
-   "en": "Sneeze"
+   "en": "Чихать",
+   "en_src": "Sneeze",
+   "ru": true
   },
   {
    "off": 6008,
    "budget": 45,
-   "en": "Correct. And what caused the￥sneezing?"
+   "en": "Верно. А что вызывало чихание?",
+   "en_src": "Correct. And what caused the￥sneezing?",
+   "ru": true
   },
   {
    "off": 6053,
    "budget": 7,
-   "en": "Fart"
+   "en": "Пук",
+   "en_src": "Fart",
+   "ru": true
   },
   {
    "off": 6060,
    "budget": 27,
-   "en": "It's a little odd, but..."
+   "en": "Странновато, но...",
+   "en_src": "It's a little odd, but...",
+   "ru": true
   },
   {
    "off": 6087,
    "budget": 7,
-   "en": "Sigh"
+   "en": "Вздох",
+   "en_src": "Sigh",
+   "ru": true
   },
   {
    "off": 6094,
    "budget": 15,
-   "en": "That's right."
+   "en": "Точно...",
+   "en_src": "That's right.",
+   "ru": true
   },
   {
    "off": 6109,
    "budget": 29,
-   "en": "I'm the one to sigh.",
-   "long": "I'm the one who should be sighing."
+   "en": "Это мне впору вздыхать.",
+   "en_src": "I'm the one to sigh.",
+   "long_src": "I'm the one who should be sighing.",
+   "ru": true
   },
   {
    "off": 6138,
    "budget": 5,
-   "en": "Runs",
-   "long": "Diarrhea"
+   "en": ".",
+   "en_src": "Runs",
+   "long_src": "Diarrhea",
+   "ru": true,
+   "long": "Понос"
   },
   {
    "off": 6143,
    "budget": 41,
-   "en": "Then... with the sigh, how about￥this?",
-   "long": "Well, while we're sighing, how about￥this?"
+   "en": "Ну, раз уж вздыхаем, как насчёт￥этого?",
+   "en_src": "Then... with the sigh, how about￥this?",
+   "long_src": "Well, while we're sighing, how about￥this?",
+   "ru": true
   },
   {
    "off": 6184,
@@ -355,425 +501,597 @@
   {
    "off": 6197,
    "budget": 29,
-   "en": "My stomach's been bad.",
-   "long": "My stomach's been acting up lately."
+   "en": ".",
+   "en_src": "My stomach's been bad.",
+   "long_src": "My stomach's been acting up lately.",
+   "ru": true,
+   "long": "У меня в последнее время живот￥шалит."
   },
   {
    "off": 6226,
    "budget": 33,
-   "en": "...That's about you, isn't it?",
-   "long": "You're talking about yourself,￥aren't you?"
+   "en": "Это ты про себя, да?",
+   "en_src": "...That's about you, isn't it?",
+   "long_src": "You're talking about yourself,￥aren't you?",
+   "ru": true
   },
   {
    "off": 6259,
    "budget": 17,
-   "en": "Yeah. So?"
+   "en": "Ну да. И что?",
+   "en_src": "Yeah. So?",
+   "ru": true
   },
   {
    "off": 6276,
    "budget": 35,
-   "en": "Gillian, answer seriously!"
+   "en": "Гиллиан, отвечай серьёзно!",
+   "en_src": "Gillian, answer seriously!",
+   "ru": true
   },
   {
    "off": 6311,
    "budget": 23,
-   "en": "Listen to me!"
+   "en": "Послушай-ка!",
+   "en_src": "Listen to me!",
+   "ru": true
   },
   {
    "off": 6334,
    "budget": 13,
-   "en": "Sorry."
+   "en": "Прости.",
+   "en_src": "Sorry.",
+   "ru": true
   },
   {
    "off": 6347,
    "budget": 5,
-   "en": "Cold"
+   "en": ".",
+   "en_src": "Cold",
+   "ru": true,
+   "long": "Простуда"
   },
   {
    "off": 6352,
    "budget": 5,
-   "en": "Anem",
-   "long": "Anemia"
+   "en": ".",
+   "en_src": "Anem",
+   "long_src": "Anemia",
+   "ru": true,
+   "long": "Анемия"
   },
   {
    "off": 6357,
    "budget": 7,
-   "en": "Gossip"
+   "en": "Слухи",
+   "en_src": "Gossip",
+   "ru": true
   },
   {
    "off": 6364,
    "budget": 5,
-   "en": "Poln",
-   "long": "Pollen"
+   "en": ".",
+   "en_src": "Poln",
+   "long_src": "Pollen",
+   "ru": true,
+   "long": "Пыльца"
   },
   {
    "off": 6369,
    "budget": 89,
-   "en": "That's right.￥That sneeze came from ＠赤Snow Cedar￥pollen＠白 as the allergen.",
-   "long": "That's right. ＠赤Snow Cedar pollen＠白￥caused the allergic reaction that￥made you sneeze."
+   "en": "Верно. Чихание вызывала аллергия на￥＠赤пыльцу снежного кедра＠白.",
+   "en_src": "That's right.￥That sneeze came from ＠赤Snow Cedar￥pollen＠白 as the allergen.",
+   "long_src": "That's right. ＠赤Snow Cedar pollen＠白￥caused the allergic reaction that￥made you sneeze.",
+   "ru": true
   },
   {
    "off": 6458,
    "budget": 7,
-   "en": "Spice"
+   "en": "Перец",
+   "en_src": "Spice",
+   "ru": true
   },
   {
    "off": 6465,
    "budget": 25,
-   "en": "I'm poor at cooking...",
-   "long": "I'm not much of a cook, but..."
+   "en": "Я не повар, но...",
+   "en_src": "I'm poor at cooking...",
+   "long_src": "I'm not much of a cook, but...",
+   "ru": true
   },
   {
    "off": 6490,
    "budget": 5,
-   "en": "Mens",
-   "long": "Period"
+   "en": ".",
+   "en_src": "Mens",
+   "long_src": "Period",
+   "ru": true,
+   "long": "Месячные"
   },
   {
    "off": 6495,
    "budget": 21,
-   "en": "Awkward, but..."
+   "en": "Неловко, но...",
+   "en_src": "Awkward, but...",
+   "ru": true
   },
   {
    "off": 6516,
    "budget": 45,
-   "en": "I can't believe you'd say that."
+   "en": "Как у тебя язык повернулся?",
+   "en_src": "I can't believe you'd say that.",
+   "ru": true
   },
   {
    "off": 6561,
    "budget": 35,
-   "en": "Vulgar, Gillian... stop it!",
-   "long": "That's disgusting, Gillian. Stop it!"
+   "en": "Пошло, Гиллиан. Прекрати!",
+   "en_src": "Vulgar, Gillian... stop it!",
+   "long_src": "That's disgusting, Gillian. Stop it!",
+   "ru": true
   },
   {
    "off": 6596,
    "budget": 13,
-   "en": "Rub pot"
+   "en": "Потёр кувшин",
+   "en_src": "Rub pot",
+   "ru": true
   },
   {
    "off": 6609,
    "budget": 31,
-   "en": "How about this new command?"
+   "en": "Как насчёт этой новой команды?",
+   "en_src": "How about this new command?",
+   "ru": true
   },
   {
    "off": 6640,
    "budget": 19,
-   "en": "Gillian!"
+   "en": "Гиллиан!",
+   "en_src": "Gillian!",
+   "ru": true
   },
   {
    "off": 6659,
    "budget": 35,
-   "en": "Just a joke to lighten the mood."
+   "en": "Просто шутка, для разрядки.",
+   "en_src": "Just a joke to lighten the mood.",
+   "ru": true
   },
   {
    "off": 6694,
    "budget": 25,
-   "en": "Gillian... don't!",
-   "long": "You're making me angry, Gillian!"
+   "en": "Ты меня злишь, Гиллиан!",
+   "en_src": "Gillian... don't!",
+   "long_src": "You're making me angry, Gillian!",
+   "ru": true
   },
   {
    "off": 6719,
    "budget": 81,
-   "en": "Snow Cedar is a cedar variant the￥army made; it grows only in set￥areas.",
-   "long": "Snow Cedar is a cedar variant￥developed by the military. It only￥grows in certain areas."
+   "en": ".",
+   "en_src": "Snow Cedar is a cedar variant the￥army made; it grows only in set￥areas.",
+   "long_src": "Snow Cedar is a cedar variant￥developed by the military. It only￥grows in certain areas.",
+   "ru": true,
+   "long": "Снежный кедр - выведенный военными￥сорт кедра. Растёт лишь в отдельных￥районах."
   },
   {
    "off": 6800,
    "budget": 101,
-   "en": "They use it to block radio signals￥and keep people away. They may even￥be growing it themselves."
+   "en": "Он глушит радиосигналы и отпугивает￥людей. Может, они сами его разводят.",
+   "en_src": "They use it to block radio signals￥and keep people away. They may even￥be growing it themselves.",
+   "ru": true
   },
   {
    "off": 6901,
    "budget": 105,
-   "en": "Only the Ina river basin has￥confirmed Snow Cedar in the city￥now. The rest was cleared as￥dangerous.",
-   "long": "The only confirmed Snow Cedar growth￥in the city is along the Ina River.￥It was removed elsewhere because￥it's dangerous."
+   "en": "В городе снежный кедр растёт только￥вдоль реки Ина. В других местах его￥убрали как опасный.",
+   "en_src": "Only the Ina river basin has￥confirmed Snow Cedar in the city￥now. The rest was cleared as￥dangerous.",
+   "long_src": "The only confirmed Snow Cedar growth￥in the city is along the Ina River.￥It was removed elsewhere because￥it's dangerous.",
+   "ru": true
   },
   {
    "off": 7006,
    "budget": 43,
-   "en": "So their hideout is along the Ina￥River?"
+   "en": "Значит, их логово у реки Ина?",
+   "en_src": "So their hideout is along the Ina￥River?",
+   "ru": true
   },
   {
    "off": 7049,
    "budget": 75,
-   "en": "That's likely. Somewhere along the￥Ina River, protected by Snow Cedars."
+   "en": "Скорее всего. Где-то у реки Ина, под￥защитой снежных кедров.",
+   "en_src": "That's likely. Somewhere along the￥Ina River, protected by Snow Cedars.",
+   "ru": true
   },
   {
    "off": 7124,
    "budget": 53,
-   "en": "Along the Tube Liner, and near the￥Ina River."
+   "en": "Вдоль тьюб-лайнера и у реки Ина.",
+   "en_src": "Along the Tube Liner, and near the￥Ina River.",
+   "ru": true
   },
   {
    "off": 7177,
    "budget": 93,
-   "en": "And the three photos the Snatchers￥kept. All of the USSR before the￥Catastrophe.",
-   "long": "Then there are the three pictures￥the Snatchers had. All show the￥Soviet Union before the Catastrophe."
+   "en": "Ещё три картины снатчеров. На всех -￥Советский Союз до Катастрофы.",
+   "en_src": "And the three photos the Snatchers￥kept. All of the USSR before the￥Catastrophe.",
+   "long_src": "Then there are the three pictures￥the Snatchers had. All show the￥Soviet Union before the Catastrophe.",
+   "ru": true
   },
   {
    "off": 7270,
    "budget": 37,
-   "en": "The map in the Nielsen flat..",
-   "long": "The map in the Nielsens' living￥room."
+   "en": "Карта в гостиной Нильсенов.",
+   "en_src": "The map in the Nielsen flat..",
+   "long_src": "The map in the Nielsens' living￥room.",
+   "ru": true
   },
   {
    "off": 7307,
    "budget": 47,
-   "en": "The temple picture at Queen￥Hospital...",
-   "long": "The picture of the cathedral in the￥director's office at Queen Hospital."
+   "en": ".",
+   "en_src": "The temple picture at Queen￥Hospital...",
+   "long_src": "The picture of the cathedral in the￥director's office at Queen Hospital.",
+   "ru": true,
+   "long": "Картина с собором в кабинете￥директора больницы \"Куин\"."
   },
   {
    "off": 7354,
    "budget": 37,
-   "en": "The square photo the Chief hid...",
-   "long": "The photo of the square hidden in￥the chief's office."
+   "en": ".",
+   "en_src": "The square photo the Chief hid...",
+   "long_src": "The photo of the square hidden in￥the chief's office.",
+   "ru": true,
+   "long": "Фото площади, спрятанное в кабинете￥шефа."
   },
   {
    "off": 7391,
    "budget": 59,
-   "en": "Why did the Snatchers display these￥pictures?"
+   "en": "Зачем снатчеры развешивали эти￥картины?",
+   "en_src": "Why did the Snatchers display these￥pictures?",
+   "ru": true
   },
   {
    "off": 7450,
    "budget": 37,
-   "en": "Homesickness... their home?",
-   "long": "Homesickness. Could it be their￥homeland?"
+   "en": "Тоска по дому. Может, это их родина?",
+   "en_src": "Homesickness... their home?",
+   "long_src": "Homesickness. Could it be their￥homeland?",
+   "ru": true
   },
   {
    "off": 7487,
    "budget": 51,
-   "en": "Their home?... Ridiculous. They're￥robots...",
-   "long": "Their homeland? Don't be ridiculous.￥They're robots!"
+   "en": "Родина? Не смеши. Они же роботы!",
+   "en_src": "Their home?... Ridiculous. They're￥robots...",
+   "long_src": "Their homeland? Don't be ridiculous.￥They're robots!",
+   "ru": true
   },
   {
    "off": 7538,
    "budget": 77,
-   "en": "Let's narrow it down. What city do￥these pictures suggest?"
+   "en": "Сузим круг. На какой город указывают￥эти картины?",
+   "en_src": "Let's narrow it down. What city do￥these pictures suggest?",
+   "ru": true
   },
   {
    "off": 7615,
    "budget": 13,
-   "en": "New York"
+   "en": "Нью-Йорк",
+   "en_src": "New York",
+   "ru": true
   },
   {
    "off": 7628,
    "budget": 5,
-   "en": "Beij",
-   "long": "Beijing"
+   "en": ".",
+   "en_src": "Beij",
+   "long_src": "Beijing",
+   "ru": true,
+   "long": "Пекин"
   },
   {
    "off": 7633,
    "budget": 5,
-   "en": "HK",
-   "long": "Hong Kong"
+   "en": ".",
+   "en_src": "HK",
+   "long_src": "Hong Kong",
+   "ru": true,
+   "long": "Гонконг"
   },
   {
    "off": 7638,
    "budget": 9,
-   "en": "Moscow"
+   "en": "Москва",
+   "en_src": "Moscow",
+   "ru": true
   },
   {
    "off": 7647,
    "budget": 29,
-   "en": "Yes. ＠赤Moscow＠白."
+   "en": "Да. ＠赤Москва＠白.",
+   "en_src": "Yes. ＠赤Moscow＠白.",
+   "ru": true
   },
   {
    "off": 7676,
    "budget": 89,
-   "en": "Moscow is their source. It's at the￥heart of their programming."
+   "en": "Москва - их исток. Она в самой￥основе их программы.",
+   "en_src": "Moscow is their source. It's at the￥heart of their programming.",
+   "ru": true
   },
   {
    "off": 7765,
    "budget": 21,
-   "en": "You may be right."
+   "en": "Может, ты и прав.",
+   "en_src": "You may be right.",
+   "ru": true
   },
   {
    "off": 7786,
    "budget": 91,
-   "en": "We carry our homeland in our hearts.￥Why couldn't theirs exist in their￥programming?"
+   "en": "У нас родина в сердце. Почему бы их￥родине не жить в их программе?",
+   "en_src": "We carry our homeland in our hearts.￥Why couldn't theirs exist in their￥programming?",
+   "ru": true
   },
   {
    "off": 7877,
    "budget": 83,
-   "en": "Their AI must hold its mental￥balance by the image of that home.",
-   "long": "Their artificial intelligence must￥use that image of home to maintain￥mental stability."
+   "en": "Их искусственный интеллект, должно￥быть, держит равновесие за счёт￥образа дома.",
+   "en_src": "Their AI must hold its mental￥balance by the image of that home.",
+   "long_src": "Their artificial intelligence must￥use that image of home to maintain￥mental stability.",
+   "ru": true
   },
   {
    "off": 7960,
    "budget": 57,
-   "en": "Born of nothing, they cling to some￥image.",
-   "long": "They were created from nothing, so￥they cling to an image."
+   "en": "Они созданы из ничего, вот и￥цепляются за образ.",
+   "en_src": "Born of nothing, they cling to some￥image.",
+   "long_src": "They were created from nothing, so￥they cling to an image.",
+   "ru": true
   },
   {
    "off": 8017,
    "budget": 43,
-   "en": "Moscow is both home and creator.",
-   "long": "Moscow is their homeland and their￥creator."
+   "en": "Москва - их родина и их создатель.",
+   "en_src": "Moscow is both home and creator.",
+   "long_src": "Moscow is their homeland and their￥creator.",
+   "ru": true
   },
   {
    "off": 8060,
    "budget": 47,
-   "en": "And it's where we were found."
+   "en": "И там же нашли нас.",
+   "en_src": "And it's where we were found.",
+   "ru": true
   },
   {
    "off": 8107,
    "budget": 5,
-   "en": "Toky",
-   "long": "Tokyo"
+   "en": ".",
+   "en_src": "Toky",
+   "long_src": "Tokyo",
+   "ru": true,
+   "long": "Токио"
   },
   {
    "off": 8112,
    "budget": 5,
-   "en": "Pari",
-   "long": "Paris"
+   "en": ".",
+   "en_src": "Pari",
+   "long_src": "Paris",
+   "ru": true,
+   "long": "Париж"
   },
   {
    "off": 8117,
    "budget": 9,
-   "en": "London"
+   "en": "Лондон",
+   "en_src": "London",
+   "ru": true
   },
   {
    "off": 8126,
    "budget": 5,
-   "en": "Seis",
-   "long": "Seishin"
+   "en": ".",
+   "en_src": "Seis",
+   "long_src": "Seishin",
+   "ru": true,
+   "long": "Сэйсин"
   },
   {
    "off": 8131,
    "budget": 29,
-   "en": "A little minor, but...",
-   "long": "It's a little obscure, but..."
+   "en": ".",
+   "en_src": "A little minor, but...",
+   "long_src": "It's a little obscure, but...",
+   "ru": true,
+   "long": "Местечко малоизвестное, но..."
   },
   {
    "off": 8160,
    "budget": 29,
-   "en": "Gillian, where is that?"
+   "en": "Гиллиан, это где?",
+   "en_src": "Gillian, where is that?",
+   "ru": true
   },
   {
    "off": 8189,
    "budget": 43,
-   "en": "Ah, sorry... it's out past old Kobe.",
-   "long": "Oh, sorry. It's on the outskirts of￥old Kobe."
+   "en": "А, прости. Это на окраине старого￥Кобе.",
+   "en_src": "Ah, sorry... it's out past old Kobe.",
+   "long_src": "Oh, sorry. It's on the outskirts of￥old Kobe.",
+   "ru": true
   },
   {
    "off": 8232,
    "budget": 33,
-   "en": "It is in Kobe, but that's wrong."
+   "en": "Кобе-то Кобе, но ответ неверный.",
+   "en_src": "It is in Kobe, but that's wrong.",
+   "ru": true
   },
   {
    "off": 8265,
    "budget": 55,
-   "en": "Konami had a lab at a place called￥Takatsukadai.",
-   "long": "Konami had a technology research lab￥in a place called Takatsukadai."
+   "en": "В местечке Такацукадай был￥технический НИИ \"Конами\".",
+   "en_src": "Konami had a lab at a place called￥Takatsukadai.",
+   "long_src": "Konami had a technology research lab￥in a place called Takatsukadai.",
+   "ru": true
   },
   {
    "off": 8320,
    "budget": 17,
-   "en": "About what?",
-   "long": "What are you talking about?"
+   "en": "Ты о чём?",
+   "en_src": "About what?",
+   "long_src": "What are you talking about?",
+   "ru": true
   },
   {
    "off": 8337,
    "budget": 29,
-   "en": "Sorry. It's personal."
+   "en": "Прости. Это личное.",
+   "en_src": "Sorry. It's personal.",
+   "ru": true
   },
   {
    "off": 8366,
    "budget": 27,
-   "en": "That's wrong, Gillian!"
+   "en": "Неверно, Гиллиан!",
+   "en_src": "That's wrong, Gillian!",
+   "ru": true
   },
   {
    "off": 8393,
    "budget": 29,
-   "en": "The Snatcher weakness!",
-   "long": "This is the Snatchers' weakness!"
+   "en": "Вот слабость снатчеров!",
+   "en_src": "The Snatcher weakness!",
+   "long_src": "This is the Snatchers' weakness!",
+   "ru": true
   },
   {
    "off": 8422,
    "budget": 61,
-   "en": "Oh, more commands?￥...The Snatchers' weakness!",
-   "long": "Huh? There are more commands now.￥The Snatchers' weakness is..."
+   "en": "А? Команд стало больше. Слабость￥снатчеров...",
+   "en_src": "Oh, more commands?￥...The Snatchers' weakness!",
+   "long_src": "Huh? There are more commands now.￥The Snatchers' weakness is...",
+   "ru": true
   },
   {
    "off": 8483,
    "budget": 43,
-   "en": "This is how the Snatchers got￥around!"
+   "en": "Вот как передвигались снатчеры!",
+   "en_src": "This is how the Snatchers got￥around!",
+   "ru": true
   },
   {
    "off": 8526,
    "budget": 15,
-   "en": "This symptom!",
-   "long": "This was the symptom!"
+   "en": ".",
+   "en_src": "This symptom!",
+   "long_src": "This was the symptom!",
+   "ru": true,
+   "long": "Вот этот симптом!"
   },
   {
    "off": 8541,
    "budget": 45,
-   "en": "More commands.￥...This symptom?",
-   "long": "There are more commands now. Is this￥the symptom?"
+   "en": "Команд стало больше. Симптом - этот?",
+   "en_src": "More commands.￥...This symptom?",
+   "long_src": "There are more commands now. Is this￥the symptom?",
+   "ru": true
   },
   {
    "off": 8586,
    "budget": 25,
-   "en": "This caused the sneeze!",
-   "long": "This caused the sneezing!"
+   "en": ".",
+   "en_src": "This caused the sneeze!",
+   "long_src": "This caused the sneezing!",
+   "ru": true,
+   "long": "Вот что вызывало чихание!"
   },
   {
    "off": 8611,
    "budget": 23,
-   "en": "The common city!",
-   "long": "This is the city they have in￥common!"
+   "en": "Вот их общий город!",
+   "en_src": "The common city!",
+   "long_src": "This is the city they have in￥common!",
+   "ru": true
   },
   {
    "off": 8634,
    "budget": 25,
-   "en": "Then how about this?"
+   "en": "Тогда, может, это?",
+   "en_src": "Then how about this?",
+   "ru": true
   },
   {
    "off": 8659,
    "budget": 23,
-   "en": "Was it this one?"
+   "en": "Или это?",
+   "en_src": "Was it this one?",
+   "ru": true
   },
   {
    "off": 8682,
    "budget": 25,
-   "en": "All right. This one?"
+   "en": "Ладно. Может, это?",
+   "en_src": "All right. This one?",
+   "ru": true
   },
   {
    "off": 8707,
    "budget": 37,
-   "en": "Was it? Think back carefully."
+   "en": "Разве? Вспомни как следует.",
+   "en_src": "Was it? Think back carefully.",
+   "ru": true
   },
   {
    "off": 8744,
    "budget": 41,
-   "en": "Gillian,￥think carefully and answer.",
-   "long": "Think carefully before you answer,￥Gillian."
+   "en": ".",
+   "en_src": "Gillian,￥think carefully and answer.",
+   "long_src": "Think carefully before you answer,￥Gillian.",
+   "ru": true,
+   "long": "Подумай хорошенько, прежде чем￥отвечать, Гиллиан."
   },
   {
    "off": 8785,
    "budget": 45,
-   "en": "That doesn't make sense. Try to￥remember."
+   "en": "Не сходится. Постарайся вспомнить.",
+   "en_src": "That doesn't make sense. Try to￥remember.",
+   "ru": true
   },
   {
    "off": 8830,
    "budget": 23,
-   "en": "That can't be right."
+   "en": "Быть такого не может.",
+   "en_src": "That can't be right.",
+   "ru": true
   },
   {
    "off": 8853,
    "budget": 27,
-   "en": "No fooling, Gillian.",
-   "long": "Stop fooling around, Gillian."
+   "en": ".",
+   "en_src": "No fooling, Gillian.",
+   "long_src": "Stop fooling around, Gillian.",
+   "ru": true,
+   "long": "Хватит дурачиться, Гиллиан."
   },
   {
    "off": 8880,
    "budget": 19,
-   "en": "Enough jokes!"
+   "en": "Хватит шуток!",
+   "en_src": "Enough jokes!",
+   "ru": true
   },
   {
    "off": 8899,
    "budget": 29,
-   "en": "Now, of all times! Gillian.",
-   "long": "At a time like this, Gillian?"
+   "en": "Нашёл время, Гиллиан!",
+   "en_src": "Now, of all times! Gillian.",
+   "long_src": "At a time like this, Gillian?",
+   "ru": true
   },
   {
    "off": 8930,

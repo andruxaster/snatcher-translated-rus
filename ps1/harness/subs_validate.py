@@ -15,6 +15,8 @@ falling back to cue{N}_*.png. Reports PASS/FAIL per row plus cues that never
 got a screenshot at all.
 """
 import glob, json, os, re, struct, sys
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), 'lib'))
+from textcodec import is_narrow
 import os, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.abspath(os.path.join(HERE, "..", ".."))
@@ -76,7 +78,7 @@ def row_mask(text):
     i = 0
     while i < len(text):
         pair = text[i:i+2]
-        if text[i].isascii() and (len(pair) == 1 or not pair[1].isascii()):
+        if is_narrow(text[i]) and (len(pair) == 1 or not is_narrow(pair[1])):
             # a lone letter at the end of an ASCII run: the encoder pads it
             # with a space into a pair ("father." ends on the pair ". "),
             # not the fullwidth glyph the validator used to expect - every
@@ -94,7 +96,7 @@ def row_mask(text):
             i += 2
             continue
         s = fullwidth_char(text[i])
-        if s is None and text[i].isascii() and text[i].strip():
+        if s is None and is_narrow(text[i]) and text[i].strip():
             # the font table has no fullwidth lowercase; the game shows the
             # fullwidth glyph, near enough the pair glyph of the letter alone
             cells.append(glyph(None, pairfont.render_pair(text[i] + " ")))

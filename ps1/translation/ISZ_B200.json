@@ -108,9 +108,10 @@
   {
    "off": 5185,
    "budget": 5,
-   "en": "Осм.",
+   "en": ".",
    "en_src": "Look",
-   "ru": true
+   "ru": true,
+   "long": "Осмотреть"
   },
   {
    "off": 5190,
@@ -163,9 +164,10 @@
   {
    "off": 5394,
    "budget": 43,
-   "en": "Так вот, оказывается, какой тут линолеум.",
+   "en": ".",
    "en_src": "So the floor was linoleum.",
-   "ru": true
+   "ru": true,
+   "long": "Так вот, оказывается, какой тут￥линолеум."
   },
   {
    "off": 5437,
@@ -371,9 +373,10 @@
   {
    "off": 6403,
    "budget": 5,
-   "en": "Речь",
+   "en": ".",
    "en_src": "Talk",
-   "ru": true
+   "ru": true,
+   "long": "Говорить"
   },
   {
    "off": 6408,
@@ -479,7 +482,7 @@
   {
    "off": 6784,
    "budget": 15,
-   "en": "Метал Гир",
+   "en": "Позвать Метала",
    "en_src": "Use Metal Gear",
    "ru": true
   },
@@ -641,9 +644,10 @@
   {
    "off": 7565,
    "budget": 5,
-   "en": "Верх",
+   "en": ".",
    "en_src": "Roof",
-   "ru": true
+   "ru": true,
+   "long": "Крыша"
   },
   {
    "off": 7570,
@@ -674,10 +678,11 @@
   {
    "off": 7661,
    "budget": 73,
-   "en": "Обычный операционный стол. К окружающим приборам от него тянутся кабели.",
+   "en": ".",
    "en_src": "A quite ordinary table.￥Cables run to the gear around.",
    "long_src": "It's an ordinary operating table.￥Cables connect it to the equipment￥around it.",
-   "ru": true
+   "ru": true,
+   "long": "Обычный операционный стол. К￥окружающим приборам от него тянутся￥кабели."
   },
   {
    "off": 7734,
@@ -700,7 +705,7 @@
   {
    "off": 7768,
    "budget": 13,
-   "en": "Снатчер",
+   "en": "Снатчеры",
    "en_src": "Snatchers",
    "ru": true
   },
@@ -756,10 +761,11 @@
   {
    "off": 8059,
    "budget": 83,
-   "en": "Мониторы для ультразвуковых и электронных эндоскопов. Уже подключены к аппаратуре.",
+   "en": ".",
    "en_src": "Monitors for ultrasound and￥electronic endoscopes.￥Already wired to the gear.",
    "long_src": "These monitors are for ultrasound￥and electronic endoscopes. They're￥already connected to the equipment.",
-   "ru": true
+   "ru": true,
+   "long": "Мониторы для ультразвуковых и￥электронных эндоскопов. Уже￥подключены к аппаратуре."
   },
   {
    "off": 8142,
@@ -1399,9 +1405,10 @@
   {
    "off": 11420,
    "budget": 51,
-   "en": "Аргоновые лазеры и аргоновые лазеры на красителях.",
+   "en": ".",
    "en_src": "Argon lasers and argon dye lasers.",
-   "ru": true
+   "ru": true,
+   "long": "Аргоновые лазеры и аргоновые лазеры￥на красителях."
   },
   {
    "off": 11471,
@@ -1455,10 +1462,11 @@
   {
    "off": 11755,
    "budget": 95,
-   "en": "Экстракторы нуклеиновых кислот, хроматографы, синтезаторы ДНК, ДНК-секвенаторы, автодозаторы.",
+   "en": ".",
    "en_src": "Nucleic acid extractor,￥chromatography, DNA synthesiser,￥DNA sequencer, auto dispenser...",
    "long_src": "Nucleic acid extractors,￥chromatography equipment, DNA￥synthesizers, DNA sequencers,￥automatic dispensers.",
-   "ru": true
+   "ru": true,
+   "long": "Экстракторы нуклеиновых кислот,￥хроматографы, синтезаторы ДНК,￥ДНК-секвенаторы, автодозаторы."
   },
   {
    "off": 11850,
@@ -1760,9 +1768,10 @@
   {
    "off": 13855,
    "budget": 7,
-   "en": "Люк",
+   "en": ".",
    "en_src": "Duct",
-   "ru": true
+   "ru": true,
+   "long": "Вентиляция"
   },
   {
    "off": 13862,

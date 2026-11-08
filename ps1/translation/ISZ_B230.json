@@ -43,10 +43,11 @@
   {
    "off": 5766,
    "budget": 45,
-   "en": "Как новенькая! Наномашины своё дело сделали!",
+   "en": ".",
    "en_src": "All right now!￥The nanomachines did well!",
    "long_src": "Good as new! Those nanomachines did￥the trick!",
-   "ru": true
+   "ru": true,
+   "long": "Как новенькая! Наномашины своё дело￥сделали!"
   },
   {
    "off": 5811,
@@ -128,9 +129,10 @@
   {
    "off": 6229,
    "budget": 5,
-   "en": "Вид",
+   "en": ".",
    "en_src": "Look",
-   "ru": true
+   "ru": true,
+   "long": "Осмотреть"
   },
   {
    "off": 6234,
@@ -401,7 +403,7 @@
   {
    "off": 7703,
    "budget": 15,
-   "en": "Исп. Метал Гир",
+   "en": "Позвать Метала",
    "en_src": "Use Metal Gear",
    "ru": true
   },
@@ -829,9 +831,10 @@
   {
    "off": 9199,
    "budget": 13,
-   "en": "Исп. Гауди",
+   "en": ".",
    "en_src": "Use Gaudi",
-   "ru": true
+   "ru": true,
+   "long": "Спросить Гауди"
   },
   {
    "off": 9212,
@@ -970,9 +973,10 @@
   {
    "off": 9595,
    "budget": 9,
-   "en": "Тренинг",
+   "en": ".",
    "en_src": "Train",
-   "ru": true
+   "ru": true,
+   "long": "Тренировка"
   },
   {
    "off": 9604,
@@ -1122,9 +1126,10 @@
   {
    "off": 10126,
    "budget": 5,
-   "en": "Верх",
+   "en": ".",
    "en_src": "Roof",
-   "ru": true
+   "ru": true,
+   "long": "Крыша"
   },
   {
    "off": 10131,

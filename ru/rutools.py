@@ -185,8 +185,10 @@ def check_item(bank, it, ru, opts):
         for m in MARKS:
             if en.count(m) != t.count(m):
                 warn.append(f"знак {m}: {en.count(m)} -> {t.count(m)}")
-        if "max" in it and len(t) > it["max"]:
-            err.append(f"длиннее {it['max']} знаков ({len(t)})")
+        # a label longer than its slot rides a `long` like the English ones
+        # ("Check" -> "Investigate"); the menu itself takes about 14 letters
+        if "max" in it and len(t) > max(it["max"], 14):
+            err.append(f"длиннее {max(it['max'], 14)} знаков ({len(t)})")
     for ch in set(t):
         if is_narrow(ch) or ch in "￥＠" or ch in COLOURS or ch in MARKS:
             continue
@@ -306,9 +308,6 @@ def cmd_merge(a):
                 if size(wrapped) <= e["budget"]:
                     e["en"] = wrapped
                     stats["slot"] += 1
-                elif size(soft) <= e["budget"]:
-                    e["en"] = soft              # the runtime wrap breaks it
-                    stats["soft"] += 1
                 else:
                     e["en"] = "."               # 2 bytes + null: fits any slot
                     e["long"] = wrapped

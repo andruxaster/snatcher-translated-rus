@@ -9,8 +9,9 @@
    "end": 43497,
    "dur": 0.5,
    "speaker": "Gillian",
-   "en": "Is he dead?",
-   "enabled": true
+   "en": "Он мёртв?",
+   "enabled": true,
+   "en_src": "Is he dead?"
   },
   {
    "id": "B110_d1",
@@ -20,8 +21,9 @@
    "end": 44297,
    "dur": 5.2,
    "speaker": "Metal Gear",
-   "en": "He's only unconscious. An excellent shot, right in the hand.",
-   "enabled": true
+   "en": "Просто без сознания. Отличный выстрел, прямо в руку.",
+   "enabled": true,
+   "en_src": "He's only unconscious. An excellent shot, right in the hand."
   },
   {
    "id": "B110_d2",
@@ -31,8 +33,9 @@
    "end": 44617,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "That's not where I was aiming.",
-   "enabled": true
+   "en": "Я целился не туда.",
+   "enabled": true,
+   "en_src": "That's not where I was aiming."
   },
   {
    "id": "B110_d3",
@@ -42,8 +45,9 @@
    "end": 45001,
    "dur": 2.5,
    "speaker": "Gillian",
-   "en": "Hey! How long are you going to sleep?",
-   "enabled": true
+   "en": "Эй! Долго ещё будешь спать?",
+   "enabled": true,
+   "en_src": "Hey! How long are you going to sleep?"
   },
   {
    "id": "B110_d4",
@@ -53,8 +57,9 @@
    "end": 45273,
    "dur": 1.7,
    "speaker": "Ivan",
-   "en": "Help! Somebody help me!",
-   "enabled": true
+   "en": "Помогите! Кто-нибудь, помогите!",
+   "enabled": true,
+   "en_src": "Help! Somebody help me!"
   },
   {
    "id": "B110_000",
@@ -64,8 +69,9 @@
    "end": 45564,
    "dur": 1.8,
    "speaker": "Metal Gear",
-   "en": "Gillian, you mustn't kill him.",
-   "enabled": true
+   "en": "Гиллиан, его нельзя убивать.",
+   "enabled": true,
+   "en_src": "Gillian, you mustn't kill him."
   },
   {
    "id": "B110_000b",
@@ -75,8 +81,9 @@
    "end": 46042,
    "dur": 3.2,
    "speaker": "Metal Gear",
-   "en": "That violates the second of JUNKER's five rules.",
-   "enabled": true
+   "en": "Это нарушает второе из пяти правил ДЖАНКЕРа.",
+   "enabled": true,
+   "en_src": "That violates the second of JUNKER's five rules."
   },
   {
    "id": "B110_000c",
@@ -86,8 +93,9 @@
    "end": 46455,
    "dur": 2.7,
    "speaker": "Metal Gear",
-   "en": "We need evidence that Ivan is a Snatcher.",
-   "enabled": true
+   "en": "Нам нужны доказательства, что Иван - снатчер.",
+   "enabled": true,
+   "en_src": "We need evidence that Ivan is a Snatcher."
   },
   {
    "id": "B110_000d",
@@ -97,8 +105,9 @@
    "end": 46969,
    "dur": 3.4,
    "speaker": "Metal Gear",
-   "en": "The shooting just now counts as self-defense, but...",
-   "enabled": true
+   "en": "Стрельба сейчас сойдёт за самооборону, но...",
+   "enabled": true,
+   "en_src": "The shooting just now counts as self-defense, but..."
   },
   {
    "id": "B110_001",
@@ -108,8 +117,9 @@
    "end": 47113,
    "dur": 0.9,
    "speaker": "Gillian",
-   "en": "Damn it!",
-   "enabled": true
+   "en": "Чёрт!",
+   "enabled": true,
+   "en_src": "Damn it!"
   },
   {
    "id": "B110_002",
@@ -119,8 +129,9 @@
    "end": 47833,
    "dur": 4.7,
    "speaker": "Metal Gear",
-   "en": "Let's check the bathroom. We might find that sunscreen.",
-   "enabled": true
+   "en": "Проверим ванную. Может, найдём тот крем.",
+   "enabled": true,
+   "en_src": "Let's check the bathroom. We might find that sunscreen."
   },
   {
    "id": "B110_003",
@@ -130,8 +141,9 @@
    "end": 47961,
    "dur": 0.7,
    "speaker": "Gillian",
-   "en": "Good idea.",
-   "enabled": true
+   "en": "Хорошая мысль.",
+   "enabled": true,
+   "en_src": "Good idea."
   },
   {
    "id": "B110_004",
@@ -141,9 +153,10 @@
    "end": 48217,
    "dur": 1.6,
    "speaker": "Metal Gear",
-   "en": "Let's go to the bathroom, then.",
+   "en": "Тогда идём в ванную.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Let's go to the bathroom, then."
   },
   {
    "id": "B110_f1_0",
@@ -153,8 +166,9 @@
    "end": 2586,
    "dur": 1.2,
    "speaker": "Gillian",
-   "en": "That's what it looks like.",
-   "enabled": true
+   "en": "Похоже на то.",
+   "enabled": true,
+   "en_src": "That's what it looks like."
   },
   {
    "id": "B110_f2_0",
@@ -164,8 +178,9 @@
    "end": 3498,
    "dur": 6.0,
    "speaker": "Metal Gear",
-   "en": "So Ivan's just a drug dealer. That's what he was hiding.",
-   "enabled": true
+   "en": "Значит, Иван просто наркодилер. Вот что он скрывал.",
+   "enabled": true,
+   "en_src": "So Ivan's just a drug dealer. That's what he was hiding."
   },
   {
    "id": "B110_f3_0",
@@ -175,8 +190,9 @@
    "end": 4362,
    "dur": 11.4,
    "speaker": "Gillian",
-   "en": "Ivan was using tanning oil, not sunscreen, when he went aero-surfing.",
-   "enabled": true
+   "en": "Для аэросёрфинга Иван брал масло для загара, а не крем.",
+   "enabled": true,
+   "en_src": "Ivan was using tanning oil, not sunscreen, when he went aero-surfing."
   },
   {
    "id": "B110_f4_0",
@@ -186,8 +202,9 @@
    "end": 4714,
    "dur": 4.5,
    "speaker": "Metal Gear",
-   "en": "He got that deep tan from ultraviolet rays,",
-   "enabled": true
+   "en": "Он так загорел от ультрафиолета,",
+   "enabled": true,
+   "en_src": "He got that deep tan from ultraviolet rays,"
   },
   {
    "id": "B110_f4_0b",
@@ -197,8 +214,9 @@
    "end": 5050,
    "dur": 4.5,
    "speaker": "Metal Gear",
-   "en": "the very thing Snatchers fear most.",
-   "enabled": true
+   "en": "которого снатчеры боятся больше всего.",
+   "enabled": true,
+   "en_src": "the very thing Snatchers fear most."
   },
   {
    "id": "B110_f5_0",
@@ -208,8 +226,9 @@
    "end": 5442,
    "dur": 5.0,
    "speaker": "Gillian",
-   "en": "Yet there was nothing wrong with his skin.",
-   "enabled": true
+   "en": "А с кожей у него всё в порядке.",
+   "enabled": true,
+   "en_src": "Yet there was nothing wrong with his skin."
   },
   {
    "id": "B110_f5_0b",
@@ -219,8 +238,9 @@
    "end": 5818,
    "dur": 5.0,
    "speaker": "Gillian",
-   "en": "I can't believe it's artificial.",
-   "enabled": true
+   "en": "Не верю, что она искусственная.",
+   "enabled": true,
+   "en_src": "I can't believe it's artificial."
   },
   {
    "id": "B110_f6_0",
@@ -230,8 +250,9 @@
    "end": 6170,
    "dur": 2.2,
    "speaker": "Metal Gear",
-   "en": "It seems Ivan isn't a Snatcher.",
-   "enabled": true
+   "en": "Похоже, Иван не снатчер.",
+   "enabled": true,
+   "en_src": "It seems Ivan isn't a Snatcher."
   },
   {
    "id": "B110_f7_0",
@@ -241,8 +262,9 @@
    "end": 6330,
    "dur": 1.0,
    "speaker": "Gillian",
-   "en": "Hey! Wake up!",
-   "enabled": true
+   "en": "Эй! Очнись!",
+   "enabled": true,
+   "en_src": "Hey! Wake up!"
   },
   {
    "id": "B110_f8_0",
@@ -252,8 +274,9 @@
    "end": 7223,
    "dur": 5.4,
    "speaker": "Ivan",
-   "en": "I'm just a dealer. I only handle Liquid Sky. Give me a break.",
-   "enabled": true
+   "en": "Я просто дилер. Толкаю только \"Ликвид Скай\". Пощади.",
+   "enabled": true,
+   "en_src": "I'm just a dealer. I only handle Liquid Sky. Give me a break."
   },
   {
    "id": "B110_f8_0b",
@@ -263,8 +286,9 @@
    "end": 7530,
    "dur": 2.5,
    "speaker": "Ivan",
-   "en": "Hurry and call an ambulance!",
-   "enabled": true
+   "en": "Скорее вызови скорую!",
+   "enabled": true,
+   "en_src": "Hurry and call an ambulance!"
   },
   {
    "id": "B110_f9_0",
@@ -274,8 +298,9 @@
    "end": 7842,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "I'm not a cop. I'm a JUNKER!",
-   "enabled": true
+   "en": "Я не коп. Я ДЖАНКЕР!",
+   "enabled": true,
+   "en_src": "I'm not a cop. I'm a JUNKER!"
   },
   {
    "id": "B110_f9_0b",
@@ -285,8 +310,9 @@
    "end": 8233,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "I don't care if you're a dealer!",
-   "enabled": true
+   "en": "Мне плевать, что ты дилер!",
+   "enabled": true,
+   "en_src": "I don't care if you're a dealer!"
   },
   {
    "id": "B110_f9_0c",
@@ -296,8 +322,9 @@
    "end": 8714,
    "dur": 2.4,
    "speaker": "Gillian",
-   "en": "I want to know if you're human or a Snatcher!",
-   "enabled": true
+   "en": "Я хочу знать, человек ты или снатчер!",
+   "enabled": true,
+   "en_src": "I want to know if you're human or a Snatcher!"
   },
   {
    "id": "B110_f10_0",
@@ -307,8 +334,9 @@
    "end": 9173,
    "dur": 3.0,
    "speaker": "Metal Gear",
-   "en": "Gillian, Ivan's skin is normal.",
-   "enabled": true
+   "en": "Гиллиан, кожа у Ивана нормальная.",
+   "enabled": true,
+   "en_src": "Gillian, Ivan's skin is normal."
   },
   {
    "id": "B110_f10_0b",
@@ -318,8 +346,9 @@
    "end": 9802,
    "dur": 4.2,
    "speaker": "Metal Gear",
-   "en": "With that tan and no melanoma, he's in the clear.",
-   "enabled": true
+   "en": "Такой загар и без меланомы - он чист.",
+   "enabled": true,
+   "en_src": "With that tan and no melanoma, he's in the clear."
   },
   {
    "id": "B110_f11_0",
@@ -329,8 +358,9 @@
    "end": 10389,
    "dur": 2.7,
    "speaker": "Metal Gear",
-   "en": "HQ just sent us a scanning warrant.",
-   "enabled": true
+   "en": "Штаб прислал ордер на сканирование.",
+   "enabled": true,
+   "en_src": "HQ just sent us a scanning warrant."
   },
   {
    "id": "B110_f11_0b",
@@ -340,8 +370,9 @@
    "end": 10916,
    "dur": 4.0,
    "speaker": "Metal Gear",
-   "en": "Under Article 18 of the Civil Code, the Human Rights",
-   "enabled": true
+   "en": "По статье 18 Гражданского кодекса, закону о защите",
+   "enabled": true,
+   "en_src": "Under Article 18 of the Civil Code, the Human Rights"
   },
   {
    "id": "B110_f11_0c",
@@ -351,8 +382,9 @@
    "end": 11482,
    "dur": 4.3,
    "speaker": "Metal Gear",
-   "en": "Protection Ordinance on Snatchers, I will now scan Ivan.",
-   "enabled": true
+   "en": "прав человека от снатчеров, сканирую Ивана.",
+   "enabled": true,
+   "en_src": "Protection Ordinance on Snatchers, I will now scan Ivan."
   },
   {
    "id": "B110_f12_0",
@@ -362,8 +394,9 @@
    "end": 12378,
    "dur": 11.8,
    "speaker": "Metal Gear",
-   "en": "The scan is complete. Ivan Rodriguez is entirely Homo sapiens.",
-   "enabled": true
+   "en": "Сканирование завершено. Иван Родригес - стопроцентный человек.",
+   "enabled": true,
+   "en_src": "The scan is complete. Ivan Rodriguez is entirely Homo sapiens."
   },
   {
    "id": "B110_f13_0",
@@ -373,8 +406,9 @@
    "end": 12983,
    "dur": 3.6,
    "speaker": "Ivan",
-   "en": "That's what I've been telling you! I'm no Snatcher!",
-   "enabled": true
+   "en": "А я что говорил! Я не снатчер!",
+   "enabled": true,
+   "en_src": "That's what I've been telling you! I'm no Snatcher!"
   },
   {
    "id": "B110_f13_0b",
@@ -384,8 +418,9 @@
    "end": 13258,
    "dur": 2.2,
    "speaker": "Ivan",
-   "en": "Get me a doctor, quick!",
-   "enabled": true
+   "en": "Врача мне, быстро!",
+   "enabled": true,
+   "en_src": "Get me a doctor, quick!"
   },
   {
    "id": "B110_f14_0",
@@ -395,8 +430,9 @@
    "end": 13514,
    "dur": 1.6,
    "speaker": "Gillian",
-   "en": "Try packing the wound with your drugs.",
-   "enabled": true
+   "en": "Заткни рану своей наркотой.",
+   "enabled": true,
+   "en_src": "Try packing the wound with your drugs."
   },
   {
    "id": "B110_f15_0",
@@ -406,8 +442,9 @@
    "end": 13818,
    "dur": 1.9,
    "speaker": "Ivan",
-   "en": "What did I ever do to you?",
-   "enabled": true
+   "en": "Что я тебе сделал?",
+   "enabled": true,
+   "en_src": "What did I ever do to you?"
   },
   {
    "id": "B110_f16_0",
@@ -417,8 +454,9 @@
    "end": 14248,
    "dur": 5.5,
    "speaker": "Gillian",
-   "en": "The nice men from Narcotics are coming. They will be here soon.",
-   "enabled": true
+   "en": "Скоро приедут милые ребята из наркоотдела.",
+   "enabled": true,
+   "en_src": "The nice men from Narcotics are coming. They will be here soon."
   },
   {
    "id": "B110_f16_0b",
@@ -428,8 +466,9 @@
    "end": 14346,
    "dur": 1.3,
    "speaker": "Gillian",
-   "en": "Go cry to them.",
-   "enabled": true
+   "en": "Им и поплачешься.",
+   "enabled": true,
+   "en_src": "Go cry to them."
   },
   {
    "id": "B110_f17_0",
@@ -439,8 +478,9 @@
    "end": 15145,
    "dur": 3.9,
    "speaker": "Ivan",
-   "en": "Hey! Help me! What did I do? I just love aero-surfing!",
-   "enabled": true
+   "en": "Эй! Помогите! Что я сделал? Я просто люблю аэросёрфинг!",
+   "enabled": true,
+   "en_src": "Hey! Help me! What did I do? I just love aero-surfing!"
   },
   {
    "id": "B110_f17_0b",
@@ -450,8 +490,9 @@
    "end": 15802,
    "dur": 4.9,
    "speaker": "Ivan",
-   "en": "I only wanted to win the championship! I needed money!",
-   "enabled": true
+   "en": "Я хотел выиграть чемпионат! Мне нужны были деньги!",
+   "enabled": true,
+   "en_src": "I only wanted to win the championship! I needed money!"
   },
   {
    "id": "B110_f18_0",
@@ -461,8 +502,9 @@
    "end": 16458,
    "dur": 4.3,
    "speaker": "Ivan",
-   "en": "They're only drugs! Even kids have them!",
-   "enabled": true
+   "en": "Это всего лишь наркота! Она даже у детей есть!",
+   "enabled": true,
+   "en_src": "They're only drugs! Even kids have them!"
   },
   {
    "id": "B110_f19_0",
@@ -472,8 +514,9 @@
    "end": 16858,
    "dur": 2.6,
    "speaker": "Metal Gear",
-   "en": "So Ivan Rodriguez wasn't a Snatcher at all.",
-   "enabled": true
+   "en": "Значит, Иван Родригес вовсе не снатчер.",
+   "enabled": true,
+   "en_src": "So Ivan Rodriguez wasn't a Snatcher at all."
   },
   {
    "id": "B110_f20_0",
@@ -483,8 +526,9 @@
    "end": 17512,
    "dur": 4.3,
    "speaker": "Gillian",
-   "en": "Unlucky for him. His face just happened to match.",
-   "enabled": true
+   "en": "Не повезло ему. Просто лицо совпало.",
+   "enabled": true,
+   "en_src": "Unlucky for him. His face just happened to match."
   },
   {
    "id": "B110_f20_0b",
@@ -494,9 +538,10 @@
    "end": 17882,
    "dur": 1.9,
    "speaker": "Gillian",
-   "en": "That leaves Freddy Nielsen.",
+   "en": "Остаётся Фредди Нильсен.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "That leaves Freddy Nielsen."
   }
  ],
  "options": {

@@ -15,8 +15,9 @@
    "end": 14783,
    "dur": 3.7,
    "speaker": "Metal Gear",
-   "en": "I'll reconstruct each victim's head in turn.",
-   "enabled": true
+   "en": "Восстановлю головы жертв по очереди.",
+   "enabled": true,
+   "en_src": "I'll reconstruct each victim's head in turn."
   },
   {
    "id": "B200_c7f19_0",
@@ -26,8 +27,9 @@
    "end": 15119,
    "dur": 2.1,
    "speaker": "Metal Gear",
-   "en": "First, body number one.",
-   "enabled": true
+   "en": "Сначала тело номер один.",
+   "enabled": true,
+   "en_src": "First, body number one."
   },
   {
    "id": "B200_c7f20_0",
@@ -37,8 +39,9 @@
    "end": 15632,
    "dur": 4.4,
    "speaker": "Metal Gear",
-   "en": "Creating skull data using X-rays,",
-   "enabled": true
+   "en": "Строю модель черепа по рентгену,",
+   "enabled": true,
+   "en_src": "Creating skull data using X-rays,"
   },
   {
    "id": "B200_c7f20_0b",
@@ -48,8 +51,9 @@
    "end": 16703,
    "dur": 6.1,
    "speaker": "Metal Gear",
-   "en": "sectional X-rays, MRI, and positron CT scans.",
-   "enabled": true
+   "en": "томографии, МРТ и позитронной КТ.",
+   "enabled": true,
+   "en_src": "sectional X-rays, MRI, and positron CT scans."
   },
   {
    "id": "B200_c7f21_0",
@@ -59,8 +63,9 @@
    "end": 16943,
    "dur": 1.5,
    "speaker": "Metal Gear",
-   "en": "Head data complete.",
-   "enabled": true
+   "en": "Данные о голове готовы.",
+   "enabled": true,
+   "en_src": "Head data complete."
   },
   {
    "id": "B200_c7f22_0",
@@ -70,8 +75,9 @@
    "end": 17503,
    "dur": 7.2,
    "speaker": "Metal Gear",
-   "en": "I'll reconstruct the face from this skull data.",
-   "enabled": true
+   "en": "Восстанавливаю лицо по данным черепа.",
+   "enabled": true,
+   "en_src": "I'll reconstruct the face from this skull data."
   },
   {
    "id": "B200_c7f23_0",
@@ -81,8 +87,9 @@
    "end": 17818,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "First, the victim's age.",
-   "enabled": true
+   "en": "Сначала возраст жертвы.",
+   "enabled": true,
+   "en_src": "First, the victim's age."
   },
   {
    "id": "B200_c7f23_0b",
@@ -92,8 +99,9 @@
    "end": 18713,
    "dur": 10.2,
    "speaker": "Metal Gear",
-   "en": "1. Whether fontanelles remain, and skull suture clarity.",
-   "enabled": true
+   "en": "1. Наличие родничков и чёткость швов черепа.",
+   "enabled": true,
+   "en_src": "1. Whether fontanelles remain, and skull suture clarity."
   },
   {
    "id": "B200_c7f23_0c",
@@ -103,8 +111,9 @@
    "end": 19370,
    "dur": 3.5,
    "speaker": "Metal Gear",
-   "en": "2. The area of the facial skeleton.",
-   "enabled": true
+   "en": "2. Площадь лицевого скелета.",
+   "enabled": true,
+   "en_src": "2. The area of the facial skeleton."
   },
   {
    "id": "B200_c7f23_0d",
@@ -114,8 +123,9 @@
    "end": 20103,
    "dur": 3.4,
    "speaker": "Metal Gear",
-   "en": "3. The height of the upper and lower jaws,",
-   "enabled": true
+   "en": "3. Высота верхней и нижней челюсти",
+   "enabled": true,
+   "en_src": "3. The height of the upper and lower jaws,"
   },
   {
    "id": "B200_c7f23_0db",
@@ -125,8 +135,9 @@
    "end": 20475,
    "dur": 3.5,
    "speaker": "Metal Gear",
-   "en": "and development of the tooth-bearing ridges.",
-   "enabled": true
+   "en": "и развитие альвеолярных отростков.",
+   "enabled": true,
+   "en_src": "and development of the tooth-bearing ridges."
   },
   {
    "id": "B200_c7f23_0dc",
@@ -136,8 +147,9 @@
    "end": 20975,
    "dur": 2.6,
    "speaker": "Metal Gear",
-   "en": "4. The skull's center of gravity.",
-   "enabled": true
+   "en": "4. Центр тяжести черепа.",
+   "enabled": true,
+   "en_src": "4. The skull's center of gravity."
   },
   {
    "id": "B200_c7f24_0",
@@ -147,8 +159,9 @@
    "end": 21152,
    "dur": 1.1,
    "speaker": "Metal Gear",
-   "en": "Next, sex.",
-   "enabled": true
+   "en": "Далее пол.",
+   "enabled": true,
+   "en_src": "Next, sex."
   },
   {
    "id": "B200_c7f24_0b",
@@ -158,8 +171,9 @@
    "end": 21744,
    "dur": 2.2,
    "speaker": "Metal Gear",
-   "en": "1. Overall skull size.",
-   "enabled": true
+   "en": "1. Общий размер черепа.",
+   "enabled": true,
+   "en_src": "1. Overall skull size."
   },
   {
    "id": "B200_c7f24_0c",
@@ -169,8 +183,9 @@
    "end": 22244,
    "dur": 2.4,
    "speaker": "Metal Gear",
-   "en": "2. The angle and slope of the crown.",
-   "enabled": true
+   "en": "2. Угол и наклон свода черепа.",
+   "enabled": true,
+   "en_src": "2. The angle and slope of the crown."
   },
   {
    "id": "B200_c7f24_0d",
@@ -180,8 +195,9 @@
    "end": 22991,
    "dur": 3.9,
    "speaker": "Metal Gear",
-   "en": "3. Development of the facial skeleton.",
-   "enabled": true
+   "en": "3. Развитие лицевого скелета.",
+   "enabled": true,
+   "en_src": "3. Development of the facial skeleton."
   },
   {
    "id": "B200_c7f25_0",
@@ -191,8 +207,9 @@
    "end": 23340,
    "dur": 2.2,
    "speaker": "Metal Gear",
-   "en": "Finally, race.",
-   "enabled": true
+   "en": "Наконец, раса.",
+   "enabled": true,
+   "en_src": "Finally, race."
   },
   {
    "id": "B200_c7f25_0b",
@@ -202,8 +219,9 @@
    "end": 23723,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "1. Skull measurements.",
-   "enabled": true
+   "en": "1. Размеры черепа.",
+   "enabled": true,
+   "en_src": "1. Skull measurements."
   },
   {
    "id": "B200_c7f25_0c",
@@ -213,8 +231,9 @@
    "end": 24139,
    "dur": 2.1,
    "speaker": "Metal Gear",
-   "en": "2. Cranial cavity volume.",
-   "enabled": true
+   "en": "2. Объём черепной полости.",
+   "enabled": true,
+   "en_src": "2. Cranial cavity volume."
   },
   {
    "id": "B200_c7f25_0d",
@@ -224,8 +243,9 @@
    "end": 24719,
    "dur": 3.0,
    "speaker": "Metal Gear",
-   "en": "3. Skull weight.",
-   "enabled": true
+   "en": "3. Вес черепа.",
+   "enabled": true,
+   "en_src": "3. Skull weight."
   },
   {
    "id": "B200_c7f26_0",
@@ -235,8 +255,9 @@
    "end": 25019,
    "dur": 4.4,
    "speaker": "Metal Gear",
-   "en": "From these results, I'll add flesh",
-   "enabled": true
+   "en": "По этим данным наращиваю мягкие ткани,",
+   "enabled": true,
+   "en_src": "From these results, I'll add flesh"
   },
   {
    "id": "B200_c7f26_0b",
@@ -246,8 +267,9 @@
    "end": 25471,
    "dur": 5.4,
    "speaker": "Metal Gear",
-   "en": "using average measurements for each part.",
-   "enabled": true
+   "en": "используя средние значения для каждой части.",
+   "enabled": true,
+   "en_src": "using average measurements for each part."
   },
   {
    "id": "B200_c7f27_0",
@@ -257,8 +279,9 @@
    "end": 25908,
    "dur": 2.8,
    "speaker": "Metal Gear",
-   "en": "First stage of reconstruction complete.",
-   "enabled": true
+   "en": "Первый этап реконструкции завершён.",
+   "enabled": true,
+   "en_src": "First stage of reconstruction complete."
   },
   {
    "id": "B200_c7f27_0b",
@@ -268,8 +291,9 @@
    "end": 26486,
    "dur": 3.9,
    "speaker": "Metal Gear",
-   "en": "Ten percent margin of error from racial averages.",
-   "enabled": true
+   "en": "Погрешность от средних для расы - 10%.",
+   "enabled": true,
+   "en_src": "Ten percent margin of error from racial averages."
   },
   {
    "id": "B200_c7f27_0c",
@@ -279,8 +303,9 @@
    "end": 27039,
    "dur": 3.7,
    "speaker": "Metal Gear",
-   "en": "Adding estimated hairstyle and eyes.",
-   "enabled": true
+   "en": "Добавляю предполагаемые причёску и глаза.",
+   "enabled": true,
+   "en_src": "Adding estimated hairstyle and eyes."
   },
   {
    "id": "B200_c7f28_0",
@@ -290,8 +315,9 @@
    "end": 27519,
    "dur": 3.1,
    "speaker": "Metal Gear",
-   "en": "The first victim's head is reconstructed.",
-   "enabled": true
+   "en": "Голова первой жертвы восстановлена.",
+   "enabled": true,
+   "en_src": "The first victim's head is reconstructed."
   },
   {
    "id": "B200_c7f29_0",
@@ -301,8 +327,9 @@
    "end": 27887,
    "dur": 2.3,
    "speaker": "Gillian",
-   "en": "It's Freddy Nielsen.",
-   "enabled": true
+   "en": "Это Фредди Нильсен.",
+   "enabled": true,
+   "en_src": "It's Freddy Nielsen."
   },
   {
    "id": "B200_c7f30_0",
@@ -312,8 +339,9 @@
    "end": 28383,
    "dur": 3.2,
    "speaker": "Metal Gear",
-   "en": "Now I'll reconstruct the second victim.",
-   "enabled": true
+   "en": "Теперь восстановлю вторую жертву.",
+   "enabled": true,
+   "en_src": "Now I'll reconstruct the second victim."
   },
   {
    "id": "B200_c7f31_0",
@@ -323,8 +351,9 @@
    "end": 28543,
    "dur": 1.0,
    "speaker": "Metal Gear",
-   "en": "Body number two.",
-   "enabled": true
+   "en": "Тело номер два.",
+   "enabled": true,
+   "en_src": "Body number two."
   },
   {
    "id": "B200_c7f32_0",
@@ -334,8 +363,9 @@
    "end": 29215,
    "dur": 4.4,
    "speaker": "Metal Gear",
-   "en": "Creating skull data using the same process.",
-   "enabled": true
+   "en": "Строю модель черепа тем же способом.",
+   "enabled": true,
+   "en_src": "Creating skull data using the same process."
   },
   {
    "id": "B200_c7f33_0",
@@ -345,8 +375,9 @@
    "end": 29455,
    "dur": 1.5,
    "speaker": "Metal Gear",
-   "en": "Head data complete.",
-   "enabled": true
+   "en": "Данные о голове готовы.",
+   "enabled": true,
+   "en_src": "Head data complete."
   },
   {
    "id": "B200_c7f34_0",
@@ -356,8 +387,9 @@
    "end": 30095,
    "dur": 4.2,
    "speaker": "Metal Gear",
-   "en": "Reconstructing from the skull data as before.",
-   "enabled": true
+   "en": "Восстанавливаю по данным черепа, как раньше.",
+   "enabled": true,
+   "en_src": "Reconstructing from the skull data as before."
   },
   {
    "id": "B200_c7f35_0",
@@ -367,8 +399,9 @@
    "end": 30519,
    "dur": 2.7,
    "speaker": "Metal Gear",
-   "en": "First stage of reconstruction complete.",
-   "enabled": true
+   "en": "Первый этап реконструкции завершён.",
+   "enabled": true,
+   "en_src": "First stage of reconstruction complete."
   },
   {
    "id": "B200_c7f35_0b",
@@ -378,8 +411,9 @@
    "end": 31079,
    "dur": 3.7,
    "speaker": "Metal Gear",
-   "en": "Ten percent margin of error from racial averages.",
-   "enabled": true
+   "en": "Погрешность от средних для расы - 10%.",
+   "enabled": true,
+   "en_src": "Ten percent margin of error from racial averages."
   },
   {
    "id": "B200_c7f35_0c",
@@ -389,8 +423,9 @@
    "end": 31615,
    "dur": 3.6,
    "speaker": "Metal Gear",
-   "en": "Adding estimated hairstyle and eyes.",
-   "enabled": true
+   "en": "Добавляю предполагаемые причёску и глаза.",
+   "enabled": true,
+   "en_src": "Adding estimated hairstyle and eyes."
   },
   {
    "id": "B200_c7f36_0",
@@ -400,8 +435,9 @@
    "end": 32095,
    "dur": 3.1,
    "speaker": "Metal Gear",
-   "en": "The second victim's head is reconstructed.",
-   "enabled": true
+   "en": "Голова второй жертвы восстановлена.",
+   "enabled": true,
+   "en_src": "The second victim's head is reconstructed."
   },
   {
    "id": "B200_c7f37_0",
@@ -411,8 +447,9 @@
    "end": 32287,
    "dur": 1.2,
    "speaker": "Gillian",
-   "en": "It's Lisa Nielsen.",
-   "enabled": true
+   "en": "Это Лиза Нильсен.",
+   "enabled": true,
+   "en_src": "It's Lisa Nielsen."
   },
   {
    "id": "B200_c7f38_0",
@@ -422,8 +459,9 @@
    "end": 32703,
    "dur": 2.7,
    "speaker": "Metal Gear",
-   "en": "Now I'll reconstruct the third victim.",
-   "enabled": true
+   "en": "Теперь восстановлю третью жертву.",
+   "enabled": true,
+   "en_src": "Now I'll reconstruct the third victim."
   },
   {
    "id": "B200_c7f39_0",
@@ -433,8 +471,9 @@
    "end": 32879,
    "dur": 1.1,
    "speaker": "Metal Gear",
-   "en": "Body number three.",
-   "enabled": true
+   "en": "Тело номер три.",
+   "enabled": true,
+   "en_src": "Body number three."
   },
   {
    "id": "B200_c7f40_0",
@@ -444,8 +483,9 @@
    "end": 33503,
    "dur": 4.1,
    "speaker": "Metal Gear",
-   "en": "Creating skull data using the same process.",
-   "enabled": true
+   "en": "Строю модель черепа тем же способом.",
+   "enabled": true,
+   "en_src": "Creating skull data using the same process."
   },
   {
    "id": "B200_c7f41_0",
@@ -455,8 +495,9 @@
    "end": 33743,
    "dur": 1.5,
    "speaker": "Metal Gear",
-   "en": "Head data complete.",
-   "enabled": true
+   "en": "Данные о голове готовы.",
+   "enabled": true,
+   "en_src": "Head data complete."
   },
   {
    "id": "B200_c7f42_0",
@@ -466,8 +507,9 @@
    "end": 34351,
    "dur": 3.9,
    "speaker": "Metal Gear",
-   "en": "Reconstructing from the skull data as before.",
-   "enabled": true
+   "en": "Восстанавливаю по данным черепа, как раньше.",
+   "enabled": true,
+   "en_src": "Reconstructing from the skull data as before."
   },
   {
    "id": "B200_c7f43_0",
@@ -477,8 +519,9 @@
    "end": 34870,
    "dur": 4.8,
    "speaker": "Metal Gear",
-   "en": "First stage of reconstruction complete.",
-   "enabled": true
+   "en": "Первый этап реконструкции завершён.",
+   "enabled": true,
+   "en_src": "First stage of reconstruction complete."
   },
   {
    "id": "B200_c7f43_0b",
@@ -488,8 +531,9 @@
    "end": 35513,
    "dur": 6.7,
    "speaker": "Metal Gear",
-   "en": "Ten percent margin of error from racial averages.",
-   "enabled": true
+   "en": "Погрешность от средних для расы - 10%.",
+   "enabled": true,
+   "en_src": "Ten percent margin of error from racial averages."
   },
   {
    "id": "B200_c7f43_0c",
@@ -499,8 +543,9 @@
    "end": 35903,
    "dur": 6.4,
    "speaker": "Metal Gear",
-   "en": "Adding estimated hairstyle and eyes.",
-   "enabled": true
+   "en": "Добавляю предполагаемые причёску и глаза.",
+   "enabled": true,
+   "en_src": "Adding estimated hairstyle and eyes."
   },
   {
    "id": "B200_c7f44_0",
@@ -510,8 +555,9 @@
    "end": 36415,
    "dur": 3.3,
    "speaker": "Metal Gear",
-   "en": "The third victim's head is reconstructed.",
-   "enabled": true
+   "en": "Голова третьей жертвы восстановлена.",
+   "enabled": true,
+   "en_src": "The third victim's head is reconstructed."
   },
   {
    "id": "B200_c7f45_0",
@@ -521,8 +567,9 @@
    "end": 36575,
    "dur": 1.0,
    "speaker": "Gillian",
-   "en": "Who's this guy?",
-   "enabled": true
+   "en": "А это кто?",
+   "enabled": true,
+   "en_src": "Who's this guy?"
   },
   {
    "id": "B200_c7f46_0",
@@ -532,9 +579,10 @@
    "end": 37103,
    "dur": 3.4,
    "speaker": "Randam",
-   "en": "That's the director of Queen Hospital.",
+   "en": "Это директор больницы \"Куин\".",
    "enabled": true,
-   "by_ear": true
+   "by_ear": true,
+   "en_src": "That's the director of Queen Hospital."
   },
   {
    "id": "B200_c7f47_0",
@@ -544,8 +592,9 @@
    "end": 37391,
    "dur": 1.8,
    "speaker": "Metal Gear",
-   "en": "Chin Shu Ho.",
-   "enabled": true
+   "en": "Чин Шу Хо.",
+   "enabled": true,
+   "en_src": "Chin Shu Ho."
   },
   {
    "id": "B200_c7f48_0",
@@ -555,8 +604,9 @@
    "end": 37791,
    "dur": 2.6,
    "speaker": "Metal Gear",
-   "en": "Now I'll reconstruct the last victim.",
-   "enabled": true
+   "en": "Теперь восстановлю последнюю жертву.",
+   "enabled": true,
+   "en_src": "Now I'll reconstruct the last victim."
   },
   {
    "id": "B200_c7f49_0",
@@ -566,8 +616,9 @@
    "end": 38255,
    "dur": 3.0,
    "speaker": "Gillian",
-   "en": "The most recent body. Still decomposing.",
-   "enabled": true
+   "en": "Самое свежее тело. Ещё разлагается.",
+   "enabled": true,
+   "en_src": "The most recent body. Still decomposing."
   },
   {
    "id": "B200_c7f50_0",
@@ -577,8 +628,9 @@
    "end": 38415,
    "dur": 1.0,
    "speaker": "Metal Gear",
-   "en": "The last body.",
-   "enabled": true
+   "en": "Последнее тело.",
+   "enabled": true,
+   "en_src": "The last body."
   },
   {
    "id": "B200_c7f51_0",
@@ -588,8 +640,9 @@
    "end": 39071,
    "dur": 4.3,
    "speaker": "Metal Gear",
-   "en": "Creating skull data using the same process.",
-   "enabled": true
+   "en": "Строю модель черепа тем же способом.",
+   "enabled": true,
+   "en_src": "Creating skull data using the same process."
   },
   {
    "id": "B200_c7f52_0",
@@ -599,8 +652,9 @@
    "end": 39311,
    "dur": 1.5,
    "speaker": "Metal Gear",
-   "en": "Head data complete.",
-   "enabled": true
+   "en": "Данные о голове готовы.",
+   "enabled": true,
+   "en_src": "Head data complete."
   },
   {
    "id": "B200_c7f53_0",
@@ -610,8 +664,9 @@
    "end": 39919,
    "dur": 3.9,
    "speaker": "Metal Gear",
-   "en": "Reconstructing from the skull data as before.",
-   "enabled": true
+   "en": "Восстанавливаю по данным черепа, как раньше.",
+   "enabled": true,
+   "en_src": "Reconstructing from the skull data as before."
   },
   {
    "id": "B200_c7f54_0",
@@ -621,8 +676,9 @@
    "end": 40373,
    "dur": 2.9,
    "speaker": "Metal Gear",
-   "en": "First stage of reconstruction complete.",
-   "enabled": true
+   "en": "Первый этап реконструкции завершён.",
+   "enabled": true,
+   "en_src": "First stage of reconstruction complete."
   },
   {
    "id": "B200_c7f54_0b",
@@ -632,8 +688,9 @@
    "end": 40975,
    "dur": 4.0,
    "speaker": "Metal Gear",
-   "en": "Ten percent margin of error from racial averages.",
-   "enabled": true
+   "en": "Погрешность от средних для расы - 10%.",
+   "enabled": true,
+   "en_src": "Ten percent margin of error from racial averages."
   },
   {
    "id": "B200_c7f54_0c",
@@ -643,8 +700,9 @@
    "end": 41551,
    "dur": 3.9,
    "speaker": "Metal Gear",
-   "en": "Adding estimated hairstyle and eyes.",
-   "enabled": true
+   "en": "Добавляю предполагаемые причёску и глаза.",
+   "enabled": true,
+   "en_src": "Adding estimated hairstyle and eyes."
   },
   {
    "id": "B200_c7f55_0",
@@ -654,8 +712,9 @@
    "end": 41935,
    "dur": 2.5,
    "speaker": "Metal Gear",
-   "en": "The last victim's head is reconstructed.",
-   "enabled": true
+   "en": "Голова последней жертвы восстановлена.",
+   "enabled": true,
+   "en_src": "The last victim's head is reconstructed."
   },
   {
    "id": "B200_c7f56_0",
@@ -665,8 +724,9 @@
    "end": 42127,
    "dur": 2.3,
    "speaker": "Gillian",
-   "en": "The Chief!",
-   "enabled": true
+   "en": "Шеф!",
+   "enabled": true,
+   "en_src": "The Chief!"
   },
   {
    "id": "B200_c7f57_0",
@@ -676,8 +736,9 @@
    "end": 42335,
    "dur": 1.3,
    "speaker": "Randam",
-   "en": "What?!",
-   "enabled": true
+   "en": "Что?!",
+   "enabled": true,
+   "en_src": "What?!"
   },
   {
    "id": "B200_c7f58_0",
@@ -687,8 +748,9 @@
    "end": 42831,
    "dur": 6.4,
    "speaker": "Gillian",
-   "en": "The Chief was a Snatcher!",
-   "enabled": true
+   "en": "Шеф был снатчером!",
+   "enabled": true,
+   "en_src": "The Chief was a Snatcher!"
   },
   {
    "id": "B200_c7f58_0b",
@@ -698,8 +760,9 @@
    "end": 43311,
    "dur": 6.4,
    "speaker": "Gillian",
-   "en": "The Benson in the record was Benson Cunningham?",
-   "enabled": true
+   "en": "Бенсон из записей - это Бенсон Каннингем?",
+   "enabled": true,
+   "en_src": "The Benson in the record was Benson Cunningham?"
   },
   {
    "id": "B200_c7f59_0",
@@ -709,8 +772,9 @@
    "end": 43541,
    "dur": 4.5,
    "speaker": "Metal Gear",
-   "en": "Judging by the body's condition,",
-   "enabled": true
+   "en": "Судя по состоянию тела,",
+   "enabled": true,
+   "en_src": "Judging by the body's condition,"
   },
   {
    "id": "B200_c7f59_0b",
@@ -720,8 +784,9 @@
    "end": 44095,
    "dur": 5.7,
    "speaker": "Metal Gear",
-   "en": "he was snatched about a month ago.",
-   "enabled": true
+   "en": "его подменили около месяца назад.",
+   "enabled": true,
+   "en_src": "he was snatched about a month ago."
   },
   {
    "id": "B200_c7f60_0",
@@ -731,8 +796,9 @@
    "end": 44591,
    "dur": 2.9,
    "speaker": "Gillian",
-   "en": "The Chief sabotaged the Tricycle too.",
-   "enabled": true
+   "en": "И трицикл испортил тоже шеф.",
+   "enabled": true,
+   "en_src": "The Chief sabotaged the Tricycle too."
   },
   {
    "id": "B200_c7f60_0b",
@@ -742,8 +808,9 @@
    "end": 45343,
    "dur": 5.3,
    "speaker": "Gillian",
-   "en": "The Outer Heaven matches in Harry's room were planted to frame him.",
-   "enabled": true
+   "en": "А спички \"Аутер Хэвен\" подбросил Гарри, чтобы его подставить.",
+   "enabled": true,
+   "en_src": "The Outer Heaven matches in Harry's room were planted to frame him."
   },
   {
    "id": "B200_c7f61_0",
@@ -753,8 +820,9 @@
    "end": 46191,
    "dur": 11.0,
    "speaker": "Metal Gear",
-   "en": "Harry must have realized and left the \"Face to face\" note.",
-   "enabled": true
+   "en": "Гарри, видно, понял и оставил записку \"Лицом к лицу\".",
+   "enabled": true,
+   "en_src": "Harry must have realized and left the \"Face to face\" note."
   },
   {
    "id": "B200_c7f62_0",
@@ -764,8 +832,9 @@
    "end": 47007,
    "dur": 10.6,
    "speaker": "Metal Gear",
-   "en": "Wait! Mika said Harry followed the Chief. That's right!",
-   "enabled": true
+   "en": "Стой! Мика говорила, что Гарри пошёл за шефом. Точно!",
+   "enabled": true,
+   "en_src": "Wait! Mika said Harry followed the Chief. That's right!"
   },
   {
    "id": "B200_c7f63_0",
@@ -775,8 +844,9 @@
    "end": 47663,
    "dur": 4.3,
    "speaker": "Gillian",
-   "en": "So he went looking for evidence against the Chief.",
-   "enabled": true
+   "en": "Значит, он пошёл искать улики против шефа.",
+   "enabled": true,
+   "en_src": "So he went looking for evidence against the Chief."
   },
   {
    "id": "B200_c7f64_0",
@@ -786,8 +856,9 @@
    "end": 47967,
    "dur": 1.9,
    "speaker": "Randam",
-   "en": "That old man's in danger, Gillian.",
-   "enabled": true
+   "en": "Старик в опасности, Гиллиан.",
+   "enabled": true,
+   "en_src": "That old man's in danger, Gillian."
   },
   {
    "id": "B200_c7f65_0",
@@ -797,8 +868,9 @@
    "end": 48400,
    "dur": 3.3,
    "speaker": "Metal Gear",
-   "en": "If the Chief sabotaged the Tricycle,",
-   "enabled": true
+   "en": "Если трицикл испортил шеф,",
+   "enabled": true,
+   "en_src": "If the Chief sabotaged the Tricycle,"
   },
   {
    "id": "B200_c7f65_0b",
@@ -808,8 +880,9 @@
    "end": 49135,
    "dur": 4.5,
    "speaker": "Metal Gear",
-   "en": "he must already know we've discovered what he is.",
-   "enabled": true
+   "en": "он уже знает, что мы его раскрыли.",
+   "enabled": true,
+   "en_src": "he must already know we've discovered what he is."
   },
   {
    "id": "B200_c7f66_0",
@@ -819,8 +892,9 @@
    "end": 49503,
    "dur": 2.3,
    "speaker": "Gillian",
-   "en": "Damn it! Harry and Mika are in danger!",
-   "enabled": true
+   "en": "Чёрт! Гарри и Мика в опасности!",
+   "enabled": true,
+   "en_src": "Damn it! Harry and Mika are in danger!"
   },
   {
    "id": "B200_c7f67_0",
@@ -830,8 +904,9 @@
    "end": 49813,
    "dur": 2.0,
    "speaker": "Chin",
-   "en": "That's far enough, JUNKER!",
-   "enabled": true
+   "en": "Ни шагу дальше, ДЖАНКЕР!",
+   "enabled": true,
+   "en_src": "That's far enough, JUNKER!"
   },
   {
    "id": "B200_c7f67_0b",
@@ -841,9 +916,10 @@
    "end": 50319,
    "dur": 2.8,
    "speaker": "Chin",
-   "en": "Your little detective game is over!",
+   "en": "Твоя игра в сыщика окончена!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Your little detective game is over!"
   },
   {
    "id": "B200_c_00",
@@ -853,8 +929,9 @@
    "end": 66571,
    "dur": 14.0,
    "speaker": "Chin",
-   "en": "That's far enough, JUNKER. Your detective game is over.",
-   "enabled": true
+   "en": "Ни шагу дальше, ДЖАНКЕР. Игра в сыщика окончена.",
+   "enabled": true,
+   "en_src": "That's far enough, JUNKER. Your detective game is over."
   },
   {
    "id": "B200_c_01",
@@ -864,9 +941,10 @@
    "end": 68124,
    "dur": 10.4,
    "speaker": "Gillian",
-   "en": "It's them! Snatchers! Get them!",
+   "en": "Это они! Снатчеры! Огонь!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "It's them! Snatchers! Get them!"
   },
   {
    "id": "B200_r_00",
@@ -876,8 +954,9 @@
    "end": 78402,
    "dur": 4.8,
    "speaker": "Gillian",
-   "en": "My arm! My Blaster! My leg's been hit!",
-   "enabled": true
+   "en": "Рука! Мой бластер! Нога ранена!",
+   "enabled": true,
+   "en_src": "My arm! My Blaster! My leg's been hit!"
   },
   {
    "id": "B200_r_01",
@@ -887,8 +966,9 @@
    "end": 79011,
    "dur": 4.1,
    "speaker": "Chin",
-   "en": "What a sorry sight, JUNKER!",
-   "enabled": true
+   "en": "Жалкое зрелище, ДЖАНКЕР!",
+   "enabled": true,
+   "en_src": "What a sorry sight, JUNKER!"
   },
   {
    "id": "B200_r_02",
@@ -898,8 +978,9 @@
    "end": 80049,
    "dur": 6.9,
    "speaker": "Gillian",
-   "en": "Who's there? Chin! Chin Shu Ho, you bastard!",
-   "enabled": true
+   "en": "Кто там? Чин! Чин Шу Хо, мерзавец!",
+   "enabled": true,
+   "en_src": "Who's there? Chin! Chin Shu Ho, you bastard!"
   },
   {
    "id": "B200_r_04",
@@ -909,8 +990,9 @@
    "end": 81487,
    "dur": 10.2,
    "speaker": "Chin",
-   "en": "Still have some fight left, JUNKER? You're finished.",
-   "enabled": true
+   "en": "Ещё рыпаешься, ДЖАНКЕР? Тебе конец.",
+   "enabled": true,
+   "en_src": "Still have some fight left, JUNKER? You're finished."
   },
   {
    "id": "B200_r_04b",
@@ -920,8 +1002,9 @@
    "end": 82283,
    "dur": 9.2,
    "speaker": "Chin",
-   "en": "Our plan is entering its second phase, Level 2.",
-   "enabled": true
+   "en": "Наш план вступает во вторую фазу - Уровень 2.",
+   "enabled": true,
+   "en_src": "Our plan is entering its second phase, Level 2."
   },
   {
    "id": "B200_r_04c",
@@ -931,8 +1014,9 @@
    "end": 83159,
    "dur": 9.6,
    "speaker": "Chin",
-   "en": "Then this city and the entire world will be ours.",
-   "enabled": true
+   "en": "И тогда этот город и весь мир будут нашими.",
+   "enabled": true,
+   "en_src": "Then this city and the entire world will be ours."
   },
   {
    "id": "B200_r_07",
@@ -942,8 +1026,9 @@
    "end": 83684,
    "dur": 3.5,
    "speaker": "Gillian",
-   "en": "Second phase? What do you mean?",
-   "enabled": true
+   "en": "Вторую фазу? Что это значит?",
+   "enabled": true,
+   "en_src": "Second phase? What do you mean?"
   },
   {
    "id": "B200_r_08",
@@ -953,8 +1038,9 @@
    "end": 84357,
    "dur": 6.2,
    "speaker": "Chin",
-   "en": "As you know, our movements have been restricted",
-   "enabled": true
+   "en": "Как ты знаешь, нас сковывает",
+   "enabled": true,
+   "en_src": "As you know, our movements have been restricted"
   },
   {
    "id": "B200_r_08b",
@@ -964,8 +1050,9 @@
    "end": 84839,
    "dur": 4.3,
    "speaker": "Chin",
-   "en": "by our imperfect artificial skin.",
-   "enabled": true
+   "en": "несовершенная искусственная кожа.",
+   "enabled": true,
+   "en_src": "by our imperfect artificial skin."
   },
   {
    "id": "B200_r_08c",
@@ -975,8 +1062,9 @@
    "end": 86210,
    "dur": 7.9,
    "speaker": "Chin",
-   "en": "It forces us to avoid ultraviolet rays and hide underground.",
-   "enabled": true
+   "en": "Из-за неё мы прячемся от ультрафиолета под землёй.",
+   "enabled": true,
+   "en_src": "It forces us to avoid ultraviolet rays and hide underground."
   },
   {
    "id": "B200_r_08d",
@@ -986,8 +1074,9 @@
    "end": 86723,
    "dur": 4.9,
    "speaker": "Chin",
-   "en": "We can only operate on winter nights.",
-   "enabled": true
+   "en": "Действовать можем лишь зимними ночами.",
+   "enabled": true,
+   "en_src": "We can only operate on winter nights."
   },
   {
    "id": "B200_r_08e",
@@ -997,8 +1086,9 @@
    "end": 87395,
    "dur": 4.5,
    "speaker": "Chin",
-   "en": "We even need a hospital like this.",
-   "enabled": true
+   "en": "Нам даже нужна такая больница.",
+   "enabled": true,
+   "en_src": "We even need a hospital like this."
   },
   {
    "id": "B200_r_08f",
@@ -1008,8 +1098,9 @@
    "end": 88016,
    "dur": 5.9,
    "speaker": "Chin",
-   "en": "All because of our imperfect artificial skin.",
-   "enabled": true
+   "en": "И всё из-за несовершенной кожи.",
+   "enabled": true,
+   "en_src": "All because of our imperfect artificial skin."
   },
   {
    "id": "B200_r_08g",
@@ -1019,8 +1110,9 @@
    "end": 88483,
    "dur": 6.3,
    "speaker": "Chin",
-   "en": "It is the only difference between us and humans.",
-   "enabled": true
+   "en": "Только этим мы и отличаемся от людей.",
+   "enabled": true,
+   "en_src": "It is the only difference between us and humans."
   },
   {
    "id": "B200_r_08h",
@@ -1030,8 +1122,9 @@
    "end": 89587,
    "dur": 7.1,
    "speaker": "Chin",
-   "en": "But at last, we can overcome that tiresome limitation.",
-   "enabled": true
+   "en": "Но наконец мы преодолеем это досадное ограничение.",
+   "enabled": true,
+   "en_src": "But at last, we can overcome that tiresome limitation."
   },
   {
    "id": "B200_r_15",
@@ -1041,8 +1134,9 @@
    "end": 89761,
    "dur": 1.2,
    "speaker": "Gillian",
-   "en": "What?",
-   "enabled": true
+   "en": "Что?",
+   "enabled": true,
+   "en_src": "What?"
   },
   {
    "id": "B200_r_16",
@@ -1052,8 +1146,9 @@
    "end": 90434,
    "dur": 9.0,
    "speaker": "Chin",
-   "en": "We've found the key to perfect artificial skin,",
-   "enabled": true
+   "en": "Мы нашли ключ к совершенной коже",
+   "enabled": true,
+   "en_src": "We've found the key to perfect artificial skin,"
   },
   {
    "id": "B200_r_16b",
@@ -1063,8 +1158,9 @@
    "end": 91108,
    "dur": 9.0,
    "speaker": "Chin",
-   "en": "thanks to a new collaborator.",
-   "enabled": true
+   "en": "благодаря новому союзнику.",
+   "enabled": true,
+   "en_src": "thanks to a new collaborator."
   },
   {
    "id": "B200_r_17",
@@ -1074,8 +1170,9 @@
    "end": 91819,
    "dur": 4.7,
    "speaker": "Gillian",
-   "en": "Perfect artificial skin? A new collaborator?",
-   "enabled": true
+   "en": "Совершенной коже? Новому союзнику?",
+   "enabled": true,
+   "en_src": "Perfect artificial skin? A new collaborator?"
   },
   {
    "id": "B200_r_18",
@@ -1085,8 +1182,9 @@
    "end": 92512,
    "dur": 8.3,
    "speaker": "Chin",
-   "en": "Once it's complete, nothing will hold us back.",
-   "enabled": true
+   "en": "Когда она будет готова, нас ничто не удержит.",
+   "enabled": true,
+   "en_src": "Once it's complete, nothing will hold us back."
   },
   {
    "id": "B200_r_18b",
@@ -1096,8 +1194,9 @@
    "end": 92818,
    "dur": 2.7,
    "speaker": "Chin",
-   "en": "With that skin,",
-   "enabled": true
+   "en": "С этой кожей",
+   "enabled": true,
+   "en_src": "With that skin,"
   },
   {
    "id": "B200_r_18c",
@@ -1107,8 +1206,9 @@
    "end": 94081,
    "dur": 10.1,
    "speaker": "Chin",
-   "en": "our snatching plan will enter its second phase, Level 2.",
-   "enabled": true
+   "en": "наш план подмены вступит во вторую фазу - Уровень 2.",
+   "enabled": true,
+   "en_src": "our snatching plan will enter its second phase, Level 2."
   },
   {
    "id": "B200_r_18d",
@@ -1118,8 +1218,9 @@
    "end": 94430,
    "dur": 7.0,
    "speaker": "Chin",
-   "en": "Our experiment in this city will become",
-   "enabled": true
+   "en": "Наш эксперимент в этом городе станет",
+   "enabled": true,
+   "en_src": "Our experiment in this city will become"
   },
   {
    "id": "B200_r_18e",
@@ -1129,8 +1230,9 @@
    "end": 94744,
    "dur": 6.3,
    "speaker": "Chin",
-   "en": "a full-scale invasion of the world.",
-   "enabled": true
+   "en": "полномасштабным вторжением в мир.",
+   "enabled": true,
+   "en_src": "a full-scale invasion of the world."
   },
   {
    "id": "B200_r_21",
@@ -1140,8 +1242,9 @@
    "end": 95569,
    "dur": 5.5,
    "speaker": "Randam",
-   "en": "Don't get carried away. You won't leave this city so easily.",
-   "enabled": true
+   "en": "Не зарывайся. Так просто ты из города не уйдёшь.",
+   "enabled": true,
+   "en_src": "Don't get carried away. You won't leave this city so easily."
   },
   {
    "id": "B200_r_22",
@@ -1151,8 +1254,9 @@
    "end": 96156,
    "dur": 3.9,
    "speaker": "Chin",
-   "en": "Humans are such hopeless fools.",
-   "enabled": true
+   "en": "Люди - безнадёжные глупцы.",
+   "enabled": true,
+   "en_src": "Humans are such hopeless fools."
   },
   {
    "id": "B200_r_23",
@@ -1162,8 +1266,9 @@
    "end": 96504,
    "dur": 2.3,
    "speaker": "Randam",
-   "en": "What?!",
-   "enabled": true
+   "en": "Что?!",
+   "enabled": true,
+   "en_src": "What?!"
   },
   {
    "id": "B200_r_24",
@@ -1173,8 +1278,9 @@
    "end": 97527,
    "dur": 12.6,
    "speaker": "Chin",
-   "en": "You know tomorrow's Kyoto summit will discuss the Snatchers.",
-   "enabled": true
+   "en": "Завтра на Киотском саммите будут обсуждать снатчеров.",
+   "enabled": true,
+   "en_src": "You know tomorrow's Kyoto summit will discuss the Snatchers."
   },
   {
    "id": "B200_r_24b",
@@ -1184,8 +1290,9 @@
    "end": 98370,
    "dur": 6.6,
    "speaker": "Chin",
-   "en": "We will attack the summit.",
-   "enabled": true
+   "en": "Мы нападём на саммит.",
+   "enabled": true,
+   "en_src": "We will attack the summit."
   },
   {
    "id": "B200_r_26",
@@ -1195,8 +1302,9 @@
    "end": 98574,
    "dur": 3.5,
    "speaker": "Gillian",
-   "en": "Fool! Security's too tight.",
-   "enabled": true
+   "en": "Дурак! Там слишком сильная охрана.",
+   "enabled": true,
+   "en_src": "Fool! Security's too tight."
   },
   {
    "id": "B200_r_26b",
@@ -1206,8 +1314,9 @@
    "end": 99105,
    "dur": 6.3,
    "speaker": "Gillian",
-   "en": "You won't even get close, let alone inside.",
-   "enabled": true
+   "en": "Вы туда даже близко не подойдёте.",
+   "enabled": true,
+   "en_src": "You won't even get close, let alone inside."
   },
   {
    "id": "B200_r_27",
@@ -1217,8 +1326,9 @@
    "end": 99873,
    "dur": 7.4,
    "speaker": "Chin",
-   "en": "Must I explain everything, JUNKER?",
-   "enabled": true
+   "en": "Всё тебе разжёвывать, ДЖАНКЕР?",
+   "enabled": true,
+   "en_src": "Must I explain everything, JUNKER?"
   },
   {
    "id": "B200_r_27b",
@@ -1228,8 +1338,9 @@
    "end": 101139,
    "dur": 14.5,
    "speaker": "Chin",
-   "en": "Surely you've heard that a JUNKER will attend as a special adviser.",
-   "enabled": true
+   "en": "Ты ведь слышал, что ДЖАНКЕР будет там советником.",
+   "enabled": true,
+   "en_src": "Surely you've heard that a JUNKER will attend as a special adviser."
   },
   {
    "id": "B200_r_29",
@@ -1239,8 +1350,9 @@
    "end": 102027,
    "dur": 11.8,
    "speaker": "Gillian",
-   "en": "The Chief! Cunningham! That's why you snatched him!",
-   "enabled": true
+   "en": "Шеф! Каннингем! Вот зачем вы его подменили!",
+   "enabled": true,
+   "en_src": "The Chief! Cunningham! That's why you snatched him!"
   },
   {
    "id": "B200_r_30",
@@ -1250,8 +1362,9 @@
    "end": 102627,
    "dur": 8.0,
    "speaker": "Chin",
-   "en": "We've known for six months that the Chief would attend.",
-   "enabled": true
+   "en": "Мы уже полгода знали, что шеф будет там.",
+   "enabled": true,
+   "en_src": "We've known for six months that the Chief would attend."
   },
   {
    "id": "B200_r_31",
@@ -1261,8 +1374,9 @@
    "end": 103143,
    "dur": 3.4,
    "speaker": "Metal Gear",
-   "en": "The summit is tomorrow, Gillian. We must hurry!",
-   "enabled": true
+   "en": "Саммит завтра, Гиллиан. Надо спешить!",
+   "enabled": true,
+   "en_src": "The summit is tomorrow, Gillian. We must hurry!"
   },
   {
    "id": "B200_r_32",
@@ -1272,8 +1386,9 @@
    "end": 104333,
    "dur": 7.4,
    "speaker": "Chin",
-   "en": "The Chief and all of JUNKER are in our hands. This city too.",
-   "enabled": true
+   "en": "Шеф и весь ДЖАНКЕР у нас в руках. И этот город тоже.",
+   "enabled": true,
+   "en_src": "The Chief and all of JUNKER are in our hands. This city too."
   },
   {
    "id": "B200_r_32b",
@@ -1283,8 +1398,9 @@
    "end": 105386,
    "dur": 7.6,
    "speaker": "Chin",
-   "en": "Tomorrow, the whole world. No one remains to stand in our way.",
-   "enabled": true
+   "en": "Завтра - весь мир. Нам больше никто не помешает.",
+   "enabled": true,
+   "en_src": "Tomorrow, the whole world. No one remains to stand in our way."
   },
   {
    "id": "B200_r_32c",
@@ -1294,8 +1410,9 @@
    "end": 106388,
    "dur": 6.7,
    "speaker": "Chin",
-   "en": "At last, we will avenge what happened fifty years ago.",
-   "enabled": true
+   "en": "Наконец мы отомстим за то, что было 50 лет назад.",
+   "enabled": true,
+   "en_src": "At last, we will avenge what happened fifty years ago."
   },
   {
    "id": "B200_r_37",
@@ -1305,8 +1422,9 @@
    "end": 106670,
    "dur": 1.9,
    "speaker": "Gillian",
-   "en": "Who the hell are you?",
-   "enabled": true
+   "en": "Кто вы, чёрт возьми, такие?",
+   "enabled": true,
+   "en_src": "Who the hell are you?"
   },
   {
    "id": "B200_r_38",
@@ -1316,8 +1434,9 @@
    "end": 107839,
    "dur": 10.4,
    "speaker": "Chin",
-   "en": "Us? Deep within the Kremlin, our creator Madnar gave us life.",
-   "enabled": true
+   "en": "Мы? Нас создал Мэднар в недрах \"Кремля\".",
+   "enabled": true,
+   "en_src": "Us? Deep within the Kremlin, our creator Madnar gave us life."
   },
   {
    "id": "B200_r_38b",
@@ -1327,8 +1446,9 @@
    "end": 108647,
    "dur": 9.2,
    "speaker": "Chin",
-   "en": "We are the chosen people, the next stage of evolution.",
-   "enabled": true
+   "en": "Мы - избранные, следующая ступень эволюции.",
+   "enabled": true,
+   "en_src": "We are the chosen people, the next stage of evolution."
   },
   {
    "id": "B200_r_41",
@@ -1338,8 +1458,9 @@
    "end": 109649,
    "dur": 6.7,
    "speaker": "Gillian",
-   "en": "Madnar? Kremlin? Those names sound familiar.",
-   "enabled": true
+   "en": "Мэднар? \"Кремль\"? Знакомые имена.",
+   "enabled": true,
+   "en_src": "Madnar? Kremlin? Those names sound familiar."
   },
   {
    "id": "B200_r_43",
@@ -1349,8 +1470,9 @@
    "end": 110276,
    "dur": 6.4,
    "speaker": "Chin",
-   "en": "Our goal is to snatch the world's VIPs.",
-   "enabled": true
+   "en": "Наша цель - подменить VIP-персон всего мира.",
+   "enabled": true,
+   "en_src": "Our goal is to snatch the world's VIPs."
   },
   {
    "id": "B200_r_43b",
@@ -1360,8 +1482,9 @@
    "end": 110696,
    "dur": 6.5,
    "speaker": "Chin",
-   "en": "Then control the thoughts of every race,",
-   "enabled": true
+   "en": "Затем управлять мыслями всех рас,",
+   "enabled": true,
+   "en_src": "Then control the thoughts of every race,"
   },
   {
    "id": "B200_r_43c",
@@ -1371,8 +1494,9 @@
    "end": 111343,
    "dur": 5.5,
    "speaker": "Chin",
-   "en": "everywhere, and unite all peoples.",
-   "enabled": true
+   "en": "повсюду, и объединить все народы.",
+   "enabled": true,
+   "en_src": "everywhere, and unite all peoples."
   },
   {
    "id": "B200_r_45",
@@ -1382,8 +1506,9 @@
    "end": 111796,
    "dur": 3.0,
    "speaker": "Gillian",
-   "en": "Who's controlling you?",
-   "enabled": true
+   "en": "Кто вами управляет?",
+   "enabled": true,
+   "en_src": "Who's controlling you?"
   },
   {
    "id": "B200_r_46",
@@ -1393,8 +1518,9 @@
    "end": 112455,
    "dur": 6.3,
    "speaker": "Chin",
-   "en": "Like the Nazis, we begin our invasion",
-   "enabled": true
+   "en": "Как и нацисты, мы начинаем вторжение",
+   "enabled": true,
+   "en_src": "Like the Nazis, we begin our invasion"
   },
   {
    "id": "B200_r_46b",
@@ -1404,8 +1530,9 @@
    "end": 113086,
    "dur": 5.1,
    "speaker": "Chin",
-   "en": "by terrorizing the human mind.",
-   "enabled": true
+   "en": "с террора над человеческим разумом.",
+   "enabled": true,
+   "en_src": "by terrorizing the human mind."
   },
   {
    "id": "B200_r_46c",
@@ -1415,8 +1542,9 @@
    "end": 113963,
    "dur": 4.9,
    "speaker": "Chin",
-   "en": "We provoke and amplify doubt,",
-   "enabled": true
+   "en": "Мы разжигаем и раздуваем сомнение,",
+   "enabled": true,
+   "en_src": "We provoke and amplify doubt,"
   },
   {
    "id": "B200_r_46d",
@@ -1426,8 +1554,9 @@
    "end": 114436,
    "dur": 7.6,
    "speaker": "Chin",
-   "en": "the weakness at the root of the human psyche.",
-   "enabled": true
+   "en": "слабость, что лежит в корне психики людей.",
+   "enabled": true,
+   "en_src": "the weakness at the root of the human psyche."
   },
   {
    "id": "B200_r_46e",
@@ -1437,8 +1566,9 @@
    "end": 115507,
    "dur": 9.0,
    "speaker": "Chin",
-   "en": "That destroys trust, the foundation of human society.",
-   "enabled": true
+   "en": "Оно рушит доверие - основу человеческого общества.",
+   "enabled": true,
+   "en_src": "That destroys trust, the foundation of human society."
   },
   {
    "id": "B200_r_46f",
@@ -1448,8 +1578,9 @@
    "end": 116395,
    "dur": 10.6,
    "speaker": "Chin",
-   "en": "Doubt is humanity's most primitive, and most fragile, weakness.",
-   "enabled": true
+   "en": "Сомнение - самая примитивная и хрупкая слабость людей.",
+   "enabled": true,
+   "en_src": "Doubt is humanity's most primitive, and most fragile, weakness."
   },
   {
    "id": "B200_r_46g",
@@ -1459,8 +1590,9 @@
    "end": 117400,
    "dur": 8.3,
    "speaker": "Chin",
-   "en": "Our plan needs only a gentle touch at that point.",
-   "enabled": true
+   "en": "Нашему плану хватит лёгкого касания в эту точку.",
+   "enabled": true,
+   "en_src": "Our plan needs only a gentle touch at that point."
   },
   {
    "id": "B200_r_50",
@@ -1470,8 +1602,9 @@
    "end": 118015,
    "dur": 4.0,
    "speaker": "Randam",
-   "en": "We'll all die if this goes on, Gillian.",
-   "enabled": true
+   "en": "Так мы все погибнем, Гиллиан.",
+   "enabled": true,
+   "en_src": "We'll all die if this goes on, Gillian."
   },
   {
    "id": "B200_r_50b",
@@ -1481,8 +1614,9 @@
    "end": 118698,
    "dur": 4.6,
    "speaker": "Randam",
-   "en": "You have to make it back alive. You're a JUNKER.",
-   "enabled": true
+   "en": "Ты должен вернуться живым. Ты же ДЖАНКЕР.",
+   "enabled": true,
+   "en_src": "You have to make it back alive. You're a JUNKER."
   },
   {
    "id": "B200_r_53",
@@ -1492,8 +1626,9 @@
    "end": 118992,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "What are you planning, Randam?",
-   "enabled": true
+   "en": "Что ты задумал, Рэндам?",
+   "enabled": true,
+   "en_src": "What are you planning, Randam?"
   },
   {
    "id": "B200_r_54",
@@ -1503,8 +1638,9 @@
    "end": 119448,
    "dur": 3.0,
    "speaker": "Randam",
-   "en": "Some big fireworks.",
-   "enabled": true
+   "en": "Большой фейерверк.",
+   "enabled": true,
+   "en_src": "Some big fireworks."
   },
   {
    "id": "B200_r_55",
@@ -1514,8 +1650,9 @@
    "end": 120138,
    "dur": 4.6,
    "speaker": "Gillian",
-   "en": "You'll blow yourself up before you let them snatch you?",
-   "enabled": true
+   "en": "Взорвёшь себя, лишь бы тебя не подменили?",
+   "enabled": true,
+   "en_src": "You'll blow yourself up before you let them snatch you?"
   },
   {
    "id": "B200_r_56",
@@ -1525,8 +1662,9 @@
    "end": 120435,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "Let's fight them together, Randam!",
-   "enabled": true
+   "en": "Давай драться вместе, Рэндам!",
+   "enabled": true,
+   "en_src": "Let's fight them together, Randam!"
   },
   {
    "id": "B200_r_57",
@@ -1536,8 +1674,9 @@
    "end": 121168,
    "dur": 3.6,
    "speaker": "Randam",
-   "en": "No. My thigh's been hit. Damn it.",
-   "enabled": true
+   "en": "Нет. Мне попали в бедро. Чёрт.",
+   "enabled": true,
+   "en_src": "No. My thigh's been hit. Damn it."
   },
   {
    "id": "B200_r_57b",
@@ -1547,8 +1686,9 @@
    "end": 121653,
    "dur": 4.5,
    "speaker": "Randam",
-   "en": "A leg wound is fatal for a bounty hunter.",
-   "enabled": true
+   "en": "Для охотника за головами рана в ногу - смерть.",
+   "enabled": true,
+   "en_src": "A leg wound is fatal for a bounty hunter."
   },
   {
    "id": "B200_r_59",
@@ -1558,8 +1698,9 @@
    "end": 122163,
    "dur": 3.4,
    "speaker": "Gillian",
-   "en": "Do you have a chance?",
-   "enabled": true
+   "en": "У тебя есть шанс?",
+   "enabled": true,
+   "en_src": "Do you have a chance?"
   },
   {
    "id": "B200_r_60",
@@ -1569,8 +1710,9 @@
    "end": 122739,
    "dur": 4.5,
    "speaker": "Randam",
-   "en": "I'm not a bounty hunter for nothing.",
-   "enabled": true
+   "en": "Я не зря охотник за головами.",
+   "enabled": true,
+   "en_src": "I'm not a bounty hunter for nothing."
   },
   {
    "id": "B200_r_60b",
@@ -1580,8 +1722,9 @@
    "end": 123120,
    "dur": 4.9,
    "speaker": "Randam",
-   "en": "I've prepared for situations like this.",
-   "enabled": true
+   "en": "На такой случай я подготовился.",
+   "enabled": true,
+   "en_src": "I've prepared for situations like this."
   },
   {
    "id": "B200_r_60c",
@@ -1591,8 +1734,9 @@
    "end": 124937,
    "dur": 7.7,
    "speaker": "Randam",
-   "en": "I've always held on to things. December's late for fireworks.",
-   "enabled": true
+   "en": "Всегда держал при себе. Для фейерверка декабрь поздновато.",
+   "enabled": true,
+   "en_src": "I've always held on to things. December's late for fireworks."
   },
   {
    "id": "B200_r_60d",
@@ -1602,8 +1746,9 @@
    "end": 126285,
    "dur": 8.9,
    "speaker": "Randam",
-   "en": "Call it a year-end show. My belt is packed with TNT-PX. Powerful stuff.",
-   "enabled": true
+   "en": "Пусть будет новогоднее шоу. В поясе TNT-PX. Мощная штука.",
+   "enabled": true,
+   "en_src": "Call it a year-end show. My belt is packed with TNT-PX. Powerful stuff."
   },
   {
    "id": "B200_r_60e",
@@ -1613,8 +1758,9 @@
    "end": 126659,
    "dur": 4.2,
    "speaker": "Randam",
-   "en": "They use it in the mines on Mars.",
-   "enabled": true
+   "en": "Её применяют в шахтах на Марсе.",
+   "enabled": true,
+   "en_src": "They use it in the mines on Mars."
   },
   {
    "id": "B200_r_60f",
@@ -1624,8 +1770,9 @@
    "end": 127911,
    "dur": 7.8,
    "speaker": "Randam",
-   "en": "One button will blow this hospital sky-high. No time to think.",
-   "enabled": true
+   "en": "Одна кнопка - и больница взлетит до небес. Некогда думать.",
+   "enabled": true,
+   "en_src": "One button will blow this hospital sky-high. No time to think."
   },
   {
    "id": "B200_r_60g",
@@ -1635,8 +1782,9 @@
    "end": 128606,
    "dur": 5.7,
    "speaker": "Randam",
-   "en": "Go, JUNKER! What are you waiting for, coward?",
-   "enabled": true
+   "en": "Иди, ДЖАНКЕР! Чего ждёшь, трус?",
+   "enabled": true,
+   "en_src": "Go, JUNKER! What are you waiting for, coward?"
   },
   {
    "id": "B200_r_60h",
@@ -1646,8 +1794,9 @@
    "end": 128879,
    "dur": 3.1,
    "speaker": "Randam",
-   "en": "Escape through this vent!",
-   "enabled": true
+   "en": "Беги через вентиляцию!",
+   "enabled": true,
+   "en_src": "Escape through this vent!"
   },
   {
    "id": "B200_r_60i",
@@ -1657,8 +1806,9 @@
    "end": 129521,
    "dur": 6.9,
    "speaker": "Randam",
-   "en": "I'll set off a powerful flash to confuse their sensors.",
-   "enabled": true
+   "en": "Я дам мощную вспышку, чтобы сбить их датчики.",
+   "enabled": true,
+   "en_src": "I'll set off a powerful flash to confuse their sensors."
   },
   {
    "id": "B200_r_60j",
@@ -1668,8 +1818,9 @@
    "end": 130304,
    "dur": 6.8,
    "speaker": "Randam",
-   "en": "Use that chance to get as far away as you can. Got it?",
-   "enabled": true
+   "en": "Пользуйся моментом и беги как можно дальше. Понял?",
+   "enabled": true,
+   "en_src": "Use that chance to get as far away as you can. Got it?"
   },
   {
    "id": "B200_r_60k",
@@ -1679,8 +1830,9 @@
    "end": 130640,
    "dur": 5.7,
    "speaker": "Randam",
-   "en": "Watch the fireworks from a distance, Gillian.",
-   "enabled": true
+   "en": "Смотри на фейерверк издалека, Гиллиан.",
+   "enabled": true,
+   "en_src": "Watch the fireworks from a distance, Gillian."
   },
   {
    "id": "B200_r_74",
@@ -1690,8 +1842,9 @@
    "end": 131684,
    "dur": 6.6,
    "speaker": "Chin",
-   "en": "Finished your goodbyes? Then it's time for you to die.",
-   "enabled": true
+   "en": "Попрощались? Тогда пора умирать.",
+   "enabled": true,
+   "en_src": "Finished your goodbyes? Then it's time for you to die."
   },
   {
    "id": "B200_r_74b",
@@ -1701,8 +1854,9 @@
    "end": 132077,
    "dur": 3.0,
    "speaker": "Chin",
-   "en": "We have work to do.",
-   "enabled": true
+   "en": "У нас много дел.",
+   "enabled": true,
+   "en_src": "We have work to do."
   },
   {
    "id": "B200_r_77",
@@ -1712,8 +1866,9 @@
    "end": 132623,
    "dur": 6.8,
    "speaker": "Randam",
-   "en": "On my signal, break through the vent and run.",
-   "enabled": true
+   "en": "По моему сигналу выбивай решётку и беги.",
+   "enabled": true,
+   "en_src": "On my signal, break through the vent and run."
   },
   {
    "id": "B200_r_77b",
@@ -1723,8 +1878,9 @@
    "end": 132968,
    "dur": 2.7,
    "speaker": "Randam",
-   "en": "Don't forget your Blaster.",
-   "enabled": true
+   "en": "Бластер не забудь.",
+   "enabled": true,
+   "en_src": "Don't forget your Blaster."
   },
   {
    "id": "B200_r_79",
@@ -1734,8 +1890,9 @@
    "end": 133163,
    "dur": 1.3,
    "speaker": "Gillian",
-   "en": "Stay with me, Metal.",
-   "enabled": true
+   "en": "Держись рядом, Метал.",
+   "enabled": true,
+   "en_src": "Stay with me, Metal."
   },
   {
    "id": "B200_r_80",
@@ -1745,8 +1902,9 @@
    "end": 133220,
    "dur": 0.4,
    "speaker": "Metal Gear",
-   "en": "Yes.",
-   "enabled": true
+   "en": "Есть.",
+   "enabled": true,
+   "en_src": "Yes."
   },
   {
    "id": "B200_r_81",
@@ -1756,8 +1914,9 @@
    "end": 133588,
    "dur": 2.5,
    "speaker": "Gillian",
-   "en": "Randam!",
-   "enabled": true
+   "en": "Рэндам!",
+   "enabled": true,
+   "en_src": "Randam!"
   },
   {
    "id": "B200_r_82",
@@ -1767,8 +1926,9 @@
    "end": 134614,
    "dur": 6.8,
    "speaker": "Randam",
-   "en": "Looks like you'll still owe me one, Gillian.",
-   "enabled": true
+   "en": "Похоже, ты так и останешься мне должен, Гиллиан.",
+   "enabled": true,
+   "en_src": "Looks like you'll still owe me one, Gillian."
   },
   {
    "id": "B200_r_83",
@@ -1778,8 +1938,9 @@
    "end": 135490,
    "dur": 5.8,
    "speaker": "Gillian",
-   "en": "I'll pay them back for both of us.",
-   "enabled": true
+   "en": "Я расплачусь с ними за нас обоих.",
+   "enabled": true,
+   "en_src": "I'll pay them back for both of us."
   },
   {
    "id": "B200_r_84",
@@ -1789,9 +1950,10 @@
    "end": 135790,
    "dur": 2.0,
    "speaker": "Randam",
-   "en": "Go!",
+   "en": "Иди!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Go!"
   }
  ]
 }

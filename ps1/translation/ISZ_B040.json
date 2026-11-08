@@ -10,7 +10,9 @@
   {
    "off": 3423,
    "budget": 13,
-   "en": "Search name"
+   "en": "Искать имя",
+   "en_src": "Search name",
+   "ru": true
   },
   {
    "off": 3436,
@@ -20,7 +22,9 @@
   {
    "off": 3439,
    "budget": 17,
-   "en": "NO SUCH PERSON"
+   "en": "НЕТ ТАКОГО",
+   "en_src": "NO SUCH PERSON",
+   "ru": true
   },
   {
    "off": 3456,
@@ -50,7 +54,9 @@
   {
    "off": 3511,
    "budget": 31,
-   "en": "＠緑It's Asada, not Asata."
+   "en": "＠緑Не Асата, а Асада.",
+   "en_src": "＠緑It's Asada, not Asata.",
+   "ru": true
   },
   {
    "off": 3542,
@@ -85,7 +91,9 @@
   {
    "off": 3614,
    "budget": 33,
-   "en": "＠緑It's Kazuki, not Kazunori."
+   "en": "＠緑Не Кадзунори, а Кадзуки.",
+   "en_src": "＠緑It's Kazuki, not Kazunori.",
+   "ru": true
   },
   {
    "off": 3647,
@@ -330,8 +338,10 @@
   {
    "off": 4181,
    "budget": 13,
-   "en": "＠緑Me.",
-   "long": "＠緑That's me."
+   "en": "＠緑Это я.",
+   "en_src": "＠緑Me.",
+   "long_src": "＠緑That's me.",
+   "ru": true
   },
   {
    "off": 4194,
@@ -376,7 +386,9 @@
   {
    "off": 4284,
    "budget": 33,
-   "en": "＠緑It's Toyama, not Sotoyama."
+   "en": "＠緑Не Сотояма, а Тояма.",
+   "en_src": "＠緑It's Toyama, not Sotoyama.",
+   "ru": true
   },
   {
    "off": 4317,
@@ -391,7 +403,9 @@
   {
    "off": 4345,
    "budget": 53,
-   "en": "＠緑It's Makoto Toyama, not Shin￥Sotoyama."
+   "en": "＠緑Не Син Сотояма, а Макото￥Тояма.",
+   "en_src": "＠緑It's Makoto Toyama, not Shin￥Sotoyama.",
+   "ru": true
   },
   {
    "off": 4398,
@@ -531,7 +545,9 @@
   {
    "off": 4727,
    "budget": 29,
-   "en": "＠緑It's Makoto, not Shin."
+   "en": "＠緑Не Син, а Макото.",
+   "en_src": "＠緑It's Makoto, not Shin.",
+   "ru": true
   },
   {
    "off": 4756,
@@ -806,7 +822,9 @@
   {
    "off": 5364,
    "budget": 35,
-   "en": "＠緑It's Mizukami, not Mizugami."
+   "en": "＠緑Не Мидзугами, а Мидзуками.",
+   "en_src": "＠緑It's Mizukami, not Mizugami.",
+   "ru": true
   },
   {
    "off": 5399,
@@ -816,7 +834,9 @@
   {
    "off": 5418,
    "budget": 35,
-   "en": "＠緑It's Mizukami, not Minakami."
+   "en": "＠緑Не Минаками, а Мидзуками.",
+   "en_src": "＠緑It's Mizukami, not Minakami.",
+   "ru": true
   },
   {
    "off": 5453,
@@ -896,7 +916,9 @@
   {
    "off": 5606,
    "budget": 15,
-   "en": "Lewis Gilmore"
+   "en": "Льюис Гилмор",
+   "en_src": "Lewis Gilmore",
+   "ru": true
   },
   {
    "off": 5621,
@@ -931,1399 +953,2015 @@
   {
    "off": 5687,
    "budget": 15,
-   "en": "Stop search"
+   "en": "Конец поиска",
+   "en_src": "Stop search",
+   "ru": true
   },
   {
    "off": 5702,
    "budget": 41,
-   "en": "＠赤Unregistered term.￥Access denied!",
-   "long": "＠赤That term is prohibited. No results￥can be displayed!"
+   "en": ".",
+   "en_src": "＠赤Unregistered term.￥Access denied!",
+   "long_src": "＠赤That term is prohibited. No results￥can be displayed!",
+   "ru": true,
+   "long": "＠赤Запрещённый термин. Показать￥результаты невозможно!"
   },
   {
    "off": 5743,
    "budget": 33,
-   "en": "Gillian, you're a grown man!"
+   "en": "Гиллиан, ты же взрослый человек!",
+   "en_src": "Gillian, you're a grown man!",
+   "ru": true
   },
   {
    "off": 5776,
    "budget": 37,
-   "en": "I was just testing Gaudi."
+   "en": "Я просто проверял Гауди.",
+   "en_src": "I was just testing Gaudi.",
+   "ru": true
   },
   {
    "off": 5813,
    "budget": 57,
-   "en": "Gillian!￥Too old to enjoy searching￥for that, surely?",
-   "long": "Gillian! Aren't you too old to get a￥kick out of looking that up?"
+   "en": ".",
+   "en_src": "Gillian!￥Too old to enjoy searching￥for that, surely?",
+   "long_src": "Gillian! Aren't you too old to get a￥kick out of looking that up?",
+   "ru": true,
+   "long": "Гиллиан! Не поздновато ли в твоём￥возрасте радоваться таким поискам?"
   },
   {
    "off": 5870,
    "budget": 45,
-   "en": "I've lost those memories too. That's￥why."
+   "en": "Эти воспоминания я тоже потерял. Вот￥и всё.",
+   "en_src": "I've lost those memories too. That's￥why.",
+   "ru": true
   },
   {
    "off": 5915,
    "budget": 13,
-   "en": "Honestly..."
+   "en": "Ну вот...",
+   "en_src": "Honestly...",
+   "ru": true
   },
   {
    "off": 5928,
    "budget": 45,
-   "en": "Gillian, so that's what you're￥searching!!",
-   "long": "Gillian! So that's what you were￥looking up!"
+   "en": "Гиллиан! Так вот что ты искал!",
+   "en_src": "Gillian, so that's what you're￥searching!!",
+   "long_src": "Gillian! So that's what you were￥looking up!",
+   "ru": true
   },
   {
    "off": 5973,
    "budget": 57,
-   "en": "All right, sorry. I just wanted to￥test Gaudi."
+   "en": "Ладно, извини. Хотел проверить￥Гауди.",
+   "en_src": "All right, sorry. I just wanted to￥test Gaudi.",
+   "ru": true
   },
   {
    "off": 6030,
    "budget": 43,
-   "en": "Gillian! Don't look up things like￥that!"
+   "en": "Гиллиан! Не ищи такие вещи!",
+   "en_src": "Gillian! Don't look up things like￥that!",
+   "ru": true
   },
   {
    "off": 6073,
    "budget": 47,
-   "en": "(...She's blushing.￥An innocent side.)",
-   "long": "(She's embarrassed. I guess she has￥an innocent side.)"
+   "en": ".",
+   "en_src": "(...She's blushing.￥An innocent side.)",
+   "long_src": "(She's embarrassed. I guess she has￥an innocent side.)",
+   "ru": true,
+   "long": "(Смутилась. Похоже, есть в ней и￥невинная сторона.)"
   },
   {
    "off": 6120,
    "budget": 27,
-   "en": "The Chief will scold you!",
-   "long": "The Chief will tell you off again!"
+   "en": ".",
+   "en_src": "The Chief will scold you!",
+   "long_src": "The Chief will tell you off again!",
+   "ru": true,
+   "long": "Шеф опять тебе устроит взбучку!"
   },
   {
    "off": 6147,
    "budget": 77,
-   "en": "＠緑Masayuki Aizawa. Born August￥17, 1967. Leo. Blood type￥O."
+   "en": "＠緑Масаюки Айдзава. Родился 17￥августа 1967. Лев. Группа￥крови O.",
+   "en_src": "＠緑Masayuki Aizawa. Born August￥17, 1967. Leo. Blood type￥O.",
+   "ru": true
   },
   {
    "off": 6224,
    "budget": 83,
-   "en": "＠緑▽Character: missile strikes￥ for the careless￥▽Role: husband and dad",
-   "long": "＠緑Personality: Bombards￥careless people with￥missiles. Role: Husband and￥dad."
+   "en": "＠緑Характер: обстреливает￥ракетами растяп. Роль: муж и￥папа.",
+   "en_src": "＠緑▽Character: missile strikes￥ for the careless￥▽Role: husband and dad",
+   "long_src": "＠緑Personality: Bombards￥careless people with￥missiles. Role: Husband and￥dad.",
+   "ru": true
   },
   {
    "off": 6307,
    "budget": 81,
-   "en": "＠緑Message: I could only finish￥Snatcher thanks to my loving￥wife's support."
+   "en": "＠緑Послание: я закончил￥Snatcher только благодаря￥поддержке любимой жены.",
+   "en_src": "＠緑Message: I could only finish￥Snatcher thanks to my loving￥wife's support.",
+   "ru": true
   },
   {
    "off": 6388,
    "budget": 43,
-   "en": "＠緑Videophone: 00966."
+   "en": "＠緑Видеофон: 00966.",
+   "en_src": "＠緑Videophone: 00966.",
+   "ru": true
   },
   {
    "off": 6431,
    "budget": 77,
-   "en": "＠緑Masaya Shiraishi. Born May￥23, 1968. Gemini. Blood type￥A."
+   "en": "＠緑Масая Сираиси. Родился 23￥мая 1968. Близнецы. Группа￥крови A.",
+   "en_src": "＠緑Masaya Shiraishi. Born May￥23, 1968. Gemini. Blood type￥A.",
+   "ru": true
   },
   {
    "off": 6508,
    "budget": 53,
-   "en": "＠緑▽Character￥ nervous, rash￥▽Role￥ demo CG",
-   "long": "＠緑Personality: High-strung and￥out of control. Role:￥Cutscene CG."
+   "en": ".",
+   "en_src": "＠緑▽Character￥ nervous, rash￥▽Role￥ demo CG",
+   "long_src": "＠緑Personality: High-strung and￥out of control. Role:￥Cutscene CG.",
+   "ru": true,
+   "long": "＠緑Характер: нервный и￥неуправляемый. Роль:￥CG-заставки."
   },
   {
    "off": 6561,
    "budget": 47,
-   "en": "＠緑Message: Now this is￥cyberpunk!"
+   "en": "＠緑Послание: вот это киберпанк!",
+   "en_src": "＠緑Message: Now this is￥cyberpunk!",
+   "ru": true
   },
   {
    "off": 6608,
    "budget": 81,
-   "en": "＠緑Hiroyuki Asada. Born￥December 4, 1971.￥Sagittarius. 46XY."
+   "en": "＠緑Хироюки Асада. Родился 4￥декабря 1971. Стрелец. 46XY.",
+   "en_src": "＠緑Hiroyuki Asada. Born￥December 4, 1971.￥Sagittarius. 46XY.",
+   "ru": true
   },
   {
    "off": 6689,
    "budget": 49,
-   "en": "＠緑Personality: Hypocrite.￥Role: Madoka."
+   "en": "＠緑Характер: лицемер. Роль:￥Мадока.",
+   "en_src": "＠緑Personality: Hypocrite.￥Role: Madoka.",
+   "ru": true
   },
   {
    "off": 6738,
    "budget": 69,
-   "en": "＠緑▽Message￥If you have time to read￥this, play the game.",
-   "long": "＠緑Message: If you've got time￥to read this, you should get￥on with the game."
+   "en": ".",
+   "en_src": "＠緑▽Message￥If you have time to read￥this, play the game.",
+   "long_src": "＠緑Message: If you've got time￥to read this, you should get￥on with the game.",
+   "ru": true,
+   "long": "＠緑Послание: если есть время￥читать это, лучше двигайтесь￥дальше по игре."
   },
   {
    "off": 6807,
    "budget": 47,
-   "en": "＠緑Videophone: 25-0717."
+   "en": "＠緑Видеофон: 25-0717.",
+   "en_src": "＠緑Videophone: 25-0717.",
+   "ru": true
   },
   {
    "off": 6854,
    "budget": 75,
-   "en": "＠緑Jun Asami. Born September 5,￥1971. Virgo. Blood type A."
+   "en": "＠緑Дзюн Асами. Родился 5￥сентября 1971. Дева. Группа￥крови A.",
+   "en_src": "＠緑Jun Asami. Born September 5,￥1971. Virgo. Blood type A.",
+   "ru": true
   },
   {
    "off": 6929,
    "budget": 57,
-   "en": "＠緑Personality: Stubborn and￥naive. Role: Design."
+   "en": "＠緑Характер: упрямый и наивный.￥Роль: дизайн.",
+   "en_src": "＠緑Personality: Stubborn and￥naive. Role: Design.",
+   "ru": true
   },
   {
    "off": 6986,
    "budget": 103,
-   "en": "＠緑▽Message￥A full game in my second￥year.￥Hardship and setbacks, but a￥great education.",
-   "long": "＠緑Message: My first full game￥project, in my second year￥at the company. It was one￥hardship after another, but￥I learned a lot."
+   "en": ".",
+   "en_src": "＠緑▽Message￥A full game in my second￥year.￥Hardship and setbacks, but a￥great education.",
+   "long_src": "＠緑Message: My first full game￥project, in my second year￥at the company. It was one￥hardship after another, but￥I learned a lot.",
+   "ru": true,
+   "long": "＠緑Послание: мой первый￥полноценный проект, на￥втором году в компании.￥Трудность за трудностью, но￥я многому научился."
   },
   {
    "off": 7089,
    "budget": 47,
-   "en": "＠緑Videophone: 58-2809."
+   "en": "＠緑Видеофон: 58-2809.",
+   "en_src": "＠緑Videophone: 58-2809.",
+   "ru": true
   },
   {
    "off": 7136,
    "budget": 75,
-   "en": "＠緑Tacchan. Born July 4, 1972.￥Cancer. Blood type B."
+   "en": "＠緑Тяттян. Родился 4 июля 1972.￥Рак. Группа крови B.",
+   "en_src": "＠緑Tacchan. Born July 4, 1972.￥Cancer. Blood type B.",
+   "ru": true
   },
   {
    "off": 7211,
    "budget": 49,
-   "en": "＠緑Personality: Short and￥stout. Role: 3D CG."
+   "en": ".",
+   "en_src": "＠緑Personality: Short and￥stout. Role: 3D CG.",
+   "ru": true,
+   "long": "＠緑Характер: коротенький и￥толстенький. Роль:￥3D-графика."
   },
   {
    "off": 7260,
    "budget": 65,
-   "en": "＠緑▽Message￥Lucky to join such a title￥in my first year.",
-   "long": "＠緑Message: I'm happy I could￥work on such a great game in￥my first year."
+   "en": ".",
+   "en_src": "＠緑▽Message￥Lucky to join such a title￥in my first year.",
+   "long_src": "＠緑Message: I'm happy I could￥work on such a great game in￥my first year.",
+   "ru": true,
+   "long": "＠緑Послание: я счастлив, что на￥первом году работы попал в￥такую отличную игру."
   },
   {
    "off": 7325,
    "budget": 47,
-   "en": "＠緑Videophone: 59-7274."
+   "en": "＠緑Видеофон: 59-7274.",
+   "en_src": "＠緑Videophone: 59-7274.",
+   "ru": true
   },
   {
    "off": 7372,
    "budget": 77,
-   "en": "＠緑Huggy. Born April 11, 1970.￥Aries. Blood type O."
+   "en": "＠緑Хагги. Родился 11 апреля￥1970. Овен. Группа крови O.",
+   "en_src": "＠緑Huggy. Born April 11, 1970.￥Aries. Blood type O.",
+   "ru": true
   },
   {
    "off": 7449,
    "budget": 67,
-   "en": "＠緑Personality: Loyal as a dog.￥Role: Looping intro demo."
+   "en": "＠緑Характер: предан как пёс.￥Роль: зацикленная￥демо-заставка.",
+   "en_src": "＠緑Personality: Loyal as a dog.￥Role: Looping intro demo.",
+   "ru": true
   },
   {
    "off": 7516,
    "budget": 71,
-   "en": "＠緑Message: This gave me even￥more gray hairs. Oh, well."
+   "en": "＠緑Послание: седых волос у меня￥прибавилось. Эх...",
+   "en_src": "＠緑Message: This gave me even￥more gray hairs. Oh, well.",
+   "ru": true
   },
   {
    "off": 7587,
    "budget": 77,
-   "en": "＠緑Kazuki Araki. Born March 14,￥1973. Pisces. Blood type AB."
+   "en": "＠緑Кадзуки Араки. Родился 14￥марта 1973. Рыбы. Группа￥крови AB.",
+   "en_src": "＠緑Kazuki Araki. Born March 14,￥1973. Pisces. Blood type AB.",
+   "ru": true
   },
   {
    "off": 7664,
    "budget": 59,
-   "en": "＠緑▽Role￥ some program or other￥▽Character￥ tail",
-   "long": "＠緑Role: Probably some of the￥programming. Personality:￥Tails."
+   "en": ".",
+   "en_src": "＠緑▽Role￥ some program or other￥▽Character￥ tail",
+   "long_src": "＠緑Role: Probably some of the￥programming. Personality:￥Tails.",
+   "ru": true,
+   "long": "＠緑Роль: наверное, какое-то￥программирование. Характер:￥хвостики."
   },
   {
    "off": 7723,
    "budget": 101,
-   "en": "＠緑Message: Everything in this￥world is tails. If only￥Snatchers had tails, too!"
+   "en": "＠緑Послание: всё в этом мире -￥хвостики. Эх, были бы￥хвостики и у снатчеров!",
+   "en_src": "＠緑Message: Everything in this￥world is tails. If only￥Snatchers had tails, too!",
+   "ru": true
   },
   {
    "off": 7824,
    "budget": 47,
-   "en": "＠緑Videophone: 77-5014."
+   "en": "＠緑Видеофон: 77-5014.",
+   "en_src": "＠緑Videophone: 77-5014.",
+   "ru": true
   },
   {
    "off": 7871,
    "budget": 77,
-   "en": "＠緑Takayuki Ando. Born August￥21, 1973. Leo. Blood type B."
+   "en": "＠緑Такаюки Андо. Родился 21￥августа 1973. Лев. Группа￥крови B.",
+   "en_src": "＠緑Takayuki Ando. Born August￥21, 1973. Leo. Blood type B.",
+   "ru": true
   },
   {
    "off": 7948,
    "budget": 65,
-   "en": "＠緑Role: I drew pixel art.￥Personality: Restless."
+   "en": "＠緑Роль: рисовал пиксель-арт.￥Характер: непоседа.",
+   "en_src": "＠緑Role: I drew pixel art.￥Personality: Restless.",
+   "ru": true
   },
   {
    "off": 8013,
    "budget": 83,
-   "en": "＠緑Message: Thank you for￥buying the PlayStation￥version of Snatcher."
+   "en": "＠緑Послание: спасибо за покупку￥версии Snatcher для￥PlayStation.",
+   "en_src": "＠緑Message: Thank you for￥buying the PlayStation￥version of Snatcher.",
+   "ru": true
   },
   {
    "off": 8096,
    "budget": 47,
-   "en": "＠緑Videophone: 74-8500."
+   "en": "＠緑Видеофон: 74-8500.",
+   "en_src": "＠緑Videophone: 74-8500.",
+   "ru": true
   },
   {
    "off": 8143,
    "budget": 77,
-   "en": "＠緑Kazuhiro Iwasaki. Born￥January 5, 1971. Capricorn.￥Blood type A."
+   "en": "＠緑Кадзухиро Ивасаки. Родился 5￥января 1971. Козерог. Группа￥крови A.",
+   "en_src": "＠緑Kazuhiro Iwasaki. Born￥January 5, 1971. Capricorn.￥Blood type A.",
+   "ru": true
   },
   {
    "off": 8220,
    "budget": 53,
-   "en": "＠緑Role: Package design.￥Personality: Simple."
+   "en": "＠緑Роль: дизайн упаковки.￥Характер: простой.",
+   "en_src": "＠緑Role: Package design.￥Personality: Simple.",
+   "ru": true
   },
   {
    "off": 8273,
    "budget": 69,
-   "en": "＠緑▽Message￥Can't imagine it being cold￥by release day.",
-   "long": "＠緑Message: It's hard to￥imagine it'll be cold by the￥time this comes out."
+   "en": ".",
+   "en_src": "＠緑▽Message￥Can't imagine it being cold￥by release day.",
+   "long_src": "＠緑Message: It's hard to￥imagine it'll be cold by the￥time this comes out.",
+   "ru": true,
+   "long": "＠緑Послание: сейчас трудно￥представить, что к выходу￥игры будет уже холодно."
   },
   {
    "off": 8342,
    "budget": 77,
-   "en": "＠緑Yohei Kiyohara. Born October￥9, 1971. Libra. Blood type￥O."
+   "en": "＠緑Ёхэй Киёхара. Родился 9￥октября 1971. Весы. Группа￥крови O.",
+   "en_src": "＠緑Yohei Kiyohara. Born October￥9, 1971. Libra. Blood type￥O.",
+   "ru": true
   },
   {
    "off": 8419,
    "budget": 63,
-   "en": "＠緑▽Character: not normal￥▽Role: I drew the pixel￥art.",
-   "long": "＠緑Personality: Anything but￥ordinary. Role: I drew pixel￥art."
+   "en": ".",
+   "en_src": "＠緑▽Character: not normal￥▽Role: I drew the pixel￥art.",
+   "long_src": "＠緑Personality: Anything but￥ordinary. Role: I drew pixel￥art.",
+   "ru": true,
+   "long": "＠緑Характер: какой угодно,￥только не обычный. Роль:￥рисовал пиксель-арт."
   },
   {
    "off": 8482,
    "budget": 75,
-   "en": "＠緑Message: Tell everyone how￥great Snatcher is!"
+   "en": "＠緑Послание: расскажите всем,￥как хорош Snatcher!",
+   "en_src": "＠緑Message: Tell everyone how￥great Snatcher is!",
+   "ru": true
   },
   {
    "off": 8557,
    "budget": 47,
-   "en": "＠緑Videophone: 96-7715."
+   "en": "＠緑Видеофон: 96-7715.",
+   "en_src": "＠緑Videophone: 96-7715.",
+   "ru": true
   },
   {
    "off": 8604,
    "budget": 83,
-   "en": "＠緑Hideo Kojima. Born August￥24, 1963. Virgo. Pure Aa￥blood type."
+   "en": "＠緑Хидэо Кодзима. Родился 24￥августа 1963. Дева. Чистая￥группа крови Aa.",
+   "en_src": "＠緑Hideo Kojima. Born August￥24, 1963. Virgo. Pure Aa￥blood type.",
+   "ru": true
   },
   {
    "off": 8687,
    "budget": 51,
-   "en": "＠緑Personality: Still stubborn￥and lonely."
+   "en": "＠緑Характер: всё так же упрям и￥одинок.",
+   "en_src": "＠緑Personality: Still stubborn￥and lonely.",
+   "ru": true
   },
   {
    "off": 8738,
    "budget": 73,
-   "en": "＠緑▽Message￥ In these seven years I￥married and became a father.",
-   "long": "＠緑Message: In these past seven￥years, I've married and￥become a father."
+   "en": "＠緑Послание: за эти семь лет я￥женился и стал отцом.",
+   "en_src": "＠緑▽Message￥ In these seven years I￥married and became a father.",
+   "long_src": "＠緑Message: In these past seven￥years, I've married and￥become a father.",
+   "ru": true
   },
   {
    "off": 8811,
    "budget": 89,
-   "en": "＠緑Times have changed, but￥Snatcher still holds a￥special place in my heart."
+   "en": "＠緑Времена изменились, но￥Snatcher по-прежнему￥занимает особое место в моём￥сердце.",
+   "en_src": "＠緑Times have changed, but￥Snatcher still holds a￥special place in my heart.",
+   "ru": true
   },
   {
    "off": 8900,
    "budget": 99,
-   "en": "＠緑I hope playing this game￥will stay with you too, as a￥cherished memory of your￥youth."
+   "en": "＠緑Надеюсь, и для вас эта игра￥останется дорогим￥воспоминанием юности.",
+   "en_src": "＠緑I hope playing this game￥will stay with you too, as a￥cherished memory of your￥youth.",
+   "ru": true
   },
   {
    "off": 8999,
    "budget": 79,
-   "en": "＠緑Rieko Komatsubara. Born￥March 12, 1974. Pisces.￥Blood type A."
+   "en": "＠緑Риэко Комацубара. Родилась￥12 марта 1974. Рыбы. Группа￥крови A.",
+   "en_src": "＠緑Rieko Komatsubara. Born￥March 12, 1974. Pisces.￥Blood type A.",
+   "ru": true
   },
   {
    "off": 9078,
    "budget": 71,
-   "en": "＠緑Role: I drew pixel art.￥Personality: Pachislot￥gambler."
+   "en": "＠緑Роль: рисовала пиксель-арт.￥Характер:￥игроманка-пачисуро.",
+   "en_src": "＠緑Role: I drew pixel art.￥Personality: Pachislot￥gambler.",
+   "ru": true
   },
   {
    "off": 9149,
    "budget": 91,
-   "en": "＠緑▽Message￥Summer, and hot. No cooler￥at home. Ahh... the office￥is heaven.",
-   "long": "＠緑Message: It's summer, and￥it's hot! But I don't have￥air conditioning at home.￥The office is paradise."
+   "en": "＠緑Послание: лето, жара! А дома￥нет кондиционера. Офис -￥просто рай.",
+   "en_src": "＠緑▽Message￥Summer, and hot. No cooler￥at home. Ahh... the office￥is heaven.",
+   "long_src": "＠緑Message: It's summer, and￥it's hot! But I don't have￥air conditioning at home.￥The office is paradise.",
+   "ru": true
   },
   {
    "off": 9240,
    "budget": 47,
-   "en": "＠緑Videophone: 97-3312."
+   "en": "＠緑Видеофон: 97-3312.",
+   "en_src": "＠緑Videophone: 97-3312.",
+   "ru": true
   },
   {
    "off": 9287,
    "budget": 83,
-   "en": "＠緑Yumiko Takahashi. Born￥January 26, 1975. Aquarius.￥Blood type A."
+   "en": "＠緑Юмико Такахаси. Родилась 26￥января 1975. Водолей. Группа￥крови A.",
+   "en_src": "＠緑Yumiko Takahashi. Born￥January 26, 1975. Aquarius.￥Blood type A.",
+   "ru": true
   },
   {
    "off": 9370,
    "budget": 55,
-   "en": "＠緑▽Character￥ messy, pushy, smug￥▽Role￥ art",
-   "long": "＠緑Personality: Messy, pushy,￥and full of herself. Role:￥Pixel art."
+   "en": ".",
+   "en_src": "＠緑▽Character￥ messy, pushy, smug￥▽Role￥ art",
+   "long_src": "＠緑Personality: Messy, pushy,￥and full of herself. Role:￥Pixel art.",
+   "ru": true,
+   "long": "＠緑Характер: неряшливая,￥напористая и самовлюблённая.￥Роль: пиксель-арт."
   },
   {
    "off": 9425,
    "budget": 103,
-   "en": "＠緑▽Message￥I'm new. ...Don't mention￥the famous namesake (sob).￥Someone bring me new music.",
-   "long": "＠緑Message: I'm new here.￥Please don't bring up the￥other person with my name.￥(Sob.) Someone give me some￥fresh music."
+   "en": ".",
+   "en_src": "＠緑▽Message￥I'm new. ...Don't mention￥the famous namesake (sob).￥Someone bring me new music.",
+   "long_src": "＠緑Message: I'm new here.￥Please don't bring up the￥other person with my name.￥(Sob.) Someone give me some￥fresh music.",
+   "ru": true,
+   "long": "＠緑Послание: я новенькая.￥Только не напоминайте про￥мою полную тёзку. (Плачет.)￥Дайте мне кто-нибудь свежей￥музыки."
   },
   {
    "off": 9528,
    "budget": 47,
-   "en": "＠緑Videophone: 97-5126."
+   "en": "＠緑Видеофон: 97-5126.",
+   "en_src": "＠緑Videophone: 97-5126.",
+   "ru": true
   },
   {
    "off": 9575,
    "budget": 79,
-   "en": "＠緑Makoto Toyama. Born￥September 27, 1970. Libra.￥Blood type O."
+   "en": "＠緑Макото Тояма. Родился 27￥сентября 1970. Весы. Группа￥крови O.",
+   "en_src": "＠緑Makoto Toyama. Born￥September 27, 1970. Libra.￥Blood type O.",
+   "ru": true
   },
   {
    "off": 9654,
    "budget": 67,
-   "en": "＠緑▽Character￥ exhausted￥▽Role￥ storyboards, art, pixels",
-   "long": "＠緑Personality: Tired. Role:￥Storyboards, original￥artwork, pixel art."
+   "en": ".",
+   "en_src": "＠緑▽Character￥ exhausted￥▽Role￥ storyboards, art, pixels",
+   "long_src": "＠緑Personality: Tired. Role:￥Storyboards, original￥artwork, pixel art.",
+   "ru": true,
+   "long": "＠緑Характер: устал. Роль:￥раскадровки, оригинальные￥рисунки, пиксель-арт."
   },
   {
    "off": 9721,
    "budget": 77,
-   "en": "＠緑▽Message￥I'd like an original next.￥But it'll be another port...",
-   "long": "＠緑Message: I'd like to work on￥an original game next. But￥it might be another port."
+   "en": ".",
+   "en_src": "＠緑▽Message￥I'd like an original next.￥But it'll be another port...",
+   "long_src": "＠緑Message: I'd like to work on￥an original game next. But￥it might be another port.",
+   "ru": true,
+   "long": "＠緑Послание: дальше хочу делать￥оригинальную игру. Но,￥может, опять будет порт..."
   },
   {
    "off": 9798,
    "budget": 47,
-   "en": "＠緑Videophone: 573-013."
+   "en": "＠緑Видеофон: 573-013.",
+   "en_src": "＠緑Videophone: 573-013.",
+   "ru": true
   },
   {
    "off": 9845,
    "budget": 81,
-   "en": "＠緑Naoya Hatsumi. Born April 7,￥1969. Aries. Blood type O."
+   "en": "＠緑Наоя Хацуми. Родился 7￥апреля 1969. Овен. Группа￥крови O.",
+   "en_src": "＠緑Naoya Hatsumi. Born April 7,￥1969. Aries. Blood type O.",
+   "ru": true
   },
   {
    "off": 9926,
    "budget": 49,
-   "en": "＠緑Personality: Wild and fun.￥Role: Design."
+   "en": "＠緑Характер: буйный и весёлый.￥Роль: дизайн.",
+   "en_src": "＠緑Personality: Wild and fun.￥Role: Design.",
+   "ru": true
   },
   {
    "off": 9975,
    "budget": 55,
-   "en": "＠緑Message: Please keep￥supporting Konami."
+   "en": "＠緑Послание: поддерживайте￥Konami и дальше.",
+   "en_src": "＠緑Message: Please keep￥supporting Konami.",
+   "ru": true
   },
   {
    "off": 10030,
    "budget": 47,
-   "en": "＠緑Videophone: 29-6947."
+   "en": "＠緑Видеофон: 29-6947.",
+   "en_src": "＠緑Videophone: 29-6947.",
+   "ru": true
   },
   {
    "off": 10077,
    "budget": 77,
-   "en": "＠緑Taeko Hayasaka. Born￥December 15, 19??.￥Sagittarius. Blood type O."
+   "en": ".",
+   "en_src": "＠緑Taeko Hayasaka. Born￥December 15, 19??.￥Sagittarius. Blood type O.",
+   "ru": true,
+   "long": "＠緑Таэко Хаясака. Родилась 15￥декабря 19?? года. Стрелец.￥Группа крови O."
   },
   {
    "off": 10154,
    "budget": 117,
-   "en": "＠緑▽Character: frank and open.￥ Endless curiosity, sometimes￥ a fault. Charming too, moved￥ by film and anime",
-   "long": "＠緑Personality: Easygoing,￥though sometimes too curious￥for her own good. She also￥has a charming side: anime￥and movies move her easily."
+   "en": ".",
+   "en_src": "＠緑▽Character: frank and open.￥ Endless curiosity, sometimes￥ a fault. Charming too, moved￥ by film and anime",
+   "long_src": "＠緑Personality: Easygoing,￥though sometimes too curious￥for her own good. She also￥has a charming side: anime￥and movies move her easily.",
+   "ru": true,
+   "long": "＠緑Характер: лёгкий, хотя порой￥слишком любопытна себе во￥вред. Есть и милая черта:￥легко трогается аниме и￥фильмами."
   },
   {
    "off": 10271,
    "budget": 53,
-   "en": "＠緑Bodyboards in summer,￥snowboards in winter.",
-   "long": "＠緑She keeps fit by￥bodyboarding in summer and￥snowboarding in winter."
+   "en": "＠緑Держит форму: летом￥бодиборд, зимой сноуборд.",
+   "en_src": "＠緑Bodyboards in summer,￥snowboards in winter.",
+   "long_src": "＠緑She keeps fit by￥bodyboarding in summer and￥snowboarding in winter.",
+   "ru": true
   },
   {
    "off": 10324,
    "budget": 33,
-   "en": "＠緑▽Nickname￥ crafty Hayasaka",
-   "long": "＠緑Nickname: Hayasaka, the girl￥who knows how to get what￥she wants."
+   "en": ".",
+   "en_src": "＠緑▽Nickname￥ crafty Hayasaka",
+   "long_src": "＠緑Nickname: Hayasaka, the girl￥who knows how to get what￥she wants.",
+   "ru": true,
+   "long": "＠緑Прозвище: Хаясака, девушка,￥которая своего не упустит."
   },
   {
    "off": 10357,
    "budget": 75,
-   "en": "＠緑Atsushi Mizutani. Born￥December 10, 1971.￥Sagittarius. Blood type A."
+   "en": "＠緑Ацуси Мидзутани. Родился 10￥декабря 1971. Стрелец.￥Группа крови A.",
+   "en_src": "＠緑Atsushi Mizutani. Born￥December 10, 1971.￥Sagittarius. Blood type A.",
+   "ru": true
   },
   {
    "off": 10432,
    "budget": 73,
-   "en": "＠緑▽Character￥pretty cool!￥▽Message￥To make me happy,",
-   "long": "＠緑Personality: Pretty cool!￥Message: If you'd like to￥make me happy,"
+   "en": ".",
+   "en_src": "＠緑▽Character￥pretty cool!￥▽Message￥To make me happy,",
+   "long_src": "＠緑Personality: Pretty cool!￥Message: If you'd like to￥make me happy,",
+   "ru": true,
+   "long": "＠緑Характер: очень даже крутой!￥Послание: если хотите￥сделать меня счастливым,"
   },
   {
    "off": 10505,
    "budget": 89,
-   "en": "＠緑write to Konami support,￥'make Mizutani happy' desk￥(ladies only, reply-paid).",
-   "long": "＠緑write to Konami Customer￥Service, \"Make Mizutani￥Happy\" desk. Women only.￥Please use a reply-paid￥postcard."
+   "en": ".",
+   "en_src": "＠緑write to Konami support,￥'make Mizutani happy' desk￥(ladies only, reply-paid).",
+   "long_src": "＠緑write to Konami Customer￥Service, \"Make Mizutani￥Happy\" desk. Women only.￥Please use a reply-paid￥postcard.",
+   "ru": true,
+   "long": "＠緑пишите в службу поддержки￥Konami, отдел \"Осчастливить￥Мидзутани\". Только женщины.￥Открытка с оплаченным￥ответом."
   },
   {
    "off": 10594,
    "budget": 47,
-   "en": "＠緑Videophone: 71-1220."
+   "en": "＠緑Видеофон: 71-1220.",
+   "en_src": "＠緑Videophone: 71-1220.",
+   "ru": true
   },
   {
    "off": 10641,
    "budget": 83,
-   "en": "＠緑Gentaro Mizukami. Born￥October 21, 1966. Libra.￥Blood type A."
+   "en": "＠緑Гэнтаро Мидзуками. Родился￥21 октября 1966. Весы.￥Группа крови A.",
+   "en_src": "＠緑Gentaro Mizukami. Born￥October 21, 1966. Libra.￥Blood type A.",
+   "ru": true
   },
   {
    "off": 10724,
    "budget": 59,
-   "en": "＠緑▽Character￥ unconventional￥▽Role￥ opening demo",
-   "long": "＠緑Personality: Unconventional.￥Role: Looping intro demo."
+   "en": ".",
+   "en_src": "＠緑▽Character￥ unconventional￥▽Role￥ opening demo",
+   "long_src": "＠緑Personality: Unconventional.￥Role: Looping intro demo.",
+   "ru": true,
+   "long": "＠緑Характер: нестандартный.￥Роль: зацикленная￥демо-заставка."
   },
   {
    "off": 10783,
    "budget": 53,
-   "en": "＠緑Message: Let's meet again￥someday."
+   "en": "＠緑Послание: когда-нибудь￥встретимся снова.",
+   "en_src": "＠緑Message: Let's meet again￥someday.",
+   "ru": true
   },
   {
    "off": 10836,
    "budget": 75,
-   "en": "＠緑Kensuke Yoshitomi. Born June￥29, 1972. Cancer. Blood type￥O."
+   "en": "＠緑Кэнсукэ Ёситоми. Родился 29￥июня 1972. Рак. Группа крови￥O.",
+   "en_src": "＠緑Kensuke Yoshitomi. Born June￥29, 1972. Cancer. Blood type￥O.",
+   "ru": true
   },
   {
    "off": 10911,
    "budget": 59,
-   "en": "＠緑Personality: Depends on the￥day. Role: Scenario."
+   "en": "＠緑Характер: зависит от дня.￥Роль: сценарий.",
+   "en_src": "＠緑Personality: Depends on the￥day. Role: Scenario.",
+   "ru": true
   },
   {
    "off": 10970,
    "budget": 95,
-   "en": "＠緑▽Message￥Poking into every corner￥like this is one proper way￥to play this game.",
-   "long": "＠緑Message: Poking into every￥little corner like this is￥one perfectly good way to￥play this game."
+   "en": ".",
+   "en_src": "＠緑▽Message￥Poking into every corner￥like this is one proper way￥to play this game.",
+   "long_src": "＠緑Message: Poking into every￥little corner like this is￥one perfectly good way to￥play this game.",
+   "ru": true,
+   "long": "＠緑Послание: заглядывать в￥каждый уголок, как сейчас, -￥тоже вполне правильный￥способ играть в эту игру."
   },
   {
    "off": 11065,
    "budget": 47,
-   "en": "＠緑Videophone: 52-7619."
+   "en": "＠緑Видеофон: 52-7619.",
+   "en_src": "＠緑Videophone: 52-7619.",
+   "ru": true
   },
   {
    "off": 11112,
    "budget": 87,
-   "en": "＠緑God Adachi. Born 2500 BC.￥Blood type: 20,000 yen per￥bottle."
+   "en": "＠緑Бог Адати. Родился в 2500 г.￥до н. э. Кровь: 20 000 иен￥за бутылку.",
+   "en_src": "＠緑God Adachi. Born 2500 BC.￥Blood type: 20,000 yen per￥bottle.",
+   "ru": true
   },
   {
    "off": 11199,
    "budget": 73,
-   "en": "＠緑▽Sign  Gemini￥▽Role￥ sheets, mixing,￥ lookout, menace, prayer",
-   "long": "＠緑Gemini. Roles: Spreadsheets,￥music mixing, lookout,￥intimidation, prayer."
+   "en": ".",
+   "en_src": "＠緑▽Sign  Gemini￥▽Role￥ sheets, mixing,￥ lookout, menace, prayer",
+   "long_src": "＠緑Gemini. Roles: Spreadsheets,￥music mixing, lookout,￥intimidation, prayer.",
+   "ru": true,
+   "long": "＠緑Близнецы. Роли: таблицы,￥сведение музыки, стрёма,￥устрашение, молитвы."
   },
   {
    "off": 11272,
    "budget": 77,
-   "en": "＠緑Personality: A calm heart, a￥piercing stare, a filthy￥desk."
+   "en": "＠緑Характер: спокойное сердце,￥пронзительный взгляд,￥грязный стол.",
+   "en_src": "＠緑Personality: A calm heart, a￥piercing stare, a filthy￥desk.",
+   "ru": true
   },
   {
    "off": 11349,
    "budget": 47,
-   "en": "＠緑Message: I mixed most of the￥music."
+   "en": "＠緑Послание: большую часть￥музыки сводил я.",
+   "en_src": "＠緑Message: I mixed most of the￥music.",
+   "ru": true
   },
   {
    "off": 11396,
    "budget": 115,
-   "en": "＠緑Lately I've been riding a￥Cub. My cool helmet gets￥everyone's attention. I get￥attention without it, too."
+   "en": ".",
+   "en_src": "＠緑Lately I've been riding a￥Cub. My cool helmet gets￥everyone's attention. I get￥attention without it, too.",
+   "ru": true,
+   "long": "＠緑В последнее время гоняю на￥мопеде \"Каб\". Мой крутой￥шлем всех впечатляет.￥Впрочем, меня и без шлема￥замечают."
   },
   {
    "off": 11511,
    "budget": 47,
-   "en": "＠緑Videophone: 51-0606."
+   "en": "＠緑Видеофон: 51-0606.",
+   "en_src": "＠緑Videophone: 51-0606.",
+   "ru": true
   },
   {
    "off": 11558,
    "budget": 89,
-   "en": "＠緑Sun Kida. Born April 1,￥1990. Starting first grade￥soon."
+   "en": "＠緑Сун Кида. Родился 1 апреля￥1990. Скоро в первый класс.",
+   "en_src": "＠緑Sun Kida. Born April 1,￥1990. Starting first grade￥soon.",
+   "ru": true
   },
   {
    "off": 11647,
    "budget": 95,
-   "en": "＠緑▽Aquarius, type B￥▽Role  dishwashing￥▽Character  pudding and￥ bananas make me glad",
-   "long": "＠緑Aquarius. Blood type B.￥Role: Washing dishes.￥Personality: Pudding and￥bananas keep me happy."
+   "en": "＠緑Водолей. Группа крови B.￥Роль: мытьё посуды.￥Характер: пудинг и бананы -￥и я доволен.",
+   "en_src": "＠緑▽Aquarius, type B￥▽Role  dishwashing￥▽Character  pudding and￥ bananas make me glad",
+   "long_src": "＠緑Aquarius. Blood type B.￥Role: Washing dishes.￥Personality: Pudding and￥bananas keep me happy.",
+   "ru": true
   },
   {
    "off": 11742,
    "budget": 71,
-   "en": "＠緑▽Message￥I changed the music style￥from past SNATCHERs-sun.",
-   "long": "＠緑Message: I tried giving the￥music a different feel from￥earlier Snatcher games."
+   "en": ".",
+   "en_src": "＠緑▽Message￥I changed the music style￥from past SNATCHERs-sun.",
+   "long_src": "＠緑Message: I tried giving the￥music a different feel from￥earlier Snatcher games.",
+   "ru": true,
+   "long": "＠緑Послание: я попробовал￥сделать музыку не такой, как￥в прежних Snatcher."
   },
   {
    "off": 11813,
    "budget": 93,
-   "en": "＠緑I'd love to hear what you￥think. Thanks! Videophone:￥49-1941."
+   "en": "＠緑Хочу узнать ваше мнение.￥Спасибо! Видеофон: 49-1941.",
+   "en_src": "＠緑I'd love to hear what you￥think. Thanks! Videophone:￥49-1941.",
+   "ru": true
   },
   {
    "off": 11906,
    "budget": 81,
-   "en": "＠緑Hiroe Noguchi. Born October￥12, 1972. Libra. Blood type￥O."
+   "en": "＠緑Хироэ Ногути. Родилась 12￥октября 1972. Весы. Группа￥крови O.",
+   "en_src": "＠緑Hiroe Noguchi. Born October￥12, 1972. Libra. Blood type￥O.",
+   "ru": true
   },
   {
    "off": 11987,
    "budget": 49,
-   "en": "＠緑▽Role￥ sound FX￥▽Character￥ big sis",
-   "long": "＠緑Role: Sound effects.￥Personality: Big sister."
+   "en": ".",
+   "en_src": "＠緑▽Role￥ sound FX￥▽Character￥ big sis",
+   "long_src": "＠緑Role: Sound effects.￥Personality: Big sister.",
+   "ru": true,
+   "long": "＠緑Роль: звуковые эффекты.￥Характер: старшая сестра."
   },
   {
    "off": 12036,
    "budget": 95,
-   "en": "＠緑▽Message￥I only joined this year, and￥at first I knew nothing at￥all.",
-   "long": "＠緑Message: I only joined the￥company this year. When I￥arrived, I didn't know the￥first thing about anything."
+   "en": ".",
+   "en_src": "＠緑▽Message￥I only joined this year, and￥at first I knew nothing at￥all.",
+   "long_src": "＠緑Message: I only joined the￥company this year. When I￥arrived, I didn't know the￥first thing about anything.",
+   "ru": true,
+   "long": "＠緑Послание: я пришла в￥компанию только в этом году.￥Поначалу я совсем ничего не￥понимала."
   },
   {
    "off": 12131,
    "budget": 77,
-   "en": "＠緑But lately I've started￥figuring things out. And now￥I'm worried."
+   "en": "＠緑Но в последнее время начала￥кое-что понимать. И теперь￥мне тревожно.",
+   "en_src": "＠緑But lately I've started￥figuring things out. And now￥I'm worried.",
+   "ru": true
   },
   {
    "off": 12208,
    "budget": 47,
-   "en": "＠緑Videophone: 72-1012."
+   "en": "＠緑Видеофон: 72-1012.",
+   "en_src": "＠緑Videophone: 72-1012.",
+   "ru": true
   },
   {
    "off": 12255,
    "budget": 89,
-   "en": "＠緑Noritada \"NOR\" Matsukawa.￥Born September 20, 1969.￥Virgo. Blood type B."
+   "en": "＠緑Норитада \"NOR\" Мацукава.￥Родился 20 сентября 1969.￥Дева. Группа крови B.",
+   "en_src": "＠緑Noritada \"NOR\" Matsukawa.￥Born September 20, 1969.￥Virgo. Blood type B.",
+   "ru": true
   },
   {
    "off": 12344,
    "budget": 73,
-   "en": "＠緑Role: Sound programming.￥Personality: Greasy and￥loves work."
+   "en": "＠緑Роль: звуковое￥программирование. Характер:￥жирноватый трудоголик.",
+   "en_src": "＠緑Role: Sound programming.￥Personality: Greasy and￥loves work.",
+   "ru": true
   },
   {
    "off": 12417,
    "budget": 65,
-   "en": "＠緑▽Message￥No time to play games all￥day, you lot.",
-   "long": "＠緑Message: You guys can't just￥sit around playing games all￥day!"
+   "en": ".",
+   "en_src": "＠緑▽Message￥No time to play games all￥day, you lot.",
+   "long_src": "＠緑Message: You guys can't just￥sit around playing games all￥day!",
+   "ru": true,
+   "long": "＠緑Послание: хватит вам,￥ребята, целыми днями в игры￥резаться!"
   },
   {
    "off": 12482,
    "budget": 47,
-   "en": "＠緑Videophone: 56-9926."
+   "en": "＠緑Видеофон: 56-9926.",
+   "en_src": "＠緑Videophone: 56-9926.",
+   "ru": true
   },
   {
    "off": 12529,
    "budget": 77,
-   "en": "＠緑Kazuhisa Hashimoto. Born￥November 16, 1958.￥Scorpio. Blood type B."
+   "en": ".",
+   "en_src": "＠緑Kazuhisa Hashimoto. Born￥November 16, 1958.￥Scorpio. Blood type B.",
+   "ru": true,
+   "long": "＠緑Кадзухиса Хасимото. Родился￥16 ноября 1958. Скорпион.￥Группа крови B."
   },
   {
    "off": 12606,
    "budget": 47,
-   "en": "＠緑Role: Janitor. Personality:￥Harmless."
+   "en": "＠緑Роль: дворник. Характер:￥безобидный.",
+   "en_src": "＠緑Role: Janitor. Personality:￥Harmless.",
+   "ru": true
   },
   {
    "off": 12653,
    "budget": 47,
-   "en": "＠緑Message: Keep showing Konami￥some love!"
+   "en": "＠緑Послание: любите Konami и￥дальше!",
+   "en_src": "＠緑Message: Keep showing Konami￥some love!",
+   "ru": true
   },
   {
    "off": 12700,
    "budget": 23,
-   "en": "    ＠緑'Madoka'"
+   "en": "＠緑'Мадока'",
+   "en_src": "    ＠緑'Madoka'",
+   "ru": true
   },
   {
    "off": 12723,
    "budget": 75,
-   "en": "＠緑▽Age unknown Schoolgirl￥Granddaughter of Dr Murdock￥ of Donburi",
-   "long": "＠緑Age unknown. Middle school￥student. Granddaughter of￥Dr. Murdock, a scientist on￥Donburi Island."
+   "en": ".",
+   "en_src": "＠緑▽Age unknown Schoolgirl￥Granddaughter of Dr Murdock￥ of Donburi",
+   "long_src": "＠緑Age unknown. Middle school￥student. Granddaughter of￥Dr. Murdock, a scientist on￥Donburi Island.",
+   "ru": true,
+   "long": "＠緑Возраст неизвестен.￥Школьница средних классов.￥Внучка доктора Мёрдока,￥учёного с острова Донбури."
   },
   {
    "off": 12798,
    "budget": 103,
-   "en": "＠緑Her hobby is baking cookies.￥But chasing new recipes so hard, she has yet to make a normal one.",
-   "long": "＠緑She enjoys making cookies,￥but her obsession with new￥recipes means she's never￥made a normal batch."
+   "en": "＠緑Любит печь печенье, но из-за￥страсти к новым рецептам ни￥разу не испекла нормальную￥партию.",
+   "en_src": "＠緑Her hobby is baking cookies.￥But chasing new recipes so hard, she has yet to make a normal one.",
+   "long_src": "＠緑She enjoys making cookies,￥but her obsession with new￥recipes means she's never￥made a normal batch.",
+   "ru": true
   },
   {
    "off": 12901,
    "budget": 67,
-   "en": "＠緑Reports say they wiped out￥poison gas on the island.",
-   "long": "＠緑Reports say her cookies are￥powerful enough to eliminate￥the poison gas that attacked￥the island."
+   "en": ".",
+   "en_src": "＠緑Reports say they wiped out￥poison gas on the island.",
+   "long_src": "＠緑Reports say her cookies are￥powerful enough to eliminate￥the poison gas that attacked￥the island.",
+   "ru": true,
+   "long": "＠緑По данным, её печенье￥настолько мощное, что￥уничтожило ядовитый газ,￥атаковавший остров."
   },
   {
    "off": 12968,
    "budget": 59,
-   "en": "＠緑An ordinary girl, yet￥trouble follows her around.",
-   "long": "＠緑She ought to be an ordinary￥girl, but somehow she keeps￥getting caught up in￥trouble."
+   "en": ".",
+   "en_src": "＠緑An ordinary girl, yet￥trouble follows her around.",
+   "long_src": "＠緑She ought to be an ordinary￥girl, but somehow she keeps￥getting caught up in￥trouble.",
+   "ru": true,
+   "long": "＠緑Вроде бы обычная девочка, но￥почему-то вечно попадает в￥истории."
   },
   {
    "off": 13027,
    "budget": 31,
-   "en": "＠緑Best work 'Squid Cookie'",
-   "long": "＠緑Signature creation: Squid￥Ink Cookies."
+   "en": ".",
+   "en_src": "＠緑Best work 'Squid Cookie'",
+   "long_src": "＠緑Signature creation: Squid￥Ink Cookies.",
+   "ru": true,
+   "long": "＠緑Фирменное творение: печенье￥с чернилами кальмара."
   },
   {
    "off": 13058,
    "budget": 31,
-   "en": "＠緑Isabella Velvet"
+   "en": "＠緑Изабелла Вельвет",
+   "en_src": "＠緑Isabella Velvet",
+   "ru": true
   },
   {
    "off": 13089,
    "budget": 51,
-   "en": "＠緑Age: 24. Popular Hologram￥Vision actress."
+   "en": "＠緑Возраст: 24. Популярная￥актриса головидения.",
+   "en_src": "＠緑Age: 24. Popular Hologram￥Vision actress.",
+   "ru": true
   },
   {
    "off": 13140,
    "budget": 105,
-   "en": "＠緑▽Discovered dancing at￥Outer Heaven by director￥Ridley Scotty, who gave her￥her debut.",
-   "long": "＠緑Director Ridley Scotty￥discovered her while she was￥working as a dancer at Outer￥Heaven, launching her acting￥career."
+   "en": ".",
+   "en_src": "＠緑▽Discovered dancing at￥Outer Heaven by director￥Ridley Scotty, who gave her￥her debut.",
+   "long_src": "＠緑Director Ridley Scotty￥discovered her while she was￥working as a dancer at Outer￥Heaven, launching her acting￥career.",
+   "ru": true,
+   "long": "＠緑Режиссёр Ридли Скотти￥заметил её, когда она￥танцевала в \"Аутер Хэвен\", и￥так началась её карьера￥актрисы."
   },
   {
    "off": 13245,
    "budget": 91,
-   "en": "＠緑Best Actress, Kobe International Film Festival '40.￥Special Jury Prize, Cannes '41.",
-   "long": "＠緑Best Actress, 2040 Kobe￥International Film Festival.￥Special Jury Prize, 2041￥Cannes Film Festival."
+   "en": ".",
+   "en_src": "＠緑Best Actress, Kobe International Film Festival '40.￥Special Jury Prize, Cannes '41.",
+   "long_src": "＠緑Best Actress, 2040 Kobe￥International Film Festival.￥Special Jury Prize, 2041￥Cannes Film Festival.",
+   "ru": true,
+   "long": "＠緑Лучшая актриса￥Международного кинофестиваля￥в Кобе 2040. Специальный￥приз жюри Каннского￥кинофестиваля 2041."
   },
   {
    "off": 13336,
    "budget": 55,
-   "en": "＠緑Oscar nominee two years￥running, '41 and '42.",
-   "long": "＠緑Oscar nominee for two￥consecutive years, 2041 and￥2042."
+   "en": ".",
+   "en_src": "＠緑Oscar nominee two years￥running, '41 and '42.",
+   "long_src": "＠緑Oscar nominee for two￥consecutive years, 2041 and￥2042.",
+   "ru": true,
+   "long": "＠緑Номинантка на \"Оскар\" два￥года подряд, в 2041 и 2042."
   },
   {
    "off": 13391,
    "budget": 107,
-   "en": "＠緑Notable holograms 'Bolero of￥Dangerous Love (39)' 'Kiss￥of the Bees (41)' 'Beyond￥Sorrow (41)",
-   "long": "＠緑Notable holographic films:￥Bolero of Dangerous Love￥(2039), Kiss of the Honeybee￥(2041), Beyond Sorrow￥(2041)."
+   "en": ".",
+   "en_src": "＠緑Notable holograms 'Bolero of￥Dangerous Love (39)' 'Kiss￥of the Bees (41)' 'Beyond￥Sorrow (41)",
+   "long_src": "＠緑Notable holographic films:￥Bolero of Dangerous Love￥(2039), Kiss of the Honeybee￥(2041), Beyond Sorrow￥(2041).",
+   "ru": true,
+   "long": "＠緑Известные голофильмы:￥\"Болеро опасной любви\"￥(2039), \"Поцелуй пчелы\"￥(2041), \"По ту сторону￥печали\" (2041)."
   },
   {
    "off": 13498,
    "budget": 43,
-   "en": "＠緑▽Height 175cm ▽Blood type￥O",
-   "long": "＠緑Height: 175 centimeters.￥Blood type O."
+   "en": ".",
+   "en_src": "＠緑▽Height 175cm ▽Blood type￥O",
+   "long_src": "＠緑Height: 175 centimeters.￥Blood type O.",
+   "ru": true,
+   "long": "＠緑Рост: 175 сантиметров.￥Группа крови O."
   },
   {
    "off": 13541,
    "budget": 57,
-   "en": "＠緑▽B 87cm W 59cm H 88cm",
-   "long": "＠緑Bust: 87 centimeters. Waist:￥59 centimeters. Hips: 88￥centimeters."
+   "en": ".",
+   "en_src": "＠緑▽B 87cm W 59cm H 88cm",
+   "long_src": "＠緑Bust: 87 centimeters. Waist:￥59 centimeters. Hips: 88￥centimeters.",
+   "ru": true,
+   "long": "＠緑Грудь: 87 сантиметров.￥Талия: 59 сантиметров.￥Бёдра: 88 сантиметров."
   },
   {
    "off": 13598,
    "budget": 29,
-   "en": "＠緑Ivan Rodriguez"
+   "en": "＠緑Иван Родригес",
+   "en_src": "＠緑Ivan Rodriguez",
+   "ru": true
   },
   {
    "off": 13627,
    "budget": 85,
-   "en": "＠緑Age: 27. Unmarried. Amateur￥air surfer. Family: none."
+   "en": "＠緑Возраст: 27. Не женат.￥Аэросёрфер-любитель. Семья:￥нет.",
+   "en_src": "＠緑Age: 27. Unmarried. Amateur￥air surfer. Family: none.",
+   "ru": true
   },
   {
    "off": 13712,
    "budget": 99,
-   "en": "＠緑▽Address SN district, South￥ Itayado 5-22￥ (outside data control)￥▽Family: none",
-   "long": "＠緑Address: 5-22 South Itayado,￥SN District. Note: outside￥the information network.￥Family: none."
+   "en": "＠緑Адрес: район SN,￥Саут-Итаядо, 5-22.￥Примечание: вне￥информационной сети. Семья:￥нет.",
+   "en_src": "＠緑▽Address SN district, South￥ Itayado 5-22￥ (outside data control)￥▽Family: none",
+   "long_src": "＠緑Address: 5-22 South Itayado,￥SN District. Note: outside￥the information network.￥Family: none.",
+   "ru": true
   },
   {
    "off": 13811,
    "budget": 57,
-   "en": "＠緑Home searched as a Snatcher￥suspect; held on drug.",
-   "long": "＠緑His home was searched on￥suspicion of being a￥Snatcher. Arrested for￥illegal drug possession."
+   "en": ".",
+   "en_src": "＠緑Home searched as a Snatcher￥suspect; held on drug.",
+   "long_src": "＠緑His home was searched on￥suspicion of being a￥Snatcher. Arrested for￥illegal drug possession.",
+   "ru": true,
+   "long": "＠緑Дом обыскан по подозрению,￥что он снатчер. Арестован за￥незаконное хранение￥наркотиков."
   },
   {
    "off": 13868,
    "budget": 85,
-   "en": "＠緑Age: 27. Unmarried. Amateur￥air surfer. Family: none."
+   "en": "＠緑Возраст: 27. Не женат.￥Аэросёрфер-любитель. Семья:￥нет.",
+   "en_src": "＠緑Age: 27. Unmarried. Amateur￥air surfer. Family: none.",
+   "ru": true
   },
   {
    "off": 13953,
    "budget": 91,
-   "en": "＠緑▽Address SN district, South￥Itayado 5-22￥ (outside data control)￥▽Family: none",
-   "long": "＠緑Address: 5-22 South Itayado,￥SN District. Note: outside￥the information network.￥Family: none."
+   "en": ".",
+   "en_src": "＠緑▽Address SN district, South￥Itayado 5-22￥ (outside data control)￥▽Family: none",
+   "long_src": "＠緑Address: 5-22 South Itayado,￥SN District. Note: outside￥the information network.￥Family: none.",
+   "ru": true,
+   "long": "＠緑Адрес: район SN,￥Саут-Итаядо, 5-22.￥Примечание: вне￥информационной сети. Семья:￥нет."
   },
   {
    "off": 14044,
    "budget": 25,
-   "en": "＠緑Data search failed."
+   "en": ".",
+   "en_src": "＠緑Data search failed.",
+   "ru": true,
+   "long": "＠緑Поиск данных не удался."
   },
   {
    "off": 14069,
    "budget": 67,
-   "en": "＠緑Your ID cannot clear the￥security level on this data.",
-   "long": "＠緑Your ID does not have the￥security clearance needed to￥access this data."
+   "en": "＠緑У вашего ID нет допуска к￥этим данным.",
+   "en_src": "＠緑Your ID cannot clear the￥security level on this data.",
+   "long_src": "＠緑Your ID does not have the￥security clearance needed to￥access this data.",
+   "ru": true
   },
   {
    "off": 14136,
    "budget": 69,
-   "en": "＠緑An ID with level 7 clearance￥is required to unlock￥access."
+   "en": "＠緑Для доступа нужен ID с￥допуском 7-го уровня.",
+   "en_src": "＠緑An ID with level 7 clearance￥is required to unlock￥access.",
+   "ru": true
   },
   {
    "off": 14205,
    "budget": 43,
-   "en": "Why can't I access my own data?"
+   "en": ".",
+   "en_src": "Why can't I access my own data?",
+   "ru": true,
+   "long": "Почему у меня нет доступа к моим же￥данным?"
   },
   {
    "off": 14248,
    "budget": 29,
-   "en": "＠緑Data search failed."
+   "en": "＠緑Поиск данных не удался.",
+   "en_src": "＠緑Data search failed.",
+   "ru": true
   },
   {
    "off": 14277,
    "budget": 65,
-   "en": "＠緑Your ID cannot clear the￥security level on this data",
-   "long": "＠緑Your ID does not have the￥security clearance needed to￥access this data."
+   "en": "＠緑У вашего ID нет допуска к￥этим данным.",
+   "en_src": "＠緑Your ID cannot clear the￥security level on this data",
+   "long_src": "＠緑Your ID does not have the￥security clearance needed to￥access this data.",
+   "ru": true
   },
   {
    "off": 14342,
    "budget": 49,
-   "en": "Why can't I access Jamie's data?"
+   "en": "Почему у меня нет доступа к данным￥Джейми?",
+   "en_src": "Why can't I access Jamie's data?",
+   "ru": true
   },
   {
    "off": 14391,
    "budget": 23,
-   "en": "   ＠緑'Chin Shu Ho'"
+   "en": "＠緑'Чин Шу Хо'",
+   "en_src": "   ＠緑'Chin Shu Ho'",
+   "ru": true
   },
   {
    "off": 14414,
    "budget": 21,
-   "en": "＠緑Jobless Age 41"
+   "en": ".",
+   "en_src": "＠緑Jobless Age 41",
+   "ru": true,
+   "long": "＠緑Безработный, 41 г."
   },
   {
    "off": 14435,
    "budget": 85,
-   "en": "＠緑▽Record￥Mar 2038: charged over illegal host-mother work; senior licence cut.",
-   "long": "＠緑Record: March 2038. Referred￥for prosecution for illegal￥Host Mother operations.￥Advanced medical license￥revoked."
+   "en": ".",
+   "en_src": "＠緑▽Record￥Mar 2038: charged over illegal host-mother work; senior licence cut.",
+   "long_src": "＠緑Record: March 2038. Referred￥for prosecution for illegal￥Host Mother operations.￥Advanced medical license￥revoked.",
+   "ru": true,
+   "long": "＠緑Досье: март 2038. Дело￥передано в суд за незаконную￥деятельность \"Хост-Мазер\".￥Лишён высшей медицинской￥лицензии."
   },
   {
    "off": 14520,
    "budget": 81,
-   "en": "＠緑Sep 2040: arrested for an￥unlicensed clinic￥(Queen); licence gone.",
-   "long": "＠緑September 2040. Arrested for￥operating an unlicensed￥clinic, Queen Hospital.￥Intermediate medical license￥suspended."
+   "en": ".",
+   "en_src": "＠緑Sep 2040: arrested for an￥unlicensed clinic￥(Queen); licence gone.",
+   "long_src": "＠緑September 2040. Arrested for￥operating an unlicensed￥clinic, Queen Hospital.￥Intermediate medical license￥suspended.",
+   "ru": true,
+   "long": "＠緑Сентябрь 2040. Арестован за￥подпольную клинику -￥больницу \"Куин\". Средняя￥медицинская лицензия￥приостановлена."
   },
   {
    "off": 14601,
    "budget": 107,
-   "en": "＠緑May 2041. Permanently barred￥from operating for violating￥physical containment safety￥standards."
+   "en": "＠緑Май 2041. Бессрочно лишён￥права практики за нарушение￥норм биологической изоляции.",
+   "en_src": "＠緑May 2041. Permanently barred￥from operating for violating￥physical containment safety￥standards.",
+   "ru": true
   },
   {
    "off": 14708,
    "budget": 47,
-   "en": "＠緑Family: none. No updated￥data for 2042."
+   "en": "＠緑Семья: нет. Обновлений за￥2042 год нет.",
+   "en_src": "＠緑Family: none. No updated￥data for 2042.",
+   "ru": true
   },
   {
    "off": 14755,
    "budget": 33,
-   "en": "￥ ＠緑Level class ID confirmed",
-   "long": "＠緑ID clearance level￥confirmed."
+   "en": ".",
+   "en_src": "￥ ＠緑Level class ID confirmed",
+   "long_src": "＠緑ID clearance level￥confirmed.",
+   "ru": true,
+   "long": "＠緑Уровень допуска ID￥подтверждён."
   },
   {
    "off": 14788,
    "budget": 87,
-   "en": "＠赤Classified to protect the￥subject and their kin.￥Disclosure is forbidden.",
-   "long": "＠赤This data is strictly confidential￥to protect the subject and their￥relatives. Disclosure is prohibited."
+   "en": ".",
+   "en_src": "＠赤Classified to protect the￥subject and their kin.￥Disclosure is forbidden.",
+   "long_src": "＠赤This data is strictly confidential￥to protect the subject and their￥relatives. Disclosure is prohibited.",
+   "ru": true,
+   "long": "＠赤Данные строго секретны ради￥безопасности субъекта и его родных.￥Разглашение запрещено."
   },
   {
    "off": 14875,
    "budget": 29,
-   "en": "＠緑Harry Benson"
+   "en": "＠緑Гарри Бенсон",
+   "en_src": "＠緑Harry Benson",
+   "ru": true
   },
   {
    "off": 14904,
    "budget": 93,
-   "en": "＠緑Age: 55. Unmarried. JUNKER￥Mechanic. Former scientific￥staff member of RUG HUNT."
+   "en": "＠緑Возраст: 55. Не женат.￥Механик ДЖАНКЕРа. Бывший￥научный сотрудник РАГ ХАНТ.",
+   "en_src": "＠緑Age: 55. Unmarried. JUNKER￥Mechanic. Former scientific￥staff member of RUG HUNT.",
+   "ru": true
   },
   {
    "off": 14997,
    "budget": 89,
-   "en": "＠緑▽Lost his parents in the￥Catastrophe, raised by the￥state.￥Doctorate at 14.",
-   "long": "＠緑Orphaned by the Catastrophe,￥he entered government care￥as a young child. He earned￥his doctorate at just￥fourteen."
+   "en": ".",
+   "en_src": "＠緑▽Lost his parents in the￥Catastrophe, raised by the￥state.￥Doctorate at 14.",
+   "long_src": "＠緑Orphaned by the Catastrophe,￥he entered government care￥as a young child. He earned￥his doctorate at just￥fourteen.",
+   "ru": true,
+   "long": "＠緑Осиротев в Катастрофу, в￥раннем детстве попал на￥попечение государства.￥Доктор наук в 14 лет."
   },
   {
    "off": 15086,
    "budget": 85,
-   "en": "＠緑In World War III he devised￥many new weapons on￥development staff, drawing",
-   "long": "＠緑During World War III, he￥attracted attention by￥designing numerous new￥weapons as a military￥weapons developer."
+   "en": ".",
+   "en_src": "＠緑In World War III he devised￥many new weapons on￥development staff, drawing",
+   "long_src": "＠緑During World War III, he￥attracted attention by￥designing numerous new￥weapons as a military￥weapons developer.",
+   "ru": true,
+   "long": "＠緑В Третью мировую прославился￥как военный конструктор,￥создав множество новых видов￥оружия."
   },
   {
    "off": 15171,
    "budget": 67,
-   "en": "＠緑After the war he moved to￥NASA and worked on ramjets.",
-   "long": "＠緑After the war, he moved to￥NASA and worked on ramjet￥engine development."
+   "en": ".",
+   "en_src": "＠緑After the war he moved to￥NASA and worked on ramjets.",
+   "long_src": "＠緑After the war, he moved to￥NASA and worked on ramjet￥engine development.",
+   "ru": true,
+   "long": "＠緑После войны перешёл в NASA и￥разрабатывал прямоточные￥двигатели."
   },
   {
    "off": 15238,
    "budget": 53,
-   "en": "＠緑Three Nobel prizes and one￥Fields Medal.",
-   "long": "＠緑He has received three Nobel￥Prizes and one Fields Medal."
+   "en": ".",
+   "en_src": "＠緑Three Nobel prizes and one￥Fields Medal.",
+   "long_src": "＠緑He has received three Nobel￥Prizes and one Fields Medal.",
+   "ru": true,
+   "long": "＠緑Трижды лауреат Нобелевской￥премии и обладатель￥Филдсовской медали."
   },
   {
    "off": 15291,
    "budget": 63,
-   "en": "＠緑▽Height 168cm ▽Weight￥65kg ▽Blood type O",
-   "long": "＠緑Height: 168 centimeters.￥Weight: 65 kilograms. Blood￥type O."
+   "en": ".",
+   "en_src": "＠緑▽Height 168cm ▽Weight￥65kg ▽Blood type O",
+   "long_src": "＠緑Height: 168 centimeters.￥Weight: 65 kilograms. Blood￥type O.",
+   "ru": true,
+   "long": "＠緑Рост: 168 сантиметров. Вес:￥65 килограммов. Группа крови￥O."
   },
   {
    "off": 15354,
    "budget": 31,
-   "en": "＠緑Freddy Nielsen"
+   "en": "＠緑Фредди Нильсен",
+   "en_src": "＠緑Freddy Nielsen",
+   "ru": true
   },
   {
    "off": 15385,
    "budget": 87,
-   "en": "＠緑Age: 29. Independent taxi￥driver. Wife: Lisa, age 25."
+   "en": "＠緑Возраст: 29. Частный￥таксист. Жена: Лиза, 25 лет.",
+   "en_src": "＠緑Age: 29. Independent taxi￥driver. Wife: Lisa, age 25.",
+   "ru": true
   },
   {
    "off": 15472,
    "budget": 79,
-   "en": "＠緑Address: Doktor Okamoto,￥Apartment 202, 3-8 New￥Okamoto, MR District."
+   "en": "＠緑Адрес: район MR,￥Нью-Окамото, 3-8, дом￥\"Доктор Окамото\", кв. 202.",
+   "en_src": "＠緑Address: Doktor Okamoto,￥Apartment 202, 3-8 New￥Okamoto, MR District.",
+   "ru": true
   },
   {
    "off": 15551,
    "budget": 89,
-   "en": "＠緑Identified as a Snatcher and￥disposed of by bounty hunter￥Randam Hajile.",
-   "long": "＠緑Identified as a Snatcher￥during an investigation and￥eliminated by bounty hunter￥Randam Hajile."
+   "en": ".",
+   "en_src": "＠緑Identified as a Snatcher and￥disposed of by bounty hunter￥Randam Hajile.",
+   "long_src": "＠緑Identified as a Snatcher￥during an investigation and￥eliminated by bounty hunter￥Randam Hajile.",
+   "ru": true,
+   "long": "＠緑В ходе расследования выявлен￥как снатчер и уничтожен￥охотником за головами￥Рэндамом Хаджайлом."
   },
   {
    "off": 15640,
    "budget": 43,
-   "en": "＠緑His own body has not been￥found.",
-   "long": "＠緑The real Freddy's body has￥not yet been found."
+   "en": ".",
+   "en_src": "＠緑His own body has not been￥found.",
+   "long_src": "＠緑The real Freddy's body has￥not yet been found.",
+   "ru": true,
+   "long": "＠緑Тело настоящего Фредди до￥сих пор не найдено."
   },
   {
    "off": 15683,
    "budget": 37,
-   "en": "￥＠緑 ＠緑Level class ID confirmed",
-   "long": "＠緑＠緑ID clearance level￥confirmed."
+   "en": ".",
+   "en_src": "￥＠緑 ＠緑Level class ID confirmed",
+   "long_src": "＠緑＠緑ID clearance level￥confirmed.",
+   "ru": true,
+   "long": "＠緑＠緑Уровень допуска ID￥подтверждён."
   },
   {
    "off": 15720,
    "budget": 31,
-   "en": "＠緑Benson Cunningham"
+   "en": "＠緑Бенсон Каннингем",
+   "en_src": "＠緑Benson Cunningham",
+   "ru": true
   },
   {
    "off": 15751,
    "budget": 33,
-   "en": "＠緑Age: 46. Chief of JUNKER."
+   "en": "＠緑Возраст: 46. Шеф ДЖАНКЕРа.",
+   "en_src": "＠緑Age: 46. Chief of JUNKER.",
+   "ru": true
   },
   {
    "off": 15784,
    "budget": 113,
-   "en": "＠緑▽Snatcher countermeasure￥head in FOX HOUND, then￥anti-Snatcher squad leader,￥before JUNKER Chief.",
-   "long": "＠緑Appointed Chief of JUNKER￥after heading FOXHOUND's￥anti-Snatcher headquarters￥and the special￥anti-Snatcher unit."
+   "en": ".",
+   "en_src": "＠緑▽Snatcher countermeasure￥head in FOX HOUND, then￥anti-Snatcher squad leader,￥before JUNKER Chief.",
+   "long_src": "＠緑Appointed Chief of JUNKER￥after heading FOXHOUND's￥anti-Snatcher headquarters￥and the special￥anti-Snatcher unit.",
+   "ru": true,
+   "long": "＠緑Назначен шефом ДЖАНКЕРа￥после руководства￥антиснатчерским штабом￥ФОКСХАУНДа и специальным￥антиснатчерским отрядом."
   },
   {
    "off": 15897,
    "budget": 89,
-   "en": "＠緑In his twenties he taught￥strategy with the high-tech￥special force FOX HOUND.",
-   "long": "＠緑In his twenties, he served￥as a strategy instructor in￥the high-tech special forces￥unit FOXHOUND."
+   "en": ".",
+   "en_src": "＠緑In his twenties he taught￥strategy with the high-tech￥special force FOX HOUND.",
+   "long_src": "＠緑In his twenties, he served￥as a strategy instructor in￥the high-tech special forces￥unit FOXHOUND.",
+   "ru": true,
+   "long": "＠緑В 20 с небольшим служил￥инструктором по стратегии в￥высокотехнологичном￥спецподразделении ФОКСХАУНД."
   },
   {
    "off": 15986,
    "budget": 57,
-   "en": "＠緑Competed in judo at the 2028￥Wellington Olympics."
+   "en": ".",
+   "en_src": "＠緑Competed in judo at the 2028￥Wellington Olympics.",
+   "ru": true,
+   "long": "＠緑Выступал по дзюдо на￥Олимпиаде 2028 года в￥Веллингтоне."
   },
   {
    "off": 16043,
    "budget": 63,
-   "en": "＠緑▽Height 180cm ▽Weight￥75kg ▽Blood type B",
-   "long": "＠緑Height: 180 centimeters.￥Weight: 75 kilograms. Blood￥type B."
+   "en": ".",
+   "en_src": "＠緑▽Height 180cm ▽Weight￥75kg ▽Blood type B",
+   "long_src": "＠緑Height: 180 centimeters.￥Weight: 75 kilograms. Blood￥type B.",
+   "ru": true,
+   "long": "＠緑Рост: 180 сантиметров. Вес:￥75 килограммов. Группа крови￥B."
   },
   {
    "off": 16106,
    "budget": 29,
-   "en": "＠緑Mika Slayton"
+   "en": "＠緑Мика Слейтон",
+   "en_src": "＠緑Mika Slayton",
+   "ru": true
   },
   {
    "off": 16135,
    "budget": 63,
-   "en": "＠緑▽23, unmarried￥ JUNKER HQ receptionist￥ and operator.",
-   "long": "＠緑Age: 23. Unmarried.￥Receptionist and Operator at￥JUNKER headquarters."
+   "en": ".",
+   "en_src": "＠緑▽23, unmarried￥ JUNKER HQ receptionist￥ and operator.",
+   "long_src": "＠緑Age: 23. Unmarried.￥Receptionist and Operator at￥JUNKER headquarters.",
+   "ru": true,
+   "long": "＠緑Возраст: 23. Не замужем.￥Секретарь и оператор штаба￥ДЖАНКЕРа."
   },
   {
    "off": 16198,
    "budget": 117,
-   "en": "＠緑▽Studied criminal￥psychology and data￥processing at Kobe Gakuen.￥Joined JUNKER via the Kobe￥crime lab.",
-   "long": "＠緑Studied criminal psychology￥and social information￥processing at Kobe Gakuen￥City University. After￥graduation, she worked at￥the Kobe Special Crime￥Research Institute before￥joining JUNKER."
+   "en": ".",
+   "en_src": "＠緑▽Studied criminal￥psychology and data￥processing at Kobe Gakuen.￥Joined JUNKER via the Kobe￥crime lab.",
+   "long_src": "＠緑Studied criminal psychology￥and social information￥processing at Kobe Gakuen￥City University. After￥graduation, she worked at￥the Kobe Special Crime￥Research Institute before￥joining JUNKER.",
+   "ru": true,
+   "long": "＠緑Изучала криминальную￥психологию и социальную￥информатику в университете￥Кобе-Гакуэн-Сити. После￥выпуска работала в Институте￥особых преступлений Кобе,￥затем пришла в ДЖАНКЕР."
   },
   {
    "off": 16315,
    "budget": 101,
-   "en": "＠緑At the institute she handled many bizarre cases, using the risky 'element of crime' method.",
-   "long": "＠緑At the institute, she￥handled numerous bizarre￥crimes using the dangerous￥Element of Crime method."
+   "en": "＠緑В институте раскрывала￥множество жутких￥преступлений опасным методом￥\"Элемент преступления\".",
+   "en_src": "＠緑At the institute she handled many bizarre cases, using the risky 'element of crime' method.",
+   "long_src": "＠緑At the institute, she￥handled numerous bizarre￥crimes using the dangerous￥Element of Crime method.",
+   "ru": true
   },
   {
    "off": 16416,
    "budget": 113,
-   "en": "＠緑Every case was solved, but the mental strain led her to resign. The Chief recommended her to JUNKER HQ.",
-   "long": "＠緑She solved every case, but￥the mental strain led her to￥resign. The Chief's￥recommendation brought her￥to JUNKER headquarters."
+   "en": "＠緑Раскрыла все дела, но из-за￥психической нагрузки￥уволилась. По рекомендации￥шефа пришла в штаб ДЖАНКЕРа.",
+   "en_src": "＠緑Every case was solved, but the mental strain led her to resign. The Chief recommended her to JUNKER HQ.",
+   "long_src": "＠緑She solved every case, but￥the mental strain led her to￥resign. The Chief's￥recommendation brought her￥to JUNKER headquarters.",
+   "ru": true
   },
   {
    "off": 16529,
    "budget": 43,
-   "en": "＠緑▽Height 167cm ▽Blood type￥A",
-   "long": "＠緑Height: 167 centimeters.￥Blood type A."
+   "en": ".",
+   "en_src": "＠緑▽Height 167cm ▽Blood type￥A",
+   "long_src": "＠緑Height: 167 centimeters.￥Blood type A.",
+   "ru": true,
+   "long": "＠緑Рост: 167 сантиметров.￥Группа крови A."
   },
   {
    "off": 16572,
    "budget": 27,
-   "en": "＠緑Metal Gear"
+   "en": "＠緑Метал Гир",
+   "en_src": "＠緑Metal Gear",
+   "ru": true
   },
   {
    "off": 16599,
    "budget": 45,
-   "en": "＠緑Manufactured September 13,￥2042."
+   "en": "＠緑Изготовлен 13 сентября 2042.",
+   "en_src": "＠緑Manufactured September 13,￥2042.",
+   "ru": true
   },
   {
    "off": 16644,
    "budget": 89,
-   "en": "＠緑Official designation: NAVI￥Metal Gear Mk. II. Designer:￥Harry Benson."
+   "en": "＠緑Официальное обозначение:￥NAVI Метал Гир Mk. II.￥Конструктор: Гарри Бенсон.",
+   "en_src": "＠緑Official designation: NAVI￥Metal Gear Mk. II. Designer:￥Harry Benson.",
+   "ru": true
   },
   {
    "off": 16733,
    "budget": 89,
-   "en": "＠緑Height: 980 mm. Length: 310￥mm. Width: 530 mm, including￥monitor."
+   "en": "＠緑Высота: 980 мм. Длина: 310￥мм. Ширина: 530 мм с￥монитором.",
+   "en_src": "＠緑Height: 980 mm. Length: 310￥mm. Width: 530 mm, including￥monitor.",
+   "ru": true
   },
   {
    "off": 16822,
    "budget": 47,
-   "en": "＠緑▽Weight 50kg ▽Load￥capacity 40 liters",
-   "long": "＠緑Weight: 50 kilograms.￥Storage capacity: 40 liters."
+   "en": ".",
+   "en_src": "＠緑▽Weight 50kg ▽Load￥capacity 40 liters",
+   "long_src": "＠緑Weight: 50 kilograms.￥Storage capacity: 40 liters.",
+   "ru": true,
+   "long": "＠緑Вес: 50 килограммов.￥Грузовой отсек: 40 литров."
   },
   {
    "off": 16869,
    "budget": 27,
-   "en": "＠緑Little John"
+   "en": "＠緑Литл Джон",
+   "en_src": "＠緑Little John",
+   "ru": true
   },
   {
    "off": 16896,
    "budget": 43,
-   "en": "＠緑Manufactured July 8, 2038."
+   "en": "＠緑Изготовлен 8 июля 2038.",
+   "en_src": "＠緑Manufactured July 8, 2038.",
+   "ru": true
   },
   {
    "off": 16939,
    "budget": 99,
-   "en": "＠緑Official designation: NAVI￥Little John MSX011.￥Designer: Harry Benson."
+   "en": "＠緑Официальное обозначение:￥NAVI Литл Джон MSX011.￥Конструктор: Гарри Бенсон.",
+   "en_src": "＠緑Official designation: NAVI￥Little John MSX011.￥Designer: Harry Benson.",
+   "ru": true
   },
   {
    "off": 17038,
    "budget": 83,
-   "en": "＠緑Height: 720 mm. Length: 420￥mm. Width: 520 mm, including￥monitor."
+   "en": "＠緑Высота: 720 мм. Длина: 420￥мм. Ширина: 520 мм с￥монитором.",
+   "en_src": "＠緑Height: 720 mm. Length: 420￥mm. Width: 520 mm, including￥monitor.",
+   "ru": true
   },
   {
    "off": 17121,
    "budget": 21,
-   "en": "＠緑▽Weight 38kg"
+   "en": "＠緑▽Вес 38 кг",
+   "en_src": "＠緑▽Weight 38kg",
+   "ru": true
   },
   {
    "off": 17142,
    "budget": 49,
-   "en": "＠緑Dec 2042 Destroyed in M￥district ruin",
-   "long": "＠緑December 2042: Destroyed at￥the factory ruins in M￥District."
+   "en": ".",
+   "en_src": "＠緑Dec 2042 Destroyed in M￥district ruin",
+   "long_src": "＠緑December 2042: Destroyed at￥the factory ruins in M￥District.",
+   "ru": true,
+   "long": "＠緑Декабрь 2042: уничтожен на￥развалинах завода в районе￥M."
   },
   {
    "off": 17191,
    "budget": 29,
-   "en": "＠緑Lisa Nielsen"
+   "en": "＠緑Лиза Нильсен",
+   "en_src": "＠緑Lisa Nielsen",
+   "ru": true
   },
   {
    "off": 17220,
    "budget": 45,
-   "en": "＠緑25 years old Housewife￥Husband Freddy",
-   "long": "＠緑Age: 25. Homemaker. Husband:￥Freddy, age 29."
+   "en": ".",
+   "en_src": "＠緑25 years old Housewife￥Husband Freddy",
+   "long_src": "＠緑Age: 25. Homemaker. Husband:￥Freddy, age 29.",
+   "ru": true,
+   "long": "＠緑Возраст: 25. Домохозяйка.￥Муж: Фредди, 29 лет."
   },
   {
    "off": 17265,
    "budget": 81,
-   "en": "＠緑Identified as a Snatcher and￥disposed of by JUNKER￥Gillian Seed.",
-   "long": "＠緑Identified as a Snatcher￥during an investigation and￥eliminated by JUNKER Gillian￥Seed."
+   "en": ".",
+   "en_src": "＠緑Identified as a Snatcher and￥disposed of by JUNKER￥Gillian Seed.",
+   "long_src": "＠緑Identified as a Snatcher￥during an investigation and￥eliminated by JUNKER Gillian￥Seed.",
+   "ru": true,
+   "long": "＠緑В ходе расследования￥выявлена как снатчер и￥уничтожена ДЖАНКЕРом￥Гиллианом Сидом."
   },
   {
    "off": 17346,
    "budget": 47,
-   "en": "Not registered in Alphaville either?",
-   "long": "So he's not registered with￥Alphaville after all?"
+   "en": ".",
+   "en_src": "Not registered in Alphaville either?",
+   "long_src": "So he's not registered with￥Alphaville after all?",
+   "ru": true,
+   "long": "Значит, в \"Альфавиле\" он всё-таки не￥зарегистрирован?"
   },
   {
    "off": 17393,
    "budget": 91,
-   "en": "If that's a real name and it's not￥in Alphaville... a drifter or￥illegal immigrant.",
-   "long": "If that's his real name and he's not￥registered with Alphaville, he's￥probably a drifter or an illegal￥immigrant."
+   "en": ".",
+   "en_src": "If that's a real name and it's not￥in Alphaville... a drifter or￥illegal immigrant.",
+   "long_src": "If that's his real name and he's not￥registered with Alphaville, he's￥probably a drifter or an illegal￥immigrant.",
+   "ru": true,
+   "long": "Если это настоящее имя и его нет в￥\"Альфавиле\", то он, скорее всего,￥бродяга или нелегал."
   },
   {
    "off": 17484,
    "budget": 55,
-   "en": "This Randam isn't registered with￥Alphaville?"
+   "en": "Этот Рэндам не зарегистрирован в￥\"Альфавиле\"?",
+   "en_src": "This Randam isn't registered with￥Alphaville?",
+   "ru": true
   },
   {
    "off": 17539,
    "budget": 15,
-   "en": "Strange..."
+   "en": "Странно...",
+   "en_src": "Strange...",
+   "ru": true
   },
   {
    "off": 17554,
    "budget": 11,
-   "en": "Odd..."
+   "en": "Странно...",
+   "en_src": "Odd...",
+   "ru": true
   },
   {
    "off": 17565,
    "budget": 31,
-   "en": "＠緑Catherine Gibson"
+   "en": "＠緑Кэтрин Гибсон",
+   "en_src": "＠緑Catherine Gibson",
+   "ru": true
   },
   {
    "off": 17596,
    "budget": 55,
-   "en": "＠緑Age: 14. Jean Jack Gibson's￥only daughter."
+   "en": ".",
+   "en_src": "＠緑Age: 14. Jean Jack Gibson's￥only daughter.",
+   "ru": true,
+   "long": "＠緑Возраст: 14. Единственная￥дочь Жан-Джека Гибсона."
   },
   {
    "off": 17651,
    "budget": 97,
-   "en": "＠緑▽'41: won the Miss Thirteen￥contest.￥Now a popular hologram-sign￥commercial model.",
-   "long": "＠緑Won the Miss Thirteen￥contest in 2041. Now a￥popular model for￥holographic advertisements."
+   "en": ".",
+   "en_src": "＠緑▽'41: won the Miss Thirteen￥contest.￥Now a popular hologram-sign￥commercial model.",
+   "long_src": "＠緑Won the Miss Thirteen￥contest in 2041. Now a￥popular model for￥holographic advertisements.",
+   "ru": true,
+   "long": "＠緑Победительница конкурса￥\"Мисс Тринадцать\" 2041 года.￥Сейчас популярная модель￥голографической рекламы."
   },
   {
    "off": 17748,
    "budget": 43,
-   "en": "＠緑▽Height 160cm ▽Blood type￥B",
-   "long": "＠緑Height: 160 centimeters.￥Blood type B."
+   "en": ".",
+   "en_src": "＠緑▽Height 160cm ▽Blood type￥B",
+   "long_src": "＠緑Height: 160 centimeters.￥Blood type B.",
+   "ru": true,
+   "long": "＠緑Рост: 160 сантиметров.￥Группа крови B."
   },
   {
    "off": 17791,
    "budget": 57,
-   "en": "＠赤▽B 81cm W 58cm H 83cm",
-   "long": "＠赤Bust: 81 centimeters. Waist: 58￥centimeters. Hips: 83 centimeters."
+   "en": ".",
+   "en_src": "＠赤▽B 81cm W 58cm H 83cm",
+   "long_src": "＠赤Bust: 81 centimeters. Waist: 58￥centimeters. Hips: 83 centimeters.",
+   "ru": true,
+   "long": "＠赤Грудь: 81 сантиметр. Талия: 58￥сантиметров. Бёдра: 83 сантиметра."
   },
   {
    "off": 17848,
    "budget": 43,
-   "en": "A model, huh? She must be cute."
+   "en": "Модель, значит? Наверняка милашка.",
+   "en_src": "A model, huh? She must be cute.",
+   "ru": true
   },
   {
    "off": 17891,
    "budget": 55,
-   "en": "＠緑Jean Jack Gibson"
+   "en": "＠緑Жан-Джек Гибсон",
+   "en_src": "＠緑Jean Jack Gibson",
+   "ru": true
   },
   {
    "off": 17946,
    "budget": 103,
-   "en": "＠緑Age: ＠赤55＠緑. JUNKER Runner.￥Wife: Alice, deceased.￥Eldest daughter: Catherine,￥age 14."
+   "en": "＠緑Возраст: ＠赤55＠緑. Раннер￥ДЖАНКЕРа. Жена: Элис,￥покойная. Старшая дочь:￥Кэтрин, 14 лет.",
+   "en_src": "＠緑Age: ＠赤55＠緑. JUNKER Runner.￥Wife: Alice, deceased.￥Eldest daughter: Catherine,￥age 14.",
+   "ru": true
   },
   {
    "off": 18049,
    "budget": 117,
-   "en": "＠緑▽A science officer since￥2010.￥After Snatchers killed his￥wife in the '41 panic, he￥moved to JUNKER.",
-   "long": "＠緑A forensic police officer￥since 2010. After a Snatcher￥killed his wife during the￥2041 Bioroid Panic, he￥requested a transfer to￥JUNKER."
+   "en": ".",
+   "en_src": "＠緑▽A science officer since￥2010.￥After Snatchers killed his￥wife in the '41 panic, he￥moved to JUNKER.",
+   "long_src": "＠緑A forensic police officer￥since 2010. After a Snatcher￥killed his wife during the￥2041 Bioroid Panic, he￥requested a transfer to￥JUNKER.",
+   "ru": true,
+   "long": "＠緑Сотрудник научной полиции с￥2010 года. После того как￥снатчер убил его жену во￥время Паники биороидов 2041￥года, перевёлся в ДЖАНКЕР."
   },
   {
    "off": 18166,
    "budget": 63,
-   "en": "＠緑▽Height 185cm ▽Weight￥78kg ▽Blood type O",
-   "long": "＠緑Height: 185 centimeters.￥Weight: 78 kilograms. Blood￥type O."
+   "en": ".",
+   "en_src": "＠緑▽Height 185cm ▽Weight￥78kg ▽Blood type O",
+   "long_src": "＠緑Height: 185 centimeters.￥Weight: 78 kilograms. Blood￥type O.",
+   "ru": true,
+   "long": "＠緑Рост: 185 сантиметров. Вес:￥78 килограммов. Группа крови￥O."
   },
   {
    "off": 18229,
    "budget": 51,
-   "en": "＠緑Dec 2042 Killed on duty￥chasing a Snatcher",
-   "long": "＠緑December 2042: Killed in the￥line of duty while pursuing￥a Snatcher."
+   "en": ".",
+   "en_src": "＠緑Dec 2042 Killed on duty￥chasing a Snatcher",
+   "long_src": "＠緑December 2042: Killed in the￥line of duty while pursuing￥a Snatcher.",
+   "ru": true,
+   "long": "＠緑Декабрь 2042: погиб при￥исполнении, преследуя￥снатчера."
   },
   {
    "off": 18280,
    "budget": 29,
-   "en": "＠緑Alice Gibson"
+   "en": "＠緑Элис Гибсон",
+   "en_src": "＠緑Alice Gibson",
+   "ru": true
   },
   {
    "off": 18309,
    "budget": 69,
-   "en": "＠緑▽Wife of Jean Jack Gibson.￥Eldest daughter Catherine,￥14.",
-   "long": "＠緑Wife of Jean Jack Gibson.￥Eldest daughter: Catherine,￥age 14."
+   "en": "＠緑Жена Жан-Джека Гибсона.￥Старшая дочь: Кэтрин, 14￥лет.",
+   "en_src": "＠緑▽Wife of Jean Jack Gibson.￥Eldest daughter Catherine,￥14.",
+   "long_src": "＠緑Wife of Jean Jack Gibson.￥Eldest daughter: Catherine,￥age 14.",
+   "ru": true
   },
   {
    "off": 18378,
    "budget": 79,
-   "en": "＠緑Killed by a Snatcher during￥the 2041 Bioroid Panic. She￥was forty."
+   "en": "＠緑Убита снатчером во время￥Паники биороидов 2041 года.￥Ей было 40.",
+   "en_src": "＠緑Killed by a Snatcher during￥the 2041 Bioroid Panic. She￥was forty.",
+   "ru": true
   },
   {
    "off": 18457,
    "budget": 43,
-   "en": "＠緑▽Height 165cm ▽Blood type￥B",
-   "long": "＠緑Height: 165 centimeters.￥Blood type B."
+   "en": ".",
+   "en_src": "＠緑▽Height 165cm ▽Blood type￥B",
+   "long_src": "＠緑Height: 165 centimeters.￥Blood type B.",
+   "ru": true,
+   "long": "＠緑Рост: 165 сантиметров.￥Группа крови B."
   },
   {
    "off": 18500,
    "budget": 49,
-   "en": "＠緑Mr. Big. Real name unknown."
+   "en": "＠緑Мистер Биг. Настоящее имя￥неизвестно.",
+   "en_src": "＠緑Mr. Big. Real name unknown.",
+   "ru": true
   },
   {
    "off": 18549,
    "budget": 35,
-   "en": "＠緑▽Age unknown ▽Race unknown",
-   "long": "＠緑Age: unknown. Ethnicity:￥unknown."
+   "en": ".",
+   "en_src": "＠緑▽Age unknown ▽Race unknown",
+   "long_src": "＠緑Age: unknown. Ethnicity:￥unknown.",
+   "ru": true,
+   "long": "＠緑Возраст: неизвестен.￥Национальность: неизвестна."
   },
   {
    "off": 18584,
    "budget": 95,
-   "en": "＠緑▽Rose from a small southern￥gang to the top of the￥underworld through Liquid￥Sky.",
-   "long": "＠緑Rose from a small southern￥gang to the top of the￥underworld by trafficking￥the hallucinogen Liquid Sky."
+   "en": ".",
+   "en_src": "＠緑▽Rose from a small southern￥gang to the top of the￥underworld through Liquid￥Sky.",
+   "long_src": "＠緑Rose from a small southern￥gang to the top of the￥underworld by trafficking￥the hallucinogen Liquid Sky.",
+   "ru": true,
+   "long": "＠緑Из мелкой южной банды￥поднялся на вершину￥преступного мира на торговле￥галлюциногеном \"Ликвид￥Скай\"."
   },
   {
    "off": 18679,
    "budget": 97,
-   "en": "＠緑Said to control Neo Kobe's￥black money, with rumoured￥ties to politics and￥business.",
-   "long": "＠緑He is said to control Neo￥Kobe's illicit money and is￥rumored to have corrupt ties￥to political and business￥leaders."
+   "en": ".",
+   "en_src": "＠緑Said to control Neo Kobe's￥black money, with rumoured￥ties to politics and￥business.",
+   "long_src": "＠緑He is said to control Neo￥Kobe's illicit money and is￥rumored to have corrupt ties￥to political and business￥leaders.",
+   "ru": true,
+   "long": "＠緑Говорят, он контролирует￥теневые деньги Нео-Кобе и￥связан с коррупцией в￥политике и бизнесе."
   },
   {
    "off": 18776,
    "budget": 99,
-   "en": "＠緑Some say he is a fiction built by the syndicate to confuse police.￥His identity is unknown.",
-   "long": "＠緑His true identity remains a￥mystery. Some believe the￥organization invented him to￥confuse police￥investigations."
+   "en": ".",
+   "en_src": "＠緑Some say he is a fiction built by the syndicate to confuse police.￥His identity is unknown.",
+   "long_src": "＠緑His true identity remains a￥mystery. Some believe the￥organization invented him to￥confuse police￥investigations.",
+   "ru": true,
+   "long": "＠緑Кто он на самом деле -￥загадка. Есть мнение, что￥его выдумала сама￥организация, чтобы запутать￥полицию."
   },
   {
    "off": 18875,
    "budget": 29,
-   "en": "＠緑Lewis Gilmore"
+   "en": "＠緑Льюис Гилмор",
+   "en_src": "＠緑Lewis Gilmore",
+   "ru": true
   },
   {
    "off": 18904,
    "budget": 77,
-   "en": "＠緑▽Served in special force￥FOX HOUND, then volunteered￥for JUNKER.",
-   "long": "＠緑Served in the special forces￥unit FOXHOUND before￥volunteering to join JUNKER."
+   "en": ".",
+   "en_src": "＠緑▽Served in special force￥FOX HOUND, then volunteered￥for JUNKER.",
+   "long_src": "＠緑Served in the special forces￥unit FOXHOUND before￥volunteering to join JUNKER.",
+   "ru": true,
+   "long": "＠緑Служил в спецподразделении￥ФОКСХАУНД, затем добровольно￥перешёл в ДЖАНКЕР."
   },
   {
    "off": 18981,
    "budget": 83,
-   "en": "＠緑▽October 13, 2042: killed￥by an Insector while￥investigating.￥He was 28.",
-   "long": "＠緑October 13, 2042: Killed by￥an Insector during an￥investigation. He was￥twenty-eight."
+   "en": "＠緑13 октября 2042: убит￥инсектором во время￥расследования. Ему было 28.",
+   "en_src": "＠緑▽October 13, 2042: killed￥by an Insector while￥investigating.￥He was 28.",
+   "long_src": "＠緑October 13, 2042: Killed by￥an Insector during an￥investigation. He was￥twenty-eight.",
+   "ru": true
   },
   {
    "off": 19064,
    "budget": 31,
-   "en": "＠緑David Johnson"
+   "en": "＠緑Дэвид Джонсон",
+   "en_src": "＠緑David Johnson",
+   "ru": true
   },
   {
    "off": 19095,
    "budget": 77,
-   "en": "＠緑▽Served in FOX HOUND,￥joined JUNKER on the Chief's￥recommendation.",
-   "long": "＠緑Served in FOXHOUND before￥joining JUNKER on the￥Chief's recommendation."
+   "en": "＠緑Служил в ФОКСХАУНДе, затем￥по рекомендации шефа перешёл￥в ДЖАНКЕР.",
+   "en_src": "＠緑▽Served in FOX HOUND,￥joined JUNKER on the Chief's￥recommendation.",
+   "long_src": "＠緑Served in FOXHOUND before￥joining JUNKER on the￥Chief's recommendation.",
+   "ru": true
   },
   {
    "off": 19172,
    "budget": 123,
-   "en": "＠緑▽October 19, 2042: on a￥case with colleague S.￥Glazer, took a Snatcher￥cannon to the head.￥Left a vegetable.",
-   "long": "＠緑October 19, 2042: Critically￥wounded by a Snatcher's￥cannon blast to the head￥while investigating with￥colleague S. Glazer. Left in￥a vegetative state."
+   "en": ".",
+   "en_src": "＠緑▽October 19, 2042: on a￥case with colleague S.￥Glazer, took a Snatcher￥cannon to the head.￥Left a vegetable.",
+   "long_src": "＠緑October 19, 2042: Critically￥wounded by a Snatcher's￥cannon blast to the head￥while investigating with￥colleague S. Glazer. Left in￥a vegetative state.",
+   "ru": true,
+   "long": "＠緑19 октября 2042: тяжело￥ранен в голову выстрелом￥пушки снатчера при￥совместном расследовании с￥коллегой С. Глейзером.￥Находится в вегетативном￥состоянии."
   },
   {
    "off": 19295,
    "budget": 49,
-   "en": "＠緑Still hospitalized at Neo￥Kobe Central.",
-   "long": "＠緑He remains hospitalized at￥Neo Kobe Central Hospital."
+   "en": ".",
+   "en_src": "＠緑Still hospitalized at Neo￥Kobe Central.",
+   "long_src": "＠緑He remains hospitalized at￥Neo Kobe Central Hospital.",
+   "ru": true,
+   "long": "＠緑До сих пор лежит в￥Центральной больнице￥Нео-Кобе."
   },
   {
    "off": 19344,
    "budget": 31,
-   "en": "＠緑Schultz Deckard"
+   "en": "＠緑Шульц Декард",
+   "en_src": "＠緑Schultz Deckard",
+   "ru": true
   },
   {
    "off": 19375,
    "budget": 67,
-   "en": "＠緑▽Transferred to JUNKER from the Neo Kobe homicide division.",
-   "long": "＠緑Requested a transfer to￥JUNKER from Neo Kobe￥Police's homicide division."
+   "en": "＠緑Перевёлся в ДЖАНКЕР из￥отдела убийств полиции￥Нео-Кобе.",
+   "en_src": "＠緑▽Transferred to JUNKER from the Neo Kobe homicide division.",
+   "long_src": "＠緑Requested a transfer to￥JUNKER from Neo Kobe￥Police's homicide division.",
+   "ru": true
   },
   {
    "off": 19442,
    "budget": 115,
-   "en": "＠緑▽October 22, 2042: killed￥coming home from a case,￥attacked by a Snatcher lying￥in wait.￥He was 47.",
-   "long": "＠緑October 22, 2042: Killed by￥a Snatcher hiding in his￥home when he returned from￥an investigation. He was￥forty-seven."
+   "en": "＠緑22 октября 2042: убит￥снатчером, прятавшимся у￥него дома, когда вернулся с￥расследования. Ему было 47.",
+   "en_src": "＠緑▽October 22, 2042: killed￥coming home from a case,￥attacked by a Snatcher lying￥in wait.￥He was 47.",
+   "long_src": "＠緑October 22, 2042: Killed by￥a Snatcher hiding in his￥home when he returned from￥an investigation. He was￥forty-seven.",
+   "ru": true
   },
   {
    "off": 19557,
    "budget": 111,
-   "en": "＠緑His wife Shinobu (45),￥daughter Rika (17) and son￥Show (13) had already been￥murdered that morning.",
-   "long": "＠緑His wife Shinobu, 45, eldest￥daughter Rika, 17, and￥eldest son Show, 13, had￥already been brutally￥murdered that morning."
+   "en": ".",
+   "en_src": "＠緑His wife Shinobu (45),￥daughter Rika (17) and son￥Show (13) had already been￥murdered that morning.",
+   "long_src": "＠緑His wife Shinobu, 45, eldest￥daughter Rika, 17, and￥eldest son Show, 13, had￥already been brutally￥murdered that morning.",
+   "ru": true,
+   "long": "＠緑Его жена Синобу, 45 лет,￥старшая дочь Рика, 17 лет, и￥старший сын Сё, 13 лет, были￥зверски убиты ещё утром."
   },
   {
    "off": 19668,
    "budget": 99,
-   "en": "＠緑▽Deckard's resignation was accepted; he was to leave Oct 25 and move to Hawaii with kin.",
-   "long": "＠緑His resignation had been￥accepted. He was due to￥retire on October 25 and￥move to Hawaii with his￥family."
+   "en": ".",
+   "en_src": "＠緑▽Deckard's resignation was accepted; he was to leave Oct 25 and move to Hawaii with kin.",
+   "long_src": "＠緑His resignation had been￥accepted. He was due to￥retire on October 25 and￥move to Hawaii with his￥family.",
+   "ru": true,
+   "long": "＠緑Его отставка была принята.￥25 октября он должен был￥уйти на покой и переехать с￥семьёй на Гавайи."
   },
   {
    "off": 19767,
    "budget": 31,
-   "en": "＠緑Shinobu Deckard"
+   "en": "＠緑Синобу Декард",
+   "en_src": "＠緑Shinobu Deckard",
+   "ru": true
   },
   {
    "off": 19798,
    "budget": 115,
-   "en": "＠緑Wife of Schultz Deckard.￥October 22, 2042: Attacked￥and killed by a Snatcher at￥home. She was forty-five."
+   "en": "＠緑Жена Шульца Декарда. 22￥октября 2042: убита￥снатчером у себя дома. Ей￥было 45.",
+   "en_src": "＠緑Wife of Schultz Deckard.￥October 22, 2042: Attacked￥and killed by a Snatcher at￥home. She was forty-five.",
+   "ru": true
   },
   {
    "off": 19913,
    "budget": 113,
-   "en": "＠緑With Rika (17) and Show￥(13), she is thought to have￥been caught up in her JUNKER￥husband's murder.",
-   "long": "＠緑She and her children, Rika,￥17, and Show, 13, are￥believed to have been killed￥as part of the attack on her￥husband, JUNKER Schultz￥Deckard."
+   "en": ".",
+   "en_src": "＠緑With Rika (17) and Show￥(13), she is thought to have￥been caught up in her JUNKER￥husband's murder.",
+   "long_src": "＠緑She and her children, Rika,￥17, and Show, 13, are￥believed to have been killed￥as part of the attack on her￥husband, JUNKER Schultz￥Deckard.",
+   "ru": true,
+   "long": "＠緑Считается, что она и её￥дети, Рика (17) и Сё (13),￥погибли при нападении на её￥мужа, ДЖАНКЕРа Шульца￥Декарда."
   },
   {
    "off": 20026,
    "budget": 29,
-   "en": "＠緑Rika Deckard"
+   "en": "＠緑Рика Декард",
+   "en_src": "＠緑Rika Deckard",
+   "ru": true
   },
   {
    "off": 20055,
    "budget": 71,
-   "en": "＠緑▽Elder daughter of Schultz￥Deckard￥▽Second year, Neo Kobe.",
-   "long": "＠緑Schultz Deckard's eldest￥daughter. Second-year￥student at Neo Kobe High￥School."
+   "en": ".",
+   "en_src": "＠緑▽Elder daughter of Schultz￥Deckard￥▽Second year, Neo Kobe.",
+   "long_src": "＠緑Schultz Deckard's eldest￥daughter. Second-year￥student at Neo Kobe High￥School.",
+   "ru": true,
+   "long": "＠緑Старшая дочь Шульца Декарда.￥Ученица 2-го класса старшей￥школы Нео-Кобе."
   },
   {
    "off": 20126,
    "budget": 87,
-   "en": "＠緑October 22, 2042: Attacked￥and killed by a Snatcher at￥home. She was seventeen."
+   "en": "＠緑22 октября 2042: убита￥снатчером у себя дома. Ей￥было 17.",
+   "en_src": "＠緑October 22, 2042: Attacked￥and killed by a Snatcher at￥home. She was seventeen.",
+   "ru": true
   },
   {
    "off": 20213,
    "budget": 75,
-   "en": "＠緑Thought to have been caught￥up in the murder of her￥JUNKER father.",
-   "long": "＠緑Believed to have been caught￥in the attack targeting her￥father, JUNKER Schultz￥Deckard."
+   "en": ".",
+   "en_src": "＠緑Thought to have been caught￥up in the murder of her￥JUNKER father.",
+   "long_src": "＠緑Believed to have been caught￥in the attack targeting her￥father, JUNKER Schultz￥Deckard.",
+   "ru": true,
+   "long": "＠緑Считается, что она попала￥под нападение на её отца,￥ДЖАНКЕРа Шульца Декарда."
   },
   {
    "off": 20288,
    "budget": 29,
-   "en": "＠緑Show Deckard"
+   "en": "＠緑Сё Декард",
+   "en_src": "＠緑Show Deckard",
+   "ru": true
   },
   {
    "off": 20317,
    "budget": 81,
-   "en": "＠緑▽Son of Schultz Deckard￥▽First year, Neo Kobe￥ Junior High School.",
-   "long": "＠緑Schultz Deckard's eldest￥son. First-year student at￥Neo Kobe Junior High School."
+   "en": "＠緑Старший сын Шульца Декарда.￥Ученик 1-го класса средней￥школы Нео-Кобе.",
+   "en_src": "＠緑▽Son of Schultz Deckard￥▽First year, Neo Kobe￥ Junior High School.",
+   "long_src": "＠緑Schultz Deckard's eldest￥son. First-year student at￥Neo Kobe Junior High School.",
+   "ru": true
   },
   {
    "off": 20398,
    "budget": 87,
-   "en": "＠緑October 22, 2042: Attacked￥and killed by a Snatcher at￥home. He was thirteen."
+   "en": "＠緑22 октября 2042: убит￥снатчером у себя дома. Ему￥было 13.",
+   "en_src": "＠緑October 22, 2042: Attacked￥and killed by a Snatcher at￥home. He was thirteen.",
+   "ru": true
   },
   {
    "off": 20485,
    "budget": 31,
-   "en": "＠緑Sergio Glazer"
+   "en": "＠緑Серджио Глейзер",
+   "en_src": "＠緑Sergio Glazer",
+   "ru": true
   },
   {
    "off": 20516,
    "budget": 85,
-   "en": "＠緑Former Secret Service agent￥assigned to Neo Kobe mayor￥Brian O'Connor."
+   "en": "＠緑Бывший агент Секретной￥службы при мэре Нео-Кобе￥Брайане О'Конноре.",
+   "en_src": "＠緑Former Secret Service agent￥assigned to Neo Kobe mayor￥Brian O'Connor.",
+   "ru": true
   },
   {
    "off": 20601,
    "budget": 115,
-   "en": "＠緑but feeling to blame for O'Connor being snatched, he joined the police anti-Snatcher squad, then JUNKER.",
-   "long": "＠緑Feeling responsible for￥O'Connor's replacement by a￥Snatcher, he volunteered for￥the Metropolitan Police's￥special anti-Snatcher unit￥and later joined JUNKER."
+   "en": ".",
+   "en_src": "＠緑but feeling to blame for O'Connor being snatched, he joined the police anti-Snatcher squad, then JUNKER.",
+   "long_src": "＠緑Feeling responsible for￥O'Connor's replacement by a￥Snatcher, he volunteered for￥the Metropolitan Police's￥special anti-Snatcher unit￥and later joined JUNKER.",
+   "ru": true,
+   "long": "＠緑Чувствуя вину за подмену￥О'Коннора снатчером,￥вызвался в спецотряд￥столичной полиции по борьбе￥со снатчерами, а позже￥перешёл в ДЖАНКЕР."
   },
   {
    "off": 20716,
    "budget": 111,
-   "en": "＠緑▽October 19, 2042: killed￥by a Snatcher cannon on a￥case with colleague D.￥Johnson. He was 33.",
-   "long": "＠緑October 19, 2042: Killed by￥a Snatcher's cannon while￥investigating with colleague￥D. Johnson. He was￥thirty-three."
+   "en": ".",
+   "en_src": "＠緑▽October 19, 2042: killed￥by a Snatcher cannon on a￥case with colleague D.￥Johnson. He was 33.",
+   "long_src": "＠緑October 19, 2042: Killed by￥a Snatcher's cannon while￥investigating with colleague￥D. Johnson. He was￥thirty-three.",
+   "ru": true,
+   "long": "＠緑19 октября 2042: убит￥выстрелом пушки снатчера при￥совместном расследовании с￥коллегой Д. Джонсоном. Ему￥было 33."
   },
   {
    "off": 20827,
    "budget": 31,
-   "en": "＠緑Brian O'Connor"
+   "en": "＠緑Брайан О'Коннор",
+   "en_src": "＠緑Brian O'Connor",
+   "ru": true
   },
   {
    "off": 20858,
    "budget": 83,
-   "en": "＠緑Mayor of Neo Kobe City from￥2038 to February 2040."
+   "en": "＠緑Мэр Нео-Кобе с 2038 по￥февраль 2040 года.",
+   "en_src": "＠緑Mayor of Neo Kobe City from￥2038 to February 2040.",
+   "ru": true
   },
   {
    "off": 20941,
    "budget": 67,
-   "en": "＠緑▽Took office at 38, the￥youngest mayor in city￥history.",
-   "long": "＠緑Took office at thirty-eight,￥attracting attention as the￥youngest mayor in the city's￥history."
+   "en": ".",
+   "en_src": "＠緑▽Took office at 38, the￥youngest mayor in city￥history.",
+   "long_src": "＠緑Took office at thirty-eight,￥attracting attention as the￥youngest mayor in the city's￥history.",
+   "ru": true,
+   "long": "＠緑Вступил в должность в 38 лет￥и прославился как самый￥молодой мэр в истории￥города."
   },
   {
    "off": 21008,
    "budget": 117,
-   "en": "＠緑▽He worked hard on the￥untouched North-South￥divide, but in February 2040￥he was murdered by a￥Snatcher.",
-   "long": "＠緑He focused on resolving the￥largely neglected￥North-South divide, but was￥brutally murdered by a￥Snatcher in February 2040."
+   "en": "＠緑Взялся за давно заброшенную￥проблему раскола Север - Юг,￥но в феврале 2040 года был￥зверски убит снатчером.",
+   "en_src": "＠緑▽He worked hard on the￥untouched North-South￥divide, but in February 2040￥he was murdered by a￥Snatcher.",
+   "long_src": "＠緑He focused on resolving the￥largely neglected￥North-South divide, but was￥brutally murdered by a￥Snatcher in February 2040.",
+   "ru": true
   },
   {
    "off": 21125,
    "budget": 95,
-   "en": "＠緑▽His body was found at the￥Ina River mouth; autopsy￥showed twelve days dead.",
-   "long": "＠緑His body was found at the￥mouth of the Ina River. The￥autopsy showed he had been￥dead for about twelve days."
+   "en": "＠緑Его тело нашли в устье реки￥Ина. Вскрытие показало, что￥он был мёртв около 12 дней.",
+   "en_src": "＠緑▽His body was found at the￥Ina River mouth; autopsy￥showed twelve days dead.",
+   "long_src": "＠緑His body was found at the￥mouth of the Ina River. The￥autopsy showed he had been￥dead for about twelve days.",
+   "ru": true
   },
   {
    "off": 21220,
    "budget": 115,
-   "en": "＠緑▽The Snatcher replacing￥O'Connor was arrested after￥the body was found, but￥self-destructed.￥No sample.",
-   "long": "＠緑The Snatcher impersonating￥him was arrested after his￥body was found, but￥self-destructed without￥leaving a specimen."
+   "en": ".",
+   "en_src": "＠緑▽The Snatcher replacing￥O'Connor was arrested after￥the body was found, but￥self-destructed.￥No sample.",
+   "long_src": "＠緑The Snatcher impersonating￥him was arrested after his￥body was found, but￥self-destructed without￥leaving a specimen.",
+   "ru": true,
+   "long": "＠緑Снатчер, выдававший себя за￥него, был арестован после￥обнаружения тела, но￥самоуничтожился, не оставив￥образца."
   },
   {
    "off": 21335,
    "budget": 61,
-   "en": "＠緑Napoleon Bonaparte￥(1769-1821)"
+   "en": "＠緑Наполеон Бонапарт￥(1769-1821)",
+   "en_src": "＠緑Napoleon Bonaparte￥(1769-1821)",
+   "ru": true
   },
   {
    "off": 21396,
    "budget": 57,
-   "en": "＠緑▽Emperor of the First￥French Empire (1804-14, 15)",
-   "long": "＠緑Emperor of the First French￥Empire, 1804-1814 and 1815."
+   "en": ".",
+   "en_src": "＠緑▽Emperor of the First￥French Empire (1804-14, 15)",
+   "long_src": "＠緑Emperor of the First French￥Empire, 1804-1814 and 1815.",
+   "ru": true,
+   "long": "＠緑Император Первой французской￥империи в 1804-1814 и 1815￥гг."
   },
   {
    "off": 21453,
    "budget": 97,
-   "en": "＠緑▽Born August 15, 1769,￥second son of minor nobility￥at Ajaccio, west coast of￥Corsica.",
-   "long": "＠緑Born August 15, 1769, in￥Ajaccio on the west coast of￥Genoese Corsica, the second￥son of a minor noble family."
+   "en": ".",
+   "en_src": "＠緑▽Born August 15, 1769,￥second son of minor nobility￥at Ajaccio, west coast of￥Corsica.",
+   "long_src": "＠緑Born August 15, 1769, in￥Ajaccio on the west coast of￥Genoese Corsica, the second￥son of a minor noble family.",
+   "ru": true,
+   "long": "＠緑Родился 15 августа 1769 года￥в Аяччо на западном￥побережье генуэзской￥Корсики, вторым сыном￥мелкого дворянина."
   },
   {
    "off": 21550,
    "budget": 71,
-   "en": "＠緑After Brienne and Paris,￥sent to a provincial￥artillery unit.",
-   "long": "＠緑Attended military school at￥Brienne, then graduated from￥the Paris military academy￥and was assigned to a￥provincial artillery￥regiment."
+   "en": ".",
+   "en_src": "＠緑After Brienne and Paris,￥sent to a provincial￥artillery unit.",
+   "long_src": "＠緑Attended military school at￥Brienne, then graduated from￥the Paris military academy￥and was assigned to a￥provincial artillery￥regiment.",
+   "ru": true,
+   "long": "＠緑Учился в военной школе в￥Бриенне, окончил Парижскую￥военную школу и был￥направлен в провинциальный￥артиллерийский полк."
   },
   {
    "off": 21621,
    "budget": 53,
-   "en": "＠緑▽'93: artillery commander￥of the Italy army.",
-   "long": "＠緑1793: Appointed artillery￥commander of the army￥campaigning in Italy."
+   "en": ".",
+   "en_src": "＠緑▽'93: artillery commander￥of the Italy army.",
+   "long_src": "＠緑1793: Appointed artillery￥commander of the army￥campaigning in Italy.",
+   "ru": true,
+   "long": "＠緑1793: назначен командующим￥артиллерией армии, воевавшей￥в Италии."
   },
   {
    "off": 21674,
    "budget": 65,
-   "en": "＠緑▽November '99: forms the Consulate by the Brumaire coup.",
-   "long": "＠緑November 1799: Established￥the Consulate through the￥coup of Brumaire."
+   "en": ".",
+   "en_src": "＠緑▽November '99: forms the Consulate by the Brumaire coup.",
+   "long_src": "＠緑November 1799: Established￥the Consulate through the￥coup of Brumaire.",
+   "ru": true,
+   "long": "＠緑Ноябрь 1799: установил￥Консульство путём переворота￥18 брюмера."
   },
   {
    "off": 21739,
    "budget": 79,
-   "en": "＠緑The '99 constitution came￥with the words ＠赤'the￥revolution is over'.",
-   "long": "＠緑The 1799 constitution was￥published with the￥proclamation ＠赤\"The￥Revolution is over.\"＠緑"
+   "en": ".",
+   "en_src": "＠緑The '99 constitution came￥with the words ＠赤'the￥revolution is over'.",
+   "long_src": "＠緑The 1799 constitution was￥published with the￥proclamation ＠赤\"The￥Revolution is over.\"＠緑",
+   "ru": true,
+   "long": "＠緑Конституция 1799 года была￥обнародована с заявлением￥＠赤\"Революция окончена\".＠緑"
   },
   {
    "off": 21818,
    "budget": 55,
-   "en": "＠緑▽March 1815: lands in￥France and enters Paris.",
-   "long": "＠緑March 1815: Landed on the￥French mainland and entered￥Paris."
+   "en": ".",
+   "en_src": "＠緑▽March 1815: lands in￥France and enters Paris.",
+   "long_src": "＠緑March 1815: Landed on the￥French mainland and entered￥Paris.",
+   "ru": true,
+   "long": "＠緑Март 1815: высадился во￥Франции и вступил в Париж."
   },
   {
    "off": 21873,
    "budget": 117,
-   "en": "＠緑June 18: broken by Blucher￥and Wellington at Waterloo.￥This is called the ＠赤Hundred￥Days' Reign.＠緑",
-   "long": "＠緑On June 18, Blucher and￥Wellington defeated him at￥Waterloo. This is called￥the ＠赤Hundred Days' Reign.＠緑"
+   "en": "＠緑18 июня Блюхер и Веллингтон￥разбили его при Ватерлоо.￥Это называют ＠赤\"Сто дней\".＠緑",
+   "en_src": "＠緑June 18: broken by Blucher￥and Wellington at Waterloo.￥This is called the ＠赤Hundred￥Days' Reign.＠緑",
+   "long_src": "＠緑On June 18, Blucher and￥Wellington defeated him at￥Waterloo. This is called￥the ＠赤Hundred Days' Reign.＠緑",
+   "ru": true
   },
   {
    "off": 21990,
    "budget": 43,
-   "en": "Now we understand Napoleon's code."
+   "en": "Вот мы и разгадали шифр Наполеона.",
+   "en_src": "Now we understand Napoleon's code.",
+   "ru": true
   },
   {
    "off": 22033,
    "budget": 41,
-   "en": "I see. \"Napoleon\" fits him￥perfectly."
+   "en": ".",
+   "en_src": "I see. \"Napoleon\" fits him￥perfectly.",
+   "ru": true,
+   "long": "Понятно. \"Наполеон\" ему подходит￥идеально."
   },
   {
    "off": 22074,
    "budget": 31,
-   "en": "＠緑No matching person found."
+   "en": ".",
+   "en_src": "＠緑No matching person found.",
+   "ru": true,
+   "long": "＠緑Подходящих людей не найдено."
   },
   {
    "off": 22105,
    "budget": 65,
-   "en": "My data and Jamie's are locked away￥somehow.",
-   "long": "For some reason, access to my data￥and Jamie's has been blocked."
+   "en": "Почему-то доступ к моим данным и￥данным Джейми закрыт.",
+   "en_src": "My data and Jamie's are locked away￥somehow.",
+   "long_src": "For some reason, access to my data￥and Jamie's has been blocked.",
+   "ru": true
   },
   {
    "off": 22170,
    "budget": 55,
-   "en": "Metal, who can access level 7￥information?"
+   "en": "Метал, у кого есть доступ к￥информации 7-го уровня?",
+   "en_src": "Metal, who can access level 7￥information?",
+   "ru": true
   },
   {
    "off": 22225,
    "budget": 41,
-   "en": "No one at JUNKER HQ can get near it.",
-   "long": "No one at JUNKER headquarters has￥that clearance."
+   "en": ".",
+   "en_src": "No one at JUNKER HQ can get near it.",
+   "long_src": "No one at JUNKER headquarters has￥that clearance.",
+   "ru": true,
+   "long": "Ни у кого в штабе ДЖАНКЕРа такого￥допуска нет."
   },
   {
    "off": 22266,
    "budget": 13,
-   "en": "The Chief?",
-   "long": "Not even the Chief?"
+   "en": "Даже у шефа?",
+   "en_src": "The Chief?",
+   "long_src": "Not even the Chief?",
+   "ru": true
   },
   {
    "off": 22279,
    "budget": 17,
-   "en": "That's right...."
+   "en": "Именно...",
+   "en_src": "That's right....",
+   "ru": true
   },
   {
    "off": 22296,
    "budget": 17,
-   "en": "Metal, and you?",
-   "long": "What about you, Metal?"
+   "en": "А у тебя, Метал?",
+   "en_src": "Metal, and you?",
+   "long_src": "What about you, Metal?",
+   "ru": true
   },
   {
    "off": 22313,
@@ -2333,29 +2971,41 @@
   {
    "off": 22326,
    "budget": 17,
-   "en": "Don't you know?",
-   "long": "Do you know anything?"
+   "en": ".",
+   "en_src": "Don't you know?",
+   "long_src": "Do you know anything?",
+   "ru": true,
+   "long": "Ты что-нибудь знаешь?"
   },
   {
    "off": 22343,
    "budget": 29,
-   "en": "I don't know anything."
+   "en": "Я ничего не знаю.",
+   "en_src": "I don't know anything.",
+   "ru": true
   },
   {
    "off": 22372,
    "budget": 33,
-   "en": "Mika, what is level 7 data?",
-   "long": "Mika, what's level 7 information?"
+   "en": ".",
+   "en_src": "Mika, what is level 7 data?",
+   "long_src": "Mika, what's level 7 information?",
+   "ru": true,
+   "long": "Мика, что такое информация 7-го￥уровня?"
   },
   {
    "off": 22405,
    "budget": 51,
-   "en": "Level 7? Even the Chief can't access￥that."
+   "en": "7-й уровень? К нему даже у шефа нет￥доступа.",
+   "en_src": "Level 7? Even the Chief can't access￥that.",
+   "ru": true
   },
   {
    "off": 22456,
    "budget": 17,
-   "en": "That's strange."
+   "en": "Странно это.",
+   "en_src": "That's strange.",
+   "ru": true
   },
   {
    "off": 22475,

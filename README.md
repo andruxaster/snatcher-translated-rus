@@ -1,3 +1,5 @@
+> **Русский перевод (PlayStation):** см. [ru/README.md](ru/README.md).
+
 # Snatcher: English Translation (Sega Saturn, PlayStation and PC Engine CD)
 
 **Version 1.5.1**, 2026, by pepa

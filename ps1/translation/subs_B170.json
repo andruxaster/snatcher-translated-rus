@@ -15,8 +15,9 @@
    "end": 10109,
    "dur": 2.6,
    "speaker": "Metal Gear",
-   "en": "An emergency call from headquarters. I'll put it through.",
-   "enabled": true
+   "en": "Экстренный вызов из штаба. Соединяю.",
+   "enabled": true,
+   "en_src": "An emergency call from headquarters. I'll put it through."
   },
   {
    "id": "B170_f15_0",
@@ -26,8 +27,9 @@
    "end": 10434,
    "dur": 2.0,
    "speaker": "Mika",
-   "en": "Gillian, I finally reached you!",
-   "enabled": true
+   "en": "Гиллиан, наконец-то я до вас дозвонилась!",
+   "enabled": true,
+   "en_src": "Gillian, I finally reached you!"
   },
   {
    "id": "B170_f15_0b",
@@ -37,8 +39,9 @@
    "end": 10734,
    "dur": 2.1,
    "speaker": "Mika",
-   "en": "Catherine called a little while ago.",
-   "enabled": true
+   "en": "Недавно звонила Кэтрин.",
+   "enabled": true,
+   "en_src": "Catherine called a little while ago."
   },
   {
    "id": "B170_f15_0c",
@@ -48,8 +51,9 @@
    "end": 11069,
    "dur": 2.2,
    "speaker": "Mika",
-   "en": "She said she has something to give you.",
-   "enabled": true
+   "en": "Сказала, что хочет кое-что вам передать.",
+   "enabled": true,
+   "en_src": "She said she has something to give you."
   },
   {
    "id": "B170_f16_0",
@@ -59,8 +63,9 @@
    "end": 11421,
    "dur": 2.2,
    "speaker": "Gillian",
-   "en": "Something for me? What could it be?",
-   "enabled": true
+   "en": "Мне? Что бы это могло быть?",
+   "enabled": true,
+   "en_src": "Something for me? What could it be?"
   },
   {
    "id": "B170_f17_0",
@@ -70,8 +75,9 @@
    "end": 12013,
    "dur": 3.8,
    "speaker": "Mika",
-   "en": "She sounded terrified. She said Alice was barking.",
-   "enabled": true
+   "en": "Она была в ужасе. Сказала, что Элис лает.",
+   "enabled": true,
+   "en_src": "She sounded terrified. She said Alice was barking."
   },
   {
    "id": "B170_f18_0",
@@ -81,8 +87,9 @@
    "end": 12125,
    "dur": 0.6,
    "speaker": "Gillian",
-   "en": "When was this?!",
-   "enabled": true
+   "en": "Когда это было?!",
+   "enabled": true,
+   "en_src": "When was this?!"
   },
   {
    "id": "B170_f19_0",
@@ -92,8 +99,9 @@
    "end": 12445,
    "dur": 2.0,
    "speaker": "Mika",
-   "en": "About thirty minutes ago.",
-   "enabled": true
+   "en": "Минут тридцать назад.",
+   "enabled": true,
+   "en_src": "About thirty minutes ago."
   },
   {
    "id": "B170_f20_0",
@@ -103,8 +111,9 @@
    "end": 12541,
    "dur": 0.5,
    "speaker": "Gillian",
-   "en": "Damn!",
-   "enabled": true
+   "en": "Чёрт!",
+   "enabled": true,
+   "en_src": "Damn!"
   },
   {
    "id": "B170_f21_0",
@@ -114,8 +123,9 @@
    "end": 12749,
    "dur": 1.3,
    "speaker": "Metal Gear",
-   "en": "Gillian, hurry!",
-   "enabled": true
+   "en": "Гиллиан, скорее!",
+   "enabled": true,
+   "en_src": "Gillian, hurry!"
   },
   {
    "id": "B170_f22_0",
@@ -125,9 +135,10 @@
    "end": 12877,
    "dur": 0.7,
    "speaker": "Gillian",
-   "en": "Catherine's in danger!",
+   "en": "Кэтрин в опасности!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Catherine's in danger!"
   },
   {
    "id": "B170_r_00",
@@ -148,8 +159,9 @@
    "end": 66388,
    "dur": 6.0,
    "speaker": "Randam",
-   "en": "Gillian! Didn't make it?",
-   "enabled": true
+   "en": "Гиллиан! Не успел?",
+   "enabled": true,
+   "en_src": "Gillian! Didn't make it?"
   },
   {
    "id": "B170_r_02",
@@ -159,8 +171,9 @@
    "end": 66912,
    "dur": 3.5,
    "speaker": "Gillian",
-   "en": "Don't be ridiculous! I'm right here!",
-   "enabled": true
+   "en": "Не смеши! Я здесь!",
+   "enabled": true,
+   "en_src": "Don't be ridiculous! I'm right here!"
   },
   {
    "id": "B170_r_03",
@@ -181,8 +194,9 @@
    "end": 67966,
    "dur": 4.03,
    "speaker": "Randam",
-   "en": "Gillian! Don't you know how to ride a bike?",
-   "enabled": true
+   "en": "Гиллиан! Ты что, на велосипеде ездить не умеешь?",
+   "enabled": true,
+   "en_src": "Gillian! Don't you know how to ride a bike?"
   },
   {
    "id": "B170_r_04b",
@@ -192,8 +206,9 @@
    "end": 68883,
    "dur": 6.5,
    "speaker": "Metal Gear",
-   "en": "Gillian, we are almost at Queen Hospital. You could use some exercise.",
-   "enabled": true
+   "en": "Гиллиан, мы почти у больницы \"Куин\". Тебе полезно размяться.",
+   "enabled": true,
+   "en_src": "Gillian, we are almost at Queen Hospital. You could use some exercise."
   },
   {
    "id": "B170_r_04bb",
@@ -203,9 +218,10 @@
    "end": 69339,
    "dur": 2.6,
    "speaker": "Metal Gear",
-   "en": "Let us keep going like this.",
+   "en": "Давай так и продолжим.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Let us keep going like this."
   }
  ]
 }

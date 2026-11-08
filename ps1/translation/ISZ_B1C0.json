@@ -150,9 +150,10 @@
   {
    "off": 3837,
    "budget": 5,
-   "en": "Вид",
+   "en": ".",
    "en_src": "Look",
-   "ru": true
+   "ru": true,
+   "long": "Осмотреть"
   },
   {
    "off": 3842,
@@ -235,9 +236,10 @@
   {
    "off": 4202,
    "budget": 5,
-   "en": "Вход",
+   "en": ".",
    "en_src": "Door",
-   "ru": true
+   "ru": true,
+   "long": "Дверь"
   },
   {
    "off": 4207,
@@ -368,9 +370,10 @@
   {
    "off": 4833,
    "budget": 5,
-   "en": "Зов",
+   "en": ".",
    "en_src": "Call",
-   "ru": true
+   "ru": true,
+   "long": "Позвать"
   },
   {
    "off": 4838,
@@ -389,14 +392,15 @@
   {
    "off": 4856,
    "budget": 5,
-   "en": "Вещи",
+   "en": ".",
    "en_src": "Item",
-   "ru": true
+   "ru": true,
+   "long": "Предметы"
   },
   {
    "off": 4861,
    "budget": 15,
-   "en": "Исп. Метал Гир",
+   "en": "Позвать Метала",
    "en_src": "Use Metal Gear",
    "ru": true
   },
@@ -632,10 +636,11 @@
   {
    "off": 5883,
    "budget": 45,
-   "en": "Не знал, что у Гибсона есть модель его дома.",
+   "en": ".",
    "en_src": "I never knew of this model...",
    "long_src": "I didn't know there was a model of￥Gibson's house.",
-   "ru": true
+   "ru": true,
+   "long": "Не знал, что у Гибсона есть модель￥его дома."
   },
   {
    "off": 5928,
@@ -848,9 +853,10 @@
   {
    "off": 7075,
    "budget": 9,
-   "en": "ПК",
+   "en": ".",
    "en_src": "Computer",
-   "ru": true
+   "ru": true,
+   "long": "Компьютер"
   },
   {
    "off": 7084,
@@ -1171,10 +1177,11 @@
   {
    "off": 8680,
    "budget": 83,
-   "en": "Человек ещё мог бы, но Алиса вряд ли выбралась бы наружу, не пройдя через кабинет.",
+   "en": ".",
    "en_src": "A person, maybe. But Alice￥leaving without going through￥the study? Hardly.",
    "long_src": "A person might manage it, but Alice￥could hardly have gotten outside￥without going through the study.",
-   "ru": true
+   "ru": true,
+   "long": "Человек ещё мог бы, но Алиса вряд ли￥выбралась бы наружу, не пройдя через￥кабинет."
   },
   {
    "off": 8763,
@@ -1266,16 +1273,17 @@
   {
    "off": 9291,
    "budget": 15,
-   "en": "ID ДЖАНКЕРа",
+   "en": "Удостоверение",
    "en_src": "JUNKER ID",
    "ru": true
   },
   {
    "off": 9306,
    "budget": 69,
-   "en": "Это удостоверение подтверждает твои полномочия ДЖАНКЕРа. Береги его.",
+   "en": ".",
    "en_src": "This ID card proves your authority￥as a JUNKER. Keep it safe.",
-   "ru": true
+   "ru": true,
+   "long": "Это удостоверение подтверждает твои￥полномочия ДЖАНКЕРа. Береги его."
   },
   {
    "off": 9375,
@@ -1423,10 +1431,11 @@
   {
    "off": 9809,
    "budget": 47,
-   "en": "Это изображение хранилось в памяти Литл Джона.",
+   "en": ".",
    "en_src": "Footage left in Little John's￥memory.",
    "long_src": "This image was stored in Little￥John's memory.",
-   "ru": true
+   "ru": true,
+   "long": "Это изображение хранилось в памяти￥Литл Джона."
   },
   {
    "off": 9856,
@@ -1507,10 +1516,11 @@
   {
    "off": 10231,
    "budget": 83,
-   "en": "Шифр из китайских обозначений химических элементов. Расшифровка: BENSON (Бенсон).",
+   "en": ".",
    "en_src": "A cipher written in Chinese element￥symbols. Decoded, it reads BENSON.",
    "long_src": "It's a code written using Chinese￥symbols for chemical elements. It￥decodes to BENSON.",
-   "ru": true
+   "ru": true,
+   "long": "Шифр из китайских обозначений￥химических элементов. Расшифровка:￥BENSON (Бенсон)."
   },
   {
    "off": 10314,
@@ -1545,9 +1555,10 @@
   {
    "off": 10588,
    "budget": 53,
-   "en": "На этом изображении неоновая вывеска больницы QUEEN.",
+   "en": ".",
    "en_src": "This image shows the QUEEN Hospital￥neon sign.",
-   "ru": true
+   "ru": true,
+   "long": "На этом изображении неоновая вывеска￥больницы QUEEN."
   },
   {
    "off": 10641,
@@ -1567,10 +1578,11 @@
   {
    "off": 10773,
    "budget": 67,
-   "en": "Собор Василия Блаженного, знаменитый собор в Москве до Катастрофы.",
+   "en": ".",
    "en_src": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
    "long_src": "It's St. Basil's Cathedral, a famous￥cathedral in Moscow before the￥Catastrophe.",
-   "ru": true
+   "ru": true,
+   "long": "Собор Василия Блаженного, знаменитый￥собор в Москве до Катастрофы."
   },
   {
    "off": 10842,

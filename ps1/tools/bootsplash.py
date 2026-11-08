@@ -63,8 +63,8 @@ TEXT = [                                 # (font, size, ink, text)
     ("arial.ttf", 12, (0, 0, 0), "на основе английского фанперевода pepa."),
     ("arial.ttf", 12, (0, 0, 0), "Если не хотите играть в перевод с участием ИИ,"),
     ("arial.ttf", 12, (0, 0, 0), "остановитесь здесь. Иначе - приятной игры."),
-    ("arial.ttf", 12, (0, 0, 0), "Нашли ошибку? Сообщите:"),
-    ("arialbd.ttf", 11, (16, 64, 160), "github.com/andruxaster/snatcher-translated-rus"),
+    ("arial.ttf", 12, (0, 0, 0), "Нашли ошибку? Пишите на GitHub:"),
+    ("arialbd.ttf", 11, (16, 64, 160), "andruxaster/snatcher-translated-rus"),
 ]
 TEXT_POS = [(16, 16), (16, 46), (16, 60), (16, 74), (16, 88), (16, 110), (16, 126)]
 TEXT_CHUNK = 192                         # texels per text sprite

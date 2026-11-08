@@ -15,7 +15,9 @@
   {
    "off": 20,
    "budget": 31,
-   "en": "I'm a dummy file. Oh, my!"
+   "en": "Я файл-пустышка. Ах!",
+   "en_src": "I'm a dummy file. Oh, my!",
+   "ru": true
   },
   {
    "off": 53,

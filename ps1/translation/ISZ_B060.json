@@ -17,9 +17,10 @@
   {
    "off": 6479,
    "budget": 7,
-   "en": "Звонок",
+   "en": ".",
    "en_src": "Call",
-   "ru": true
+   "ru": true,
+   "long": "Позвать"
   },
   {
    "off": 6486,
@@ -436,7 +437,7 @@
   {
    "off": 7776,
    "budget": 17,
-   "en": "Джой Дивижн",
+   "en": "\"Джой Дивижн\"",
    "en_src": "Joy Division",
    "ru": true
   },
@@ -841,9 +842,10 @@
   {
    "off": 9557,
    "budget": 7,
-   "en": "Ответ",
+   "en": ".",
    "en_src": "Answer",
-   "ru": true
+   "ru": true,
+   "long": "Ответить"
   },
   {
    "off": 9564,
@@ -1501,9 +1503,10 @@
   {
    "off": 11990,
    "budget": 5,
-   "en": "Речь",
+   "en": ".",
    "en_src": "Talk",
-   "ru": true
+   "ru": true,
+   "long": "Говорить"
   },
   {
    "off": 11995,
@@ -1661,10 +1664,11 @@
   {
    "off": 12886,
    "budget": 63,
-   "en": "Может быть. Если бы все доверяли друг другу, мы бы их изгнали.",
+   "en": ".",
    "en_src": "Maybe so.￥If everyone trusted,￥we could drive them out...",
    "long_src": "Maybe. We might be able to drive￥them out if we all trusted each￥other.",
-   "ru": true
+   "ru": true,
+   "long": "Может быть. Если бы все доверяли￥друг другу, мы бы их изгнали."
   },
   {
    "off": 12949,
@@ -1755,9 +1759,10 @@
   {
    "off": 13410,
    "budget": 61,
-   "en": "Честно, я была в шоке, когда узнала, что ты пошёл в ДЖАНКЕР.",
+   "en": ".",
    "en_src": "Honestly, I was shocked to hear￥you'd joined JUNKER.",
-   "ru": true
+   "ru": true,
+   "long": "Честно, я была в шоке, когда узнала,￥что ты пошёл в ДЖАНКЕР."
   },
   {
    "off": 13471,
@@ -1845,10 +1850,11 @@
   {
    "off": 14082,
    "budget": 49,
-   "en": "Мне страшно, Гиллиан. Пожалуйста, не рискуй зря.",
+   "en": ".",
    "en_src": "I'm scared, somehow.￥Gillian, be careful.",
    "long_src": "I'm scared, Gillian. Please don't do￥anything reckless.",
-   "ru": true
+   "ru": true,
+   "long": "Мне страшно, Гиллиан. Пожалуйста, не￥рискуй зря."
   },
   {
    "off": 14131,
@@ -1961,9 +1967,10 @@
   {
    "off": 14520,
    "budget": 5,
-   "en": "Спр.",
+   "en": ".",
    "en_src": "Ask",
-   "ru": true
+   "ru": true,
+   "long": "Спросить"
   },
   {
    "off": 14525,
@@ -2022,9 +2029,10 @@
   {
    "off": 14856,
    "budget": 5,
-   "en": "Раб.",
+   "en": ".",
    "en_src": "Work",
-   "ru": true
+   "ru": true,
+   "long": "Работа"
   },
   {
    "off": 14861,
@@ -2119,10 +2127,11 @@
   {
    "off": 15460,
    "budget": 55,
-   "en": "Эта работа - моя единственная надежда вернуть память.",
+   "en": ".",
    "en_src": "The only key to my memory is￥to keep at this work.",
    "long_src": "Keeping at this job is my only hope￥of getting my memory back.",
-   "ru": true
+   "ru": true,
+   "long": "Эта работа - моя единственная￥надежда вернуть память."
   },
   {
    "off": 15515,
@@ -2912,9 +2921,10 @@
   {
    "off": 18710,
    "budget": 7,
-   "en": "Зоо",
+   "en": ".",
    "en_src": "Zoo",
-   "ru": true
+   "ru": true,
+   "long": "Зоопарк"
   },
   {
    "off": 18717,
@@ -3142,7 +3152,7 @@
   {
    "off": 20008,
    "budget": 15,
-   "en": "Значок",
+   "en": "Удостоверение",
    "en_src": "JUNKER ID",
    "ru": true
   },
@@ -3380,9 +3390,10 @@
   {
    "off": 20928,
    "budget": 11,
-   "en": "Санблок",
+   "en": ".",
    "en_src": "Sunblock",
-   "ru": true
+   "ru": true,
+   "long": "Защитный крем"
   },
   {
    "off": 20939,

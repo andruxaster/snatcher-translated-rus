@@ -15,8 +15,9 @@
    "end": 2904,
    "dur": 3.3,
    "speaker": "Chief",
-   "en": "Hey! No eating and drinking binges on expenses!",
-   "enabled": true
+   "en": "Эй! Никаких пьянок и обжорства за казённый счёт!",
+   "enabled": true,
+   "en_src": "Hey! No eating and drinking binges on expenses!"
   },
   {
    "id": "B070_f2_0",
@@ -26,8 +27,9 @@
    "end": 3336,
    "dur": 2.8,
    "speaker": "Gillian",
-   "en": "W-what are you talking about?",
-   "enabled": true
+   "en": "О-о чём вы?",
+   "enabled": true,
+   "en_src": "W-what are you talking about?"
   },
   {
    "id": "B070_f3_0",
@@ -37,8 +39,9 @@
    "end": 3976,
    "dur": 4.2,
    "speaker": "Chief",
-   "en": "Don't play dumb. Metal Gear sends me all the data.",
-   "enabled": true
+   "en": "Не прикидывайся. Метал Гир шлёт мне все данные.",
+   "enabled": true,
+   "en_src": "Don't play dumb. Metal Gear sends me all the data."
   },
   {
    "id": "B070_f4_0",
@@ -48,8 +51,9 @@
    "end": 4072,
    "dur": 0.5,
    "speaker": "Gillian",
-   "en": "Metal?",
-   "enabled": true
+   "en": "Метал?",
+   "enabled": true,
+   "en_src": "Metal?"
   },
   {
    "id": "B070_f5_0",
@@ -59,8 +63,9 @@
    "end": 4536,
    "dur": 3.0,
    "speaker": "Metal Gear",
-   "en": "Th-that's why I warned you.",
-   "enabled": true
+   "en": "В-вот поэтому я тебя и предупреждал.",
+   "enabled": true,
+   "en_src": "Th-that's why I warned you."
   },
   {
    "id": "B070_f6_0",
@@ -70,9 +75,10 @@
    "end": 4824,
    "dur": 1.8,
    "speaker": "Chief",
-   "en": "Don't let it happen again.",
+   "en": "Чтоб больше такого не было.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Don't let it happen again."
   },
   {
    "id": "B070_008",
@@ -82,8 +88,9 @@
    "end": 8248,
    "dur": 1.4,
    "speaker": "Voice",
-   "en": "Who are you?",
-   "enabled": true
+   "en": "Ты кто?",
+   "enabled": true,
+   "en_src": "Who are you?"
   },
   {
    "id": "B070_009",
@@ -93,8 +100,9 @@
    "end": 8632,
    "dur": 2.5,
    "speaker": "Gillian",
-   "en": "I know Gibson. I need information.",
-   "enabled": true
+   "en": "Я знаю Гибсона. Мне нужна информация.",
+   "enabled": true,
+   "en_src": "I know Gibson. I need information."
   },
   {
    "id": "B070_010",
@@ -104,8 +112,9 @@
    "end": 9092,
    "dur": 3.0,
    "speaker": "Napoleon",
-   "en": "You a cop too? I don't trust you.",
-   "enabled": true
+   "en": "Ты тоже коп? Не верю я тебе.",
+   "enabled": true,
+   "en_src": "You a cop too? I don't trust you."
   },
   {
    "id": "B070_010b",
@@ -115,8 +124,9 @@
    "end": 9880,
    "dur": 3.3,
    "speaker": "Napoleon",
-   "en": "All right, let's try the password.",
-   "enabled": true
+   "en": "Ладно, проверим пароль.",
+   "enabled": true,
+   "en_src": "All right, let's try the password."
   },
   {
    "id": "B070_011",
@@ -126,9 +136,10 @@
    "end": 9992,
    "dur": 0.6,
    "speaker": "Gillian",
-   "en": "Password?",
+   "en": "Пароль?",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Password?"
   },
   {
    "id": "B070_000",
@@ -138,9 +149,10 @@
    "end": 40247,
    "dur": 3.4,
    "speaker": "Jamie",
-   "en": "Oh, Gillian. I was asleep.",
+   "en": "А, Гиллиан. Я спала.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Oh, Gillian. I was asleep."
   },
   {
    "id": "B070_001",
@@ -150,9 +162,10 @@
    "end": 40871,
    "dur": 4.1,
    "speaker": "Jamie",
-   "en": "Hello, Jamie here. Oh, Gillian. How are you?",
+   "en": "Алло, это Джейми. А, Гиллиан. Как ты?",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Hello, Jamie here. Oh, Gillian. How are you?"
   },
   {
    "id": "B070_002",
@@ -162,9 +175,10 @@
    "end": 41415,
    "dur": 3.5,
    "speaker": "Jamie",
-   "en": "Surprised? This is a recording.",
+   "en": "Удивлён? Это запись.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Surprised? This is a recording."
   },
   {
    "id": "B070_003",
@@ -174,8 +188,9 @@
    "end": 43128,
    "dur": 1.9,
    "speaker": "Jamie",
-   "en": "I'm out at the moment.",
-   "enabled": true
+   "en": "Меня сейчас нет.",
+   "enabled": true,
+   "en_src": "I'm out at the moment."
   },
   {
    "id": "B070_003b",
@@ -185,8 +200,9 @@
    "end": 44241,
    "dur": 13.0,
    "speaker": "Jamie",
-   "en": "You can reach me at Neo Kobe Pharmaceutical Lab, 39-1009.",
-   "enabled": true
+   "en": "Звони в фармлабораторию Нео-Кобе, 39-1009.",
+   "enabled": true,
+   "en_src": "You can reach me at Neo Kobe Pharmaceutical Lab, 39-1009."
   },
   {
    "id": "B070_003c",
@@ -196,8 +212,9 @@
    "end": 44693,
    "dur": 1.7,
    "speaker": "Jamie",
-   "en": "Sorry for the surprise.",
-   "enabled": true
+   "en": "Прости, что напугала.",
+   "enabled": true,
+   "en_src": "Sorry for the surprise."
   },
   {
    "id": "B070_003d",
@@ -207,9 +224,10 @@
    "end": 44855,
    "dur": 0.6,
    "speaker": "Jamie",
-   "en": "Bye!",
+   "en": "Пока!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Bye!"
   },
   {
    "id": "B070_004",
@@ -219,9 +237,10 @@
    "end": 45559,
    "dur": 4.6,
    "speaker": "Jamie",
-   "en": "Hello, Neo Kobe Pharma- Oh, Gillian! What's wrong?",
+   "en": "Алло, фармлаборатория Нео... О, Гиллиан! Что случилось?",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Hello, Neo Kobe Pharma- Oh, Gillian! What's wrong?"
   },
   {
    "id": "B070_005",
@@ -231,8 +250,9 @@
    "end": 45869,
    "dur": 2.0,
    "speaker": "Jamie",
-   "en": "Hello, Neo Kobe Pharmaceutical Lab.",
-   "enabled": true
+   "en": "Алло, фармлаборатория Нео-Кобе.",
+   "enabled": true,
+   "en_src": "Hello, Neo Kobe Pharmaceutical Lab."
   },
   {
    "id": "B070_005b",
@@ -242,9 +262,10 @@
    "end": 46375,
    "dur": 2.4,
    "speaker": "Jamie",
-   "en": "Oh, it's you, Gillian.",
+   "en": "А, это ты, Гиллиан.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Oh, it's you, Gillian."
   },
   {
    "id": "B070_006",
@@ -254,9 +275,10 @@
    "end": 46991,
    "dur": 8.0,
    "speaker": "Voice",
-   "en": "That number is not in service at this time.",
+   "en": "Этот номер сейчас не обслуживается.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "That number is not in service at this time."
   },
   {
    "id": "B070_006b",
@@ -266,9 +288,10 @@
    "end": 47591,
    "dur": 8.0,
    "speaker": "Voice",
-   "en": "Please check the number and dial again.",
+   "en": "Проверьте номер и наберите снова.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Please check the number and dial again."
   },
   {
    "id": "B070_007",
@@ -278,8 +301,9 @@
    "end": 48234,
    "dur": 4.2,
    "speaker": "Voice",
-   "en": "The number you have dialed is not in service.",
-   "enabled": true
+   "en": "Набранный вами номер не обслуживается.",
+   "enabled": true,
+   "en_src": "The number you have dialed is not in service."
   },
   {
    "id": "B070_007b",
@@ -289,9 +313,10 @@
    "end": 48743,
    "dur": 2.6,
    "speaker": "Voice",
-   "en": "Please check the number and try again.",
+   "en": "Проверьте номер и попробуйте снова.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Please check the number and try again."
   },
   {
    "id": "B070_012",
@@ -301,9 +326,10 @@
    "end": 49455,
    "dur": 9.3,
    "speaker": "Clerk",
-   "en": "Thank you for calling Joy Division,",
+   "en": "Спасибо за звонок в \"Джой Дивижн\",",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Thank you for calling Joy Division,"
   },
   {
    "id": "B070_012b",
@@ -313,9 +339,10 @@
    "end": 50151,
    "dur": 9.3,
    "speaker": "Clerk",
-   "en": "the store that has everything.",
+   "en": "магазин, где есть всё.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "the store that has everything."
   },
   {
    "id": "B070_jcall_00",
@@ -325,8 +352,9 @@
    "end": 42321,
    "dur": 5.9,
    "speaker": "Metal Gear",
-   "en": "Gillian, an urgent call from Jamie. I'll connect you.",
-   "enabled": true
+   "en": "Гиллиан, срочный звонок от Джейми. Соединяю.",
+   "enabled": true,
+   "en_src": "Gillian, an urgent call from Jamie. I'll connect you."
   },
   {
    "id": "B070_jcall_01",
@@ -336,9 +364,10 @@
    "end": 42823,
    "dur": 3.3,
    "speaker": "Jamie",
-   "en": "Gillian, my memory's back!",
+   "en": "Гиллиан, ко мне вернулась память!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Gillian, my memory's back!"
   }
  ]
 }
