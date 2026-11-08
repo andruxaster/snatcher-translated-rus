@@ -3409,7 +3409,9 @@ def build_blob(blob_ram, cues, test_every=None, opts=None):
         return seen[b]
     faceleft = bool(opts.get('faceleft'))
     for c in cues:
-        sp = encode(pad_block(c.get("speaker", ""), ROWS_NAME, COLS_NAME))
+        from translate_names import SPEAKER_RU    # the plate shows the Russian name
+        sp = encode(pad_block(SPEAKER_RU.get(c.get("speaker", ""), c.get("speaker", "")),
+                              ROWS_NAME, COLS_NAME))
         if faceleft:
             # the character code rides in front, padded to TWO bytes: the
             # name must stay halfword-aligned (interned strings are even-

@@ -189,6 +189,9 @@ def pair_demand():
     # far above any text pair so they always keep real slots.
     for name in NAMES:
         count_into(counts, name, weight=NAME_WEIGHT)
+    from translate_names import SPEAKER_RU    # the subtitle cards' plates
+    for name in SPEAKER_RU.values():
+        count_sjis(counts, name, weight=NAME_WEIGHT)
     return counts
 
 def budget_fallbacks(table):

@@ -45,6 +45,14 @@ DISPLAY = [
 ]
 assert len(DISPLAY) == len(NAMES)
 
+# The subtitle cards' nameplates (ps1/subs/subs_cue.py) are written from the
+# cue's `speaker`, which also names speakers the bank table does not have.
+SPEAKER_RU = dict(zip(NAMES, DISPLAY))
+SPEAKER_RU.update({
+    "Madnar": "Мэднар", "Chin": "Чин", "Gibson": "Гибсон", "Teller": "Гадалка",
+    "Cook": "Повар", "Waiter": "Официант", "Thug": "Бандит", "TV": "ТВ",
+})
+
 # "Parrot" is オウム (the JP dump writes ム as メ, `オウメ` - "Oume" until 2026-09-17).
 # "Gaudi  (Y)" (ガウディ黄) carries two spaces so " (" and "Y)" stay on pair
 # glyphs; with one space "(Y" has no slot and falls back to fullwidth.
