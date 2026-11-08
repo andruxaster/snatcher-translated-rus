@@ -77,3 +77,15 @@ def decode_stream(d, lo=0x55, hi=0x7F):
             out.append(f"<{b:02x}>")
             i += 1
     return "".join(out)
+
+
+# Russian (2026-11): Cyrillic letters are drawn the way ASCII is, two to a
+# cell from the pair glyphs (ps1/tools/pairfont.py), not as the font's own
+# fullwidth row-7 glyphs. Every tool that used to test `ord(ch) < 0x80` for
+# "goes into a pair" asks this instead.
+CYRILLIC = set(chr(c) for c in range(0x410, 0x450)) | {"Ё", "ё"}
+
+
+def is_narrow(ch):
+    """True for a character packed two per cell (ASCII and Cyrillic)."""
+    return ord(ch) < 0x80 or ch in CYRILLIC

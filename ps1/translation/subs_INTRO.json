@@ -14,11 +14,12 @@
    "end": 116018,
    "dur": 7.9,
    "speaker": "",
-   "en": "June 6th, 1991. Moscow, the Chernoton Research Institute. A mysterious explosion.",
+   "en": "6 июня 1991 года. Москва, НИИ Чернотона. Загадочный взрыв.",
    "enabled": true,
    "pic_bottom": 176,
    "y": 9,
-   "over": false
+   "over": false,
+   "en_src": "June 6th, 1991. Moscow, the Chernoton Research Institute. A mysterious explosion."
   },
   {
    "id": "INTRO_news_01",
@@ -28,11 +29,12 @@
    "end": 116976,
    "dur": 6.2,
    "speaker": "",
-   "en": "The germ weapon under secret development there, Lucifer Alpha, leaked into the atmosphere.",
+   "en": "Секретное биооружие \"Люцифер-Альфа\" вырвалось в атмосферу.",
    "enabled": true,
    "pic_bottom": 176,
    "y": 9,
-   "over": false
+   "over": false,
+   "en_src": "The germ weapon under secret development there, Lucifer Alpha, leaked into the atmosphere."
   },
   {
    "id": "INTRO_news_02",
@@ -42,11 +44,12 @@
    "end": 117142,
    "dur": 1.1,
    "speaker": "",
-   "en": "A biohazard.",
+   "en": "Биологическая катастрофа.",
    "enabled": true,
    "pic_bottom": 176,
    "y": 9,
-   "over": false
+   "over": false,
+   "en_src": "A biohazard."
   },
   {
    "id": "INTRO_news_03",
@@ -56,11 +59,12 @@
    "end": 118342,
    "dur": 7.6,
    "speaker": "",
-   "en": "Riding the updrafts, Lucifer Alpha wiped out Eastern Europe and some 80% of the Eurasian continent.",
+   "en": "С восходящими потоками вирус выкосил Восточную Европу и 80% Евразии.",
    "enabled": true,
    "pic_bottom": 229,
    "y": 11,
-   "over": true
+   "over": true,
+   "en_src": "Riding the updrafts, Lucifer Alpha wiped out Eastern Europe and some 80% of the Eurasian continent."
   },
   {
    "id": "INTRO_news_05",
@@ -70,11 +74,12 @@
    "end": 118897,
    "dur": 2.9,
    "speaker": "",
-   "en": "Half the world died.",
+   "en": "Погибла половина человечества.",
    "enabled": true,
    "pic_bottom": 229,
    "y": 43,
-   "over": true
+   "over": true,
+   "en_src": "Half the world died."
   },
   {
    "id": "INTRO_news_06",
@@ -84,11 +89,12 @@
    "end": 119826,
    "dur": 4.9,
    "speaker": "",
-   "en": "The greatest biohazard in history would later be called the Catastrophe.",
+   "en": "Худшую биокатастрофу в истории позже назовут Катастрофой.",
    "enabled": true,
    "pic_bottom": 229,
    "y": 11,
-   "over": true
+   "over": true,
+   "en_src": "The greatest biohazard in history would later be called the Catastrophe."
   },
   {
    "id": "INTRO_news_07",
@@ -98,11 +104,12 @@
    "end": 120863,
    "dur": 5.4,
    "speaker": "",
-   "en": "But who could have imagined that half a century later a true biohazard,",
+   "en": "Но кто мог знать, что через полвека придёт настоящая беда,",
    "enabled": true,
    "pic_bottom": 229,
    "y": 11,
-   "over": true
+   "over": true,
+   "en_src": "But who could have imagined that half a century later a true biohazard,"
   },
   {
    "id": "INTRO_news_08",
@@ -112,11 +119,12 @@
    "end": 121266,
    "dur": 2.7,
    "speaker": "",
-   "en": "more terrible still, would come?",
+   "en": "ещё страшнее прежней?",
    "enabled": true,
    "pic_bottom": 229,
    "y": 27,
-   "over": true
+   "over": true,
+   "en_src": "more terrible still, would come?"
   },
   {
    "id": "INTRO_news_09",
@@ -126,11 +134,12 @@
    "end": 122285,
    "dur": 5.2,
    "speaker": "",
-   "en": "Fifty years later. Humanity faced an unprecedented crisis:",
+   "en": "Пятьдесят лет спустя. Человечество в небывалой опасности:",
    "enabled": true,
    "pic_bottom": 136,
    "y": 0,
-   "over": false
+   "over": false,
+   "en_src": "Fifty years later. Humanity faced an unprecedented crisis:"
   },
   {
    "id": "INTRO_news_10",
@@ -140,11 +149,12 @@
    "end": 122825,
    "dur": 3.1,
    "speaker": "",
-   "en": "the appearance of a mysterious life form, the bioroids.",
+   "en": "появилась загадочная форма жизни - биороиды.",
    "enabled": true,
    "pic_bottom": 191,
    "y": 24,
-   "over": false
+   "over": false,
+   "en_src": "the appearance of a mysterious life form, the bioroids."
   },
   {
    "id": "INTRO_news_11",
@@ -154,11 +164,12 @@
    "end": 123920,
    "dur": 6.8,
    "speaker": "",
-   "en": "Nationality, purpose, identity, all unknown. A nation's new weapon? Invaders from beyond?",
+   "en": "Откуда, зачем, кто они? Чьё-то новое оружие? Пришельцы?",
    "enabled": true,
    "pic_bottom": 230,
    "y": 11,
-   "over": true
+   "over": true,
+   "en_src": "Nationality, purpose, identity, all unknown. A nation's new weapon? Invaders from beyond?"
   },
   {
    "id": "INTRO_news_12",
@@ -168,11 +179,12 @@
    "end": 125089,
    "dur": 6.9,
    "speaker": "",
-   "en": "They appear in winter, kill, secretly take their victims' places and infiltrate society.",
+   "en": "Приходят зимой, убивают, подменяют жертв и внедряются в общество.",
    "enabled": true,
    "pic_bottom": 238,
    "y": 11,
-   "over": true
+   "over": true,
+   "en_src": "They appear in winter, kill, secretly take their victims' places and infiltrate society."
   },
   {
    "id": "INTRO_news_13",
@@ -182,11 +194,12 @@
    "end": 126049,
    "dur": 5.2,
    "speaker": "",
-   "en": "They wear artificial skin. They sweat. They can even bleed.",
+   "en": "Искусственная кожа. Они потеют. У них даже идёт кровь.",
    "enabled": true,
    "pic_bottom": 238,
    "y": 27,
-   "over": true
+   "over": true,
+   "en_src": "They wear artificial skin. They sweat. They can even bleed."
   },
   {
    "id": "INTRO_news_14",
@@ -196,11 +209,12 @@
    "end": 126559,
    "dur": 3.3,
    "speaker": "",
-   "en": "Extremely intelligent, and utterly ruthless.",
+   "en": "Очень умны и абсолютно безжалостны.",
    "enabled": true,
    "pic_bottom": 238,
    "y": 27,
-   "over": true
+   "over": true,
+   "en_src": "Extremely intelligent, and utterly ruthless."
   },
   {
    "id": "INTRO_news_15",
@@ -210,11 +224,12 @@
    "end": 127054,
    "dur": 2.4,
    "speaker": "",
-   "en": "They are almost impossible to tell from the originals.",
+   "en": "Их почти невозможно отличить от оригиналов.",
    "enabled": true,
    "pic_bottom": 238,
    "y": 27,
-   "over": true
+   "over": true,
+   "en_src": "They are almost impossible to tell from the originals."
   },
   {
    "id": "INTRO_news_16",
@@ -224,11 +239,12 @@
    "end": 127472,
    "dur": 4.7,
    "speaker": "",
-   "en": "Because they take people's bodies and replace them, they came to be called... Snatchers.",
+   "en": "Они похищают тела людей и подменяют их. Их прозвали... снатчеры.",
    "enabled": true,
    "pic_bottom": 238,
    "y": 11,
-   "over": true
+   "over": true,
+   "en_src": "Because they take people's bodies and replace them, they came to be called... Snatchers."
   },
   {
    "id": "INTRO_news_16b",
@@ -238,13 +254,14 @@
    "end": 127879,
    "dur": 4.7,
    "speaker": "",
-   "en": "Because they take people's bodies and replace them, they came to be called... Snatchers.",
+   "en": "Они похищают тела людей и подменяют их. Их прозвали... снатчеры.",
    "enabled": true,
    "last": true,
    "noband": true,
    "pic_bottom": 238,
    "y": 11,
-   "over": true
+   "over": true,
+   "en_src": "Because they take people's bodies and replace them, they came to be called... Snatchers."
   },
   {
    "id": "INTRO_gillian_00",
@@ -254,11 +271,12 @@
    "end": 145166,
    "dur": 3.4,
    "speaker": "",
-   "en": "Gillian Seed. He's estimated to be 31.",
+   "en": "Гиллиан Сид. Предположительно 31 год.",
    "enabled": true,
    "pic_bottom": 159,
    "y": 0,
-   "over": false
+   "over": false,
+   "en_src": "Gillian Seed. He's estimated to be 31."
   },
   {
    "id": "INTRO_gillian_01",
@@ -268,11 +286,12 @@
    "end": 145931,
    "dur": 4.0,
    "speaker": "",
-   "en": "Three years ago, together with his wife Jamie Seed,",
+   "en": "Три года назад вместе с женой Джейми Сид",
    "enabled": true,
    "pic_bottom": 159,
    "y": 0,
-   "over": false
+   "over": false,
+   "en_src": "Three years ago, together with his wife Jamie Seed,"
   },
   {
    "id": "INTRO_gillian_02",
@@ -282,11 +301,12 @@
    "end": 146531,
    "dur": 4.0,
    "speaker": "",
-   "en": "he was found in the Siberian neutral zone by the 17th Siberian survey team.",
+   "en": "найден 17-й экспедицией в Сибирской нейтральной зоне.",
    "enabled": true,
    "pic_bottom": 159,
    "y": 0,
-   "over": false
+   "over": false,
+   "en_src": "he was found in the Siberian neutral zone by the 17th Siberian survey team."
   },
   {
    "id": "INTRO_gillian_03",
@@ -296,11 +316,12 @@
    "end": 147640,
    "dur": 7.4,
    "speaker": "",
-   "en": "He suffers from amnesia to this day. His past is a deep mystery.",
+   "en": "До сих пор страдает амнезией. Его прошлое - загадка.",
    "enabled": true,
    "pic_bottom": 159,
    "y": 0,
-   "over": false
+   "over": false,
+   "en_src": "He suffers from amnesia to this day. His past is a deep mystery."
   },
   {
    "id": "INTRO_gillian_04",
@@ -310,11 +331,12 @@
    "end": 148180,
    "dur": 3.2,
    "speaker": "",
-   "en": "Separated from Jamie for two years.",
+   "en": "Два года живёт отдельно от Джейми.",
    "enabled": true,
    "pic_bottom": 159,
    "y": 0,
-   "over": false
+   "over": false,
+   "en_src": "Separated from Jamie for two years."
   },
   {
    "id": "INTRO_gillian_05",
@@ -324,12 +346,13 @@
    "end": 149275,
    "dur": 7.3,
    "speaker": "",
-   "en": "After long special training in the army, as of today he is posted to Neo Kobe City as a JUNKER.",
+   "en": "После долгой спецподготовки в армии назначен ДЖАНКЕРом в Нео-Кобе.",
    "enabled": true,
    "last": true,
    "pic_bottom": 159,
    "y": 0,
-   "over": false
+   "over": false,
+   "en_src": "After long special training in the army, as of today he is posted to Neo Kobe City as a JUNKER."
   }
  ]
 }

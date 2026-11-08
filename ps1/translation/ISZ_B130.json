@@ -10,60 +10,83 @@
   {
    "off": 577,
    "budget": 109,
-   "en": "Gillian! Use the mirror's reflection￥to shoot Freddy!＠Ｃ"
+   "en": "Гиллиан! Стреляй во Фредди через￥отражение в зеркале!＠Ｃ",
+   "en_src": "Gillian! Use the mirror's reflection￥to shoot Freddy!＠Ｃ",
+   "ru": true
   },
   {
    "off": 686,
    "budget": 21,
-   "en": "I'm done for...＠Ｃ"
+   "en": "Мне конец...＠Ｃ",
+   "en_src": "I'm done for...＠Ｃ",
+   "ru": true
   },
   {
    "off": 707,
    "budget": 23,
-   "en": "Gillian!＠Ｃ"
+   "en": "Гиллиан!＠Ｃ",
+   "en_src": "Gillian!＠Ｃ",
+   "ru": true
   },
   {
    "off": 730,
    "budget": 35,
-   "en": "Record the case so far?",
-   "long": "Would you like to save your￥progress?"
+   "en": "Сохранить ход расследования?",
+   "en_src": "Record the case so far?",
+   "long_src": "Would you like to save your￥progress?",
+   "ru": true
   },
   {
    "off": 765,
    "budget": 11,
-   "en": "Save"
+   "en": "Сохранить",
+   "en_src": "Save",
+   "ru": true
   },
   {
    "off": 776,
    "budget": 41,
-   "en": "I'll save your progress now."
+   "en": "Сохраняю ход расследования.",
+   "en_src": "I'll save your progress now.",
+   "ru": true
   },
   {
    "off": 817,
    "budget": 13,
-   "en": "Don't save"
+   "en": "Не сохранять",
+   "en_src": "Don't save",
+   "ru": true
   },
   {
    "off": 830,
    "budget": 13,
-   "en": "Continue"
+   "en": "Продолжить",
+   "en_src": "Continue",
+   "ru": true
   },
   {
    "off": 843,
    "budget": 31,
-   "en": "Then... we continue the case.",
-   "long": "Let's continue the investigation."
+   "en": "Продолжаем расследование.",
+   "en_src": "Then... we continue the case.",
+   "long_src": "Let's continue the investigation.",
+   "ru": true
   },
   {
    "off": 874,
    "budget": 13,
-   "en": "Quit game"
+   "en": "Выйти",
+   "en_src": "Quit game",
+   "ru": true
   },
   {
    "off": 887,
    "budget": 33,
-   "en": "Then... we end the case here.",
-   "long": "We'll end the investigation here."
+   "en": ".",
+   "en_src": "Then... we end the case here.",
+   "long_src": "We'll end the investigation here.",
+   "ru": true,
+   "long": "На этом расследование завершается."
   },
   {
    "off": 922,

@@ -10,1059 +10,1492 @@
   {
    "off": 5630,
    "budget": 13,
-   "en": "Look up.",
-   "long": "Look at the ceiling."
+   "en": ".",
+   "en_src": "Look up.",
+   "long_src": "Look at the ceiling.",
+   "ru": true,
+   "long": "Посмотри на потолок."
   },
   {
    "off": 5643,
    "budget": 65,
-   "en": "Arrived at JUNKER HQ.￥Are Mika and Harry safe?",
-   "long": "We've reached JUNKER headquarters. I￥hope Mika and Harry are safe."
+   "en": "Мы прибыли в штаб ДЖАНКЕРа. Надеюсь,￥Мика и Гарри живы.",
+   "en_src": "Arrived at JUNKER HQ.￥Are Mika and Harry safe?",
+   "long_src": "We've reached JUNKER headquarters. I￥hope Mika and Harry are safe.",
+   "ru": true
   },
   {
    "off": 5708,
    "budget": 27,
-   "en": "Metal, now we face him!",
-   "long": "Metal, it's time to face him!"
+   "en": ".",
+   "en_src": "Metal, now we face him!",
+   "long_src": "Metal, it's time to face him!",
+   "ru": true,
+   "long": "Метал, пора с ним разобраться!"
   },
   {
    "off": 5735,
    "budget": 31,
-   "en": "Gillian, how's your right arm?"
+   "en": "Гиллиан, как твоя правая рука?",
+   "en_src": "Gillian, how's your right arm?",
+   "ru": true
   },
   {
    "off": 5766,
    "budget": 45,
-   "en": "All right now!￥The nanomachines did well!",
-   "long": "Good as new! Those nanomachines did￥the trick!"
+   "en": "Как новенькая! Наномашины своё дело сделали!",
+   "en_src": "All right now!￥The nanomachines did well!",
+   "long_src": "Good as new! Those nanomachines did￥the trick!",
+   "ru": true
   },
   {
    "off": 5811,
    "budget": 67,
-   "en": "He's fooled us all this time.￥Not a moment's carelessness!",
-   "long": "He's fooled us all this time. We￥can't let our guard down for a￥moment!"
+   "en": ".",
+   "en_src": "He's fooled us all this time.￥Not a moment's carelessness!",
+   "long_src": "He's fooled us all this time. We￥can't let our guard down for a￥moment!",
+   "ru": true,
+   "long": "Он всё это время водил нас за нос.￥Нельзя терять бдительность ни на￥миг!"
   },
   {
    "off": 5878,
    "budget": 61,
-   "en": "I know! I'll finish him with one￥shot! Ready? Let's go!"
+   "en": "Знаю! Прикончу его одним выстрелом!￥Готов? Пошли!",
+   "en_src": "I know! I'll finish him with one￥shot! Ready? Let's go!",
+   "ru": true
   },
   {
    "off": 5939,
    "budget": 15,
-   "en": "Front desk.",
-   "long": "This is reception."
+   "en": ".",
+   "en_src": "Front desk.",
+   "long_src": "This is reception.",
+   "ru": true,
+   "long": "Это стойка регистрации."
   },
   {
    "off": 5954,
    "budget": 53,
-   "en": "Oh! The reception booth's shutter is￥down."
+   "en": "Ох! Ставень на будке регистрации￥опущен.",
+   "en_src": "Oh! The reception booth's shutter is￥down.",
+   "ru": true
   },
   {
    "off": 6007,
    "budget": 33,
-   "en": "Can't the booth be opened?",
-   "long": "Can't we open the booth from￥outside?"
+   "en": "А открыть будку снаружи нельзя?",
+   "en_src": "Can't the booth be opened?",
+   "long_src": "Can't we open the booth from￥outside?",
+   "ru": true
   },
   {
    "off": 6040,
    "budget": 69,
-   "en": "We can, if there's an ＠赤emergency￥external connector＠白."
+   "en": "Можно, если есть ＠赤аварийный внешний￥разъём＠白.",
+   "en_src": "We can, if there's an ＠赤emergency￥external connector＠白.",
+   "ru": true
   },
   {
    "off": 6109,
    "budget": 17,
-   "en": "Let's find it!"
+   "en": "Найдём его!",
+   "en_src": "Let's find it!",
+   "ru": true
   },
   {
    "off": 6126,
    "budget": 13,
-   "en": "Go inside"
+   "en": "Войти внутрь",
+   "en_src": "Go inside",
+   "ru": true
   },
   {
    "off": 6139,
    "budget": 47,
-   "en": "To get inside HQ, we have to open￥the door.",
-   "long": "We need to open the door to get￥inside headquarters."
+   "en": "Чтобы попасть в штаб, нужно открыть￥дверь.",
+   "en_src": "To get inside HQ, we have to open￥the door.",
+   "long_src": "We need to open the door to get￥inside headquarters.",
+   "ru": true
   },
   {
    "off": 6186,
    "budget": 43,
-   "en": "It opens only from the booth.",
-   "long": "The door can only be opened from the￥booth."
+   "en": "Дверь открывается только из будки.",
+   "en_src": "It opens only from the booth.",
+   "long_src": "The door can only be opened from the￥booth.",
+   "ru": true
   },
   {
    "off": 6229,
    "budget": 5,
-   "en": "Look"
+   "en": "Вид",
+   "en_src": "Look",
+   "ru": true
   },
   {
    "off": 6234,
    "budget": 7,
-   "en": "Around"
+   "en": "Вокруг",
+   "en_src": "Around",
+   "ru": true
   },
   {
    "off": 6241,
    "budget": 71,
-   "en": "It looks like someone attacked it.￥The booth's shutter is down."
+   "en": "Похоже, здесь кто-то напал. Ставень￥будки опущен.",
+   "en_src": "It looks like someone attacked it.￥The booth's shutter is down.",
+   "ru": true
   },
   {
    "off": 6312,
    "budget": 31,
-   "en": "Several energy marks.",
-   "long": "There are several energy blast￥marks."
+   "en": ".",
+   "en_src": "Several energy marks.",
+   "long_src": "There are several energy blast￥marks.",
+   "ru": true,
+   "long": "Тут несколько следов энергетических￥выстрелов."
   },
   {
    "off": 6343,
    "budget": 21,
-   "en": "Mika's in there!"
+   "en": "Там же Мика!",
+   "en_src": "Mika's in there!",
+   "ru": true
   },
   {
    "off": 6364,
    "budget": 21,
-   "en": "Where's Mika?"
+   "en": "Где Мика?",
+   "en_src": "Where's Mika?",
+   "ru": true
   },
   {
    "off": 6385,
    "budget": 11,
-   "en": "Shutter"
+   "en": "Ставень",
+   "en_src": "Shutter",
+   "ru": true
   },
   {
    "off": 6396,
    "budget": 99,
-   "en": "This shutter protects the reception￥booth. It closes automatically in an￥emergency."
+   "en": "Этот ставень защищает будку￥регистрации. В экстренной ситуации￥он опускается автоматически.",
+   "en_src": "This shutter protects the reception￥booth. It closes automatically in an￥emergency.",
+   "ru": true
   },
   {
    "off": 6495,
    "budget": 63,
-   "en": "It serves as a shield too, so we￥can't see in.",
-   "long": "It also acts as a protective shield,￥so we can't see inside while it's￥closed."
+   "en": ".",
+   "en_src": "It serves as a shield too, so we￥can't see in.",
+   "long_src": "It also acts as a protective shield,￥so we can't see inside while it's￥closed.",
+   "ru": true,
+   "long": "Он же служит защитным щитом, так￥что, пока он закрыт, внутрь не￥заглянуть."
   },
   {
    "off": 6558,
    "budget": 13,
-   "en": "HQ door"
+   "en": "Дверь в штаб",
+   "en_src": "HQ door",
+   "ru": true
   },
   {
    "off": 6571,
    "budget": 37,
-   "en": "The door checker is on emergency!",
-   "long": "The door's security indicator is￥flashing an emergency warning!"
+   "en": ".",
+   "en_src": "The door checker is on emergency!",
+   "long_src": "The door's security indicator is￥flashing an emergency warning!",
+   "ru": true,
+   "long": "Индикатор охраны на двери мигает:￥аварийная тревога!"
   },
   {
    "off": 6608,
    "budget": 23,
-   "en": "An emergency alert?"
+   "en": "Аварийная тревога?",
+   "en_src": "An emergency alert?",
+   "ru": true
   },
   {
    "off": 6631,
    "budget": 7,
-   "en": "Booth"
+   "en": "Будка",
+   "en_src": "Booth",
+   "ru": true
   },
   {
    "off": 6638,
    "budget": 43,
-   "en": "Guard shutter down; no seeing in.",
-   "long": "The protective shutter is down. We￥can't see inside."
+   "en": ".",
+   "en_src": "Guard shutter down; no seeing in.",
+   "long_src": "The protective shutter is down. We￥can't see inside.",
+   "ru": true,
+   "long": "Защитный ставень опущен. Внутри￥ничего не видно."
   },
   {
    "off": 6681,
    "budget": 21,
-   "en": "I fear for Mika..."
+   "en": "Боюсь за Мику...",
+   "en_src": "I fear for Mika...",
+   "ru": true
   },
   {
    "off": 6702,
    "budget": 7,
-   "en": "Check",
-   "long": "Investigate"
+   "en": ".",
+   "en_src": "Check",
+   "long_src": "Investigate",
+   "ru": true,
+   "long": "Изучить"
   },
   {
    "off": 6709,
    "budget": 65,
-   "en": "Marks of a Blaster or Cannon on the￥entrance shield.",
-   "long": "There are marks on the entrance￥shield from a Blaster or cannon."
+   "en": "На щите входа следы от бластера или￥пушки.",
+   "en_src": "Marks of a Blaster or Cannon on the￥entrance shield.",
+   "long_src": "There are marks on the entrance￥shield from a Blaster or cannon.",
+   "ru": true
   },
   {
    "off": 6774,
    "budget": 57,
-   "en": "No movement detected. We're alone￥here."
+   "en": "Движения не обнаружено. Мы здесь￥одни.",
+   "en_src": "No movement detected. We're alone￥here.",
+   "ru": true
   },
   {
    "off": 6831,
    "budget": 69,
-   "en": "A hole blown in the entrance shield.￥A Blaster or Cannon.",
-   "long": "There's a hole in the entrance￥shield, probably from a Blaster or￥cannon."
+   "en": "В щите входа дыра - вероятно, от￥бластера или пушки.",
+   "en_src": "A hole blown in the entrance shield.￥A Blaster or Cannon.",
+   "long_src": "There's a hole in the entrance￥shield, probably from a Blaster or￥cannon.",
+   "ru": true
   },
   {
    "off": 6900,
    "budget": 45,
-   "en": "A cannon? Then it was a Snatcher?"
+   "en": "Пушки? Значит, это был снатчер?",
+   "en_src": "A cannon? Then it was a Snatcher?",
+   "ru": true
   },
   {
    "off": 6945,
    "budget": 65,
-   "en": "The shutter has been hit by a￥Blaster or cannon."
+   "en": "По ставню стреляли из бластера или￥пушки.",
+   "en_src": "The shutter has been hit by a￥Blaster or cannon.",
+   "ru": true
   },
   {
    "off": 7010,
    "budget": 55,
-   "en": "The shots didn't penetrate, but I￥hope Mika's safe."
+   "en": "Насквозь не пробили, но... надеюсь,￥Мика цела.",
+   "en_src": "The shots didn't penetrate, but I￥hope Mika's safe.",
+   "ru": true
   },
   {
    "off": 7065,
    "budget": 85,
-   "en": "There are energy blast marks on the￥shutter, from a Blaster or cannon."
+   "en": "На ставне следы энергетических￥выстрелов - из бластера или пушки.",
+   "en_src": "There are energy blast marks on the￥shutter, from a Blaster or cannon.",
+   "ru": true
   },
   {
    "off": 7150,
    "budget": 61,
-   "en": "Locked from within.￥It opens only from the booth.",
-   "long": "It's locked from inside. It can only￥be opened from the booth."
+   "en": "Заперто изнутри. Открыть можно￥только из будки.",
+   "en_src": "Locked from within.￥It opens only from the booth.",
+   "long_src": "It's locked from inside. It can only￥be opened from the booth.",
+   "ru": true
   },
   {
    "off": 7211,
    "budget": 47,
-   "en": "To open the door,￥open the booth first...",
-   "long": "We have to open the booth before we￥can open the door."
+   "en": ".",
+   "en_src": "To open the door,￥open the booth first...",
+   "long_src": "We have to open the booth before we￥can open the door.",
+   "ru": true,
+   "long": "Чтобы открыть дверь, сначала надо￥открыть будку."
   },
   {
    "off": 7258,
    "budget": 39,
-   "en": "Metal, an external connector!?",
-   "long": "Metal, is there an external￥connector?"
+   "en": "Метал, тут есть внешний разъём?",
+   "en_src": "Metal, an external connector!?",
+   "long_src": "Metal, is there an external￥connector?",
+   "ru": true
   },
   {
    "off": 7297,
    "budget": 11,
-   "en": "Ah..."
+   "en": "Ой...",
+   "en_src": "Ah...",
+   "ru": true
   },
   {
    "off": 7308,
    "budget": 87,
-   "en": "An external connector on the booth￥side.￥It will open the shutter.",
-   "long": "There's an emergency external￥connector on the side of the booth.￥We can use it to open the shutter."
+   "en": "Сбоку на будке есть аварийный￥внешний разъём. С его помощью можно￥открыть ставень.",
+   "en_src": "An external connector on the booth￥side.￥It will open the shutter.",
+   "long_src": "There's an emergency external￥connector on the side of the booth.￥We can use it to open the shutter.",
+   "ru": true
   },
   {
    "off": 7395,
    "budget": 69,
-   "en": "I found the emergency external￥connector. Let's open the shutter."
+   "en": "Я нашёл аварийный внешний разъём.￥Откроем ставень.",
+   "en_src": "I found the emergency external￥connector. Let's open the shutter.",
+   "ru": true
   },
   {
    "off": 7464,
    "budget": 31,
-   "en": "The guard shutter is down.",
-   "long": "The protective shutter is down."
+   "en": "Защитный ставень опущен.",
+   "en_src": "The guard shutter is down.",
+   "long_src": "The protective shutter is down.",
+   "ru": true
   },
   {
    "off": 7495,
    "budget": 37,
-   "en": "Movement detected! Someone's inside!"
+   "en": "Есть движение! Внутри кто-то есть!",
+   "en_src": "Movement detected! Someone's inside!",
+   "ru": true
   },
   {
    "off": 7532,
    "budget": 53,
-   "en": "Motion readings in the booth.￥Something is there.",
-   "long": "I'm detecting movement in the booth.￥Something is inside."
+   "en": "Фиксирую движение в будке. Там￥что-то есть.",
+   "en_src": "Motion readings in the booth.￥Something is there.",
+   "long_src": "I'm detecting movement in the booth.￥Something is inside.",
+   "ru": true
   },
   {
    "off": 7585,
    "budget": 17,
-   "en": "Open shutter"
+   "en": "Открыть ставень",
+   "en_src": "Open shutter",
+   "ru": true
   },
   {
    "off": 7602,
    "budget": 51,
-   "en": "Connecting to the shutter's￥emergency unit.....",
-   "long": "Connecting to the shutter's￥emergency external connector."
+   "en": ".",
+   "en_src": "Connecting to the shutter's￥emergency unit.....",
+   "long_src": "Connecting to the shutter's￥emergency external connector.",
+   "ru": true,
+   "long": "Подключаюсь к аварийному внешнему￥разъёму ставня..."
   },
   {
    "off": 7653,
    "budget": 21,
-   "en": "Lock forced..."
+   "en": "Взлом замка...",
+   "en_src": "Lock forced...",
+   "ru": true
   },
   {
    "off": 7674,
    "budget": 29,
-   "en": "Opening the shutter."
+   "en": "Открываю ставень.",
+   "en_src": "Opening the shutter.",
+   "ru": true
   },
   {
    "off": 7703,
    "budget": 15,
-   "en": "Use Metal Gear"
+   "en": "Исп. Метал Гир",
+   "en_src": "Use Metal Gear",
+   "ru": true
   },
   {
    "off": 7718,
    "budget": 11,
-   "en": "Save"
+   "en": "Сохранить",
+   "en_src": "Save",
+   "ru": true
   },
   {
    "off": 7729,
    "budget": 37,
-   "en": "I'll save our progress so far."
+   "en": "Сохраняю наш прогресс.",
+   "en_src": "I'll save our progress so far.",
+   "ru": true
   },
   {
    "off": 7766,
    "budget": 19,
-   "en": "The HQ corridor.",
-   "long": "We're in the hallway at￥headquarters."
+   "en": ".",
+   "en_src": "The HQ corridor.",
+   "long_src": "We're in the hallway at￥headquarters.",
+   "ru": true,
+   "long": "Мы в коридоре штаба."
   },
   {
    "off": 7785,
    "budget": 27,
-   "en": "Ah!￥Someone is down.",
-   "long": "Oh! Someone's lying on the floor."
+   "en": "Ох! На полу кто-то лежит.",
+   "en_src": "Ah!￥Someone is down.",
+   "long_src": "Oh! Someone's lying on the floor.",
+   "ru": true
   },
   {
    "off": 7812,
    "budget": 31,
-   "en": "That hat! Harry?＠Ｃ"
+   "en": "Эта шляпа! Гарри?＠Ｃ",
+   "en_src": "That hat! Harry?＠Ｃ",
+   "ru": true
   },
   {
    "off": 7843,
    "budget": 19,
-   "en": "Where shall we go?"
+   "en": "Куда пойдём?",
+   "en_src": "Where shall we go?",
+   "ru": true
   },
   {
    "off": 7862,
    "budget": 7,
-   "en": "Chief",
-   "long": "Chief's room"
+   "en": ".",
+   "en_src": "Chief",
+   "long_src": "Chief's room",
+   "ru": true,
+   "long": "Кабинет шефа"
   },
   {
    "off": 7869,
    "budget": 13,
-   "en": "Mechanic rm",
-   "long": "Mechanic room"
+   "en": "Мастерская",
+   "en_src": "Mechanic rm",
+   "long_src": "Mechanic room",
+   "ru": true
   },
   {
    "off": 7882,
    "budget": 9,
-   "en": "Squad rm",
-   "long": "Squad room"
+   "en": "Отдел",
+   "en_src": "Squad rm",
+   "long_src": "Squad room",
+   "ru": true
   },
   {
    "off": 7891,
    "budget": 7,
-   "en": "Range",
-   "long": "Shooting range"
+   "en": "Тир",
+   "en_src": "Range",
+   "long_src": "Shooting range",
+   "ru": true
   },
   {
    "off": 7898,
    "budget": 15,
-   "en": "Computer room"
+   "en": "Компьютерная",
+   "en_src": "Computer room",
+   "ru": true
   },
   {
    "off": 7913,
    "budget": 9,
-   "en": "Front",
-   "long": "Front desk"
+   "en": ".",
+   "en_src": "Front",
+   "long_src": "Front desk",
+   "ru": true,
+   "long": "Регистрация"
   },
   {
    "off": 7922,
    "budget": 33,
-   "en": "Should we check reception?"
+   "en": "Может, проверим регистрацию?",
+   "en_src": "Should we check reception?",
+   "ru": true
   },
   {
    "off": 7955,
    "budget": 17,
-   "en": "Reception?"
+   "en": "Регистрацию?",
+   "en_src": "Reception?",
+   "ru": true
   },
   {
    "off": 7972,
    "budget": 23,
-   "en": "It's possible."
+   "en": "Вполне возможно.",
+   "en_src": "It's possible.",
+   "ru": true
   },
   {
    "off": 7995,
    "budget": 43,
-   "en": "But we definitely closed the shield."
+   "en": "Но мы же точно закрыли щит.",
+   "en_src": "But we definitely closed the shield.",
+   "ru": true
   },
   {
    "off": 8038,
    "budget": 53,
-   "en": "We've searched the rest.￥To be sure... let's go!",
-   "long": "We've searched everywhere else.￥Let's go, just to be sure!"
+   "en": "Всё остальное мы обыскали. Пошли, на￥всякий случай!",
+   "en_src": "We've searched the rest.￥To be sure... let's go!",
+   "long_src": "We've searched everywhere else.￥Let's go, just to be sure!",
+   "ru": true
   },
   {
    "off": 8091,
    "budget": 5,
-   "en": "Hall",
-   "long": "Hallway"
+   "en": ".",
+   "en_src": "Hall",
+   "long_src": "Hallway",
+   "ru": true,
+   "long": "Коридор"
   },
   {
    "off": 8096,
    "budget": 17,
-   "en": "The HQ corridor.",
-   "long": "This is the hallway at headquarters."
+   "en": ".",
+   "en_src": "The HQ corridor.",
+   "long_src": "This is the hallway at headquarters.",
+   "ru": true,
+   "long": "Это коридор штаба."
   },
   {
    "off": 8113,
    "budget": 25,
-   "en": "Damn!￥Where is he?",
-   "long": "Damn it! Where's he hiding?"
+   "en": "Чёрт! Где он прячется?",
+   "en_src": "Damn!￥Where is he?",
+   "long_src": "Damn it! Where's he hiding?",
+   "ru": true
   },
   {
    "off": 8138,
    "budget": 37,
-   "en": "He can't leave the HQ, but...",
-   "long": "He shouldn't be able to leave￥headquarters."
+   "en": "Он не должен был выбраться из штаба.",
+   "en_src": "He can't leave the HQ, but...",
+   "long_src": "He shouldn't be able to leave￥headquarters.",
+   "ru": true
   },
   {
    "off": 8175,
    "budget": 35,
-   "en": "There must be a room unsearched!",
-   "long": "There must be a room we haven't￥searched!"
+   "en": ".",
+   "en_src": "There must be a room unsearched!",
+   "long_src": "There must be a room we haven't￥searched!",
+   "ru": true,
+   "long": "Должна быть комната, которую мы не￥обыскали!"
   },
   {
    "off": 8210,
    "budget": 27,
-   "en": "Where? ...Where is he!",
-   "long": "Where is he? Where are you?"
+   "en": "Где он? Где ты прячешься?",
+   "en_src": "Where? ...Where is he!",
+   "long_src": "Where is he? Where are you?",
+   "ru": true
   },
   {
    "off": 8237,
    "budget": 43,
-   "en": "Isn't there a room we haven't￥searched?"
+   "en": ".",
+   "en_src": "Isn't there a room we haven't￥searched?",
+   "ru": true,
+   "long": "Может, есть комната, которую мы не￥обыскали?"
   },
   {
    "off": 8280,
    "budget": 35,
-   "en": "He wouldn't go outside the HQ?",
-   "long": "He can't get out of headquarters,￥can he?"
+   "en": ".",
+   "en_src": "He wouldn't go outside the HQ?",
+   "long_src": "He can't get out of headquarters,￥can he?",
+   "ru": true,
+   "long": "Он ведь не может выбраться из штаба?"
   },
   {
    "off": 8315,
    "budget": 55,
-   "en": "I've searched every room.￥Where has he hidden!?",
-   "long": "We've searched every room! Where the￥hell is he hiding?"
+   "en": ".",
+   "en_src": "I've searched every room.￥Where has he hidden!?",
+   "long_src": "We've searched every room! Where the￥hell is he hiding?",
+   "ru": true,
+   "long": "Мы обыскали все комнаты! Где он,￥чёрт возьми, прячется?"
   },
   {
    "off": 8370,
    "budget": 37,
-   "en": "Let's search each room again."
+   "en": "Давай ещё раз обыщем все комнаты.",
+   "en_src": "Let's search each room again.",
+   "ru": true
   },
   {
    "off": 8407,
    "budget": 21,
-   "en": "Where did he go?"
+   "en": "Куда он делся?",
+   "en_src": "Where did he go?",
+   "ru": true
   },
   {
    "off": 8428,
    "budget": 37,
-   "en": "Anyway, he's in this HQ.",
-   "long": "He must still be somewhere in￥headquarters."
+   "en": "Он наверняка всё ещё где-то в штабе.",
+   "en_src": "Anyway, he's in this HQ.",
+   "long_src": "He must still be somewhere in￥headquarters.",
+   "ru": true
   },
   {
    "off": 8465,
    "budget": 5,
-   "en": "Move"
+   "en": "Идти",
+   "en_src": "Move",
+   "ru": true
   },
   {
    "off": 8470,
    "budget": 29,
-   "en": "Harry is lying on the floor."
+   "en": "На полу лежит Гарри.",
+   "en_src": "Harry is lying on the floor.",
+   "ru": true
   },
   {
    "off": 8499,
    "budget": 29,
-   "en": "Only Harry's body is here."
+   "en": "Здесь только тело Гарри.",
+   "en_src": "Only Harry's body is here.",
+   "ru": true
   },
   {
    "off": 8528,
    "budget": 69,
-   "en": "Wait here a little longer, old man.￥I'll go finish him."
+   "en": "Подожди ещё немного, старина. Я с￥ним покончу.",
+   "en_src": "Wait here a little longer, old man.￥I'll go finish him.",
+   "ru": true
   },
   {
    "off": 8597,
    "budget": 69,
-   "en": "Nothing amiss with Harry's body. No￥sign of anyone touching it.",
-   "long": "There's nothing unusual about￥Harry's body. No sign that anyone￥has touched it."
+   "en": "С телом Гарри всё как было. Никто￥его не трогал.",
+   "en_src": "Nothing amiss with Harry's body. No￥sign of anyone touching it.",
+   "long_src": "There's nothing unusual about￥Harry's body. No sign that anyone￥has touched it.",
+   "ru": true
   },
   {
    "off": 8666,
    "budget": 29,
-   "en": "The scene is as before.",
-   "long": "The scene is just as we left it."
+   "en": ".",
+   "en_src": "The scene is as before.",
+   "long_src": "The scene is just as we left it.",
+   "ru": true,
+   "long": "Всё осталось так, как мы оставили."
   },
   {
    "off": 8695,
    "budget": 5,
-   "en": "Find",
-   "long": "Search"
+   "en": ".",
+   "en_src": "Find",
+   "long_src": "Search",
+   "ru": true,
+   "long": "Искать"
   },
   {
    "off": 8700,
    "budget": 33,
-   "en": "Snatcher, where did he go!?",
-   "long": "Where did that Snatcher disappear￥to?"
+   "en": "Куда пропал этот снатчер?",
+   "en_src": "Snatcher, where did he go!?",
+   "long_src": "Where did that Snatcher disappear￥to?",
+   "ru": true
   },
   {
    "off": 8733,
    "budget": 35,
-   "en": "Odd. He must be in the HQ!",
-   "long": "This doesn't make sense. He has to￥be in headquarters!"
+   "en": ".",
+   "en_src": "Odd. He must be in the HQ!",
+   "long_src": "This doesn't make sense. He has to￥be in headquarters!",
+   "ru": true,
+   "long": "Не понимаю. Он должен быть в штабе!"
   },
   {
    "off": 8768,
    "budget": 9,
-   "en": "Motion",
-   "long": "Motion detector"
+   "en": ".",
+   "en_src": "Motion",
+   "long_src": "Motion detector",
+   "ru": true,
+   "long": "Детектор движения"
   },
   {
    "off": 8777,
    "budget": 23,
-   "en": "Any readings here?",
-   "long": "Any movement in this hallway?"
+   "en": ".",
+   "en_src": "Any readings here?",
+   "long_src": "Any movement in this hallway?",
+   "ru": true,
+   "long": "Есть движение в коридоре?"
   },
   {
    "off": 8800,
    "budget": 81,
-   "en": "The Snatcher doesn't seem to be in￥here. Let's search another room."
+   "en": "Похоже, снатчера здесь нет. Поищем в￥другой комнате.",
+   "en_src": "The Snatcher doesn't seem to be in￥here. Let's search another room.",
+   "ru": true
   },
   {
    "off": 8881,
    "budget": 55,
-   "en": "This doesn't seem to be the room.￥Let's try another."
+   "en": "Похоже, это не та комната. Пойдём в￥другую.",
+   "en_src": "This doesn't seem to be the room.￥Let's try another.",
+   "ru": true
   },
   {
    "off": 8936,
    "budget": 51,
-   "en": "He knows every inch of headquarters."
+   "en": "Он знает каждый уголок штаба.",
+   "en_src": "He knows every inch of headquarters.",
+   "ru": true
   },
   {
    "off": 8987,
    "budget": 25,
-   "en": "It's the Mechanic room.",
-   "long": "This is the Mechanic room."
+   "en": "Это мастерская.",
+   "en_src": "It's the Mechanic room.",
+   "long_src": "This is the Mechanic room.",
+   "ru": true
   },
   {
    "off": 9012,
    "budget": 13,
-   "en": "Behind it",
-   "long": "Behind worktable"
+   "en": "За верстаком",
+   "en_src": "Behind it",
+   "long_src": "Behind worktable",
+   "ru": true
   },
   {
    "off": 9025,
    "budget": 47,
-   "en": "The only hiding place in this room?",
-   "long": "This is about the only hiding place￥in here, isn't it?"
+   "en": "Здесь больше и спрятаться-то негде,￥да?",
+   "en_src": "The only hiding place in this room?",
+   "long_src": "This is about the only hiding place￥in here, isn't it?",
+   "ru": true
   },
   {
    "off": 9072,
    "budget": 11,
-   "en": "Under it",
-   "long": "Under worktable"
+   "en": ".",
+   "en_src": "Under it",
+   "long_src": "Under worktable",
+   "ru": true,
+   "long": "Под верстаком"
   },
   {
    "off": 9083,
    "budget": 7,
-   "en": "Desk",
-   "long": "Under desk"
+   "en": ".",
+   "en_src": "Desk",
+   "long_src": "Under desk",
+   "ru": true,
+   "long": "Под столом"
   },
   {
    "off": 9090,
    "budget": 5,
-   "en": "Bld.",
-   "long": "Bloodstain"
+   "en": ".",
+   "en_src": "Bld.",
+   "long_src": "Bloodstain",
+   "ru": true,
+   "long": "Пятно крови"
   },
   {
    "off": 9095,
    "budget": 33,
-   "en": "Readings in the mechanic room?",
-   "long": "Any movement in the Mechanic room?"
+   "en": "Есть движение в мастерской?",
+   "en_src": "Readings in the mechanic room?",
+   "long_src": "Any movement in the Mechanic room?",
+   "ru": true
   },
   {
    "off": 9128,
    "budget": 27,
-   "en": "This is the Computer room."
+   "en": "Это компьютерная.",
+   "en_src": "This is the Computer room.",
+   "ru": true
   },
   {
    "off": 9155,
    "budget": 9,
-   "en": "Behind",
-   "long": "Behind terminal"
+   "en": ".",
+   "en_src": "Behind",
+   "long_src": "Behind terminal",
+   "ru": true,
+   "long": "За терминалом"
   },
   {
    "off": 9164,
    "budget": 35,
-   "en": "Any movement in the Computer room?"
+   "en": "Есть движение в компьютерной?",
+   "en_src": "Any movement in the Computer room?",
+   "ru": true
   },
   {
    "off": 9199,
    "budget": 13,
-   "en": "Use Gaudi"
+   "en": "Исп. Гауди",
+   "en_src": "Use Gaudi",
+   "ru": true
   },
   {
    "off": 9212,
    "budget": 67,
-   "en": "Gillian, I'm removing the Use Gaudi￥command."
+   "en": "Гиллиан, я уберу команду \"Исп.￥Гауди\".",
+   "en_src": "Gillian, I'm removing the Use Gaudi￥command.",
+   "ru": true
   },
   {
    "off": 9279,
    "budget": 15,
-   "en": "Squad room.",
-   "long": "This is the Squad room."
+   "en": "Это наш отдел.",
+   "en_src": "Squad room.",
+   "long_src": "This is the Squad room.",
+   "ru": true
   },
   {
    "off": 9294,
    "budget": 13,
-   "en": "In locker",
-   "long": "In the locker"
+   "en": "В шкафчике",
+   "en_src": "In locker",
+   "long_src": "In the locker",
+   "ru": true
   },
   {
    "off": 9307,
    "budget": 29,
-   "en": "I'll check the lockers."
+   "en": "Проверю шкафчики.",
+   "en_src": "I'll check the lockers.",
+   "ru": true
   },
   {
    "off": 9336,
    "budget": 31,
-   "en": "No luck. Nobody inside."
+   "en": "Не повезло. Никого.",
+   "en_src": "No luck. Nobody inside.",
+   "ru": true
   },
   {
    "off": 9367,
    "budget": 17,
-   "en": "Again?"
+   "en": "Ещё раз?",
+   "en_src": "Again?",
+   "ru": true
   },
   {
    "off": 9384,
    "budget": 19,
-   "en": "To be sure....."
+   "en": "Для верности...",
+   "en_src": "To be sure.....",
+   "ru": true
   },
   {
    "off": 9403,
    "budget": 35,
-   "en": "The Snatcher isn't in here."
+   "en": "Снатчера здесь нет.",
+   "en_src": "The Snatcher isn't in here.",
+   "ru": true
   },
   {
    "off": 9438,
    "budget": 13,
-   "en": "Gibson's",
-   "long": "Under Gibson's desk"
+   "en": ".",
+   "en_src": "Gibson's",
+   "long_src": "Under Gibson's desk",
+   "ru": true,
+   "long": "Под столом Гибсона"
   },
   {
    "off": 9451,
    "budget": 11,
-   "en": "Gillian's",
-   "long": "Under Gillian's desk"
+   "en": ".",
+   "en_src": "Gillian's",
+   "long_src": "Under Gillian's desk",
+   "ru": true,
+   "long": "Под столом Гиллиана"
   },
   {
    "off": 9462,
    "budget": 23,
-   "en": "Squad room readings?",
-   "long": "Any movement in the Squad room?"
+   "en": ".",
+   "en_src": "Squad room readings?",
+   "long_src": "Any movement in the Squad room?",
+   "ru": true,
+   "long": "Есть движение в отделе?"
   },
   {
    "off": 9485,
    "budget": 17,
-   "en": "Shooting range.",
-   "long": "This is the shooting range."
+   "en": "Это тир.",
+   "en_src": "Shooting range.",
+   "long_src": "This is the shooting range.",
+   "ru": true
   },
   {
    "off": 9502,
    "budget": 11,
-   "en": "Behind",
-   "long": "Behind booth"
+   "en": ".",
+   "en_src": "Behind",
+   "long_src": "Behind booth",
+   "ru": true,
+   "long": "За кабинкой"
   },
   {
    "off": 9513,
    "budget": 35,
-   "en": "A likely place to hide.",
-   "long": "This looks like a likely hiding￥place."
+   "en": "Похоже, здесь удобно прятаться.",
+   "en_src": "A likely place to hide.",
+   "long_src": "This looks like a likely hiding￥place.",
+   "ru": true
   },
   {
    "off": 9548,
    "budget": 11,
-   "en": "Inside",
-   "long": "Inside booth"
+   "en": "В кабинке",
+   "en_src": "Inside",
+   "long_src": "Inside booth",
+   "ru": true
   },
   {
    "off": 9559,
    "budget": 11,
-   "en": "Booth top",
-   "long": "Top of the booth"
+   "en": "На кабинке",
+   "en_src": "Booth top",
+   "long_src": "Top of the booth",
+   "ru": true
   },
   {
    "off": 9570,
    "budget": 25,
-   "en": "Range readings?",
-   "long": "Any movement in the shooting range?"
+   "en": "Есть движение в тире?",
+   "en_src": "Range readings?",
+   "long_src": "Any movement in the shooting range?",
+   "ru": true
   },
   {
    "off": 9595,
    "budget": 9,
-   "en": "Train"
+   "en": "Тренинг",
+   "en_src": "Train",
+   "ru": true
   },
   {
    "off": 9604,
    "budget": 19,
-   "en": "Shooting drill?",
-   "long": "How about some target practice?"
+   "en": ".",
+   "en_src": "Shooting drill?",
+   "long_src": "How about some target practice?",
+   "ru": true,
+   "long": "Может, постреляем по мишеням?"
   },
   {
    "off": 9623,
    "budget": 63,
-   "en": "Gillian, I'm removing the Train￥command."
+   "en": "Гиллиан, я уберу команду \"Тренинг\".",
+   "en_src": "Gillian, I'm removing the Train￥command.",
+   "ru": true
   },
   {
    "off": 9686,
    "budget": 13,
-   "en": "Chief's rm.",
-   "long": "This is the chief's office."
+   "en": ".",
+   "en_src": "Chief's rm.",
+   "long_src": "This is the chief's office.",
+   "ru": true,
+   "long": "Это кабинет шефа."
   },
   {
    "off": 9699,
    "budget": 21,
-   "en": "In the Chief's room.",
-   "long": "We've entered the chief's office."
+   "en": ".",
+   "en_src": "In the Chief's room.",
+   "long_src": "We've entered the chief's office.",
+   "ru": true,
+   "long": "Мы вошли в кабинет шефа."
   },
   {
    "off": 9720,
    "budget": 35,
-   "en": "Hm? There's something on the desk.",
-   "long": "What's that? There's something on￥the desk."
+   "en": "Что это? На столе что-то есть.",
+   "en_src": "Hm? There's something on the desk.",
+   "long_src": "What's that? There's something on￥the desk.",
+   "ru": true
   },
   {
    "off": 9755,
    "budget": 9,
-   "en": "Huh?"
+   "en": "А?",
+   "en_src": "Huh?",
+   "ru": true
   },
   {
    "off": 9764,
    "budget": 37,
-   "en": "Chief's room.￥Blood on the desk.",
-   "long": "This is the chief's office. There's￥blood on the desk."
+   "en": "Это кабинет шефа. На столе кровь.",
+   "en_src": "Chief's room.￥Blood on the desk.",
+   "long_src": "This is the chief's office. There's￥blood on the desk.",
+   "ru": true
   },
   {
    "off": 9801,
    "budget": 45,
-   "en": "Chief's room.￥...Something on the desk.",
-   "long": "This is the chief's office. There's￥something on the desk."
+   "en": "Это кабинет шефа. На столе что-то￥есть.",
+   "en_src": "Chief's room.￥...Something on the desk.",
+   "long_src": "This is the chief's office. There's￥something on the desk.",
+   "ru": true
   },
   {
    "off": 9846,
    "budget": 25,
-   "en": "Check the ceiling?",
-   "long": "Aren't you going to check the￥ceiling?"
+   "en": "Ты не проверишь потолок?",
+   "en_src": "Check the ceiling?",
+   "long_src": "Aren't you going to check the￥ceiling?",
+   "ru": true
   },
   {
    "off": 9871,
    "budget": 29,
-   "en": "Find the cause of it?",
-   "long": "Let's find out where this blood came￥from."
+   "en": ".",
+   "en_src": "Find the cause of it?",
+   "long_src": "Let's find out where this blood came￥from.",
+   "ru": true,
+   "long": "Давай выясним, откуда эта кровь."
   },
   {
    "off": 9900,
    "budget": 59,
-   "en": "Gillian, something's wrong in here.￥Let's investigate."
+   "en": "Гиллиан, здесь что-то не так. Давай￥осмотримся.",
+   "en_src": "Gillian, something's wrong in here.￥Let's investigate.",
+   "ru": true
   },
   {
    "off": 9959,
    "budget": 33,
-   "en": "Don't you find this room odd?",
-   "long": "Don't you think there's something￥suspicious about this room?"
+   "en": ".",
+   "en_src": "Don't you find this room odd?",
+   "long_src": "Don't you think there's something￥suspicious about this room?",
+   "ru": true,
+   "long": "Тебе не кажется эта комната￥подозрительной?"
   },
   {
    "off": 9992,
    "budget": 3,
-   "en": "De",
-   "long": "Desk"
+   "en": ".",
+   "en_src": "De",
+   "long_src": "Desk",
+   "ru": true,
+   "long": "Стол"
   },
   {
    "off": 9995,
    "budget": 35,
-   "en": "There's a stain on the desk."
+   "en": "На столе пятно.",
+   "en_src": "There's a stain on the desk.",
+   "ru": true
   },
   {
    "off": 10030,
    "budget": 31,
-   "en": "The stain keeps spreading."
+   "en": "Пятно всё растёт.",
+   "en_src": "The stain keeps spreading.",
+   "ru": true
   },
   {
    "off": 10061,
    "budget": 11,
-   "en": "Desk stain",
-   "long": "Stain on desk"
+   "en": ".",
+   "en_src": "Desk stain",
+   "long_src": "Stain on desk",
+   "ru": true,
+   "long": "Пятно на столе"
   },
   {
    "off": 10072,
    "budget": 23,
-   "en": "It's blood!"
+   "en": "Это кровь!",
+   "en_src": "It's blood!",
+   "ru": true
   },
   {
    "off": 10095,
    "budget": 31,
-   "en": "Blood is pooling on the desk."
+   "en": ".",
+   "en_src": "Blood is pooling on the desk.",
+   "ru": true,
+   "long": "На столе собирается лужа крови."
   },
   {
    "off": 10126,
    "budget": 5,
-   "en": "Roof"
+   "en": "Верх",
+   "en_src": "Roof",
+   "ru": true
   },
   {
    "off": 10131,
    "budget": 31,
-   "en": "Let's look at the ceiling."
+   "en": "Посмотрим на потолок.",
+   "en_src": "Let's look at the ceiling.",
+   "ru": true
   },
   {
    "off": 10162,
    "budget": 19,
-   "en": "Cunningham!＠Ｃ"
+   "en": "Каннингем!＠Ｃ",
+   "en_src": "Cunningham!＠Ｃ",
+   "ru": true
   },
   {
    "off": 10181,
    "budget": 43,
-   "en": "That stain wasn't here a moment ago!"
+   "en": "Минуту назад этого пятна не было!",
+   "en_src": "That stain wasn't here a moment ago!",
+   "ru": true
   },
   {
    "off": 10224,
    "budget": 41,
-   "en": "That stain wasn't here before."
+   "en": "Раньше этого пятна не было.",
+   "en_src": "That stain wasn't here before.",
+   "ru": true
   },
   {
    "off": 10265,
    "budget": 37,
-   "en": "Blood drips from the ceiling.",
-   "long": "Blood seems to be dripping from the￥ceiling."
+   "en": "Похоже, кровь капает с потолка.",
+   "en_src": "Blood drips from the ceiling.",
+   "long_src": "Blood seems to be dripping from the￥ceiling.",
+   "ru": true
   },
   {
    "off": 10302,
    "budget": 45,
-   "en": "So...￥the blood drips from the ceiling.",
-   "long": "Yes, the blood seems to be dripping￥from the ceiling."
+   "en": "Да, кровь явно капает с потолка.",
+   "en_src": "So...￥the blood drips from the ceiling.",
+   "long_src": "Yes, the blood seems to be dripping￥from the ceiling.",
+   "ru": true
   },
   {
    "off": 10347,
    "budget": 33,
-   "en": "Let's examine the ceiling."
+   "en": "Осмотрим потолок.",
+   "en_src": "Let's examine the ceiling.",
+   "ru": true
   },
   {
    "off": 10380,
    "budget": 7,
-   "en": "Window",
-   "long": "Outside window"
+   "en": ".",
+   "en_src": "Window",
+   "long_src": "Outside window",
+   "ru": true,
+   "long": "За окном"
   },
   {
    "off": 10387,
    "budget": 23,
-   "en": "Surely not here?",
-   "long": "He couldn't be hiding here, could￥he?"
+   "en": ".",
+   "en_src": "Surely not here?",
+   "long_src": "He couldn't be hiding here, could￥he?",
+   "ru": true,
+   "long": "Не может же он прятаться здесь?"
   },
   {
    "off": 10410,
    "budget": 11,
-   "en": "Under sofa",
-   "long": "Under the sofa"
+   "en": ".",
+   "en_src": "Under sofa",
+   "long_src": "Under the sofa",
+   "ru": true,
+   "long": "Под диваном"
   },
   {
    "off": 10421,
    "budget": 39,
-   "en": "The Snatcher's blood leads outside.",
-   "long": "The Snatcher's blood trail leads￥outside."
+   "en": "Кровавый след снатчера ведёт наружу.",
+   "en_src": "The Snatcher's blood leads outside.",
+   "long_src": "The Snatcher's blood trail leads￥outside.",
+   "ru": true
   },
   {
    "off": 10460,
    "budget": 29,
-   "en": "No new bloodstains found.",
-   "long": "I can't find any new bloodstains."
+   "en": "Новых пятен крови не нахожу.",
+   "en_src": "No new bloodstains found.",
+   "long_src": "I can't find any new bloodstains.",
+   "ru": true
   },
   {
    "off": 10489,
    "budget": 33,
-   "en": "All right. I'll check."
+   "en": "Хорошо. Проверю.",
+   "en_src": "All right. I'll check.",
+   "ru": true
   },
   {
    "off": 10522,
    "budget": 39,
-   "en": "I'll check now. Be careful."
+   "en": "Проверяю. Осторожно.",
+   "en_src": "I'll check now. Be careful.",
+   "ru": true
   },
   {
    "off": 10561,
    "budget": 37,
-   "en": "I'll check it. Ready?"
+   "en": "Сейчас проверю. Готов?",
+   "en_src": "I'll check it. Ready?",
+   "ru": true
   },
   {
    "off": 10598,
    "budget": 33,
-   "en": "No luck. Nothing there."
+   "en": "Не повезло. Ничего.",
+   "en_src": "No luck. Nothing there.",
+   "ru": true
   },
   {
    "off": 10631,
    "budget": 25,
-   "en": "So... not there.",
-   "long": "As I thought. He's not here."
+   "en": ".",
+   "en_src": "So... not there.",
+   "long_src": "As I thought. He's not here.",
+   "ru": true,
+   "long": "Как я и думал. Его здесь нет."
   },
   {
    "off": 10656,
    "budget": 43,
-   "en": "Oh! No, there's nothing there."
+   "en": "Ой! Нет, ничего.",
+   "en_src": "Oh! No, there's nothing there.",
+   "ru": true
   },
   {
    "off": 10699,
    "budget": 25,
-   "en": "He's not here."
+   "en": "Его здесь нет.",
+   "en_src": "He's not here.",
+   "ru": true
   },
   {
    "off": 10724,
    "budget": 31,
-   "en": "We already checked there."
+   "en": "Мы это место уже проверяли.",
+   "en_src": "We already checked there.",
+   "ru": true
   },
   {
    "off": 10755,
    "budget": 27,
-   "en": "He wasn't there."
+   "en": "Там его не было.",
+   "en_src": "He wasn't there.",
+   "ru": true
   },
   {
    "off": 10782,
    "budget": 33,
-   "en": "I'll look, just to be sure."
+   "en": "Посмотрю на всякий случай.",
+   "en_src": "I'll look, just to be sure.",
+   "ru": true
   },
   {
    "off": 10815,
    "budget": 27,
-   "en": "I'll take another look."
+   "en": "Посмотрю ещё раз.",
+   "en_src": "I'll take another look.",
+   "ru": true
   },
   {
    "off": 10842,
    "budget": 37,
-   "en": "No sign of the Snatcher."
+   "en": "Снатчера не видно.",
+   "en_src": "No sign of the Snatcher.",
+   "ru": true
   },
   {
    "off": 10879,
    "budget": 43,
-   "en": "...No trace of the Snatcher either.",
-   "long": "I can't find any trace of the￥Snatcher, either."
+   "en": "Никаких следов снатчера.",
+   "en_src": "...No trace of the Snatcher either.",
+   "long_src": "I can't find any trace of the￥Snatcher, either.",
+   "ru": true
   },
   {
    "off": 10922,
    "budget": 43,
-   "en": "There's no sign of the Snatcher￥here."
+   "en": "Снатчером здесь и не пахнет.",
+   "en_src": "There's no sign of the Snatcher￥here.",
+   "ru": true
   },
   {
    "off": 10965,
    "budget": 31,
-   "en": "No bloodstain anywhere.",
-   "long": "I don't see any bloodstains￥anywhere."
+   "en": "Пятен крови нигде не видно.",
+   "en_src": "No bloodstain anywhere.",
+   "long_src": "I don't see any bloodstains￥anywhere.",
+   "ru": true
   },
   {
    "off": 10996,
    "budget": 31,
-   "en": "No bloodstain found.",
-   "long": "I can't find anything that looks￥like blood."
+   "en": ".",
+   "en_src": "No bloodstain found.",
+   "long_src": "I can't find anything that looks￥like blood.",
+   "ru": true,
+   "long": "Ничего похожего на кровь не нахожу."
   },
   {
    "off": 11027,
    "budget": 43,
-   "en": "No. Nothing that looks like blood."
+   "en": "Нет. Ничего похожего на кровь.",
+   "en_src": "No. Nothing that looks like blood.",
+   "ru": true
   },
   {
    "off": 11070,
    "budget": 53,
-   "en": "He's wounded. There must be blood￥somewhere."
+   "en": "Он ранен. Где-то должна быть кровь.",
+   "en_src": "He's wounded. There must be blood￥somewhere.",
+   "ru": true
   },
   {
    "off": 11123,
    "budget": 45,
-   "en": "That's strange. I'm sure I hit him."
+   "en": "Странно. Я точно в него попал.",
+   "en_src": "That's strange. I'm sure I hit him.",
+   "ru": true
   },
   {
    "off": 11168,
    "budget": 29,
-   "en": "He's not here anymore."
+   "en": "Его здесь уже нет.",
+   "en_src": "He's not here anymore.",
+   "ru": true
   },
   {
    "off": 11197,
    "budget": 29,
-   "en": "He's not in this room."
+   "en": "В этой комнате его нет.",
+   "en_src": "He's not in this room.",
+   "ru": true
   },
   {
    "off": 11226,
    "budget": 29,
-   "en": "The Snatcher is elsewhere.",
-   "long": "The Snatcher is in another room."
+   "en": "Снатчер в другой комнате.",
+   "en_src": "The Snatcher is elsewhere.",
+   "long_src": "The Snatcher is in another room.",
+   "ru": true
   },
   {
    "off": 11255,
    "budget": 29,
-   "en": "Same however often I look...",
-   "long": "Checking again won't change￥anything."
+   "en": ".",
+   "en_src": "Same however often I look...",
+   "long_src": "Checking again won't change￥anything.",
+   "ru": true,
+   "long": "Повторная проверка ничего не даст."
   },
   {
    "off": 11284,
    "budget": 21,
-   "en": "Same result..."
+   "en": "Всё то же...",
+   "en_src": "Same result...",
+   "ru": true
   },
   {
    "off": 11305,
    "budget": 55,
-   "en": "No movement detected. We appear to￥be alone."
+   "en": "Движения нет. Похоже, мы одни.",
+   "en_src": "No movement detected. We appear to￥be alone.",
+   "ru": true
   },
   {
    "off": 11360,
    "budget": 33,
-   "en": "No motion readings but ours.",
-   "long": "I detect no movement except our own."
+   "en": "Кроме нас, движения не фиксирую.",
+   "en_src": "No motion readings but ours.",
+   "long_src": "I detect no movement except our own.",
+   "ru": true
   },
   {
    "off": 11393,
    "budget": 23,
-   "en": "No movement detected."
+   "en": "Движения нет.",
+   "en_src": "No movement detected.",
+   "ru": true
   },
   {
    "off": 11416,
    "budget": 59,
-   "en": "Nothing is moving except the ceiling￥fan."
+   "en": "Кроме вентилятора на потолке, ничего￥не движется.",
+   "en_src": "Nothing is moving except the ceiling￥fan.",
+   "ru": true
   },
   {
    "off": 11475,
    "budget": 61,
-   "en": "At a time like this? Let's find the￥chief! The Snatcher!"
+   "en": "Сейчас?! Надо найти шефа! Снатчера!",
+   "en_src": "At a time like this? Let's find the￥chief! The Snatcher!",
+   "ru": true
   },
   {
    "off": 11536,
    "budget": 63,
-   "en": "There's no time! We have to find the￥Snatcher, quickly!"
+   "en": "Некогда! Надо скорее найти снатчера!",
+   "en_src": "There's no time! We have to find the￥Snatcher, quickly!",
+   "ru": true
   },
   {
    "off": 11599,
    "budget": 47,
-   "en": "Shouldn't finding the Snatcher come￥first?"
+   "en": "Разве поиск снатчера не важнее?",
+   "en_src": "Shouldn't finding the Snatcher come￥first?",
+   "ru": true
   },
   {
    "off": 11646,
    "budget": 35,
-   "en": "Record the case so far?",
-   "long": "Would you like to record our￥progress so far?"
+   "en": "Записать ход расследования?",
+   "en_src": "Record the case so far?",
+   "long_src": "Would you like to record our￥progress so far?",
+   "ru": true
   },
   {
    "off": 11681,
    "budget": 41,
-   "en": "I'll save our progress so far."
+   "en": "Сохраняю наш прогресс.",
+   "en_src": "I'll save our progress so far.",
+   "ru": true
   },
   {
    "off": 11722,
    "budget": 13,
-   "en": "Don't save"
+   "en": "Не сохранять",
+   "en_src": "Don't save",
+   "ru": true
   },
   {
    "off": 11735,
    "budget": 13,
-   "en": "Continue"
+   "en": "Продолжить",
+   "en_src": "Continue",
+   "ru": true
   },
   {
    "off": 11748,
    "budget": 31,
-   "en": "Resuming the investigation."
+   "en": "Продолжаем расследование.",
+   "en_src": "Resuming the investigation.",
+   "ru": true
   },
   {
    "off": 11779,
    "budget": 13,
-   "en": "Quit game"
+   "en": "Выйти",
+   "en_src": "Quit game",
+   "ru": true
   },
   {
    "off": 11792,
    "budget": 33,
-   "en": "Ending the investigation."
+   "en": "Завершаю расследование.",
+   "en_src": "Ending the investigation.",
+   "ru": true
   },
   {
    "off": 11827,

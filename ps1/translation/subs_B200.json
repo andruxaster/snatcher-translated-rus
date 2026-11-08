@@ -15,8 +15,9 @@
    "end": 43358,
    "dur": 1.6,
    "speaker": "Gillian",
-   "en": "Huh? What's this?",
-   "enabled": true
+   "en": "А? Это ещё что?",
+   "enabled": true,
+   "en_src": "Huh? What's this?"
   },
   {
    "id": "B200_f79_0",
@@ -26,8 +27,9 @@
    "end": 43678,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "Isn't this the hospital corridor?",
-   "enabled": true
+   "en": "Разве это не коридор больницы?",
+   "enabled": true,
+   "en_src": "Isn't this the hospital corridor?"
   },
   {
    "id": "B200_f80_0",
@@ -37,8 +39,9 @@
    "end": 44382,
    "dur": 13.8,
    "speaker": "Gillian",
-   "en": "It looks the same, but this isn't the ground floor.",
-   "enabled": true
+   "en": "Похож, но это не первый этаж.",
+   "enabled": true,
+   "en_src": "It looks the same, but this isn't the ground floor."
   },
   {
    "id": "B200_f81_0",
@@ -48,8 +51,9 @@
    "end": 44590,
    "dur": 1.3,
    "speaker": "Gillian",
-   "en": "What's going on?",
-   "enabled": true
+   "en": "Что происходит?",
+   "enabled": true,
+   "en_src": "What's going on?"
   },
   {
    "id": "B200_f82_0",
@@ -59,8 +63,9 @@
    "end": 45278,
    "dur": 4.5,
    "speaker": "Metal Gear",
-   "en": "A whole floor of Queen Hospital is duplicated underground.",
-   "enabled": true
+   "en": "Под землёй - точная копия этажа больницы \"Куин\".",
+   "enabled": true,
+   "en_src": "A whole floor of Queen Hospital is duplicated underground."
   },
   {
    "id": "B200_f83_0",
@@ -70,8 +75,9 @@
    "end": 45790,
    "dur": 6.6,
    "speaker": "Gillian",
-   "en": "So there are identical floors above and below ground.",
-   "enabled": true
+   "en": "Значит, одинаковые этажи над и под землёй.",
+   "enabled": true,
+   "en_src": "So there are identical floors above and below ground."
   },
   {
    "id": "B200_f84_0",
@@ -81,8 +87,9 @@
    "end": 46504,
    "dur": 9.4,
    "speaker": "Gillian",
-   "en": "The run-down ground floor is a decoy to hide this level.",
-   "enabled": true
+   "en": "Заброшенный верхний этаж - приманка, чтобы скрыть этот.",
+   "enabled": true,
+   "en_src": "The run-down ground floor is a decoy to hide this level."
   },
   {
    "id": "B200_f84_1",
@@ -92,8 +99,9 @@
    "end": 46841,
    "dur": 4.1,
    "speaker": "Gillian",
-   "en": "They made it look abandoned,",
-   "enabled": true
+   "en": "Сделали вид, что тут запустение,",
+   "enabled": true,
+   "en_src": "They made it look abandoned,"
   },
   {
    "id": "B200_f84_1b",
@@ -103,8 +111,9 @@
    "end": 47454,
    "dur": 7.1,
    "speaker": "Gillian",
-   "en": "while working around the clock underground.",
-   "enabled": true
+   "en": "а сами круглые сутки работали под землёй.",
+   "enabled": true,
+   "en_src": "while working around the clock underground."
   },
   {
    "id": "B200_f85_0",
@@ -114,8 +123,9 @@
    "end": 48089,
    "dur": 9.1,
    "speaker": "Metal Gear",
-   "en": "That means we're already inside the Snatchers' base, Gillian.",
-   "enabled": true
+   "en": "Значит, мы уже на базе снатчеров, Гиллиан.",
+   "enabled": true,
+   "en_src": "That means we're already inside the Snatchers' base, Gillian."
   },
   {
    "id": "B200_f85_0b",
@@ -125,8 +135,9 @@
    "end": 48398,
    "dur": 3.3,
    "speaker": "Metal Gear",
-   "en": "Let's proceed carefully.",
-   "enabled": true
+   "en": "Будем действовать осторожно.",
+   "enabled": true,
+   "en_src": "Let's proceed carefully."
   },
   {
    "id": "B200_f86_0",
@@ -136,9 +147,10 @@
    "end": 48814,
    "dur": 2.7,
    "speaker": "Metal Gear",
-   "en": "Let's try pressing both buttons at once.",
+   "en": "Давай нажмём обе кнопки одновременно.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Let's try pressing both buttons at once."
   },
   {
    "id": "B200_c7f1_0",
@@ -148,8 +160,9 @@
    "end": 3103,
    "dur": 4.6,
    "speaker": "Gillian",
-   "en": "They're too far apart for one person to press both.",
-   "enabled": true
+   "en": "Они слишком далеко, одному обе не нажать.",
+   "enabled": true,
+   "en_src": "They're too far apart for one person to press both."
   },
   {
    "id": "B200_c7f1_0b",
@@ -159,8 +172,9 @@
    "end": 3391,
    "dur": 1.9,
    "speaker": "Gillian",
-   "en": "But two people might manage it.",
-   "enabled": true
+   "en": "Но вдвоём, может, получится.",
+   "enabled": true,
+   "en_src": "But two people might manage it."
   },
   {
    "id": "B200_c7f2_0",
@@ -170,8 +184,9 @@
    "end": 4053,
    "dur": 4.0,
    "speaker": "Randam",
-   "en": "That's it, Gillian. A popular method in the late twentieth century.",
-   "enabled": true
+   "en": "Точно, Гиллиан. Популярный способ конца XX века.",
+   "enabled": true,
+   "en_src": "That's it, Gillian. A popular method in the late twentieth century."
   },
   {
    "id": "B200_c7f2_0b",
@@ -181,8 +196,9 @@
    "end": 4495,
    "dur": 3.3,
    "speaker": "Randam",
-   "en": "Nuclear silos used it to prevent unauthorized launches.",
-   "enabled": true
+   "en": "Так ядерные шахты защищали от случайного пуска.",
+   "enabled": true,
+   "en_src": "Nuclear silos used it to prevent unauthorized launches."
   },
   {
    "id": "B200_c7f3_0",
@@ -192,8 +208,9 @@
    "end": 5623,
    "dur": 6.4,
    "speaker": "Gillian",
-   "en": "Hard to say for sure. Let's try it anyway. I'll press number 1.",
-   "enabled": true
+   "en": "Не уверен. Но попробуем. Я жму первую.",
+   "enabled": true,
+   "en_src": "Hard to say for sure. Let's try it anyway. I'll press number 1."
   },
   {
    "id": "B200_c7f3_0b",
@@ -203,8 +220,9 @@
    "end": 5871,
    "dur": 2.7,
    "speaker": "Gillian",
-   "en": "Randam, you press number 2.",
-   "enabled": true
+   "en": "Рэндам, ты жми вторую.",
+   "enabled": true,
+   "en_src": "Randam, you press number 2."
   },
   {
    "id": "B200_c7f4_0",
@@ -214,8 +232,9 @@
    "end": 6111,
    "dur": 1.5,
    "speaker": "Gillian",
-   "en": "Ready? Now!",
-   "enabled": true
+   "en": "Готов? Давай!",
+   "enabled": true,
+   "en_src": "Ready? Now!"
   },
   {
    "id": "B200_c7f5_0",
@@ -225,8 +244,9 @@
    "end": 6191,
    "dur": 0.4,
    "speaker": "Randam",
-   "en": "Now!",
-   "enabled": true
+   "en": "Давай!",
+   "enabled": true,
+   "en_src": "Now!"
   },
   {
    "id": "B200_c7f6_0",
@@ -236,9 +256,10 @@
    "end": 6671,
    "dur": 3.2,
    "speaker": "Metal Gear",
-   "en": "It worked! Door 3 is open!",
+   "en": "Получилось! Дверь 3 открыта!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "It worked! Door 3 is open!"
   },
   {
    "id": "B200_c7f7_0",
@@ -248,8 +269,9 @@
    "end": 7183,
    "dur": 3.3,
    "speaker": "Randam",
-   "en": "Must be a pretty important room.",
-   "enabled": true
+   "en": "Видно, очень важная комната.",
+   "enabled": true,
+   "en_src": "Must be a pretty important room."
   },
   {
    "id": "B200_c7f8_0",
@@ -259,8 +281,9 @@
    "end": 7263,
    "dur": 0.4,
    "speaker": "Gillian",
-   "en": "Did we get it?",
-   "enabled": true
+   "en": "Мы его достали?",
+   "enabled": true,
+   "en_src": "Did we get it?"
   },
   {
    "id": "B200_c7f9_0",
@@ -270,8 +293,9 @@
    "end": 7519,
    "dur": 1.6,
    "speaker": "Metal Gear",
-   "en": "The Snatcher has shut down.",
-   "enabled": true
+   "en": "Снатчер отключился.",
+   "enabled": true,
+   "en_src": "The Snatcher has shut down."
   },
   {
    "id": "B200_c7f10_0",
@@ -281,8 +305,9 @@
    "end": 8128,
    "dur": 5.6,
    "speaker": "Metal Gear",
-   "en": "So this really is their maintenance hospital.",
-   "enabled": true
+   "en": "Значит, это и правда их ремонтная больница.",
+   "enabled": true,
+   "en_src": "So this really is their maintenance hospital."
   },
   {
    "id": "B200_c7f10_0b",
@@ -292,8 +317,9 @@
    "end": 8879,
    "dur": 8.4,
    "speaker": "Metal Gear",
-   "en": "This Snatcher probably hadn't been covered with artificial skin yet.",
-   "enabled": true
+   "en": "Видимо, этого снатчера ещё не покрыли искусственной кожей.",
+   "enabled": true,
+   "en_src": "This Snatcher probably hadn't been covered with artificial skin yet."
   },
   {
    "id": "B200_c7f11_0",
@@ -303,8 +329,9 @@
    "end": 9183,
    "dur": 1.9,
    "speaker": "Gillian",
-   "en": "So this is what a Snatcher really looks like.",
-   "enabled": true
+   "en": "Так вот как снатчер выглядит на самом деле.",
+   "enabled": true,
+   "en_src": "So this is what a Snatcher really looks like."
   },
   {
    "id": "B200_c7f12_0",
@@ -314,8 +341,9 @@
    "end": 10017,
    "dur": 6.3,
    "speaker": "Metal Gear",
-   "en": "This must be their original form. An endoskeleton.",
-   "enabled": true
+   "en": "Видимо, это их исходный облик. Эндоскелет.",
+   "enabled": true,
+   "en_src": "This must be their original form. An endoskeleton."
   },
   {
    "id": "B200_c7f12_0b",
@@ -325,8 +353,9 @@
    "end": 10407,
    "dur": 6.5,
    "speaker": "Metal Gear",
-   "en": "They snatch people and put on false skin,",
-   "enabled": true
+   "en": "Они похищают людей, надевают фальшивую кожу",
+   "enabled": true,
+   "en_src": "They snatch people and put on false skin,"
   },
   {
    "id": "B200_c7f12_0c",
@@ -336,8 +365,9 @@
    "end": 10943,
    "dur": 5.1,
    "speaker": "Metal Gear",
-   "en": "adjusting their bodies to fit.",
-   "enabled": true
+   "en": "и подгоняют под неё тело.",
+   "enabled": true,
+   "en_src": "adjusting their bodies to fit."
   },
   {
    "id": "B200_c7f13_0",
@@ -347,8 +377,9 @@
    "end": 11335,
    "dur": 7.0,
    "speaker": "Metal Gear",
-   "en": "What's truly frightening is that once covered in skin,",
-   "enabled": true
+   "en": "Страшнее всего то, что в коже",
+   "enabled": true,
+   "en_src": "What's truly frightening is that once covered in skin,"
   },
   {
    "id": "B200_c7f13_0b",
@@ -358,8 +389,9 @@
    "end": 11919,
    "dur": 5.8,
    "speaker": "Metal Gear",
-   "en": "they're indistinguishable from humans.",
-   "enabled": true
+   "en": "их не отличить от людей.",
+   "enabled": true,
+   "en_src": "they're indistinguishable from humans."
   },
   {
    "id": "B200_c7f14_0",
@@ -369,8 +401,9 @@
    "end": 12655,
    "dur": 4.8,
    "speaker": "Randam",
-   "en": "Human or Snatcher? Human weakness leads to mistakes.",
-   "enabled": true
+   "en": "Человек или снатчер? Человеческая слабость ведёт к ошибкам.",
+   "enabled": true,
+   "en_src": "Human or Snatcher? Human weakness leads to mistakes."
   },
   {
    "id": "B200_c7f15_0",
@@ -380,8 +413,9 @@
    "end": 13119,
    "dur": 3.0,
    "speaker": "Metal Gear",
-   "en": "And they take advantage of that weakness.",
-   "enabled": true
+   "en": "И этой слабостью они пользуются.",
+   "enabled": true,
+   "en_src": "And they take advantage of that weakness."
   },
   {
    "id": "B200_c7f16_0",
@@ -391,8 +425,9 @@
    "end": 13721,
    "dur": 12.1,
    "speaker": "Gillian",
-   "en": "Let's go, Metal, Randam. HQ's junk squad can handle this.",
-   "enabled": true
+   "en": "Идём, Метал, Рэндам. Тут разберётся команда из штаба.",
+   "enabled": true,
+   "en_src": "Let's go, Metal, Randam. HQ's junk squad can handle this."
   },
   {
    "id": "B200_c7f16_0b",
@@ -402,8 +437,9 @@
    "end": 14015,
    "dur": 5.6,
    "speaker": "Gillian",
-   "en": "We have an investigation to finish.",
-   "enabled": true
+   "en": "Нам нужно закончить расследование.",
+   "enabled": true,
+   "en_src": "We have an investigation to finish."
   },
   {
    "id": "B200_c7f17_0",
@@ -413,9 +449,10 @@
    "end": 14207,
    "dur": 1.2,
    "speaker": "Metal Gear",
-   "en": "Behind you, Gillian!",
+   "en": "Сзади, Гиллиан!",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Behind you, Gillian!"
   },
   {
    "id": "B200_m_pre",
@@ -425,8 +462,9 @@
    "end": 132379,
    "dur": 1.3,
    "speaker": "Gillian",
-   "en": "What the hell?",
-   "enabled": true
+   "en": "Какого чёрта?",
+   "enabled": true,
+   "en_src": "What the hell?"
   },
   {
    "id": "B200_m_00",
@@ -436,8 +474,9 @@
    "end": 132850,
    "dur": 3.1,
    "speaker": "Metal Gear",
-   "en": "Four skeletal bodies.",
-   "enabled": true
+   "en": "Четыре скелетированных тела.",
+   "enabled": true,
+   "en_src": "Four skeletal bodies."
   },
   {
    "id": "B200_m_01",
@@ -447,8 +486,9 @@
    "end": 133096,
    "dur": 1.6,
    "speaker": "Randam",
-   "en": "It's a morgue, all right.",
-   "enabled": true
+   "en": "Морг, как и есть.",
+   "enabled": true,
+   "en_src": "It's a morgue, all right."
   },
   {
    "id": "B200_m_02",
@@ -458,8 +498,9 @@
    "end": 133402,
    "dur": 2.0,
    "speaker": "Metal Gear",
-   "en": "Could they be Snatcher victims?",
-   "enabled": true
+   "en": "Может, это жертвы снатчеров?",
+   "enabled": true,
+   "en_src": "Could they be Snatcher victims?"
   },
   {
    "id": "B200_m_03",
@@ -469,8 +510,9 @@
    "end": 134361,
    "dur": 6.4,
    "speaker": "Randam",
-   "en": "These guys sure aren't resting in peace.",
-   "enabled": true
+   "en": "Эти ребята явно не покоятся с миром.",
+   "enabled": true,
+   "en_src": "These guys sure aren't resting in peace."
   },
   {
    "id": "B200_m_04",
@@ -480,8 +522,9 @@
    "end": 134730,
    "dur": 2.5,
    "speaker": "Gillian",
-   "en": "So they are Snatcher victims?",
-   "enabled": true
+   "en": "Так это жертвы снатчеров?",
+   "enabled": true,
+   "en_src": "So they are Snatcher victims?"
   },
   {
    "id": "B200_m_05",
@@ -491,8 +534,9 @@
    "end": 135159,
    "dur": 5.2,
    "speaker": "Metal Gear",
-   "en": "The Snatchers chose their victims at places",
-   "enabled": true
+   "en": "Снатчеры выбирали жертв в местах",
+   "enabled": true,
+   "en_src": "The Snatchers chose their victims at places"
   },
   {
    "id": "B200_m_05b",
@@ -502,8 +546,9 @@
    "end": 135728,
    "dur": 4.4,
    "speaker": "Metal Gear",
-   "en": "like Outer Heaven, then killed them.",
-   "enabled": true
+   "en": "вроде \"Аутер Хэвен\", а потом убивали.",
+   "enabled": true,
+   "en_src": "like Outer Heaven, then killed them."
   },
   {
    "id": "B200_m_05c",
@@ -513,8 +558,9 @@
    "end": 136520,
    "dur": 7.6,
    "speaker": "Metal Gear",
-   "en": "After taking their places, they hid the originals' bodies here?",
-   "enabled": true
+   "en": "А заняв их место, прятали тела оригиналов здесь?",
+   "enabled": true,
+   "en_src": "After taking their places, they hid the originals' bodies here?"
   },
   {
    "id": "B200_m_09",
@@ -524,8 +570,9 @@
    "end": 137000,
    "dur": 3.4,
    "speaker": "Gillian",
-   "en": "They chose Outer Heaven to find targets",
-   "enabled": true
+   "en": "Они искали цели в \"Аутер Хэвен\",",
+   "enabled": true,
+   "en_src": "They chose Outer Heaven to find targets"
   },
   {
    "id": "B200_m_09b",
@@ -535,8 +582,9 @@
    "end": 137632,
    "dur": 4.3,
    "speaker": "Gillian",
-   "en": "because VIPs from all walks of life gather there.",
-   "enabled": true
+   "en": "потому что там собираются VIP-персоны всех мастей.",
+   "enabled": true,
+   "en_src": "because VIPs from all walks of life gather there."
   },
   {
    "id": "B200_m_09c",
@@ -546,8 +594,9 @@
    "end": 138247,
    "dur": 3.9,
    "speaker": "Gillian",
-   "en": "And costume time lets them hide their faces.",
-   "enabled": true
+   "en": "А в костюмах можно скрыть лицо.",
+   "enabled": true,
+   "en_src": "And costume time lets them hide their faces."
   },
   {
    "id": "B200_m_11",
@@ -557,8 +606,9 @@
    "end": 139159,
    "dur": 7.5,
    "speaker": "Randam",
-   "en": "Their link to Outer Heaven was Freddy, the taxi driver.",
-   "enabled": true
+   "en": "Их связью с \"Аутер Хэвен\" был таксист Фредди.",
+   "enabled": true,
+   "en_src": "Their link to Outer Heaven was Freddy, the taxi driver."
   },
   {
    "id": "B200_m_11b",
@@ -568,8 +618,9 @@
    "end": 140064,
    "dur": 9.1,
    "speaker": "Randam",
-   "en": "They didn't snatch him for who he was. They wanted to use his taxi.",
-   "enabled": true
+   "en": "Им был нужен не он сам, а его такси.",
+   "enabled": true,
+   "en_src": "They didn't snatch him for who he was. They wanted to use his taxi."
   },
   {
    "id": "B200_m_11c",
@@ -579,8 +630,9 @@
    "end": 140502,
    "dur": 7.3,
    "speaker": "Randam",
-   "en": "It brought them into contact with plenty of customers.",
-   "enabled": true
+   "en": "Через него они знакомились с кучей клиентов.",
+   "enabled": true,
+   "en_src": "It brought them into contact with plenty of customers."
   },
   {
    "id": "B200_m_11d",
@@ -590,8 +642,9 @@
    "end": 141269,
    "dur": 8.2,
    "speaker": "Randam",
-   "en": "That's how they learned about Outer Heaven and Joy Division.",
-   "enabled": true
+   "en": "Так они и узнали об \"Аутер Хэвен\" и \"Джой Дивижн\".",
+   "enabled": true,
+   "en_src": "That's how they learned about Outer Heaven and Joy Division."
   },
   {
    "id": "B200_m_14",
@@ -601,8 +654,9 @@
    "end": 141762,
    "dur": 6.8,
    "speaker": "Gillian",
-   "en": "Until now, we didn't know how they disposed",
-   "enabled": true
+   "en": "До сих пор мы не знали, куда они девают",
+   "enabled": true,
+   "en_src": "Until now, we didn't know how they disposed"
   },
   {
    "id": "B200_m_14b",
@@ -612,8 +666,9 @@
    "end": 142082,
    "dur": 4.0,
    "speaker": "Gillian",
-   "en": "of their victims' bodies.",
-   "enabled": true
+   "en": "тела своих жертв.",
+   "enabled": true,
+   "en_src": "of their victims' bodies."
   },
   {
    "id": "B200_m_15",
@@ -623,8 +678,9 @@
    "end": 143176,
    "dur": 14.6,
    "speaker": "Randam",
-   "en": "Hide a needle in a pincushion, and a body in a morgue.",
-   "enabled": true
+   "en": "Иголку прячут в игольнице, а труп - в морге.",
+   "enabled": true,
+   "en_src": "Hide a needle in a pincushion, and a body in a morgue."
   },
   {
    "id": "B200_m_16",
@@ -634,8 +690,9 @@
    "end": 143971,
    "dur": 5.6,
    "speaker": "Gillian",
-   "en": "Finding the bodies would expose them.",
-   "enabled": true
+   "en": "Найденные тела их бы разоблачили.",
+   "enabled": true,
+   "en_src": "Finding the bodies would expose them."
   },
   {
    "id": "B200_m_16b",
@@ -645,8 +702,9 @@
    "end": 144277,
    "dur": 6.1,
    "speaker": "Gillian",
-   "en": "If someone known to be dead walks around,",
-   "enabled": true
+   "en": "Если мёртвый разгуливает по улицам,",
+   "enabled": true,
+   "en_src": "If someone known to be dead walks around,"
   },
   {
    "id": "B200_m_16c",
@@ -656,8 +714,9 @@
    "end": 144757,
    "dur": 4.0,
    "speaker": "Gillian",
-   "en": "anyone could see what they really are.",
-   "enabled": true
+   "en": "любой поймёт, кто он на самом деле.",
+   "enabled": true,
+   "en_src": "anyone could see what they really are."
   },
   {
    "id": "B200_m_18",
@@ -667,9 +726,10 @@
    "end": 145321,
    "dur": 7.5,
    "speaker": "Randam",
-   "en": "So if we identify these four bodies,",
+   "en": "Значит, если опознаем эти четыре тела,",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "So if we identify these four bodies,"
   },
   {
    "id": "B200_m_18b",
@@ -679,9 +739,10 @@
    "end": 145885,
    "dur": 7.5,
    "speaker": "Randam",
-   "en": "we'll know which four people the Snatchers have replaced.",
+   "en": "узнаем, кого из людей подменили снатчеры.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "we'll know which four people the Snatchers have replaced."
   }
  ]
 }

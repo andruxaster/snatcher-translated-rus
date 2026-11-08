@@ -9,8 +9,9 @@
    "end": 39449,
    "dur": 3.3,
    "speaker": "Waiter",
-   "en": "Welcome. A table for one?",
-   "enabled": true
+   "en": "Добро пожаловать. Столик на одного?",
+   "enabled": true,
+   "en_src": "Welcome. A table for one?"
   }
  ],
  "options": {

@@ -15,8 +15,9 @@
    "end": 13565,
    "dur": 4.5,
    "speaker": "Metal Gear",
-   "en": "Gillian, I'm detecting movement! Be careful! It's outside the window!",
-   "enabled": true
+   "en": "Гиллиан, вижу движение! Осторожно! За окном!",
+   "enabled": true,
+   "en_src": "Gillian, I'm detecting movement! Be careful! It's outside the window!"
   },
   {
    "id": "B1C0_f24_0",
@@ -26,8 +27,9 @@
    "end": 13645,
    "dur": 0.4,
    "speaker": "Gillian",
-   "en": "Alice!",
-   "enabled": true
+   "en": "Алиса!",
+   "enabled": true,
+   "en_src": "Alice!"
   },
   {
    "id": "B1C0_f25_0",
@@ -37,8 +39,9 @@
    "end": 14125,
    "dur": 3.1,
    "speaker": "Metal Gear",
-   "en": "She's been torn to pieces. We can't save her!",
-   "enabled": true
+   "en": "Её разорвали на куски. Её уже не спасти!",
+   "enabled": true,
+   "en_src": "She's been torn to pieces. We can't save her!"
   },
   {
    "id": "B1C0_f26_0",
@@ -48,8 +51,9 @@
    "end": 14349,
    "dur": 1.4,
    "speaker": "Metal Gear",
-   "en": "Could a Snatcher have done this?",
-   "enabled": true
+   "en": "Неужели это сделал снатчер?",
+   "enabled": true,
+   "en_src": "Could a Snatcher have done this?"
   },
   {
    "id": "B1C0_f27_0",
@@ -59,8 +63,9 @@
    "end": 15069,
    "dur": 4.7,
    "speaker": "Gillian",
-   "en": "What a horrible thing to do! Where's Catherine?",
-   "enabled": true
+   "en": "Какая жестокость! Где Кэтрин?",
+   "enabled": true,
+   "en_src": "What a horrible thing to do! Where's Catherine?"
   },
   {
    "id": "B1C0_f28_0",
@@ -70,8 +75,9 @@
    "end": 15709,
    "dur": 8.4,
    "speaker": "Metal Gear",
-   "en": "We'll leave the scene to the junk squad. Let's find Catherine.",
-   "enabled": true
+   "en": "Место оставим чистильщикам. Найдём Кэтрин.",
+   "enabled": true,
+   "en_src": "We'll leave the scene to the junk squad. Let's find Catherine."
   },
   {
    "id": "B1C0_f29_0",
@@ -81,8 +87,9 @@
    "end": 16025,
    "dur": 2.0,
    "speaker": "Gillian",
-   "en": "Judging by the state of this room,",
-   "enabled": true
+   "en": "Судя по тому, что творится в комнате,",
+   "enabled": true,
+   "en_src": "Judging by the state of this room,"
   },
   {
    "id": "B1C0_f29_0b",
@@ -92,8 +99,9 @@
    "end": 16397,
    "dur": 2.48,
    "speaker": "Gillian",
-   "en": "the Snatchers haven't found what they want.",
-   "enabled": true
+   "en": "снатчеры не нашли то, что искали.",
+   "enabled": true,
+   "en_src": "the Snatchers haven't found what they want."
   },
   {
    "id": "B1C0_f30_0",
@@ -103,8 +111,9 @@
    "end": 16909,
    "dur": 3.3,
    "speaker": "Metal Gear",
-   "en": "So Catherine is still safe?",
-   "enabled": true
+   "en": "Значит, Кэтрин пока в безопасности?",
+   "enabled": true,
+   "en_src": "So Catherine is still safe?"
   },
   {
    "id": "B1C0_f31_0",
@@ -114,8 +123,9 @@
    "end": 17309,
    "dur": 2.6,
    "speaker": "Gillian",
-   "en": "Had they caught Catherine, they wouldn't have trashed the room.",
-   "enabled": true
+   "en": "Поймай они Кэтрин, они не стали бы громить комнату.",
+   "enabled": true,
+   "en_src": "Had they caught Catherine, they wouldn't have trashed the room."
   },
   {
    "id": "B1C0_f32_0",
@@ -125,8 +135,9 @@
    "end": 17821,
    "dur": 3.3,
    "speaker": "Metal Gear",
-   "en": "I see. Catherine escaped with what they want.",
-   "enabled": true
+   "en": "Понятно. Кэтрин сбежала с тем, что им нужно.",
+   "enabled": true,
+   "en_src": "I see. Catherine escaped with what they want."
   },
   {
    "id": "B1C0_f33_0",
@@ -136,8 +147,9 @@
    "end": 18497,
    "dur": 4.4,
    "speaker": "Gillian",
-   "en": "Right. Metal, let's find Catherine before they do.",
-   "enabled": true
+   "en": "Да. Метал, найдём Кэтрин раньше них.",
+   "enabled": true,
+   "en_src": "Right. Metal, let's find Catherine before they do."
   },
   {
    "id": "B1C0_f33_0b",
@@ -147,9 +159,10 @@
    "end": 18717,
    "dur": 1.47,
    "speaker": "Gillian",
-   "en": "Back to the Tricycle first.",
+   "en": "Сначала вернёмся к трициклу.",
    "enabled": true,
-   "last": true
+   "last": true,
+   "en_src": "Back to the Tricycle first."
   }
  ]
 }

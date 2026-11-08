@@ -15,215 +15,302 @@
   {
    "off": 3737,
    "budget": 61,
-   "en": "Command debug file. Select a￥destination."
+   "en": "Файл отладки команд. Выберите, куда￥перейти.",
+   "en_src": "Command debug file. Select a￥destination.",
+   "ru": true
   },
   {
    "off": 3798,
    "budget": 75,
-   "en": "Colors:￥＠白Wht＠赤Red＠青Blu＠水Cyn＠緑Grn＠黄Ylw＠紫Prp＠桃Pnk",
-   "long": "Text color test: ＠白White ＠赤Red ＠青Blue￥＠水Cyan ＠緑Green ＠黄Yellow ＠紫Purple ＠桃Pink."
+   "en": ".",
+   "en_src": "Colors:￥＠白Wht＠赤Red＠青Blu＠水Cyn＠緑Grn＠黄Ylw＠紫Prp＠桃Pnk",
+   "long_src": "Text color test: ＠白White ＠赤Red ＠青Blue￥＠水Cyan ＠緑Green ＠黄Yellow ＠紫Purple ＠桃Pink.",
+   "ru": true,
+   "long": "Тест цвета текста: ＠白белый ＠赤красный￥＠青синий ＠水голубой ＠緑зелёный ＠黄жёлтый￥＠紫фиолетовый ＠桃розовый."
   },
   {
    "off": 3873,
    "budget": 9,
-   "en": "ACT 1"
+   "en": "АКТ 1",
+   "en_src": "ACT 1",
+   "ru": true
   },
   {
    "off": 3882,
    "budget": 9,
-   "en": "ACT 2"
+   "en": "АКТ 2",
+   "en_src": "ACT 2",
+   "ru": true
   },
   {
    "off": 3891,
    "budget": 9,
-   "en": "ACT 3"
+   "en": "АКТ 3",
+   "en_src": "ACT 3",
+   "ru": true
   },
   {
    "off": 3900,
    "budget": 7,
-   "en": "Others"
+   "en": "Прочее",
+   "en_src": "Others",
+   "ru": true
   },
   {
    "off": 3907,
    "budget": 11,
-   "en": "Answer Qs"
+   "en": "Ответы",
+   "en_src": "Answer Qs",
+   "ru": true
   },
   {
    "off": 3918,
    "budget": 11,
-   "en": "Catherine"
+   "en": "Кэтрин",
+   "en_src": "Catherine",
+   "ru": true
   },
   {
    "off": 3929,
    "budget": 17,
-   "en": "Gibson's door"
+   "en": "Дверь Гибсона",
+   "en_src": "Gibson's door",
+   "ru": true
   },
   {
    "off": 3946,
    "budget": 15,
-   "en": "After shower"
+   "en": "После душа",
+   "en_src": "After shower",
+   "ru": true
   },
   {
    "off": 3961,
    "budget": 11,
-   "en": "Napoleon"
+   "en": "Наполеон",
+   "en_src": "Napoleon",
+   "ru": true
   },
   {
    "off": 3972,
    "budget": 5,
-   "en": "Tel."
+   "en": "Тел.",
+   "en_src": "Tel.",
+   "ru": true
   },
   {
    "off": 3977,
    "budget": 11,
-   "en": "In Outer"
+   "en": "В Аутер",
+   "en_src": "In Outer",
+   "ru": true
   },
   {
    "off": 3988,
    "budget": 7,
-   "en": "BGM"
+   "en": "Музыка",
+   "en_src": "BGM",
+   "ru": true
   },
   {
    "off": 3995,
    "budget": 11,
-   "en": "MG appears"
+   "en": "Явл. Метал",
+   "en_src": "MG appears",
+   "ru": true
   },
   {
    "off": 4006,
    "budget": 13,
-   "en": "Car to plant"
+   "en": "В машине",
+   "en_src": "Car to plant",
+   "ru": true
   },
   {
    "off": 4019,
    "budget": 13,
-   "en": "Plant return"
+   "en": "С завода",
+   "en_src": "Plant return",
+   "ru": true
   },
   {
    "off": 4032,
    "budget": 11,
-   "en": "Drunk H."
+   "en": "Пьяный Г.",
+   "en_src": "Drunk H.",
+   "ru": true
   },
   {
    "off": 4043,
    "budget": 13,
-   "en": "Randam shows"
+   "en": "Явл. Рэндам",
+   "en_src": "Randam shows",
+   "ru": true
   },
   {
    "off": 4056,
    "budget": 9,
-   "en": "Rampage"
+   "en": "Буйство",
+   "en_src": "Rampage",
+   "ru": true
   },
   {
    "off": 4065,
    "budget": 11,
-   "en": "Chief 1"
+   "en": "Шеф 1",
+   "en_src": "Chief 1",
+   "ru": true
   },
   {
    "off": 4076,
    "budget": 11,
-   "en": "Chief 2"
+   "en": "Шеф 2",
+   "en_src": "Chief 2",
+   "ru": true
   },
   {
    "off": 4087,
    "budget": 15,
-   "en": "Jamie TEL"
+   "en": "Звонок Джейми",
+   "en_src": "Jamie TEL",
+   "ru": true
   },
   {
    "off": 4102,
    "budget": 5,
-   "en": "Riot"
+   "en": "Бунт",
+   "en_src": "Riot",
+   "ru": true
   },
   {
    "off": 4107,
    "budget": 7,
-   "en": "Riot2"
+   "en": "Бунт2",
+   "en_src": "Riot2",
+   "ru": true
   },
   {
    "off": 4114,
    "budget": 7,
-   "en": "Morgue"
+   "en": "Морг",
+   "en_src": "Morgue",
+   "ru": true
   },
   {
    "off": 4121,
    "budget": 5,
-   "en": "Chin"
+   "en": "Чин",
+   "en_src": "Chin",
+   "ru": true
   },
   {
    "off": 4126,
    "budget": 11,
-   "en": "Harry dies"
+   "en": "Смерть Г.",
+   "en_src": "Harry dies",
+   "ru": true
   },
   {
    "off": 4137,
    "budget": 9,
-   "en": "ChiefDie"
+   "en": "Смерть Ш",
+   "en_src": "ChiefDie",
+   "ru": true
   },
   {
    "off": 4146,
    "budget": 17,
-   "en": "Jamie kidnap TEL"
+   "en": "Звонок о похищ.",
+   "en_src": "Jamie kidnap TEL",
+   "ru": true
   },
   {
    "off": 4163,
    "budget": 13,
-   "en": "Mika joins"
+   "en": "Мика с нами",
+   "en_src": "Mika joins",
+   "ru": true
   },
   {
    "off": 4176,
    "budget": 7,
-   "en": "Beam"
+   "en": "Луч",
+   "en_src": "Beam",
+   "ru": true
   },
   {
    "off": 4183,
    "budget": 5,
-   "en": "Port",
-   "long": "Airport"
+   "en": ".",
+   "en_src": "Port",
+   "long_src": "Airport",
+   "ru": true,
+   "long": "Аэропорт"
   },
   {
    "off": 4188,
    "budget": 13,
-   "en": "Araki sneeze"
+   "en": "Чих Араки",
+   "en_src": "Araki sneeze",
+   "ru": true
   },
   {
    "off": 4201,
    "budget": 5,
-   "en": "Fact",
-   "long": "Factory"
+   "en": ".",
+   "en_src": "Fact",
+   "long_src": "Factory",
+   "ru": true,
+   "long": "Завод"
   },
   {
    "off": 4206,
    "budget": 7,
-   "en": "Fact 1"
+   "en": "Зав. 1",
+   "en_src": "Fact 1",
+   "ru": true
   },
   {
    "off": 4213,
    "budget": 7,
-   "en": "Fact 2"
+   "en": "Зав. 2",
+   "en_src": "Fact 2",
+   "ru": true
   },
   {
    "off": 4220,
    "budget": 7,
-   "en": "Fact 3"
+   "en": "Зав. 3",
+   "en_src": "Fact 3",
+   "ru": true
   },
   {
    "off": 4227,
    "budget": 11,
-   "en": "Freddy hm"
+   "en": "Дом Фредди",
+   "en_src": "Freddy hm",
+   "ru": true
   },
   {
    "off": 4238,
    "budget": 11,
-   "en": "Gibson hm"
+   "en": "Дом Гибс.",
+   "en_src": "Gibson hm",
+   "ru": true
   },
   {
    "off": 4249,
    "budget": 9,
-   "en": "Tunnel 1"
+   "en": "Тоннель1",
+   "en_src": "Tunnel 1",
+   "ru": true
   },
   {
    "off": 4258,
    "budget": 9,
-   "en": "Tunnel 2"
+   "en": "Тоннель2",
+   "en_src": "Tunnel 2",
+   "ru": true
   },
   {
    "off": 4267,
@@ -240,970 +327,1362 @@
   {
    "off": 4285,
    "budget": 5,
-   "en": "Back"
+   "en": "Назд",
+   "en_src": "Back",
+   "ru": true
   },
   {
    "off": 4290,
    "budget": 15,
-   "en": "ACT 1 ends"
+   "en": "Конец АКТа 1",
+   "en_src": "ACT 1 ends",
+   "ru": true
   },
   {
    "off": 4305,
    "budget": 15,
-   "en": "ACT 2 ends"
+   "en": "Конец АКТа 2",
+   "en_src": "ACT 2 ends",
+   "ru": true
   },
   {
    "off": 4320,
    "budget": 13,
-   "en": "ACT1 half1"
+   "en": "АКТ1 ч.1",
+   "en_src": "ACT1 half1",
+   "ru": true
   },
   {
    "off": 4333,
    "budget": 5,
-   "en": "HQ"
+   "en": "Штаб",
+   "en_src": "HQ",
+   "ru": true
   },
   {
    "off": 4338,
    "budget": 9,
-   "en": "From top"
+   "en": "Сначала",
+   "en_src": "From top",
+   "ru": true
   },
   {
    "off": 4347,
    "budget": 17,
-   "en": "Chief talk ends"
+   "en": "Шеф договорил",
+   "en_src": "Chief talk ends",
+   "ru": true
   },
   {
    "off": 4364,
    "budget": 9,
-   "en": "Shooting"
+   "en": "Стрельба",
+   "en_src": "Shooting",
+   "ru": true
   },
   {
    "off": 4373,
    "budget": 15,
-   "en": "Call from Jean"
+   "en": "Звонок от Жана",
+   "en_src": "Call from Jean",
+   "ru": true
   },
   {
    "off": 4388,
    "budget": 9,
-   "en": "A case!"
+   "en": "Дело!",
+   "en_src": "A case!",
+   "ru": true
   },
   {
    "off": 4397,
    "budget": 15,
-   "en": "Tricycle"
+   "en": "Трицикл",
+   "en_src": "Tricycle",
+   "ru": true
   },
   {
    "off": 4412,
    "budget": 9,
-   "en": "At plant"
+   "en": "На зав.",
+   "en_src": "At plant",
+   "ru": true
   },
   {
    "off": 4421,
    "budget": 13,
-   "en": "Get memory"
+   "en": "Взять память",
+   "en_src": "Get memory",
+   "ru": true
   },
   {
    "off": 4434,
    "budget": 13,
-   "en": "Find Gibson"
+   "en": "Нашли Гибс.",
+   "en_src": "Find Gibson",
+   "ru": true
   },
   {
    "off": 4447,
    "budget": 9,
-   "en": "Motion",
-   "long": "Motion detector"
+   "en": ".",
+   "en_src": "Motion",
+   "long_src": "Motion detector",
+   "ru": true,
+   "long": "Датчик движения"
   },
   {
    "off": 4456,
    "budget": 9,
-   "en": "Sneeze"
+   "en": "Чих",
+   "en_src": "Sneeze",
+   "ru": true
   },
   {
    "off": 4465,
    "budget": 9,
-   "en": "Gunfire"
+   "en": "Стрельба",
+   "en_src": "Gunfire",
+   "ru": true
   },
   {
    "off": 4474,
    "budget": 7,
-   "en": "Yard 1"
+   "en": "Двор 1",
+   "en_src": "Yard 1",
+   "ru": true
   },
   {
    "off": 4481,
    "budget": 7,
-   "en": "Yard 2"
+   "en": "Двор 2",
+   "en_src": "Yard 2",
+   "ru": true
   },
   {
    "off": 4488,
    "budget": 9,
-   "en": "NDE"
+   "en": "Кл.смерт",
+   "en_src": "NDE",
+   "ru": true
   },
   {
    "off": 4497,
    "budget": 7,
-   "en": "PreBmb"
+   "en": "До взр",
+   "en_src": "PreBmb",
+   "ru": true
   },
   {
    "off": 4504,
    "budget": 7,
-   "en": "HQ 2"
+   "en": "Штаб 2",
+   "en_src": "HQ 2",
+   "ru": true
   },
   {
    "off": 4511,
    "budget": 9,
-   "en": "DetRoom"
+   "en": "Детект.",
+   "en_src": "DetRoom",
+   "ru": true
   },
   {
    "off": 4520,
    "budget": 11,
-   "en": "Proof done"
+   "en": "Улики есть",
+   "en_src": "Proof done",
+   "ru": true
   },
   {
    "off": 4531,
    "budget": 21,
-   "en": "Proof OK, mech room"
+   "en": "Улики есть, мастерск",
+   "en_src": "Proof OK, mech room",
+   "ru": true
   },
   {
    "off": 4552,
    "budget": 17,
-   "en": "Chief mad-costs"
+   "en": "Шеф о расходах",
+   "en_src": "Chief mad-costs",
+   "ru": true
   },
   {
    "off": 4569,
    "budget": 13,
-   "en": "ACT1 half2"
+   "en": "АКТ1 ч.2",
+   "en_src": "ACT1 half2",
+   "ru": true
   },
   {
    "off": 4582,
    "budget": 7,
-   "en": "AtHome"
+   "en": "У дома",
+   "en_src": "AtHome",
+   "ru": true
   },
   {
    "off": 4589,
    "budget": 9,
-   "en": "PostQs"
+   "en": "После ?",
+   "en_src": "PostQs",
+   "ru": true
   },
   {
    "off": 4598,
    "budget": 11,
-   "en": "At PC"
+   "en": "У компа",
+   "en_src": "At PC",
+   "ru": true
   },
   {
    "off": 4609,
    "budget": 9,
-   "en": "Doggy"
+   "en": "Собачка",
+   "en_src": "Doggy",
+   "ru": true
   },
   {
    "off": 4618,
    "budget": 5,
-   "en": "Car"
+   "en": "Авто",
+   "en_src": "Car",
+   "ru": true
   },
   {
    "off": 4623,
    "budget": 13,
-   "en": "Gillian home"
+   "en": "Дом Гиллиана",
+   "en_src": "Gillian home",
+   "ru": true
   },
   {
    "off": 4636,
    "budget": 11,
-   "en": "Altamira"
+   "en": "Альтамира",
+   "en_src": "Altamira",
+   "ru": true
   },
   {
    "off": 4647,
    "budget": 11,
-   "en": "At Alta"
+   "en": "В Альтам.",
+   "en_src": "At Alta",
+   "ru": true
   },
   {
    "off": 4658,
    "budget": 11,
-   "en": "Meet Napo"
+   "en": "Встр.Напо",
+   "en_src": "Meet Napo",
+   "ru": true
   },
   {
    "off": 4669,
    "budget": 9,
-   "en": "Diviner"
+   "en": "Гадалка",
+   "en_src": "Diviner",
+   "ru": true
   },
   {
    "off": 4678,
    "budget": 15,
-   "en": "Can flirt"
+   "en": "Можно флирт",
+   "en_src": "Can flirt",
+   "ru": true
   },
   {
    "off": 4693,
    "budget": 19,
-   "en": "Joy Division"
+   "en": "Джой Дивижн",
+   "en_src": "Joy Division",
+   "ru": true
   },
   {
    "off": 4712,
    "budget": 11,
-   "en": "At Joy"
+   "en": "В Джой",
+   "en_src": "At Joy",
+   "ru": true
   },
   {
    "off": 4723,
    "budget": 15,
-   "en": "NeoKobe-yaki"
+   "en": "Нео-кобэ-яки",
+   "en_src": "NeoKobe-yaki",
+   "ru": true
   },
   {
    "off": 4738,
    "budget": 15,
-   "en": "Buy adult vid"
+   "en": "Купить порно",
+   "en_src": "Buy adult vid",
+   "ru": true
   },
   {
    "off": 4753,
    "budget": 15,
-   "en": "Outer Heaven"
+   "en": "Аутер Хэвен",
+   "en_src": "Outer Heaven",
+   "ru": true
   },
   {
    "off": 4768,
    "budget": 11,
-   "en": "Ivan case"
+   "en": "Дело Ивана",
+   "en_src": "Ivan case",
+   "ru": true
   },
   {
    "off": 4779,
    "budget": 13,
-   "en": "At Ivan home"
+   "en": "У дома Ивана",
+   "en_src": "At Ivan home",
+   "ru": true
   },
   {
    "off": 4792,
    "budget": 13,
-   "en": "Ivan's door"
+   "en": "Дверь Ивана",
+   "en_src": "Ivan's door",
+   "ru": true
   },
   {
    "off": 4805,
    "budget": 7,
-   "en": "PreGun"
+   "en": "До стр",
+   "en_src": "PreGun",
+   "ru": true
   },
   {
    "off": 4812,
    "budget": 11,
-   "en": "PostGun LR"
+   "en": "Гостин.п/с",
+   "en_src": "PostGun LR",
+   "ru": true
   },
   {
    "off": 4823,
    "budget": 13,
-   "en": "LR pre-bath"
+   "en": "Гостиная д/в",
+   "en_src": "LR pre-bath",
+   "ru": true
   },
   {
    "off": 4836,
    "budget": 13,
-   "en": "Bath checked"
+   "en": "Ванна осм.",
+   "en_src": "Bath checked",
+   "ru": true
   },
   {
    "off": 4849,
    "budget": 15,
-   "en": "Post scan"
+   "en": "После скана",
+   "en_src": "Post scan",
+   "ru": true
   },
   {
    "off": 4864,
    "budget": 13,
-   "en": "Freddy case"
+   "en": "Дело Фредди",
+   "en_src": "Freddy case",
+   "ru": true
   },
   {
    "off": 4877,
    "budget": 15,
-   "en": "At Freddy hm"
+   "en": "У дома Фредди",
+   "en_src": "At Freddy hm",
+   "ru": true
   },
   {
    "off": 4892,
    "budget": 15,
-   "en": "Let inside"
+   "en": "Впустили",
+   "en_src": "Let inside",
+   "ru": true
   },
   {
    "off": 4907,
    "budget": 11,
-   "en": "Qs done"
+   "en": "Вопр. всё",
+   "en_src": "Qs done",
+   "ru": true
   },
   {
    "off": 4918,
    "budget": 9,
-   "en": "In bath"
+   "en": "В ванной",
+   "en_src": "In bath",
+   "ru": true
   },
   {
    "off": 4927,
    "budget": 9,
-   "en": "Lisa gun"
+   "en": "Лиза стр",
+   "en_src": "Lisa gun",
+   "ru": true
   },
   {
    "off": 4936,
    "budget": 11,
-   "en": "PostLisa"
+   "en": "После Лизы",
+   "en_src": "PostLisa",
+   "ru": true
   },
   {
    "off": 4947,
    "budget": 7,
-   "en": "GoOut"
+   "en": "Выйти",
+   "en_src": "GoOut",
+   "ru": true
   },
   {
    "off": 4954,
    "budget": 7,
-   "en": "GoIn"
+   "en": "Войти",
+   "en_src": "GoIn",
+   "ru": true
   },
   {
    "off": 4961,
    "budget": 9,
-   "en": "Bath 2"
+   "en": "Ванна 2",
+   "en_src": "Bath 2",
+   "ru": true
   },
   {
    "off": 4970,
    "budget": 9,
-   "en": "Restore"
+   "en": "Возврат",
+   "en_src": "Restore",
+   "ru": true
   },
   {
    "off": 4979,
    "budget": 13,
-   "en": "ACT2 half1"
+   "en": "АКТ2 ч.1",
+   "en_src": "ACT2 half1",
+   "ru": true
   },
   {
    "off": 4992,
    "budget": 13,
-   "en": "ACT 2 start"
+   "en": "Начало АКТ2",
+   "en_src": "ACT 2 start",
+   "ru": true
   },
   {
    "off": 5005,
    "budget": 13,
-   "en": "Chief talked"
+   "en": "Шеф сказал",
+   "en_src": "Chief talked",
+   "ru": true
   },
   {
    "off": 5018,
    "budget": 9,
-   "en": "Diviner2"
+   "en": "Гадалка2",
+   "en_src": "Diviner2",
+   "ru": true
   },
   {
    "off": 5027,
    "budget": 9,
-   "en": "Udon"
+   "en": "Удонная",
+   "en_src": "Udon",
+   "ru": true
   },
   {
    "off": 5036,
    "budget": 15,
-   "en": "Santa Napo"
+   "en": "Санта-Напо",
+   "en_src": "Santa Napo",
+   "ru": true
   },
   {
    "off": 5051,
    "budget": 17,
-   "en": "Napo parts ways"
+   "en": "Напо уходит",
+   "en_src": "Napo parts ways",
+   "ru": true
   },
   {
    "off": 5068,
    "budget": 13,
-   "en": "Oleen Hosp."
+   "en": "Больн.Олин",
+   "en_src": "Oleen Hosp.",
+   "ru": true
   },
   {
    "off": 5081,
    "budget": 5,
-   "en": "Here"
+   "en": "Тут",
+   "en_src": "Here",
+   "ru": true
   },
   {
    "off": 5086,
    "budget": 7,
-   "en": "PreTlk"
+   "en": "До реч",
+   "en_src": "PreTlk",
+   "ru": true
   },
   {
    "off": 5093,
    "budget": 11,
-   "en": "Gibson hse"
+   "en": "Дом Гибс.",
+   "en_src": "Gibson hse",
+   "ru": true
   },
   {
    "off": 5104,
    "budget": 15,
-   "en": "Twitchy Alice"
+   "en": "Дёрганая Алиса",
+   "en_src": "Twitchy Alice",
+   "ru": true
   },
   {
    "off": 5119,
    "budget": 55,
-   "en": "Petrovich here!￥Let's be friends!"
+   "en": "Петрович на связи!￥Давай дружить!",
+   "en_src": "Petrovich here!￥Let's be friends!",
+   "ru": true
   },
   {
    "off": 5174,
    "budget": 5,
-   "en": "Home"
+   "en": "Дом",
+   "en_src": "Home",
+   "ru": true
   },
   {
    "off": 5179,
    "budget": 9,
-   "en": "At home"
+   "en": "Дома",
+   "en_src": "At home",
+   "ru": true
   },
   {
    "off": 5188,
    "budget": 17,
-   "en": "Shower booth opn"
+   "en": "Душ открыт",
+   "en_src": "Shower booth opn",
+   "ru": true
   },
   {
    "off": 5205,
    "budget": 17,
-   "en": "Catherine search"
+   "en": "Поиск с Кэтрин",
+   "en_src": "Catherine search",
+   "ru": true
   },
   {
    "off": 5222,
    "budget": 11,
-   "en": "PostSearch"
+   "en": "П/поиска",
+   "en_src": "PostSearch",
+   "ru": true
   },
   {
    "off": 5233,
    "budget": 15,
-   "en": "Queen Hosp 1",
-   "long": "Queen Hospital 1"
+   "en": ".",
+   "en_src": "Queen Hosp 1",
+   "long_src": "Queen Hospital 1",
+   "ru": true,
+   "long": "Больница Куин 1"
   },
   {
    "off": 5248,
    "budget": 9,
-   "en": "At hosp"
+   "en": "В больн.",
+   "en_src": "At hosp",
+   "ru": true
   },
   {
    "off": 5257,
    "budget": 11,
-   "en": "Pre-Light"
+   "en": "До света",
+   "en_src": "Pre-Light",
+   "ru": true
   },
   {
    "off": 5268,
    "budget": 13,
-   "en": "ACT2 half2"
+   "en": "АКТ2 ч.2",
+   "en_src": "ACT2 half2",
+   "ru": true
   },
   {
    "off": 5281,
    "budget": 17,
-   "en": "Outer Heaven 2"
+   "en": "Аутер Хэвен 2",
+   "en_src": "Outer Heaven 2",
+   "ru": true
   },
   {
    "off": 5298,
    "budget": 5,
-   "en": "Shop"
+   "en": "Лавк",
+   "en_src": "Shop",
+   "ru": true
   },
   {
    "off": 5303,
    "budget": 17,
-   "en": "Pre-Benson guess"
+   "en": "До угадыв. Бенс",
+   "en_src": "Pre-Benson guess",
+   "ru": true
   },
   {
    "off": 5320,
    "budget": 15,
-   "en": "HQ empty"
+   "en": "Пустой штаб",
+   "en_src": "HQ empty",
+   "ru": true
   },
   {
    "off": 5335,
    "budget": 25,
-   "en": "Queen w/ Randam"
+   "en": "Куин с Рэндамом",
+   "en_src": "Queen w/ Randam",
+   "ru": true
   },
   {
    "off": 5360,
    "budget": 11,
-   "en": "Janken"
+   "en": "Цу-е-фа",
+   "en_src": "Janken",
+   "ru": true
   },
   {
    "off": 5371,
    "budget": 13,
-   "en": "OR gun 1"
+   "en": "Опер. стр 1",
+   "en_src": "OR gun 1",
+   "ru": true
   },
   {
    "off": 5384,
    "budget": 13,
-   "en": "OR gun 2"
+   "en": "Опер. стр 2",
+   "en_src": "OR gun 2",
+   "ru": true
   },
   {
    "off": 5397,
    "budget": 17,
-   "en": "Queen basement"
+   "en": "Подвал Куин",
+   "en_src": "Queen basement",
+   "ru": true
   },
   {
    "off": 5414,
    "budget": 11,
-   "en": "B1 hallway"
+   "en": "Коридор Б1",
+   "en_src": "B1 hallway",
+   "ru": true
   },
   {
    "off": 5425,
    "budget": 11,
-   "en": "B1 morgue"
+   "en": "Морг Б1",
+   "en_src": "B1 morgue",
+   "ru": true
   },
   {
    "off": 5436,
    "budget": 9,
-   "en": "Rebuild"
+   "en": "Восстан",
+   "en_src": "Rebuild",
+   "ru": true
   },
   {
    "off": 5445,
    "budget": 17,
-   "en": "What a shock!"
+   "en": "Вот так шок!",
+   "en_src": "What a shock!",
+   "ru": true
   },
   {
    "off": 5462,
    "budget": 7,
-   "en": "Chin 1"
+   "en": "Чин 1",
+   "en_src": "Chin 1",
+   "ru": true
   },
   {
    "off": 5469,
    "budget": 7,
-   "en": "Chin 2"
+   "en": "Чин 2",
+   "en_src": "Chin 2",
+   "ru": true
   },
   {
    "off": 5476,
    "budget": 17,
-   "en": "Tunnel and taxi"
+   "en": "Тоннель и такси",
+   "en_src": "Tunnel and taxi",
+   "ru": true
   },
   {
    "off": 5493,
    "budget": 5,
-   "en": "Maze"
+   "en": "Лаб.",
+   "en_src": "Maze",
+   "ru": true
   },
   {
    "off": 5498,
    "budget": 7,
-   "en": "Subway"
+   "en": "Метро",
+   "en_src": "Subway",
+   "ru": true
   },
   {
    "off": 5505,
    "budget": 15,
-   "en": "Freddy's bath"
+   "en": "Ванна Фредди",
+   "en_src": "Freddy's bath",
+   "ru": true
   },
   {
    "off": 5520,
    "budget": 9,
-   "en": "Taxi"
+   "en": "Такси",
+   "en_src": "Taxi",
+   "ru": true
   },
   {
    "off": 5529,
    "budget": 11,
-   "en": "Last HQ"
+   "en": "Посл.штаб",
+   "en_src": "Last HQ",
+   "ru": true
   },
   {
    "off": 5540,
    "budget": 9,
-   "en": "At HQ"
+   "en": "В штабе",
+   "en_src": "At HQ",
+   "ru": true
   },
   {
    "off": 5549,
    "budget": 11,
-   "en": "BoothOpen"
+   "en": "Кабина отк",
+   "en_src": "BoothOpen",
+   "ru": true
   },
   {
    "off": 5560,
    "budget": 11,
-   "en": "Harry dead"
+   "en": "Г. мёртв",
+   "en_src": "Harry dead",
+   "ru": true
   },
   {
    "off": 5571,
    "budget": 9,
-   "en": "Ceiling"
+   "en": "Потолок",
+   "en_src": "Ceiling",
+   "ru": true
   },
   {
    "off": 5580,
    "budget": 3,
-   "en": "1",
-   "long": "Before"
+   "en": "До",
+   "en_src": "1",
+   "long_src": "Before",
+   "ru": true
   },
   {
    "off": 5583,
    "budget": 3,
-   "en": "2",
-   "long": "After"
+   "en": ".",
+   "en_src": "2",
+   "long_src": "After",
+   "ru": true,
+   "long": "После"
   },
   {
    "off": 5586,
    "budget": 13,
-   "en": "Front Chief"
+   "en": "Шеф у входа",
+   "en_src": "Front Chief",
+   "ru": true
   },
   {
    "off": 5599,
    "budget": 13,
-   "en": "At front"
+   "en": "У входа",
+   "en_src": "At front",
+   "ru": true
   },
   {
    "off": 5612,
    "budget": 13,
-   "en": "Chief death"
+   "en": "Смерть шефа",
+   "en_src": "Chief death",
+   "ru": true
   },
   {
    "off": 5625,
    "budget": 9,
-   "en": "KidnpTEL"
+   "en": "Похищ.",
+   "en_src": "KidnpTEL",
+   "ru": true
   },
   {
    "off": 5634,
    "budget": 13,
-   "en": "ACT 3 start"
+   "en": "Начало АКТ3",
+   "en_src": "ACT 3 start",
+   "ru": true
   },
   {
    "off": 5647,
    "budget": 13,
-   "en": "Old man!"
+   "en": "Старик!",
+   "en_src": "Old man!",
+   "ru": true
   },
   {
    "off": 5660,
    "budget": 11,
-   "en": "Solved it!"
+   "en": "Разгадал!",
+   "en_src": "Solved it!",
+   "ru": true
   },
   {
    "off": 5671,
    "budget": 5,
-   "en": "Chur",
-   "long": "Church"
+   "en": ".",
+   "en_src": "Chur",
+   "long_src": "Church",
+   "ru": true,
+   "long": "Церковь"
   },
   {
    "off": 5676,
    "budget": 9,
-   "en": "ToChurch"
+   "en": "В церк.",
+   "en_src": "ToChurch",
+   "ru": true
   },
   {
    "off": 5685,
    "budget": 9,
-   "en": "AtChurch"
+   "en": "У церкви",
+   "en_src": "AtChurch",
+   "ru": true
   },
   {
    "off": 5694,
    "budget": 7,
-   "en": "Chapel"
+   "en": "Часовн",
+   "en_src": "Chapel",
+   "ru": true
   },
   {
    "off": 5701,
    "budget": 7,
-   "en": "Vault"
+   "en": "Склеп",
+   "en_src": "Vault",
+   "ru": true
   },
   {
    "off": 5708,
    "budget": 11,
-   "en": "Culture rm",
-   "long": "Culture room"
+   "en": ".",
+   "en_src": "Culture rm",
+   "long_src": "Culture room",
+   "ru": true,
+   "long": "Комната культивации"
   },
   {
    "off": 5719,
    "budget": 15,
-   "en": "At culture rm",
-   "long": "At the culture room"
+   "en": ".",
+   "en_src": "At culture rm",
+   "long_src": "At the culture room",
+   "ru": true,
+   "long": "В комнате культивации"
   },
   {
    "off": 5734,
    "budget": 13,
-   "en": "Snatch proc"
+   "en": "Снатчинг",
+   "en_src": "Snatch proc",
+   "ru": true
   },
   {
    "off": 5747,
    "budget": 17,
-   "en": "Boss Snatcher"
+   "en": "Главный снатчер",
+   "en_src": "Boss Snatcher",
+   "ru": true
   },
   {
    "off": 5764,
    "budget": 11,
-   "en": "Church bug"
+   "en": "Церк. жуки",
+   "en_src": "Church bug",
+   "ru": true
   },
   {
    "off": 5775,
    "budget": 13,
-   "en": "Church-Sna"
+   "en": "Церк. снатч",
+   "en_src": "Church-Sna",
+   "ru": true
   },
   {
    "off": 5788,
    "budget": 15,
-   "en": "Jamie reunion2"
+   "en": "Встр. Джейми 2",
+   "en_src": "Jamie reunion2",
+   "ru": true
   },
   {
    "off": 5803,
    "budget": 13,
-   "en": "Randam jar 1"
+   "en": "Рэндам бнк1",
+   "en_src": "Randam jar 1",
+   "ru": true
   },
   {
    "off": 5816,
    "budget": 15,
-   "en": "Jamie reunion"
+   "en": "Встреча Джейми",
+   "en_src": "Jamie reunion",
+   "ru": true
   },
   {
    "off": 5831,
    "budget": 9,
-   "en": "Army art"
+   "en": "Картина",
+   "en_src": "Army art",
+   "ru": true
   },
   {
    "off": 5840,
    "budget": 15,
-   "en": "You're CIA"
+   "en": "Ты из ЦРУ",
+   "en_src": "You're CIA",
+   "ru": true
   },
   {
    "off": 5855,
    "budget": 11,
-   "en": "Elijah 1"
+   "en": "Элайджа 1",
+   "en_src": "Elijah 1",
+   "ru": true
   },
   {
    "off": 5866,
    "budget": 13,
-   "en": "Elijah 2"
+   "en": "Элайджа 2",
+   "en_src": "Elijah 2",
+   "ru": true
   },
   {
    "off": 5879,
    "budget": 7,
-   "en": "Politi"
+   "en": "Политк",
+   "en_src": "Politi",
+   "ru": true
   },
   {
    "off": 5886,
    "budget": 17,
-   "en": "What's this?!"
+   "en": "Что это?!",
+   "en_src": "What's this?!",
+   "ru": true
   },
   {
    "off": 5903,
    "budget": 13,
-   "en": "Randam jar 2"
+   "en": "Рэндам бнк2",
+   "en_src": "Randam jar 2",
+   "ru": true
   },
   {
    "off": 5916,
    "budget": 15,
-   "en": "Randam jarred"
+   "en": "Рэндам в банке",
+   "en_src": "Randam jarred",
+   "ru": true
   },
   {
    "off": 5931,
    "budget": 17,
-   "en": "Silly scene 71"
+   "en": "Глупая сцена 71",
+   "en_src": "Silly scene 71",
+   "ru": true
   },
   {
    "off": 5948,
    "budget": 11,
-   "en": "Scene 76"
+   "en": "Сцена 76",
+   "en_src": "Scene 76",
+   "ru": true
   },
   {
    "off": 5959,
    "budget": 13,
-   "en": "Bra shot"
+   "en": "Выстр. в лиф",
+   "en_src": "Bra shot",
+   "ru": true
   },
   {
    "off": 5972,
    "budget": 13,
-   "en": "Randam runs"
+   "en": "Рэндам бежит",
+   "en_src": "Randam runs",
+   "ru": true
   },
   {
    "off": 5985,
    "budget": 9,
-   "en": "Sorry"
+   "en": "Прости",
+   "en_src": "Sorry",
+   "ru": true
   },
   {
    "off": 5994,
    "budget": 9,
-   "en": "For Asa."
+   "en": "Для Аса",
+   "en_src": "For Asa.",
+   "ru": true
   },
   {
    "off": 6003,
    "budget": 7,
-   "en": "RnFace"
+   "en": "ЛицоР",
+   "en_src": "RnFace",
+   "ru": true
   },
   {
    "off": 6010,
    "budget": 11,
-   "en": "As thought"
+   "en": "Так и есть",
+   "en_src": "As thought",
+   "ru": true
   },
   {
    "off": 6021,
    "budget": 9,
-   "en": "Backward"
+   "en": "Наоборот",
+   "en_src": "Backward",
+   "ru": true
   },
   {
    "off": 6030,
    "budget": 13,
-   "en": "Is he dead?"
+   "en": "Он мёртв?",
+   "en_src": "Is he dead?",
+   "ru": true
   },
   {
    "off": 6043,
    "budget": 15,
-   "en": "Summit over?"
+   "en": "Саммит прошёл?",
+   "en_src": "Summit over?",
+   "ru": true
   },
   {
    "off": 6058,
    "budget": 19,
-   "en": "What of summit"
+   "en": "Что с саммитом",
+   "en_src": "What of summit",
+   "ru": true
   },
   {
    "off": 6077,
    "budget": 11,
-   "en": "Last 2"
+   "en": "Финал 2",
+   "en_src": "Last 2",
+   "ru": true
   },
   {
    "off": 6088,
    "budget": 7,
-   "en": "End"
+   "en": "Конец",
+   "en_src": "End",
+   "ru": true
   },
   {
    "off": 6095,
    "budget": 13,
-   "en": "ACT1 range"
+   "en": "АКТ1 тир",
+   "en_src": "ACT1 range",
+   "ru": true
   },
   {
    "off": 6108,
    "budget": 11,
-   "en": "HQ drill 1"
+   "en": "Штаб трен1",
+   "en_src": "HQ drill 1",
+   "ru": true
   },
   {
    "off": 6119,
    "budget": 9,
-   "en": "PlantGun"
+   "en": "Зав.стр",
+   "en_src": "PlantGun",
+   "ru": true
   },
   {
    "off": 6128,
    "budget": 11,
-   "en": "HQ drill 2"
+   "en": "Штаб трен2",
+   "en_src": "HQ drill 2",
+   "ru": true
   },
   {
    "off": 6139,
    "budget": 7,
-   "en": "Ivan"
+   "en": "Иван",
+   "en_src": "Ivan",
+   "ru": true
   },
   {
    "off": 6146,
    "budget": 7,
-   "en": "PostGn"
+   "en": "П/стр",
+   "en_src": "PostGn",
+   "ru": true
   },
   {
    "off": 6153,
    "budget": 5,
-   "en": "Lisa"
+   "en": "Лиза",
+   "en_src": "Lisa",
+   "ru": true
   },
   {
    "off": 6158,
    "budget": 9,
-   "en": "Freddy"
+   "en": "Фредди",
+   "en_src": "Freddy",
+   "ru": true
   },
   {
    "off": 6167,
    "budget": 13,
-   "en": "ACT2 range"
+   "en": "АКТ2 тир",
+   "en_src": "ACT2 range",
+   "ru": true
   },
   {
    "off": 6180,
    "budget": 9,
-   "en": "HQ drill"
+   "en": "Штаб трн",
+   "en_src": "HQ drill",
+   "ru": true
   },
   {
    "off": 6189,
    "budget": 13,
-   "en": "Queen Hosp",
-   "long": "Queen Hospital"
+   "en": ".",
+   "en_src": "Queen Hosp",
+   "long_src": "Queen Hospital",
+   "ru": true,
+   "long": "Больница Куин"
   },
   {
    "off": 6202,
    "budget": 17,
-   "en": "Queen OR 1"
+   "en": "Куин операц. 1",
+   "en_src": "Queen OR 1",
+   "ru": true
   },
   {
    "off": 6219,
    "budget": 17,
-   "en": "Queen OR 2"
+   "en": "Куин операц. 2",
+   "en_src": "Queen OR 2",
+   "ru": true
   },
   {
    "off": 6236,
    "budget": 9,
-   "en": "MazeBugW"
+   "en": "Жуки сл.",
+   "en_src": "MazeBugW",
+   "ru": true
   },
   {
    "off": 6245,
    "budget": 9,
-   "en": "MazeBugS"
+   "en": "Жуки сил",
+   "en_src": "MazeBugS",
+   "ru": true
   },
   {
    "off": 6254,
    "budget": 17,
-   "en": "Taxi man Chin"
+   "en": "Таксист Чин",
+   "en_src": "Taxi man Chin",
+   "ru": true
   },
   {
    "off": 6271,
    "budget": 13,
-   "en": "ACT3 range"
+   "en": "АКТ3 тир",
+   "en_src": "ACT3 range",
+   "ru": true
   },
   {
    "off": 6284,
    "budget": 7,
-   "en": "ChBug"
+   "en": "Ц.жуки",
+   "en_src": "ChBug",
+   "ru": true
   },
   {
    "off": 6291,
    "budget": 9,
-   "en": "ChSnatch"
+   "en": "Ц.снатч",
+   "en_src": "ChSnatch",
+   "ru": true
   },
   {
    "off": 6300,
    "budget": 53,
-   "en": "Hey! Petrovich here!￥Let's be friends!"
+   "en": "Привет! Петрович на связи!￥Давай дружить!",
+   "en_src": "Hey! Petrovich here!￥Let's be friends!",
+   "ru": true
   },
   {
    "off": 6353,
    "budget": 47,
-   "en": "From here you can call almost￥anywhere."
+   "en": "Отсюда можно позвонить почти куда￥угодно.",
+   "en_src": "From here you can call almost￥anywhere.",
+   "ru": true
   },
   {
    "off": 6400,
    "budget": 63,
-   "en": "But choosing 'hang up' once may stop￥it, so beware!"
+   "en": ".",
+   "en_src": "But choosing 'hang up' once may stop￥it, so beware!",
+   "ru": true,
+   "long": "Но если раз выбрать 'положить￥трубку', всё может встать, так что￥берегись!"
   },
   {
    "off": 6463,
    "budget": 79,
-   "en": "EroJemi and OutJamie are for Araki,￥so everyone else please ignore them!"
+   "en": "ЭроДжейми и ДжеймиГулять - для￥Араки, остальные не обращайте￥внимания!",
+   "en_src": "EroJemi and OutJamie are for Araki,￥so everyone else please ignore them!",
+   "ru": true
   },
   {
    "off": 6542,
    "budget": 31,
-   "en": "Whew, I'm bushed. Night!"
+   "en": "Уф, я выдохся. Спокойной ночи!",
+   "en_src": "Whew, I'm bushed. Night!",
+   "ru": true
   },
   {
    "off": 6573,
    "budget": 11,
-   "en": "For ACT1"
+   "en": "Для АКТ1",
+   "en_src": "For ACT1",
+   "ru": true
   },
   {
    "off": 6584,
    "budget": 11,
-   "en": "For ACT2"
+   "en": "Для АКТ2",
+   "en_src": "For ACT2",
+   "ru": true
   },
   {
    "off": 6595,
    "budget": 11,
-   "en": "EroJemi"
+   "en": "ЭроДжейми",
+   "en_src": "EroJemi",
+   "ru": true
   },
   {
    "off": 6606,
    "budget": 17,
-   "en": "OutJamie"
+   "en": "ДжеймиГулять",
+   "en_src": "OutJamie",
+   "ru": true
   },
   {
    "off": 6623,
    "budget": 15,
-   "en": "VRAM anim"
+   "en": "Аним. VRAM",
+   "en_src": "VRAM anim",
+   "ru": true
   },
   {
    "off": 6638,
    "budget": 9,
-   "en": "To plant"
+   "en": "На завод",
+   "en_src": "To plant",
+   "ru": true
   },
   {
    "off": 6647,
    "budget": 9,
-   "en": "Normal"
+   "en": "Обычный",
+   "en_src": "Normal",
+   "ru": true
   },
   {
    "off": 6656,
    "budget": 67,
-   "en": "I'll drop you at Gillian's place;￥choose 'get in car' there!"
+   "en": "Отведу тебя к дому Гиллиана, там￥выбирай 'сесть в машину'!",
+   "en_src": "I'll drop you at Gillian's place;￥choose 'get in car' there!",
+   "ru": true
   },
   {
    "off": 6723,
    "budget": 9,
-   "en": "Fr. Mika"
+   "en": "От Мики",
+   "en_src": "Fr. Mika",
+   "ru": true
   },
   {
    "off": 6732,
    "budget": 9,
-   "en": "From TEL"
+   "en": "От звонк",
+   "en_src": "From TEL",
+   "ru": true
   },
   {
    "off": 6741,
    "budget": 7,
-   "en": "PstTEL"
+   "en": "П/звон",
+   "en_src": "PstTEL",
+   "ru": true
   },
   {
    "off": 6748,
    "budget": 9,
-   "en": "HotHot"
+   "en": "Горячо",
+   "en_src": "HotHot",
+   "ru": true
   },
   {
    "off": 6757,
    "budget": 5,
-   "en": "Boom"
+   "en": "Взрв",
+   "en_src": "Boom",
+   "ru": true
   },
   {
    "off": 6762,
    "budget": 13,
-   "en": "Montage"
+   "en": "Монтаж",
+   "en_src": "Montage",
+   "ru": true
   },
   {
    "off": 6777,

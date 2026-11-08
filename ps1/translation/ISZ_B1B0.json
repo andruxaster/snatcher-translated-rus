@@ -10,278 +10,396 @@
   {
    "off": 2720,
    "budget": 59,
-   "en": "This is...￥the ＠黄Oleen Hospital＠白 Napoleon spoke of.",
-   "long": "This is ＠黄Oleen Hospital＠白, the place￥Napoleon told us about."
+   "en": ".",
+   "en_src": "This is...￥the ＠黄Oleen Hospital＠白 Napoleon spoke of.",
+   "long_src": "This is ＠黄Oleen Hospital＠白, the place￥Napoleon told us about.",
+   "ru": true,
+   "long": "Вот она, ＠黄больница \"Олин\"＠白, о￥которой говорил Наполеон."
   },
   {
    "off": 2779,
    "budget": 33,
-   "en": "＠黄Oleen Hospital＠白."
+   "en": "＠黄Больница \"Олин\"＠白.",
+   "en_src": "＠黄Oleen Hospital＠白.",
+   "ru": true
   },
   {
    "off": 2812,
    "budget": 87,
-   "en": "Could this be the Snatcher￥maintenance hospital Gibson￥mentioned?"
+   "en": "Неужели это и есть та больница, где обслуживают снатчеров, о которой говорил Гибсон?",
+   "en_src": "Could this be the Snatcher￥maintenance hospital Gibson￥mentioned?",
+   "ru": true
   },
   {
    "off": 2899,
    "budget": 5,
-   "en": "Move"
+   "en": "Идти",
+   "en_src": "Move",
+   "ru": true
   },
   {
    "off": 2904,
    "budget": 9,
-   "en": "Get in",
-   "long": "Board Tricycle"
+   "en": ".",
+   "en_src": "Get in",
+   "long_src": "Board Tricycle",
+   "ru": true,
+   "long": "Сесть в трицикл"
   },
   {
    "off": 2913,
    "budget": 9,
-   "en": "Go in",
-   "long": "Go inside"
+   "en": ".",
+   "en_src": "Go in",
+   "long_src": "Go inside",
+   "ru": true,
+   "long": "Войти внутрь"
   },
   {
    "off": 2922,
    "budget": 47,
-   "en": "The hospital door.￥Shall I open it now?",
-   "long": "This is the hospital door. I'll open￥it. Ready?"
+   "en": "Это дверь больницы. Я открываю.￥Готов?",
+   "en_src": "The hospital door.￥Shall I open it now?",
+   "long_src": "This is the hospital door. I'll open￥it. Ready?",
+   "ru": true
   },
   {
    "off": 2969,
    "budget": 21,
-   "en": "Go ahead!"
+   "en": "Давай, открывай!",
+   "en_src": "Go ahead!",
+   "ru": true
   },
   {
    "off": 2990,
    "budget": 5,
-   "en": "Look"
+   "en": "Вид",
+   "en_src": "Look",
+   "ru": true
   },
   {
    "off": 2995,
    "budget": 5,
-   "en": "Bldg",
-   "long": "Building"
+   "en": ".",
+   "en_src": "Bldg",
+   "long_src": "Building",
+   "ru": true,
+   "long": "Здание"
   },
   {
    "off": 3000,
    "budget": 61,
-   "en": "A neon sign on the roof.￥The entrance is at the front.",
-   "long": "There's a neon sign on the roof. The￥entrance seems to be at the front."
+   "en": "На крыше неоновая вывеска. Вход,￥похоже, с фасада.",
+   "en_src": "A neon sign on the roof.￥The entrance is at the front.",
+   "long_src": "There's a neon sign on the roof. The￥entrance seems to be at the front.",
+   "ru": true
   },
   {
    "off": 3061,
    "budget": 37,
-   "en": "Looks every inch a black clinic.",
-   "long": "It certainly looks like an￥underground clinic."
+   "en": "Ну точно подпольная клиника.",
+   "en_src": "Looks every inch a black clinic.",
+   "long_src": "It certainly looks like an￥underground clinic.",
+   "ru": true
   },
   {
    "off": 3098,
    "budget": 5,
-   "en": "Sign"
+   "en": "Знак",
+   "en_src": "Sign",
+   "ru": true
   },
   {
    "off": 3103,
    "budget": 47,
-   "en": "What sort of hospital?￥Nothing is written.",
-   "long": "What kind of hospital is this? It￥doesn't say."
+   "en": "Что это за больница? Ничего не￥написано.",
+   "en_src": "What sort of hospital?￥Nothing is written.",
+   "long_src": "What kind of hospital is this? It￥doesn't say.",
+   "ru": true
   },
   {
    "off": 3150,
    "budget": 25,
-   "en": "It's a black clinic...",
-   "long": "Probably because it's illegal."
+   "en": ".",
+   "en_src": "It's a black clinic...",
+   "long_src": "Probably because it's illegal.",
+   "ru": true,
+   "long": "Наверное, потому, что она￥нелегальная."
   },
   {
    "off": 3175,
    "budget": 61,
-   "en": "No proper signage.￥Not a registered hospital.",
-   "long": "There are no proper signs. It￥probably isn't a licensed hospital."
+   "en": ".",
+   "en_src": "No proper signage.￥Not a registered hospital.",
+   "long_src": "There are no proper signs. It￥probably isn't a licensed hospital.",
+   "ru": true,
+   "long": "Нормальных вывесок нет. Скорее￥всего, у больницы нет лицензии."
   },
   {
    "off": 3236,
    "budget": 3,
-   "en": "Wn",
-   "long": "Window"
+   "en": ".",
+   "en_src": "Wn",
+   "long_src": "Window",
+   "ru": true,
+   "long": "Окно"
   },
   {
    "off": 3239,
    "budget": 67,
-   "en": "Lights are on.￥Figures too...￥In consultation, it seems.",
-   "long": "The lights are on. I can see people￥inside. They seem to be seeing￥patients."
+   "en": "Свет горит. Внутри видны люди.￥Похоже, идёт приём.",
+   "en_src": "Lights are on.￥Figures too...￥In consultation, it seems.",
+   "long_src": "The lights are on. I can see people￥inside. They seem to be seeing￥patients.",
+   "ru": true
   },
   {
    "off": 3306,
    "budget": 33,
-   "en": "They appear to be open."
+   "en": "Похоже, они открыты.",
+   "en_src": "They appear to be open.",
+   "ru": true
   },
   {
    "off": 3339,
    "budget": 7,
-   "en": "Around"
+   "en": "Вокруг",
+   "en_src": "Around",
+   "ru": true
   },
   {
    "off": 3346,
    "budget": 63,
-   "en": "A bit off the slum, but this￥is no brighter either.",
-   "long": "We're a little way from the slums,￥but this place isn't much better."
+   "en": "Трущобы немного в стороне, но и￥здесь не лучше.",
+   "en_src": "A bit off the slum, but this￥is no brighter either.",
+   "long_src": "We're a little way from the slums,￥but this place isn't much better.",
+   "ru": true
   },
   {
    "off": 3409,
    "budget": 33,
-   "en": "Illegal parking blocks the road.",
-   "long": "Illegally parked cars are blocking￥the road."
+   "en": ".",
+   "en_src": "Illegal parking blocks the road.",
+   "long_src": "Illegally parked cars are blocking￥the road.",
+   "ru": true,
+   "long": "Дорогу загородили неправильно￥припаркованные машины."
   },
   {
    "off": 3442,
    "budget": 37,
-   "en": "Not abandoned. Parked, it seems.",
-   "long": "The cars seem to be parked, rather￥than abandoned."
+   "en": ".",
+   "en_src": "Not abandoned. Parked, it seems.",
+   "long_src": "The cars seem to be parked, rather￥than abandoned.",
+   "ru": true,
+   "long": "Машины, похоже, припаркованы, а не￥брошены."
   },
   {
    "off": 3479,
    "budget": 43,
-   "en": "Not scrap, so patients' cars,￥I'd guess.",
-   "long": "If they're not scrap, they must￥belong to patients."
+   "en": ".",
+   "en_src": "Not scrap, so patients' cars,￥I'd guess.",
+   "long_src": "If they're not scrap, they must￥belong to patients.",
+   "ru": true,
+   "long": "Раз это не металлолом, значит,￥машины пациентов."
   },
   {
    "off": 3522,
    "budget": 59,
-   "en": "Many fine cars.￥The patients' here, perhaps?",
-   "long": "Lots of expensive cars. Do they￥belong to people visiting this￥hospital?"
+   "en": "Сколько дорогих машин. Это тех, кто￥пришёл в больницу?",
+   "en_src": "Many fine cars.￥The patients' here, perhaps?",
+   "long_src": "Lots of expensive cars. Do they￥belong to people visiting this￥hospital?",
+   "ru": true
   },
   {
    "off": 3581,
    "budget": 13,
-   "en": "Neon sign"
+   "en": "Вывеска",
+   "en_src": "Neon sign",
+   "ru": true
   },
   {
    "off": 3594,
    "budget": 75,
-   "en": "It says Oleen Hospital. HOSPITAL￥OLEEN."
+   "en": "Написано: больница \"Олин\". HOSPITAL￥OLEEN.",
+   "en_src": "It says Oleen Hospital. HOSPITAL￥OLEEN.",
+   "ru": true
   },
   {
    "off": 3669,
    "budget": 37,
-   "en": "What? ＠黄Oleen＠白 Hospital?"
+   "en": "Что? Больница ＠黄\"Олин\"＠白?",
+   "en_src": "What? ＠黄Oleen＠白 Hospital?",
+   "ru": true
   },
   {
    "off": 3706,
    "budget": 37,
-   "en": "Is this place really the hospital?",
-   "long": "Are you sure this is the right￥hospital?"
+   "en": ".",
+   "en_src": "Is this place really the hospital?",
+   "long_src": "Are you sure this is the right￥hospital?",
+   "ru": true,
+   "long": "Ты уверен, что это та самая￥больница?"
   },
   {
    "off": 3743,
    "budget": 3,
-   "en": "Dr",
-   "long": "Door"
+   "en": ".",
+   "en_src": "Dr",
+   "long_src": "Door",
+   "ru": true,
+   "long": "Дверь"
   },
   {
    "off": 3746,
    "budget": 23,
-   "en": "A double auto door.",
-   "long": "It's an automatic double door."
+   "en": ".",
+   "en_src": "A double auto door.",
+   "long_src": "It's an automatic double door.",
+   "ru": true,
+   "long": "Двустворчатая автоматическая дверь."
   },
   {
    "off": 3769,
    "budget": 47,
-   "en": "The inside shows faintly.￥Warm within.",
-   "long": "I can just see inside. It looks warm￥in there."
+   "en": "Немного видно, что внутри. Кажется, там тепло.",
+   "en_src": "The inside shows faintly.￥Warm within.",
+   "long_src": "I can just see inside. It looks warm￥in there.",
+   "ru": true
   },
   {
    "off": 3816,
    "budget": 7,
-   "en": "Check",
-   "long": "Investigate"
+   "en": ".",
+   "en_src": "Check",
+   "long_src": "Investigate",
+   "ru": true,
+   "long": "Изучить"
   },
   {
    "off": 3823,
    "budget": 37,
-   "en": "Odd cries come from the building.",
-   "long": "I hear strange animal cries from￥inside."
+   "en": ".",
+   "en_src": "Odd cries come from the building.",
+   "long_src": "I hear strange animal cries from￥inside.",
+   "ru": true,
+   "long": "Изнутри слышны странные звериные￥крики."
   },
   {
    "off": 3860,
    "budget": 33,
-   "en": "Wire mesh over windows and gaps.",
-   "long": "Wire mesh covers the windows and￥gaps."
+   "en": ".",
+   "en_src": "Wire mesh over windows and gaps.",
+   "long_src": "Wire mesh covers the windows and￥gaps.",
+   "ru": true,
+   "long": "Окна и щели закрыты проволочной￥сеткой."
   },
   {
    "off": 3893,
    "budget": 29,
-   "en": "Stout wire mesh.",
-   "long": "There's sturdy wire mesh over them."
+   "en": ".",
+   "en_src": "Stout wire mesh.",
+   "long_src": "There's sturdy wire mesh over them.",
+   "ru": true,
+   "long": "На них прочная проволочная сетка."
   },
   {
    "off": 3922,
    "budget": 47,
-   "en": "We'd find out more by going inside."
+   "en": "Внутри мы узнали бы больше.",
+   "en_src": "We'd find out more by going inside.",
+   "ru": true
   },
   {
    "off": 3969,
    "budget": 43,
-   "en": "Small-animal droppings all￥over the road.",
-   "long": "The street is covered in droppings￥and urine from small animals."
+   "en": ".",
+   "en_src": "Small-animal droppings all￥over the road.",
+   "long_src": "The street is covered in droppings￥and urine from small animals.",
+   "ru": true,
+   "long": "Улица усеяна помётом и лужами мочи￥мелких зверей."
   },
   {
    "off": 4012,
    "budget": 57,
-   "en": "I don't see anyone. A lonely place￥for a hospital."
+   "en": "Никого не видно. Унылое место для￥больницы.",
+   "en_src": "I don't see anyone. A lonely place￥for a hospital.",
+   "ru": true
   },
   {
    "off": 4069,
    "budget": 63,
-   "en": "It doesn't look quite like the neon￥sign in that memory."
+   "en": "Не очень похоже на вывеску из той￥памяти.",
+   "en_src": "It doesn't look quite like the neon￥sign in that memory.",
+   "ru": true
   },
   {
    "off": 4132,
    "budget": 31,
-   "en": "Is this the only neon?",
-   "long": "Is this the only neon sign around?"
+   "en": ".",
+   "en_src": "Is this the only neon?",
+   "long_src": "Is this the only neon sign around?",
+   "ru": true,
+   "long": "Тут что, только одна неоновая￥вывеска?"
   },
   {
    "off": 4163,
    "budget": 69,
-   "en": "Odd?￥Not infrared. An old pressure￥sensor, it seems.",
-   "long": "Strange. The door seems to use an￥old pressure sensor instead of￥infrared."
+   "en": ".",
+   "en_src": "Odd?￥Not infrared. An old pressure￥sensor, it seems.",
+   "long_src": "Strange. The door seems to use an￥old pressure sensor instead of￥infrared.",
+   "ru": true,
+   "long": "Странно. Дверь работает на старом￥датчике давления, а не на￥инфракрасном."
   },
   {
    "off": 4232,
    "budget": 45,
-   "en": "So it's open for business,￥and boldly so.",
-   "long": "So they're openly doing business.￥Pretty bold."
+   "en": "Значит, работают в открытую. Нагло.",
+   "en_src": "So it's open for business,￥and boldly so.",
+   "long_src": "So they're openly doing business.￥Pretty bold.",
+   "ru": true
   },
   {
    "off": 4277,
    "budget": 45,
-   "en": "Not locked.￥It opens as you near it.",
-   "long": "It's unlocked. It will open when we￥approach."
+   "en": "Не заперто. Откроется, когда￥подойдём.",
+   "en_src": "Not locked.￥It opens as you near it.",
+   "long_src": "It's unlocked. It will open when we￥approach.",
+   "ru": true
   },
   {
    "off": 4322,
    "budget": 11,
-   "en": "Smell"
+   "en": "Нюхать",
+   "en_src": "Smell",
+   "ru": true
   },
   {
    "off": 4333,
    "budget": 61,
-   "en": "It smells more like animal waste￥than a hospital."
+   "en": "Пахнет скорее звериным навозом, чем￥больницей.",
+   "en_src": "It smells more like animal waste￥than a hospital.",
+   "ru": true
   },
   {
    "off": 4394,
    "budget": 63,
-   "en": "We won't know until we go inside. Be￥careful, Gillian."
+   "en": "Не войдём - не узнаем. Будь￥осторожен, Гиллиан.",
+   "en_src": "We won't know until we go inside. Be￥careful, Gillian.",
+   "ru": true
   },
   {
    "off": 4457,
    "budget": 19,
-   "en": "It does reek..."
+   "en": "Ну и вонища...",
+   "en_src": "It does reek...",
+   "ru": true
   },
   {
    "off": 4476,
    "budget": 41,
-   "en": "Yes,￥this is an animal smell.",
-   "long": "Yes. It does appear to be an animal￥smell."
+   "en": "Да. Похоже, это запах животных.",
+   "en_src": "Yes,￥this is an animal smell.",
+   "long_src": "Yes. It does appear to be an animal￥smell.",
+   "ru": true
   },
   {
    "off": 4517,
@@ -291,759 +409,1087 @@
   {
    "off": 4530,
    "budget": 37,
-   "en": "My odor sensor can't identify it."
+   "en": ".",
+   "en_src": "My odor sensor can't identify it.",
+   "ru": true,
+   "long": "Мой датчик запаха не может его￥определить."
   },
   {
    "off": 4567,
    "budget": 5,
-   "en": "Item"
+   "en": "Вещи",
+   "en_src": "Item",
+   "ru": true
   },
   {
    "off": 4572,
    "budget": 15,
-   "en": "Use Metal Gear"
+   "en": "Исп. Метал Гир",
+   "en_src": "Use Metal Gear",
+   "ru": true
   },
   {
    "off": 4587,
    "budget": 13,
-   "en": "Videophone"
+   "en": "Видеофон",
+   "en_src": "Videophone",
+   "ru": true
   },
   {
    "off": 4600,
    "budget": 33,
-   "en": "Let's investigate inside first."
+   "en": "Сначала осмотрим всё внутри.",
+   "en_src": "Let's investigate inside first.",
+   "ru": true
   },
   {
    "off": 4633,
    "budget": 31,
-   "en": "Can the videophone wait?"
+   "en": "Может, видеофон подождёт?",
+   "en_src": "Can the videophone wait?",
+   "ru": true
   },
   {
    "off": 4664,
    "budget": 11,
-   "en": "Save"
+   "en": "Сохранить",
+   "en_src": "Save",
+   "ru": true
   },
   {
    "off": 4675,
    "budget": 37,
-   "en": "I'll save our progress so far."
+   "en": "Сохраняю наш прогресс.",
+   "en_src": "I'll save our progress so far.",
+   "ru": true
   },
   {
    "off": 4712,
    "budget": 43,
-   "en": "Gillian, we can't turn back now.",
-   "long": "We've come this far, Gillian. We￥shouldn't leave now."
+   "en": ".",
+   "en_src": "Gillian, we can't turn back now.",
+   "long_src": "We've come this far, Gillian. We￥shouldn't leave now.",
+   "ru": true,
+   "long": "Мы зашли так далеко, Гиллиан. Нельзя￥сейчас уходить."
   },
   {
    "off": 4755,
    "budget": 31,
-   "en": "Let's get to the bottom of it.",
-   "long": "Let's find out what this hospital￥really is."
+   "en": ".",
+   "en_src": "Let's get to the bottom of it.",
+   "long_src": "Let's find out what this hospital￥really is.",
+   "ru": true,
+   "long": "Давай выясним, что это за больница￥на самом деле."
   },
   {
    "off": 4786,
    "budget": 33,
-   "en": "Let's ask the patients here.",
-   "long": "Let's talk to the hospital's￥visitors."
+   "en": ".",
+   "en_src": "Let's ask the patients here.",
+   "long_src": "Let's talk to the hospital's￥visitors.",
+   "ru": true,
+   "long": "Давай поговорим с посетителями￥больницы."
   },
   {
    "off": 4819,
    "budget": 41,
-   "en": "Why not show them Little￥John's memory?",
-   "long": "Why not show them Little John's￥memory?"
+   "en": "Может, покажем им память Литл Джона?",
+   "en_src": "Why not show them Little￥John's memory?",
+   "long_src": "Why not show them Little John's￥memory?",
+   "ru": true
   },
   {
    "off": 4860,
    "budget": 27,
-   "en": "Let's find reception."
+   "en": "Давай найдём регистратуру.",
+   "en_src": "Let's find reception.",
+   "ru": true
   },
   {
    "off": 4887,
    "budget": 45,
-   "en": "In the hospital.￥...The front desk.",
-   "long": "We're inside the hospital. This￥looks like reception."
+   "en": "Мы в больнице. Похоже, это￥регистратура.",
+   "en_src": "In the hospital.￥...The front desk.",
+   "long_src": "We're inside the hospital. This￥looks like reception.",
+   "ru": true
   },
   {
    "off": 4932,
    "budget": 9,
-   "en": "Go out"
+   "en": "Выйти",
+   "en_src": "Go out",
+   "ru": true
   },
   {
    "off": 4941,
    "budget": 5,
-   "en": "Room",
-   "long": "Inside"
+   "en": ".",
+   "en_src": "Room",
+   "long_src": "Inside",
+   "ru": true,
+   "long": "Внутри"
   },
   {
    "off": 4946,
    "budget": 35,
-   "en": "This space seems a waiting room.",
-   "long": "This appears to be the waiting room."
+   "en": "Похоже, это приёмная.",
+   "en_src": "This space seems a waiting room.",
+   "long_src": "This appears to be the waiting room.",
+   "ru": true
   },
   {
    "off": 4981,
    "budget": 33,
-   "en": "Smaller than I thought.",
-   "long": "The hospital seems smaller than I￥expected."
+   "en": "Больница меньше, чем я думал.",
+   "en_src": "Smaller than I thought.",
+   "long_src": "The hospital seems smaller than I￥expected.",
+   "ru": true
   },
   {
    "off": 5014,
    "budget": 13,
-   "en": "Passersby"
+   "en": "Люди вокруг",
+   "en_src": "Passersby",
+   "ru": true
   },
   {
    "off": 5027,
    "budget": 35,
-   "en": "Hm? They all hold small animals.",
-   "long": "Huh? Everyone's holding a small￥animal."
+   "en": ".",
+   "en_src": "Hm? They all hold small animals.",
+   "long_src": "Huh? Everyone's holding a small￥animal.",
+   "ru": true,
+   "long": "А? У всех на руках маленькие￥зверьки."
   },
   {
    "off": 5062,
    "budget": 61,
-   "en": "All with small animals.￥They look quite well off.",
-   "long": "They all have small animals with￥them. They look quite wealthy."
+   "en": ".",
+   "en_src": "All with small animals.￥They look quite well off.",
+   "long_src": "They all have small animals with￥them. They look quite wealthy.",
+   "ru": true,
+   "long": "У всех с собой маленькие зверьки.￥Люди, похоже, состоятельные."
   },
   {
    "off": 5123,
    "budget": 5,
-   "en": "Desk",
-   "long": "Reception"
+   "en": ".",
+   "en_src": "Desk",
+   "long_src": "Reception",
+   "ru": true,
+   "long": "Регистратура"
   },
   {
    "off": 5128,
    "budget": 55,
-   "en": "There's a receptionist registering￥patients."
+   "en": "Регистраторша записывает пациентов.",
+   "en_src": "There's a receptionist registering￥patients.",
+   "ru": true
   },
   {
    "off": 5183,
    "budget": 27,
-   "en": "Insurance covers it...",
-   "long": "Looks like they take insurance."
+   "en": ".",
+   "en_src": "Insurance covers it...",
+   "long_src": "Looks like they take insurance.",
+   "ru": true,
+   "long": "Похоже, страховку тут принимают."
   },
   {
    "off": 5210,
    "budget": 31,
-   "en": "Not a black clinic, then...",
-   "long": "This doesn't seem to be an illegal￥clinic."
+   "en": ".",
+   "en_src": "Not a black clinic, then...",
+   "long_src": "This doesn't seem to be an illegal￥clinic.",
+   "ru": true,
+   "long": "На подпольную клинику не похоже."
   },
   {
    "off": 5241,
    "budget": 31,
-   "en": "Taking consultations.",
-   "long": "She appears to be checking in￥patients."
+   "en": ".",
+   "en_src": "Taking consultations.",
+   "long_src": "She appears to be checking in￥patients.",
+   "ru": true,
+   "long": "Она, похоже, записывает пациентов на￥приём."
   },
   {
    "off": 5272,
    "budget": 7,
-   "en": "Animal",
-   "long": "Small animals"
+   "en": ".",
+   "en_src": "Animal",
+   "long_src": "Small animals",
+   "ru": true,
+   "long": "Зверьки"
   },
   {
    "off": 5279,
    "budget": 7,
-   "en": "Parrot"
+   "en": "Птица",
+   "en_src": "Parrot",
+   "ru": true
   },
   {
    "off": 5286,
    "budget": 61,
-   "en": "A ＠黄'big-capacity Parrot'＠白￥with expanded word memory.",
-   "long": "It's a ＠黄High-Capacity Parrot＠白, bred￥to remember more words."
+   "en": ".",
+   "en_src": "A ＠黄'big-capacity Parrot'＠白￥with expanded word memory.",
+   "long_src": "It's a ＠黄High-Capacity Parrot＠白, bred￥to remember more words.",
+   "ru": true,
+   "long": "Это ＠黄попугай повышенной ёмкости＠白,￥выведенный, чтобы запоминать больше￥слов."
   },
   {
    "off": 5347,
    "budget": 63,
-   "en": "A breed used for playback when￥learning English and such.",
-   "long": "They were often used to repeat￥English lessons and other material￥people wanted to memorize."
+   "en": ".",
+   "en_src": "A breed used for playback when￥learning English and such.",
+   "long_src": "They were often used to repeat￥English lessons and other material￥people wanted to memorize.",
+   "ru": true,
+   "long": "Их часто держали, чтобы повторять￥уроки английского и всё, что людям￥надо было зазубрить."
   },
   {
    "off": 5410,
    "budget": 73,
-   "en": "It's saying something very￥private.￥Come to have its memory wiped.",
-   "long": "It's saying some very personal￥things. They probably brought it to￥have its memory erased."
+   "en": "Он говорит очень личные вещи.￥Наверное, его принесли стереть￥память.",
+   "en_src": "It's saying something very￥private.￥Come to have its memory wiped.",
+   "long_src": "It's saying some very personal￥things. They probably brought it to￥have its memory erased.",
+   "ru": true
   },
   {
    "off": 5483,
    "budget": 9,
-   "en": "Penguin"
+   "en": "Пингвин",
+   "en_src": "Penguin",
+   "ru": true
   },
   {
    "off": 5492,
    "budget": 103,
-   "en": "A Magellantic Kobe Penguin. A￥synthetic breed developed by Aborits￥in 2033 for temperate regions."
+   "en": ".",
+   "en_src": "A Magellantic Kobe Penguin. A￥synthetic breed developed by Aborits￥in 2033 for temperate regions.",
+   "ru": true,
+   "long": "Магеллантический кобийский￥пингвин. Синтетическая порода,￥выведенная \"Аборитс\" в 2033 году для￥умеренного климата."
   },
   {
    "off": 5595,
    "budget": 49,
-   "en": "Even in this climate it hops￥about briskly.",
-   "long": "It's hopping around happily, even in￥this climate."
+   "en": "Весело скачет, даже в таком климате.",
+   "en_src": "Even in this climate it hops￥about briskly.",
+   "long_src": "It's hopping around happily, even in￥this climate.",
+   "ru": true
   },
   {
    "off": 5644,
    "budget": 39,
-   "en": "Was that a somersault kick?"
+   "en": "Это что, удар с сальто?",
+   "en_src": "Was that a somersault kick?",
+   "ru": true
   },
   {
    "off": 5683,
    "budget": 11,
-   "en": "What?"
+   "en": "Что?",
+   "en_src": "What?",
+   "ru": true
   },
   {
    "off": 5694,
    "budget": 21,
-   "en": "Nothing."
+   "en": "Ничего.",
+   "en_src": "Nothing.",
+   "ru": true
   },
   {
    "off": 5715,
    "budget": 3,
-   "en": "Do",
-   "long": "Dog"
+   "en": ".",
+   "en_src": "Do",
+   "long_src": "Dog",
+   "ru": true,
+   "long": "Собака"
   },
   {
    "off": 5718,
    "budget": 51,
-   "en": "A ＠黄'humming dog'＠白,￥vocal cords remade.",
-   "long": "It's a ＠黄Humming Dog＠白 with modified￥vocal cords."
+   "en": ".",
+   "en_src": "A ＠黄'humming dog'＠白,￥vocal cords remade.",
+   "long_src": "It's a ＠黄Humming Dog＠白 with modified￥vocal cords.",
+   "ru": true,
+   "long": "Это ＠黄\"мурлыкающая собака\"＠白 с￥изменёнными голосовыми связками."
   },
   {
    "off": 5769,
    "budget": 67,
-   "en": "Famously that remaking ended￥'dog noise pollution'.",
-   "long": "Those modified vocal cords famously￥solved the problem of noise from￥dogs."
+   "en": ".",
+   "en_src": "Famously that remaking ended￥'dog noise pollution'.",
+   "long_src": "Those modified vocal cords famously￥solved the problem of noise from￥dogs.",
+   "ru": true,
+   "long": "Эти изменённые связки, как известно,￥решили проблему собачьего шума."
   },
   {
    "off": 5836,
    "budget": 47,
-   "en": "As expected of a Humming Dog, it's￥quiet."
+   "en": ".",
+   "en_src": "As expected of a Humming Dog, it's￥quiet.",
+   "ru": true,
+   "long": "Как и положено \"мурлыкающей собаке\",￥ведёт себя тихо."
   },
   {
    "off": 5883,
    "budget": 3,
-   "en": "Ca",
-   "long": "Cat"
+   "en": ".",
+   "en_src": "Ca",
+   "long_src": "Cat",
+   "ru": true,
+   "long": "Кошка"
   },
   {
    "off": 5886,
    "budget": 103,
-   "en": "A ＠黄'pochette pet'＠白.￥A pouched synthetic that was all￥the rage last year as bag and pet.",
-   "long": "A ＠黄Purse Pet＠白. These synthetic￥marsupials doubled as handbags and￥pets, and were hugely popular with￥women last year."
+   "en": ".",
+   "en_src": "A ＠黄'pochette pet'＠白.￥A pouched synthetic that was all￥the rage last year as bag and pet.",
+   "long_src": "A ＠黄Purse Pet＠白. These synthetic￥marsupials doubled as handbags and￥pets, and were hugely popular with￥women last year.",
+   "ru": true,
+   "long": "Это ＠黄\"питомец-сумочка\"＠白.￥Синтетические сумчатые, которые были￥и сумочкой, и питомцем. В прошлом￥году женщины от них с ума сходили."
   },
   {
    "off": 5989,
    "budget": 35,
-   "en": "This must be the feline variety."
+   "en": ".",
+   "en_src": "This must be the feline variety.",
+   "ru": true,
+   "long": "Это, должно быть, кошачья￥разновидность."
   },
   {
    "off": 6024,
    "budget": 77,
-   "en": "It seems hurt inside the pouch.￥A common thing with pochette pets.",
-   "long": "It seems to have an injury inside￥its pouch. That's common with Purse￥Pets."
+   "en": "Похоже, у неё поранена сумка изнутри. У \"питомцев-сумочек\" так часто бывает.",
+   "en_src": "It seems hurt inside the pouch.￥A common thing with pochette pets.",
+   "long_src": "It seems to have an injury inside￥its pouch. That's common with Purse￥Pets.",
+   "ru": true
   },
   {
    "off": 6101,
    "budget": 41,
-   "en": "Women's cosmetics wound the belly.",
-   "long": "Women's cosmetics seem to injure the￥inside of their pouches."
+   "en": ".",
+   "en_src": "Women's cosmetics wound the belly.",
+   "long_src": "Women's cosmetics seem to injure the￥inside of their pouches.",
+   "ru": true,
+   "long": "Женская косметика, похоже, ранит их￥изнутри сумки."
   },
   {
    "off": 6142,
    "budget": 57,
-   "en": "Poor thing. Women go crazy over￥cosmetics."
+   "en": "Бедняга. Женщины на косметике просто￥помешаны.",
+   "en_src": "Poor thing. Women go crazy over￥cosmetics.",
+   "ru": true
   },
   {
    "off": 6199,
    "budget": 51,
-   "en": "Talk like that hurts women.",
-   "long": "Remarks like that are what hurt￥women's feelings."
+   "en": "Вот такими словами и ранят женские￥сердца.",
+   "en_src": "Talk like that hurts women.",
+   "long_src": "Remarks like that are what hurt￥women's feelings.",
+   "ru": true
   },
   {
    "off": 6250,
    "budget": 25,
-   "en": "The front desk is ahead.",
-   "long": "Reception is straight ahead."
+   "en": ".",
+   "en_src": "The front desk is ahead.",
+   "long_src": "Reception is straight ahead.",
+   "ru": true,
+   "long": "Регистратура прямо впереди."
   },
   {
    "off": 6275,
    "budget": 27,
-   "en": "Consulting room beyond.",
-   "long": "The examination room seems to be￥further back."
+   "en": "Смотровая, похоже, дальше.",
+   "en_src": "Consulting room beyond.",
+   "long_src": "The examination room seems to be￥further back.",
+   "ru": true
   },
   {
    "off": 6302,
    "budget": 63,
-   "en": "All carry IDs.￥Proper Neo Kobe citizens.",
-   "long": "They all have IDs. They appear to be￥registered Neo Kobe citizens."
+   "en": "У всех есть ID. Похоже, это законные￥граждане Нео-Кобе.",
+   "en_src": "All carry IDs.￥Proper Neo Kobe citizens.",
+   "long_src": "They all have IDs. They appear to be￥registered Neo Kobe citizens.",
+   "ru": true
   },
   {
    "off": 6365,
    "budget": 25,
-   "en": "Nobody looks suspicious."
+   "en": "Подозрительных никого.",
+   "en_src": "Nobody looks suspicious.",
+   "ru": true
   },
   {
    "off": 6390,
    "budget": 63,
-   "en": "The animals wear collars and tags.￥They seem to be pets.",
-   "long": "The animals have collars and￥registration tags. They seem to be￥pets."
+   "en": ".",
+   "en_src": "The animals wear collars and tags.￥They seem to be pets.",
+   "long_src": "The animals have collars and￥registration tags. They seem to be￥pets.",
+   "ru": true,
+   "long": "На животных ошейники и￥регистрационные бирки. Похоже, это￥питомцы."
   },
   {
    "off": 6453,
    "budget": 49,
-   "en": "'Vicious pets must wear a collar",
-   "long": "The sign says: Aggressive pets must￥wear a collar"
+   "en": ".",
+   "en_src": "'Vicious pets must wear a collar",
+   "long_src": "The sign says: Aggressive pets must￥wear a collar",
+   "ru": true,
+   "long": "На табличке: агрессивных питомцев￥приводить только в ошейнике"
   },
   {
    "off": 6502,
    "budget": 49,
-   "en": "or be brought in a cage."
+   "en": "или в клетке.",
+   "en_src": "or be brought in a cage.",
+   "ru": true
   },
   {
    "off": 6551,
    "budget": 49,
-   "en": "Notices on pet insurance and￥inoculations.",
-   "long": "There are notices about pet￥insurance and vaccinations."
+   "en": ".",
+   "en_src": "Notices on pet insurance and￥inoculations.",
+   "long_src": "There are notices about pet￥insurance and vaccinations.",
+   "ru": true,
+   "long": "Тут объявления о страховке и￥прививках для питомцев."
   },
   {
    "off": 6600,
    "budget": 85,
-   "en": "＠赤It's your fault! You barely earn a￥living! ＠水Then get out, you airhead!"
+   "en": "＠赤Сам виноват! Нищеброд несчастный!￥＠水Тогда катись, кабачок безмозглый!",
+   "en_src": "＠赤It's your fault! You barely earn a￥living! ＠水Then get out, you airhead!",
+   "ru": true
   },
   {
    "off": 6685,
    "budget": 51,
-   "en": "Its owners don't seem to have a￥happy marriage."
+   "en": "Похоже, у его хозяев брак не очень￥счастливый.",
+   "en_src": "Its owners don't seem to have a￥happy marriage.",
+   "ru": true
   },
   {
    "off": 6736,
    "budget": 45,
-   "en": "A parrot with too good a￥memory is trouble.",
-   "long": "A parrot with too good a memory can￥be trouble."
+   "en": ".",
+   "en_src": "A parrot with too good a￥memory is trouble.",
+   "long_src": "A parrot with too good a memory can￥be trouble.",
+   "ru": true,
+   "long": "Слишком хорошая память у попугая -￥сплошные неприятности."
   },
   {
    "off": 6781,
    "budget": 73,
-   "en": "＠水Ha! Leave me if you want. No other￥man would have you!"
+   "en": "＠水Ха! Уходи, если хочешь. Никому ты￥больше не нужна!",
+   "en_src": "＠水Ha! Leave me if you want. No other￥man would have you!",
+   "ru": true
   },
   {
    "off": 6854,
    "budget": 67,
-   "en": "＠赤You wouldn't know, but I was￥quite the thing when young!!",
-   "long": "＠赤You don't know this, but I got￥plenty of action when I was young!"
+   "en": "＠赤Ты не знаешь, а в молодости у меня￥от мужиков отбоя не было!",
+   "en_src": "＠赤You wouldn't know, but I was￥quite the thing when young!!",
+   "long_src": "＠赤You don't know this, but I got￥plenty of action when I was young!",
+   "ru": true
   },
   {
    "off": 6921,
    "budget": 45,
-   "en": "(Really? That woman with the long￥face?)"
+   "en": "(Да ну? Эта дама с лицом-кабачком?)",
+   "en_src": "(Really? That woman with the long￥face?)",
+   "ru": true
   },
   {
    "off": 6966,
    "budget": 57,
-   "en": "＠赤I can't live with you!!￥Separate rooms, separate!!",
-   "long": "＠赤I can't live with you! I'm leaving!￥We're separating!"
+   "en": "＠赤Не могу я с тобой жить! Я ухожу! Мы￥разъезжаемся!",
+   "en_src": "＠赤I can't live with you!!￥Separate rooms, separate!!",
+   "long_src": "＠赤I can't live with you! I'm leaving!￥We're separating!",
+   "ru": true
   },
   {
    "off": 7023,
    "budget": 53,
-   "en": "(Don't say separate so.￥I'm separated myself...)",
-   "long": "(Stop going on about separation. I'm￥separated, too.)"
+   "en": ".",
+   "en_src": "(Don't say separate so.￥I'm separated myself...)",
+   "long_src": "(Stop going on about separation. I'm￥separated, too.)",
+   "ru": true,
+   "long": "(Хватит уже про \"разъезжаемся\". Я и￥сам живу отдельно.)"
   },
   {
    "off": 7076,
    "budget": 5,
-   "en": "Ask"
+   "en": "Спр.",
+   "en_src": "Ask",
+   "ru": true
   },
   {
    "off": 7081,
    "budget": 13,
-   "en": "Snatchers"
+   "en": "Снатчеры",
+   "en_src": "Snatchers",
+   "ru": true
   },
   {
    "off": 7094,
    "budget": 45,
-   "en": "Heard talk of Snatchers about￥here?",
-   "long": "Heard any rumors about Snatchers￥around here?"
+   "en": "Не слышали здесь слухов о снатчерах?",
+   "en_src": "Heard talk of Snatchers about￥here?",
+   "long_src": "Heard any rumors about Snatchers￥around here?",
+   "ru": true
   },
   {
    "off": 7139,
    "budget": 107,
-   "en": "We're safe. We have a dog. This￥hospital should be safe, too.￥Snatchers hate dogs, don't they?"
+   "en": "Нам нечего бояться, у нас собака. И￥больница, наверное, в безопасности.￥Снатчеры ведь не любят собак?",
+   "en_src": "We're safe. We have a dog. This￥hospital should be safe, too.￥Snatchers hate dogs, don't they?",
+   "ru": true
   },
   {
    "off": 7246,
    "budget": 63,
-   "en": "Unproven, but animals with a￥keen nose can tell, they say.",
-   "long": "It's unconfirmed, but animals with a￥keen sense of smell can supposedly￥tell them apart."
+   "en": ".",
+   "en_src": "Unproven, but animals with a￥keen nose can tell, they say.",
+   "long_src": "It's unconfirmed, but animals with a￥keen sense of smell can supposedly￥tell them apart.",
+   "ru": true,
+   "long": "Это не доказано, но животные с￥острым нюхом, говорят, умеют их￥распознавать."
   },
   {
    "off": 7309,
    "budget": 53,
-   "en": "Right.￥So more homes keep pets, they say.",
-   "long": "That's right. I hear that's why more￥households are getting pets."
+   "en": ".",
+   "en_src": "Right.￥So more homes keep pets, they say.",
+   "long_src": "That's right. I hear that's why more￥households are getting pets.",
+   "ru": true,
+   "long": "Вот именно. Говорят, поэтому всё￥больше семей заводят питомцев."
   },
   {
    "off": 7362,
    "budget": 53,
-   "en": "Snatchers? Do those things really￥exist?"
+   "en": "Снатчеры? Они правда существуют?",
+   "en_src": "Snatchers? Do those things really￥exist?",
+   "ru": true
   },
   {
    "off": 7415,
    "budget": 51,
-   "en": "They won't show up￥in front of animals?",
-   "long": "We're safe, aren't we? They wouldn't￥show themselves around animals."
+   "en": ".",
+   "en_src": "They won't show up￥in front of animals?",
+   "long_src": "We're safe, aren't we? They wouldn't￥show themselves around animals.",
+   "ru": true,
+   "long": "Нам ведь ничего не грозит? При￥животных они не покажутся."
   },
   {
    "off": 7466,
    "budget": 15,
-   "en": "OLEEN Hospital"
+   "en": "Больница OLEEN",
+   "en_src": "OLEEN Hospital",
+   "ru": true
   },
   {
    "off": 7481,
    "budget": 73,
-   "en": "Excuse me. Do you know anything￥about OLEEN Hospital?"
+   "en": "Простите. Вы что-нибудь знаете о￥больнице OLEEN?",
+   "en_src": "Excuse me. Do you know anything￥about OLEEN Hospital?",
+   "ru": true
   },
   {
    "off": 7554,
    "budget": 65,
-   "en": "OLEEN? This is Oleen Hospital. Isn't￥that what you mean?"
+   "en": "OLEEN? Это больница \"Олин\". Вы её￥ищете?",
+   "en_src": "OLEEN? This is Oleen Hospital. Isn't￥that what you mean?",
+   "ru": true
   },
   {
    "off": 7619,
    "budget": 47,
-   "en": "OLEEN? That's not here."
+   "en": "OLEEN? Это не здесь.",
+   "en_src": "OLEEN? That's not here.",
+   "ru": true
   },
   {
    "off": 7666,
    "budget": 37,
-   "en": "Hm... some other hospital?",
-   "long": "I don't know. Some other hospital,￥perhaps?"
+   "en": ".",
+   "en_src": "Hm... some other hospital?",
+   "long_src": "I don't know. Some other hospital,￥perhaps?",
+   "ru": true,
+   "long": "Не знаю. Может, какая-то другая￥больница?"
   },
   {
    "off": 7703,
    "budget": 11,
-   "en": "Its line",
-   "long": "Its specialty"
+   "en": "Профиль",
+   "en_src": "Its line",
+   "long_src": "Its specialty",
+   "ru": true
   },
   {
    "off": 7714,
    "budget": 25,
-   "en": "What hospital is this?",
-   "long": "What kind of hospital is this?"
+   "en": "Что это за больница?",
+   "en_src": "What hospital is this?",
+   "long_src": "What kind of hospital is this?",
+   "ru": true
   },
   {
    "off": 7739,
    "budget": 89,
-   "en": "Oh, you came not knowing?￥This is a pet hospital.￥Sorry, but robots won't do.",
-   "long": "You came here without knowing? It's￥a pet hospital. Sorry, I don't think￥they treat robots."
+   "en": "Вы пришли и не знаете? Это￥ветлечебница. Простите, но роботов￥тут, кажется, не лечат.",
+   "en_src": "Oh, you came not knowing?￥This is a pet hospital.￥Sorry, but robots won't do.",
+   "long_src": "You came here without knowing? It's￥a pet hospital. Sorry, I don't think￥they treat robots.",
+   "ru": true
   },
   {
    "off": 7828,
    "budget": 37,
-   "en": "I am not ill. I am perfectly normal!",
-   "long": "I'm not sick! I'm functioning￥normally!"
+   "en": "Я не болен! Я работаю нормально!",
+   "en_src": "I am not ill. I am perfectly normal!",
+   "long_src": "I'm not sick! I'm functioning￥normally!",
+   "ru": true
   },
   {
    "off": 7865,
    "budget": 73,
-   "en": "The doctor here has a fine name.￥Good vets are scarce of late.",
-   "long": "The doctor here has an excellent￥reputation. Good vets are hard to￥find these days."
+   "en": ".",
+   "en_src": "The doctor here has a fine name.￥Good vets are scarce of late.",
+   "long_src": "The doctor here has an excellent￥reputation. Good vets are hard to￥find these days.",
+   "ru": true,
+   "long": "У здешнего доктора отличная￥репутация. Хорошего ветеринара￥сейчас не найти."
   },
   {
    "off": 7938,
    "budget": 87,
-   "en": "No gene work direct, but the￥treatment is sound.￥An Aborits service shop as well.",
-   "long": "They don't do genetic modifications￥here, but you can trust their￥treatment. They're an Aborits￥service center, too."
+   "en": ".",
+   "en_src": "No gene work direct, but the￥treatment is sound.￥An Aborits service shop as well.",
+   "long_src": "They don't do genetic modifications￥here, but you can trust their￥treatment. They're an Aborits￥service center, too.",
+   "ru": true,
+   "long": "Генетических модификаций тут не￥делают, но лечат надёжно. Это ещё и￥сервисный центр \"Аборитс\"."
   },
   {
    "off": 8025,
    "budget": 43,
-   "en": "Certified by the Bioethics￥Watch too.",
-   "long": "The hospital is also certified by￥the Bioethics Oversight Association."
+   "en": ".",
+   "en_src": "Certified by the Bioethics￥Watch too.",
+   "long_src": "The hospital is also certified by￥the Bioethics Oversight Association.",
+   "ru": true,
+   "long": "Больница также сертифицирована￥Ассоциацией биоэтического надзора."
   },
   {
    "off": 8068,
    "budget": 11,
-   "en": "The doctor",
-   "long": "Hospital doctor"
+   "en": ".",
+   "en_src": "The doctor",
+   "long_src": "Hospital doctor",
+   "ru": true,
+   "long": "Врач больницы"
   },
   {
    "off": 8079,
    "budget": 25,
-   "en": "What's the doctor like?",
-   "long": "What's the doctor here like?"
+   "en": "Какой тут доктор?",
+   "en_src": "What's the doctor like?",
+   "long_src": "What's the doctor here like?",
+   "ru": true
   },
   {
    "off": 8104,
    "budget": 89,
-   "en": "A licensed doctor with gene-work￥licence. Only here do they see￥these ones unbooked.",
-   "long": "He's a certified doctor with a￥genetic engineering license. This is￥about the only place that sees our￥pets without an appointment."
+   "en": ".",
+   "en_src": "A licensed doctor with gene-work￥licence. Only here do they see￥these ones unbooked.",
+   "long_src": "He's a certified doctor with a￥genetic engineering license. This is￥about the only place that sees our￥pets without an appointment.",
+   "ru": true,
+   "long": "Сертифицированный врач с лицензией￥генного инженера. Только здесь наших￥питомцев принимают без записи."
   },
   {
    "off": 8193,
    "budget": 27,
-   "en": "A licensed doctor, then.",
-   "long": "A certified, licensed doctor."
+   "en": ".",
+   "en_src": "A licensed doctor, then.",
+   "long_src": "A certified, licensed doctor.",
+   "ru": true,
+   "long": "Сертифицированный врач с лицензией,￥значит."
   },
   {
    "off": 8220,
    "budget": 49,
-   "en": "A fine doctor, fond of animals.￥Sound too...",
-   "long": "A wonderful doctor who loves￥animals. Very skilled, too."
+   "en": "Чудесный доктор, любит животных. И очень умелый.",
+   "en_src": "A fine doctor, fond of animals.￥Sound too...",
+   "long_src": "A wonderful doctor who loves￥animals. Very skilled, too.",
+   "ru": true
   },
   {
    "off": 8269,
    "budget": 31,
-   "en": "Sniff... yaah! It stinks!",
-   "long": "Sniff, sniff. Ugh! That stinks!"
+   "en": "Нюх-нюх... Фу! Ну и вонь!",
+   "en_src": "Sniff... yaah! It stinks!",
+   "long_src": "Sniff, sniff. Ugh! That stinks!",
+   "ru": true
   },
   {
    "off": 8300,
    "budget": 23,
-   "en": "Huh? That reeks!"
+   "en": "А?! Ну и вонища!",
+   "en_src": "Huh? That reeks!",
+   "ru": true
   },
   {
    "off": 8323,
    "budget": 23,
-   "en": "It's the animals."
+   "en": "Это пахнут животные.",
+   "en_src": "It's the animals.",
+   "ru": true
   },
   {
    "off": 8346,
    "budget": 31,
-   "en": "So that's what I smelled."
+   "en": "Так вот что я учуял.",
+   "en_src": "So that's what I smelled.",
+   "ru": true
   },
   {
    "off": 8377,
    "budget": 19,
-   "en": "A pollution.",
-   "long": "A kind of pollution."
+   "en": ".",
+   "en_src": "A pollution.",
+   "long_src": "A kind of pollution.",
+   "ru": true,
+   "long": "Своего рода загрязнение."
   },
   {
    "off": 8396,
    "budget": 7,
-   "en": "Show"
+   "en": "Показ",
+   "en_src": "Show",
+   "ru": true
   },
   {
    "off": 8403,
    "budget": 15,
-   "en": "JUNKER ID"
+   "en": "ID ДЖАНКЕРа",
+   "en_src": "JUNKER ID",
+   "ru": true
   },
   {
    "off": 8418,
    "budget": 21,
-   "en": "Are you police?",
-   "long": "Are you with the police?"
+   "en": "Вы из полиции?",
+   "en_src": "Are you police?",
+   "long_src": "Are you with the police?",
+   "ru": true
   },
   {
    "off": 8439,
    "budget": 29,
-   "en": "Did something really happen?",
-   "long": "Really, has something happened?"
+   "en": "Правда, что-то случилось?",
+   "en_src": "Did something really happen?",
+   "long_src": "Really, has something happened?",
+   "ru": true
   },
   {
    "off": 8468,
    "budget": 5,
-   "en": "Drop",
-   "long": "Candy"
+   "en": ".",
+   "en_src": "Drop",
+   "long_src": "Candy",
+   "ru": true,
+   "long": "Леденец"
   },
   {
    "off": 8473,
    "budget": 21,
-   "en": "Candy for pets?",
-   "long": "Is that candy for pets?"
+   "en": ".",
+   "en_src": "Candy for pets?",
+   "long_src": "Is that candy for pets?",
+   "ru": true,
+   "long": "Это леденец для питомцев?"
   },
   {
    "off": 8494,
    "budget": 11,
-   "en": "Chess man",
-   "long": "Chess piece"
+   "en": ".",
+   "en_src": "Chess man",
+   "long_src": "Chess piece",
+   "ru": true,
+   "long": "Шахматная фигура"
   },
   {
    "off": 8505,
    "budget": 35,
-   "en": "What's that? A new pet gum?"
+   "en": ".",
+   "en_src": "What's that? A new pet gum?",
+   "ru": true,
+   "long": "Что это? Новая жвачка для питомцев?"
   },
   {
    "off": 8540,
    "budget": 23,
-   "en": "What about it?"
+   "en": "А что с ней такое?",
+   "en_src": "What about it?",
+   "ru": true
   },
   {
    "off": 8563,
    "budget": 13,
-   "en": "Video memory"
+   "en": "Видеопамять",
+   "en_src": "Video memory",
+   "ru": true
   },
   {
    "off": 8576,
    "budget": 13,
-   "en": "Little John"
+   "en": "Литл Джон",
+   "en_src": "Little John",
+   "ru": true
   },
   {
    "off": 8589,
    "budget": 43,
-   "en": "I'm after the hospital with￥this neon?",
-   "long": "I'm looking for the hospital with￥this neon sign."
+   "en": ".",
+   "en_src": "I'm after the hospital with￥this neon?",
+   "long_src": "I'm looking for the hospital with￥this neon sign.",
+   "ru": true,
+   "long": "Я ищу больницу с вот такой неоновой￥вывеской."
   },
   {
    "off": 8632,
    "budget": 67,
-   "en": "That's not our sign. It does look￥similar, though."
+   "en": "Это не наша вывеска. Хотя похожа.",
+   "en_src": "That's not our sign. It does look￥similar, though.",
+   "ru": true
   },
   {
    "off": 8699,
    "budget": 49,
-   "en": "Really alike...￥but not the same, surely?",
-   "long": "It really does look similar. But￥isn't it different?"
+   "en": "И правда похожа. Но ведь другая?",
+   "en_src": "Really alike...￥but not the same, surely?",
+   "long_src": "It really does look similar. But￥isn't it different?",
+   "ru": true
   },
   {
    "off": 8748,
    "budget": 31,
-   "en": "A different hospital?",
-   "long": "Isn't that a different hospital?"
+   "en": "Может, это другая больница?",
+   "en_src": "A different hospital?",
+   "long_src": "Isn't that a different hospital?",
+   "ru": true
   },
   {
    "off": 8779,
    "budget": 21,
-   "en": "Animals scare me.",
-   "long": "I'm not good with animals."
+   "en": ".",
+   "en_src": "Animals scare me.",
+   "long_src": "I'm not good with animals.",
+   "ru": true,
+   "long": "Я не лажу с животными."
   },
   {
    "off": 8800,
    "budget": 39,
-   "en": "Please don't. I can't handle￥animals."
+   "en": ".",
+   "en_src": "Please don't. I can't handle￥animals.",
+   "ru": true,
+   "long": "Пожалуйста, не надо. Я не выношу￥животных."
   },
   {
    "off": 8839,
    "budget": 49,
-   "en": "I'll pass. Animals are robots'￥natural enemies."
+   "en": "Я пас. Животные - естественные враги￥роботов.",
+   "en_src": "I'll pass. Animals are robots'￥natural enemies.",
+   "ru": true
   },
   {
    "off": 8888,
    "budget": 51,
-   "en": "The sign in the memory used the￥alphabet."
+   "en": "На вывеске из памяти были латинские￥буквы.",
+   "en_src": "The sign in the memory used the￥alphabet.",
+   "ru": true
   },
   {
    "off": 8939,
    "budget": 33,
-   "en": "The sign here is in kanji...",
-   "long": "This sign uses Chinese characters."
+   "en": "А эта вывеска - иероглифами...",
+   "en_src": "The sign here is in kanji...",
+   "long_src": "This sign uses Chinese characters.",
+   "ru": true
   },
   {
    "off": 8972,
    "budget": 69,
-   "en": "The ID card proving all JUNKER￥authority. Keep it safe.",
-   "long": "This ID card certifies all your￥JUNKER authority. Take good care of￥it."
+   "en": ".",
+   "en_src": "The ID card proving all JUNKER￥authority. Keep it safe.",
+   "long_src": "This ID card certifies all your￥JUNKER authority. Take good care of￥it.",
+   "ru": true,
+   "long": "Удостоверение, подтверждающее все￥твои полномочия ДЖАНКЕРа. Береги￥его."
   },
   {
    "off": 9041,
    "budget": 7,
-   "en": "Funds"
+   "en": "Деньги",
+   "en_src": "Funds",
+   "ru": true
   },
   {
    "off": 9048,
    "budget": 35,
-   "en": "Money provided by JUNKER."
+   "en": "Деньги, выданные ДЖАНКЕРом.",
+   "en_src": "Money provided by JUNKER.",
+   "ru": true
   },
   {
    "off": 9083,
    "budget": 35,
-   "en": "Candy found in Jean's pocket."
+   "en": "Леденец из кармана Жана.",
+   "en_src": "Candy found in Jean's pocket.",
+   "ru": true
   },
   {
    "off": 9118,
    "budget": 7,
-   "en": "Proof",
-   "long": "Evidence"
+   "en": "Улики",
+   "en_src": "Proof",
+   "long_src": "Evidence",
+   "ru": true
   },
   {
    "off": 9125,
    "budget": 3,
-   "en": "Pc",
-   "long": "Chess piece"
+   "en": ".",
+   "en_src": "Pc",
+   "long_src": "Chess piece",
+   "ru": true,
+   "long": "Шахматная фигура"
   },
   {
    "off": 9128,
    "budget": 67,
-   "en": "The chess piece Gibson carried, a￥clue to Queen Hospital's name."
+   "en": "Шахматная фигура Гибсона - подсказка￥к названию больницы \"Куин\".",
+   "en_src": "The chess piece Gibson carried, a￥clue to Queen Hospital's name.",
+   "ru": true
   },
   {
    "off": 9195,
    "budget": 37,
-   "en": "The chess piece Gibson carried."
+   "en": ".",
+   "en_src": "The chess piece Gibson carried.",
+   "ru": true,
+   "long": "Шахматная фигура, которую носил￥Гибсон."
   },
   {
    "off": 9232,
    "budget": 47,
-   "en": "An image recovered from Little￥John's memory."
+   "en": "Изображение, извлечённое из памяти Литл Джона.",
+   "en_src": "An image recovered from Little￥John's memory.",
+   "ru": true
   },
   {
    "off": 9279,
    "budget": 9,
-   "en": "Red Sq.",
-   "long": "Red Square"
+   "en": ".",
+   "en_src": "Red Sq.",
+   "long_src": "Red Square",
+   "ru": true,
+   "long": "Красная площадь"
   },
   {
    "off": 9288,
    "budget": 41,
-   "en": "A still photo hidden in￥the Chief's rm",
-   "long": "The photograph hidden in the chief's￥office."
+   "en": "Фотография, спрятанная в кабинете шефа.",
+   "en_src": "A still photo hidden in￥the Chief's rm",
+   "long_src": "The photograph hidden in the chief's￥office.",
+   "ru": true
   },
   {
    "off": 9329,
    "budget": 5,
-   "en": "Hall",
-   "long": "Temple"
+   "en": ".",
+   "en_src": "Hall",
+   "long_src": "Temple",
+   "ru": true,
+   "long": "Собор"
   },
   {
    "off": 9334,
    "budget": 47,
-   "en": "Temple painting from a￥Queen Hospital room.",
-   "long": "The cathedral picture that hung in a￥room at Queen Hospital."
+   "en": ".",
+   "en_src": "Temple painting from a￥Queen Hospital room.",
+   "long_src": "The cathedral picture that hung in a￥room at Queen Hospital.",
+   "ru": true,
+   "long": "Картина с собором, висевшая в палате￥больницы \"Куин\"."
   },
   {
    "off": 9381,
    "budget": 67,
-   "en": "Its built-in chip contains all of￥your data, Gillian."
+   "en": "Во встроенном чипе хранятся все твои￥данные, Гиллиан.",
+   "en_src": "Its built-in chip contains all of￥your data, Gillian.",
+   "ru": true
   },
   {
    "off": 9448,
    "budget": 49,
-   "en": "Case expenses are covered￥as work requires.",
-   "long": "In principle, there's no limit on￥necessary investigation expenses."
+   "en": ".",
+   "en_src": "Case expenses are covered￥as work requires.",
+   "long_src": "In principle, there's no limit on￥necessary investigation expenses.",
+   "ru": true,
+   "long": "В принципе, на необходимые расходы￥по следствию лимита нет."
   },
   {
    "off": 9497,
    "budget": 45,
-   "en": "The candy Jean handed out￥to the orphans.",
-   "long": "The candy Jean handed out to￥children at the orphanage."
+   "en": ".",
+   "en_src": "The candy Jean handed out￥to the orphans.",
+   "long_src": "The candy Jean handed out to￥children at the orphanage.",
+   "ru": true,
+   "long": "Леденцы, которые Жан раздавал детям￥в приюте."
   },
   {
    "off": 9542,
    "budget": 57,
-   "en": "So the piece pointed to the name￥of Queen Hospital.",
-   "long": "The piece seems to have been a clue￥to the name Queen Hospital."
+   "en": ".",
+   "en_src": "So the piece pointed to the name￥of Queen Hospital.",
+   "long_src": "The piece seems to have been a clue￥to the name Queen Hospital.",
+   "ru": true,
+   "long": "Похоже, фигура была подсказкой к￥названию больницы \"Куин\"."
   },
   {
    "off": 9599,
    "budget": 57,
-   "en": "A wooden chess piece. The queen."
+   "en": "Деревянная шахматная фигура.￥Королева.",
+   "en_src": "A wooden chess piece. The queen.",
+   "ru": true
   },
   {
    "off": 9656,
    "budget": 53,
-   "en": "An image of the QUEEN Hospital neon￥sign."
+   "en": "Изображение неоновой вывески￥больницы QUEEN.",
+   "en_src": "An image of the QUEEN Hospital neon￥sign.",
+   "ru": true
   },
   {
    "off": 9709,
    "budget": 67,
-   "en": "It reads Hospital OLEEN. It must be￥a hospital's neon sign."
+   "en": "Читается HOSPITAL OLEEN. Видимо,￥неоновая вывеска больницы.",
+   "en_src": "It reads Hospital OLEEN. It must be￥a hospital's neon sign.",
+   "ru": true
   },
   {
    "off": 9776,
    "budget": 65,
-   "en": "A photograph of Red Square in Moscow￥before the Catastrophe."
+   "en": "Фотография Красной площади в Москве￥до Катастрофы.",
+   "en_src": "A photograph of Red Square in Moscow￥before the Catastrophe.",
+   "ru": true
   },
   {
    "off": 9841,
    "budget": 67,
-   "en": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
-   "long": "St. Basil's Cathedral, a famous￥cathedral in Moscow before the￥Catastrophe."
+   "en": "Собор Василия Блаженного, знаменитый собор в Москве до Катастрофы.",
+   "en_src": "Saint Basil's. A famous temple￥in Moscow before the￥Catastrophe.",
+   "long_src": "St. Basil's Cathedral, a famous￥cathedral in Moscow before the￥Catastrophe.",
+   "ru": true
   },
   {
    "off": 9910,

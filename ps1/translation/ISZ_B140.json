@@ -10,856 +10,1223 @@
   {
    "off": 3783,
    "budget": 47,
-   "en": "Yay! A perfect at super Runner￥level!",
-   "long": "Hooray! A perfect score on Super￥Runner level!"
+   "en": ".",
+   "en_src": "Yay! A perfect at super Runner￥level!",
+   "long_src": "Hooray! A perfect score on Super￥Runner level!",
+   "ru": true,
+   "long": "Ура! Идеальный результат на уровне￥\"Суперраннер\"!"
   },
   {
    "off": 3830,
    "budget": 27,
-   "en": "You did it, Gillian!"
+   "en": "Получилось, Гиллиан!",
+   "en_src": "You did it, Gillian!",
+   "ru": true
   },
   {
    "off": 3857,
    "budget": 39,
-   "en": "Another perfect score, Gillian!"
+   "en": "Снова идеальный результат, Гиллиан!",
+   "en_src": "Another perfect score, Gillian!",
+   "ru": true
   },
   {
    "off": 3896,
    "budget": 53,
-   "en": "Another perfect score? You're￥unbeatable!"
+   "en": "Опять идеально? Тебе нет равных!",
+   "en_src": "Another perfect score? You're￥unbeatable!",
+   "ru": true
   },
   {
    "off": 3949,
    "budget": 55,
-   "en": "A perfect score on Intermediate! You￥did it, Gillian!"
+   "en": "Идеально на среднем уровне!￥Получилось, Гиллиан!",
+   "en_src": "A perfect score on Intermediate! You￥did it, Gillian!",
+   "ru": true
   },
   {
    "off": 4004,
    "budget": 53,
-   "en": "Another perfect score? You're on a￥roll, Gillian!"
+   "en": "Опять идеально? Ты в ударе, Гиллиан!",
+   "en_src": "Another perfect score? You're on a￥roll, Gillian!",
+   "ru": true
   },
   {
    "off": 4057,
    "budget": 51,
-   "en": "Yes! A perfect score! You did it,￥Gillian!"
+   "en": "Есть! Идеальный результат!￥Получилось, Гиллиан!",
+   "en_src": "Yes! A perfect score! You did it,￥Gillian!",
+   "ru": true
   },
   {
    "off": 4108,
    "budget": 33,
-   "en": "Yet another perfect score!"
+   "en": "И снова идеальный результат!",
+   "en_src": "Yet another perfect score!",
+   "ru": true
   },
   {
    "off": 4141,
    "budget": 57,
-   "en": "(A good instructor can polish even￥the roughest stone.)"
+   "en": "(У хорошего инструктора даже￥булыжник заблестит.)",
+   "en_src": "(A good instructor can polish even￥the roughest stone.)",
+   "ru": true
   },
   {
    "off": 4198,
    "budget": 29,
-   "en": "Hm? Say something, Metal?",
-   "long": "Hmm? Did you say something, Metal?"
+   "en": "А? Ты что-то сказал, Метал?",
+   "en_src": "Hm? Say something, Metal?",
+   "long_src": "Hmm? Did you say something, Metal?",
+   "ru": true
   },
   {
    "off": 4227,
    "budget": 47,
-   "en": "No, nothing. You've improved,￥Gillian."
+   "en": "Нет, ничего. Ты стал лучше стрелять,￥Гиллиан.",
+   "en_src": "No, nothing. You've improved,￥Gillian.",
+   "ru": true
   },
   {
    "off": 4274,
    "budget": 47,
-   "en": "Amazing! Not a single wasted shot."
+   "en": "Потрясающе! Ни одного лишнего￥выстрела.",
+   "en_src": "Amazing! Not a single wasted shot.",
+   "ru": true
   },
   {
    "off": 4321,
    "budget": 67,
-   "en": "Every humanoid Snatcher down!￥A runner to boast of anywhere.",
-   "long": "You got all the human-looking￥Snatchers too! You're a Runner we￥can be proud of."
+   "en": ".",
+   "en_src": "Every humanoid Snatcher down!￥A runner to boast of anywhere.",
+   "long_src": "You got all the human-looking￥Snatchers too! You're a Runner we￥can be proud of.",
+   "ru": true,
+   "long": "И всех снатчеров в людском обличье￥тоже! Таким раннером можно￥гордиться."
   },
   {
    "off": 4388,
    "budget": 67,
-   "en": "You did it again! No wasted shots! I￥have nothing more to say."
+   "en": "Опять! Ни одного лишнего выстрела!￥Мне больше нечего сказать.",
+   "en_src": "You did it again! No wasted shots! I￥have nothing more to say.",
+   "ru": true
   },
   {
    "off": 4455,
    "budget": 35,
-   "en": "Incredible! My hat's off to you."
+   "en": "Невероятно! Снимаю шляпу.",
+   "en_src": "Incredible! My hat's off to you.",
+   "ru": true
   },
   {
    "off": 4490,
    "budget": 67,
-   "en": "Excellent! No wasted shots. You're a￥fine Runner."
+   "en": "Отлично! Ни одного лишнего выстрела.￥Ты отличный раннер.",
+   "en_src": "Excellent! No wasted shots. You're a￥fine Runner.",
+   "ru": true
   },
   {
    "off": 4557,
    "budget": 53,
-   "en": "Again!￥Zero wasted shots!￥Quite perfect now.",
-   "long": "You did it again! No wasted shots.￥You're perfect now."
+   "en": ".",
+   "en_src": "Again!￥Zero wasted shots!￥Quite perfect now.",
+   "long_src": "You did it again! No wasted shots.￥You're perfect now.",
+   "ru": true,
+   "long": "Опять! Ни одного лишнего выстрела.￥Теперь ты само совершенство."
   },
   {
    "off": 4610,
    "budget": 59,
-   "en": "Superb!￥This level's too easy for you now,￥it seems?",
-   "long": "Excellent! This training level seems￥too easy for you now."
+   "en": "Отлично! Похоже, этот уровень тебе￥уже слишком прост.",
+   "en_src": "Superb!￥This level's too easy for you now,￥it seems?",
+   "long_src": "Excellent! This training level seems￥too easy for you now.",
+   "ru": true
   },
   {
    "off": 4669,
    "budget": 45,
-   "en": "Excellent! No wasted shots, either."
+   "en": "Отлично! И ни одного лишнего￥выстрела.",
+   "en_src": "Excellent! No wasted shots, either.",
+   "ru": true
   },
   {
    "off": 4714,
    "budget": 61,
-   "en": "Again!￥Zero wasted shots!￥Perfect at this level too.",
-   "long": "You did it again! No wasted shots.￥You've mastered this level."
+   "en": "Опять! Ни одного лишнего выстрела.￥Этот уровень ты освоил.",
+   "en_src": "Again!￥Zero wasted shots!￥Perfect at this level too.",
+   "long_src": "You did it again! No wasted shots.￥You've mastered this level.",
+   "ru": true
   },
   {
    "off": 4775,
    "budget": 49,
-   "en": "You did well when you came here with￥Mika too."
+   "en": "Ты и с Микой здесь хорошо￥отстрелялся.",
+   "en_src": "You did well when you came here with￥Mika too.",
+   "ru": true
   },
   {
    "off": 4824,
    "budget": 49,
-   "en": "I've always thought you had a knack￥for this."
+   "en": "Я всегда считал, что у тебя талант.",
+   "en_src": "I've always thought you had a knack￥for this.",
+   "ru": true
   },
   {
    "off": 4873,
    "budget": 45,
-   "en": "Mika told me about your training￥results."
+   "en": "Мика рассказывала мне о твоих￥результатах.",
+   "en_src": "Mika told me about your training￥results.",
+   "ru": true
   },
   {
    "off": 4918,
    "budget": 37,
-   "en": "Well? Think a little more of me now?"
+   "en": ".",
+   "en_src": "Well? Think a little more of me now?",
+   "ru": true,
+   "long": "Ну? Теперь ты обо мне лучшего￥мнения?"
   },
   {
    "off": 4955,
    "budget": 53,
-   "en": "And a perfect score right away! I'm￥impressed."
+   "en": "И сразу идеальный результат!￥Впечатляет.",
+   "en_src": "And a perfect score right away! I'm￥impressed.",
+   "ru": true
   },
   {
    "off": 5008,
    "budget": 59,
-   "en": "Keep it up. Waste fewer shots and￥you'll do even better."
+   "en": "Так держать. Меньше лишних выстрелов￥- и будет ещё лучше.",
+   "en_src": "Keep it up. Waste fewer shots and￥you'll do even better.",
+   "ru": true
   },
   {
    "off": 5067,
    "budget": 37,
-   "en": "The wasted shots concern me.",
-   "long": "I'm concerned about all the wasted￥shots."
+   "en": ".",
+   "en_src": "The wasted shots concern me.",
+   "long_src": "I'm concerned about all the wasted￥shots.",
+   "ru": true,
+   "long": "Меня беспокоит, сколько выстрелов￥ушло впустую."
   },
   {
    "off": 5104,
    "budget": 33,
-   "en": "Next, curb the wasted shots.",
-   "long": "Try to waste fewer shots next time."
+   "en": ".",
+   "en_src": "Next, curb the wasted shots.",
+   "long_src": "Try to waste fewer shots next time.",
+   "ru": true,
+   "long": "В следующий раз постарайся меньше￥палить впустую."
   },
   {
    "off": 5137,
    "budget": 43,
-   "en": "Well! Perfect!!￥No complaints?",
-   "long": "How's that? Perfect! No complaints￥now, right?"
+   "en": "Ну как? Идеально! Теперь претензий￥нет?",
+   "en_src": "Well! Perfect!!￥No complaints?",
+   "long_src": "How's that? Perfect! No complaints￥now, right?",
+   "ru": true
   },
   {
    "off": 5180,
    "budget": 65,
-   "en": "A perfect score is good, but you hit￥civilians too."
+   "en": "Результат идеальный, но ты попал и в￥мирных жителей.",
+   "en_src": "A perfect score is good, but you hit￥civilians too.",
+   "ru": true
   },
   {
    "off": 5245,
    "budget": 61,
-   "en": "How do you know they're civilians?￥They could be Snatchers."
+   "en": "А откуда известно, что они мирные?￥Может, это снатчеры.",
+   "en_src": "How do you know they're civilians?￥They could be Snatchers.",
+   "ru": true
   },
   {
    "off": 5306,
    "budget": 67,
-   "en": "You can't shoot without proof.￥That's part of being a JUNKER."
+   "en": "Без доказательств стрелять нельзя.￥Такова доля ДЖАНКЕРа.",
+   "en_src": "You can't shoot without proof.￥That's part of being a JUNKER.",
+   "ru": true
   },
   {
    "off": 5373,
    "budget": 41,
-   "en": "Once again, a perfect with stray￥hits.",
-   "long": "Another perfect score with civilian￥casualties."
+   "en": ".",
+   "en_src": "Once again, a perfect with stray￥hits.",
+   "long_src": "Another perfect score with civilian￥casualties.",
+   "ru": true,
+   "long": "Снова идеально - и снова с жертвами￥среди мирных."
   },
   {
    "off": 5414,
    "budget": 61,
-   "en": "Almost there. Now you just need to￥stop hitting civilians."
+   "en": "Почти. Осталось только перестать￥попадать в мирных жителей.",
+   "en_src": "Almost there. Now you just need to￥stop hitting civilians.",
+   "ru": true
   },
   {
    "off": 5475,
    "budget": 29,
-   "en": "Damn it! I was so close."
+   "en": "Чёрт! Ведь почти получилось.",
+   "en_src": "Damn it! I was so close.",
+   "ru": true
   },
   {
    "off": 5504,
    "budget": 41,
-   "en": "Don't worry. You're steadily￥improving."
+   "en": "Не переживай. Ты уверенно растёшь.",
+   "en_src": "Don't worry. You're steadily￥improving.",
+   "ru": true
   },
   {
    "off": 5545,
    "budget": 31,
-   "en": "Still, not the real thing.",
-   "long": "It's still different from real￥combat."
+   "en": ".",
+   "en_src": "Still, not the real thing.",
+   "long_src": "It's still different from real￥combat.",
+   "ru": true,
+   "long": "Всё равно это не настоящий бой."
   },
   {
    "off": 5576,
    "budget": 43,
-   "en": "Shooting civilians is unacceptable."
+   "en": "Стрелять в мирных жителей￥недопустимо.",
+   "en_src": "Shooting civilians is unacceptable.",
+   "ru": true
   },
   {
    "off": 5619,
    "budget": 35,
-   "en": "Stray hits are hardest to stop.",
-   "long": "Avoiding those mistakes is the￥hardest part."
+   "en": ".",
+   "en_src": "Stray hits are hardest to stop.",
+   "long_src": "Avoiding those mistakes is the￥hardest part.",
+   "ru": true,
+   "long": "Избежать таких ошибок - самое￥сложное."
   },
   {
    "off": 5654,
    "budget": 65,
-   "en": "Many stray rounds too.￥Work on focus and judgement.",
-   "long": "You fired a lot of stray shots too.￥You need better concentration and￥judgment."
+   "en": ".",
+   "en_src": "Many stray rounds too.￥Work on focus and judgement.",
+   "long_src": "You fired a lot of stray shots too.￥You need better concentration and￥judgment.",
+   "ru": true,
+   "long": "И много шальных выстрелов. Тебе￥нужно больше собранности и￥рассудительности."
   },
   {
    "off": 5719,
    "budget": 53,
-   "en": "Raise the hit rate and I can't￥tell them apart.",
-   "long": "When I try to hit more targets, I￥can't tell them apart."
+   "en": ".",
+   "en_src": "Raise the hit rate and I can't￥tell them apart.",
+   "long_src": "When I try to hit more targets, I￥can't tell them apart.",
+   "ru": true,
+   "long": "Когда стараюсь поразить больше￥целей, перестаю их различать."
   },
   {
    "off": 5772,
    "budget": 51,
-   "en": "Have some confidence. You're a￥professional now.",
-   "long": "Have confidence in yourself. You're￥a professional now."
+   "en": "Будь увереннее в себе. Ты же теперь профессионал.",
+   "en_src": "Have some confidence. You're a￥professional now.",
+   "long_src": "Have confidence in yourself. You're￥a professional now.",
+   "ru": true
   },
   {
    "off": 5823,
    "budget": 37,
-   "en": "That just makes me nervous.",
-   "long": "Now you've said that, I'm losing￥confidence."
+   "en": ".",
+   "en_src": "That just makes me nervous.",
+   "long_src": "Now you've said that, I'm losing￥confidence.",
+   "ru": true,
+   "long": "После твоих слов я что-то теряю￥уверенность."
   },
   {
    "off": 5860,
    "budget": 27,
-   "en": "Yes! A perfect score!"
+   "en": "Есть! Идеальный результат!",
+   "en_src": "Yes! A perfect score!",
+   "ru": true
   },
   {
    "off": 5887,
    "budget": 85,
-   "en": "Yes, it's certainly perfect, but￥look closely. You killed all the￥civilians too."
+   "en": "Да, безусловно идеально, но посмотри внимательно. Ты перебил и всех мирных жителей.",
+   "en_src": "Yes, it's certainly perfect, but￥look closely. You killed all the￥civilians too.",
+   "ru": true
   },
   {
    "off": 5972,
    "budget": 51,
-   "en": "Look, Metal! Perfect! How about￥that?"
+   "en": "Смотри, Метал! Идеально! Каково?",
+   "en_src": "Look, Metal! Perfect! How about￥that?",
+   "ru": true
   },
   {
    "off": 6023,
    "budget": 55,
-   "en": "Yes, yes. Perfect. You killed every￥civilian too."
+   "en": "Да-да. Идеально. И все мирные жители￥перебиты.",
+   "en_src": "Yes, yes. Perfect. You killed every￥civilian too.",
+   "ru": true
   },
   {
    "off": 6078,
    "budget": 11,
-   "en": "Accidents.",
-   "long": "It was an accident."
+   "en": ".",
+   "en_src": "Accidents.",
+   "long_src": "It was an accident.",
+   "ru": true,
+   "long": "Это случайность."
   },
   {
    "off": 6089,
    "budget": 23,
-   "en": "An accident won't do.",
-   "long": "An accident is no excuse."
+   "en": ".",
+   "en_src": "An accident won't do.",
+   "long_src": "An accident is no excuse.",
+   "ru": true,
+   "long": "Случайность - не оправдание."
   },
   {
    "off": 6112,
    "budget": 43,
-   "en": "Splendid.￥Perfect, all civilians dead.",
-   "long": "Well done. A perfect score, with￥every civilian dead."
+   "en": ".",
+   "en_src": "Splendid.￥Perfect, all civilians dead.",
+   "long_src": "Well done. A perfect score, with￥every civilian dead.",
+   "ru": true,
+   "long": "Браво. Идеальный результат - и ни￥одного выжившего мирного жителя."
   },
   {
    "off": 6155,
    "budget": 51,
-   "en": "No stray shots, and your shot￥control is good.",
-   "long": "No stray shots. You have good￥control of your aim."
+   "en": "Шальных выстрелов нет. Прицел у тебя￥хороший.",
+   "en_src": "No stray shots, and your shot￥control is good.",
+   "long_src": "No stray shots. You have good￥control of your aim.",
+   "ru": true
   },
   {
    "off": 6206,
    "budget": 49,
-   "en": "Now you must tell civilian￥from Snatcher.",
-   "long": "Now you need to tell civilians apart￥from Snatchers."
+   "en": ".",
+   "en_src": "Now you must tell civilian￥from Snatcher.",
+   "long_src": "Now you need to tell civilians apart￥from Snatchers.",
+   "ru": true,
+   "long": "Теперь нужно научиться отличать￥мирных жителей от снатчеров."
   },
   {
    "off": 6255,
    "budget": 47,
-   "en": "I know. I'm not a rookie anymore."
+   "en": "Знаю. Я уже не новичок.",
+   "en_src": "I know. I'm not a rookie anymore.",
+   "ru": true
   },
   {
    "off": 6302,
    "budget": 31,
-   "en": "As long as you understand."
+   "en": "Раз знаешь, хорошо.",
+   "en_src": "As long as you understand.",
+   "ru": true
   },
   {
    "off": 6333,
    "budget": 61,
-   "en": "Few stray shots, but you still￥mustn't hurt civilians."
+   "en": "Шальных выстрелов мало, но мирных￥жителей ранить нельзя.",
+   "en_src": "Few stray shots, but you still￥mustn't hurt civilians.",
+   "ru": true
   },
   {
    "off": 6394,
    "budget": 35,
-   "en": "I thought I'd got used to it...",
-   "long": "I thought I was getting the hang of￥it."
+   "en": "А я думал, что уже приноровился.",
+   "en_src": "I thought I'd got used to it...",
+   "long_src": "I thought I was getting the hang of￥it.",
+   "ru": true
   },
   {
    "off": 6429,
    "budget": 59,
-   "en": "Habit is the real danger.￥Never forget how you started.",
-   "long": "Getting complacent is the real￥danger. Remember the care you took￥as a beginner."
+   "en": ".",
+   "en_src": "Habit is the real danger.￥Never forget how you started.",
+   "long_src": "Getting complacent is the real￥danger. Remember the care you took￥as a beginner.",
+   "ru": true,
+   "long": "Самоуверенность - вот главная￥опасность. Помни, как осторожен ты￥был новичком."
   },
   {
    "off": 6488,
    "budget": 33,
-   "en": "And many stray rounds too...",
-   "long": "And there were a lot of stray shots."
+   "en": "И шальных выстрелов было много.",
+   "en_src": "And many stray rounds too...",
+   "long_src": "And there were a lot of stray shots.",
+   "ru": true
   },
   {
    "off": 6521,
    "budget": 65,
-   "en": "Don't fire at everything.￥Look and judge properly.",
-   "long": "Don't shoot everything in sight.￥Identify your targets carefully."
+   "en": "Не стреляй во всё подряд.￥Внимательно определяй цели.",
+   "en_src": "Don't fire at everything.￥Look and judge properly.",
+   "long_src": "Don't shoot everything in sight.￥Identify your targets carefully.",
+   "ru": true
   },
   {
    "off": 6586,
    "budget": 35,
-   "en": "I'm the type who wins by volume.",
-   "long": "I like to win by firing more shots."
+   "en": "Я беру числом выстрелов.",
+   "en_src": "I'm the type who wins by volume.",
+   "long_src": "I like to win by firing more shots.",
+   "ru": true
   },
   {
    "off": 6621,
    "budget": 43,
-   "en": "The Blaster has a limit to its￥energy.",
-   "long": "Your Blaster has a limited energy￥supply."
+   "en": "Запас энергии у бластера ограничен.",
+   "en_src": "The Blaster has a limit to its￥energy.",
+   "long_src": "Your Blaster has a limited energy￥supply.",
+   "ru": true
   },
   {
    "off": 6664,
    "budget": 51,
-   "en": "Not bad. You didn't shoot any￥civilians."
+   "en": "Неплохо. В мирных жителей ты не￥стрелял.",
+   "en_src": "Not bad. You didn't shoot any￥civilians.",
+   "ru": true
   },
   {
    "off": 6715,
    "budget": 85,
-   "en": "No wasted shots. More training will￥help. Your aim seems good."
+   "en": "Ни одного лишнего выстрела.￥Тренировки помогут. Прицел, похоже,￥хороший.",
+   "en_src": "No wasted shots. More training will￥help. Your aim seems good.",
+   "ru": true
   },
   {
    "off": 6800,
    "budget": 83,
-   "en": "Few wasted shots, but the hit rate￥has far to go.￥Your judgement is sound.",
-   "long": "Few wasted shots, but your hit rate￥needs work. Your judgment is sound,￥though."
+   "en": ".",
+   "en_src": "Few wasted shots, but the hit rate￥has far to go.￥Your judgement is sound.",
+   "long_src": "Few wasted shots, but your hit rate￥needs work. Your judgment is sound,￥though.",
+   "ru": true,
+   "long": "Лишних выстрелов мало, но меткость￥надо подтянуть. Зато решения ты￥принимаешь верные."
   },
   {
    "off": 6883,
    "budget": 79,
-   "en": "I'm concerned about all the wasted￥shots. Your accuracy still needs￥work."
+   "en": "Меня беспокоит, сколько выстрелов￥ушло впустую. Меткость пока хромает.",
+   "en_src": "I'm concerned about all the wasted￥shots. Your accuracy still needs￥work.",
+   "ru": true
   },
   {
    "off": 6962,
    "budget": 65,
-   "en": "You're getting pretty good. But you￥mustn't hurt civilians."
+   "en": "Уже весьма неплохо. Но мирных￥жителей ранить нельзя.",
+   "en_src": "You're getting pretty good. But you￥mustn't hurt civilians.",
+   "ru": true
   },
   {
    "off": 7027,
    "budget": 69,
-   "en": "Your aim isn't bad. You just need to￥concentrate."
+   "en": "Прицел неплохой. Тебе просто нужно￥сосредоточиться.",
+   "en_src": "Your aim isn't bad. You just need to￥concentrate.",
+   "ru": true
   },
   {
    "off": 7096,
    "budget": 33,
-   "en": "Keep working on your judgment."
+   "en": ".",
+   "en_src": "Keep working on your judgment.",
+   "ru": true,
+   "long": "Продолжай развивать￥рассудительность."
   },
   {
    "off": 7129,
    "budget": 61,
-   "en": "Your waste of energy stands out too.￥You need more focus.",
-   "long": "You're wasting a lot of energy too.￥You need to concentrate more."
+   "en": "И энергии тратишь много. Нужно￥больше сосредоточенности.",
+   "en_src": "Your waste of energy stands out too.￥You need more focus.",
+   "long_src": "You're wasting a lot of energy too.￥You need to concentrate more.",
+   "ru": true
   },
   {
    "off": 7190,
    "budget": 61,
-   "en": "Your hit rate is fair, but you￥killed every civilian."
+   "en": "Меткость сносная, но ты перебил всех￥мирных жителей.",
+   "en_src": "Your hit rate is fair, but you￥killed every civilian.",
+   "ru": true
   },
   {
    "off": 7251,
    "budget": 57,
-   "en": "Few stray shots, so your aim seems￥good."
+   "en": "Шальных выстрелов мало, так что прицел, похоже, хороший.",
+   "en_src": "Few stray shots, so your aim seems￥good.",
+   "ru": true
   },
   {
    "off": 7308,
    "budget": 59,
-   "en": "Now judge carefully.￥A mistake will cost your life.",
-   "long": "Now identify your targets carefully.￥A mistake can cost a life."
+   "en": ".",
+   "en_src": "Now judge carefully.￥A mistake will cost your life.",
+   "long_src": "Now identify your targets carefully.￥A mistake can cost a life.",
+   "ru": true,
+   "long": "Теперь внимательно определяй цели.￥Ошибка может стоить жизни."
   },
   {
    "off": 7367,
    "budget": 69,
-   "en": "No stray shots, but you seem to be￥shooting everything."
+   "en": "Шальных выстрелов нет, но ты,￥похоже, палишь во всё подряд.",
+   "en_src": "No stray shots, but you seem to be￥shooting everything.",
+   "ru": true
   },
   {
    "off": 7436,
    "budget": 63,
-   "en": "Try to stay calm. Those ruthless￥things are your enemy."
+   "en": ".",
+   "en_src": "Try to stay calm. Those ruthless￥things are your enemy.",
+   "ru": true,
+   "long": "Постарайся сохранять хладнокровие.￥Твой враг - эти безжалостные твари."
   },
   {
    "off": 7499,
    "budget": 79,
-   "en": "And many stray rounds. Energy￥has a limit, so do take care.",
-   "long": "You're firing a lot of stray shots￥too. Be careful. Your energy supply￥is limited."
+   "en": "И шальных выстрелов много.￥Осторожнее. Запас энергии ограничен.",
+   "en_src": "And many stray rounds. Energy￥has a limit, so do take care.",
+   "long_src": "You're firing a lot of stray shots￥too. Be careful. Your energy supply￥is limited.",
+   "ru": true
   },
   {
    "off": 7578,
    "budget": 17,
-   "en": "Same as ever..."
+   "en": "Как всегда...",
+   "en_src": "Same as ever...",
+   "ru": true
   },
   {
    "off": 7595,
    "budget": 65,
-   "en": "...Your dynamic eyesight is good.￥No stray hits on civilians.",
-   "long": "You seem good at following moving￥targets. You didn't shoot any￥civilians."
+   "en": ".",
+   "en_src": "...Your dynamic eyesight is good.￥No stray hits on civilians.",
+   "long_src": "You seem good at following moving￥targets. You didn't shoot any￥civilians.",
+   "ru": true,
+   "long": "Похоже, движущиеся цели ты￥отслеживаешь хорошо. В мирных￥жителей ты не стрелял."
   },
   {
    "off": 7660,
    "budget": 61,
-   "en": "No wasted shots, that's good.￥But more training is needed.",
-   "long": "I give you credit for not wasting￥shots. But you still need plenty of￥training."
+   "en": ".",
+   "en_src": "No wasted shots, that's good.￥But more training is needed.",
+   "long_src": "I give you credit for not wasting￥shots. But you still need plenty of￥training.",
+   "ru": true,
+   "long": "Хвалю за то, что не тратил выстрелы￥зря. Но тренироваться ещё много."
   },
   {
    "off": 7721,
    "budget": 87,
-   "en": "Keep that judgment and work on￥reacting faster. Waste fewer shots￥too."
+   "en": "Рассудительность сохрани, а реакцию￥ускорь. И поменьше лишних выстрелов.",
+   "en_src": "Keep that judgment and work on￥reacting faster. Waste fewer shots￥too.",
+   "ru": true
   },
   {
    "off": 7808,
    "budget": 71,
-   "en": "Still many wasted shots and a low￥hit rate, so keep practising.",
-   "long": "You're still wasting too many shots￥and your accuracy is low. Keep￥practicing."
+   "en": "Лишних выстрелов всё ещё много, а меткость низкая. Тренируйся дальше.",
+   "en_src": "Still many wasted shots and a low￥hit rate, so keep practising.",
+   "long_src": "You're still wasting too many shots￥and your accuracy is low. Keep￥practicing.",
+   "ru": true
   },
   {
    "off": 7879,
    "budget": 93,
-   "en": "More training needed. Low hit rate,￥and stray hits on civilians are￥unforgivable.",
-   "long": "You still need plenty of training.￥Your accuracy is low, but above all,￥you mustn't shoot civilians."
+   "en": "Тренироваться ещё много. Меткость￥низкая, но главное - нельзя стрелять￥в мирных жителей.",
+   "en_src": "More training needed. Low hit rate,￥and stray hits on civilians are￥unforgivable.",
+   "long_src": "You still need plenty of training.￥Your accuracy is low, but above all,￥you mustn't shoot civilians.",
+   "ru": true
   },
   {
    "off": 7972,
    "budget": 55,
-   "en": "Control is middling, but more￥practice is needed.",
-   "long": "Your aim is fair, but you still need￥plenty of practice."
+   "en": "Прицел сносный, но практики нужно￥ещё много.",
+   "en_src": "Control is middling, but more￥practice is needed.",
+   "long_src": "Your aim is fair, but you still need￥plenty of practice.",
+   "ru": true
   },
   {
    "off": 8027,
    "budget": 43,
-   "en": "Few stray shots, but you hit￥civilians."
+   "en": ".",
+   "en_src": "Few stray shots, but you hit￥civilians.",
+   "ru": true,
+   "long": "Шальных выстрелов мало, но ты попал￥в мирных жителей."
   },
   {
    "off": 8070,
    "budget": 67,
-   "en": "Many strays too.￥At this rate...￥I can't promise you'll live.",
-   "long": "A lot of stray shots too. At this￥rate, I can't promise you'll￥survive."
+   "en": ".",
+   "en_src": "Many strays too.￥At this rate...￥I can't promise you'll live.",
+   "long_src": "A lot of stray shots too. At this￥rate, I can't promise you'll￥survive.",
+   "ru": true,
+   "long": "И шальных выстрелов много. Так я не￥могу гарантировать, что ты выживешь."
   },
   {
    "off": 8137,
    "budget": 49,
-   "en": "Average score, but the stray￥hits must stop.",
-   "long": "Your score is average, but you need￥to stop shooting civilians."
+   "en": ".",
+   "en_src": "Average score, but the stray￥hits must stop.",
+   "long_src": "Your score is average, but you need￥to stop shooting civilians.",
+   "ru": true,
+   "long": "Результат средний, но стрелять в￥мирных жителей надо прекращать."
   },
   {
    "off": 8186,
    "budget": 51,
-   "en": "Not impressive.￥Still too many stray hits.",
-   "long": "Not impressive. You're still￥shooting far too many civilians."
+   "en": ".",
+   "en_src": "Not impressive.￥Still too many stray hits.",
+   "long_src": "Not impressive. You're still￥shooting far too many civilians.",
+   "ru": true,
+   "long": "Не впечатляет. Ты всё ещё попадаешь￥в слишком многих мирных жителей."
   },
   {
    "off": 8237,
    "budget": 51,
-   "en": "You can't afford to make mistakes,￥Gillian."
+   "en": "Тебе нельзя ошибаться, Гиллиан.",
+   "en_src": "You can't afford to make mistakes,￥Gillian.",
+   "ru": true
   },
   {
    "off": 8288,
    "budget": 45,
-   "en": "Better hit rate, and￥no civilians hit.",
-   "long": "You need to improve your hit rate￥without hurting civilians."
+   "en": ".",
+   "en_src": "Better hit rate, and￥no civilians hit.",
+   "long_src": "You need to improve your hit rate￥without hurting civilians.",
+   "ru": true,
+   "long": "Нужно повысить меткость, не задевая￥мирных жителей."
   },
   {
    "off": 8333,
    "budget": 49,
-   "en": "If you forget that, you'll end up a￥murderer."
+   "en": "Если забудешь об этом, станешь￥убийцей.",
+   "en_src": "If you forget that, you'll end up a￥murderer.",
+   "ru": true
   },
   {
    "off": 8382,
    "budget": 77,
-   "en": "Plenty of stray shots too. As you￥know, only Snatchers are targets."
+   "en": "И шальных выстрелов полно. Ты же￥знаешь: цель - только снатчеры.",
+   "en_src": "Plenty of stray shots too. As you￥know, only Snatchers are targets.",
+   "ru": true
   },
   {
    "off": 8459,
    "budget": 43,
-   "en": "You didn't pull the trigger once!"
+   "en": "Ты ни разу не нажал на спуск!",
+   "en_src": "You didn't pull the trigger once!",
+   "ru": true
   },
   {
    "off": 8502,
    "budget": 31,
-   "en": "Get it together, Gillian!"
+   "en": "Соберись, Гиллиан!",
+   "en_src": "Get it together, Gillian!",
+   "ru": true
   },
   {
    "off": 8533,
    "budget": 31,
-   "en": "I only tense up for real.",
-   "long": "I can't get worked up unless it's￥real combat."
+   "en": ".",
+   "en_src": "I only tense up for real.",
+   "long_src": "I can't get worked up unless it's￥real combat.",
+   "ru": true,
+   "long": "Не могу завестись, если бой не￥настоящий."
   },
   {
    "off": 8564,
    "budget": 47,
-   "en": "You won't be cursing once￥you're dead.",
-   "long": "You won't be able to talk back when￥you're dead."
+   "en": "Мёртвым ты уже не поогрызаешься.",
+   "en_src": "You won't be cursing once￥you're dead.",
+   "long_src": "You won't be able to talk back when￥you're dead.",
+   "ru": true
   },
   {
    "off": 8611,
    "budget": 53,
-   "en": "What is this!￥No stray hits, and nothing else.",
-   "long": "What was that? You spared the￥civilians, but everything else was￥terrible."
+   "en": ".",
+   "en_src": "What is this!￥No stray hits, and nothing else.",
+   "long_src": "What was that? You spared the￥civilians, but everything else was￥terrible.",
+   "ru": true,
+   "long": "Это что было? Мирных ты пощадил, но￥всё остальное ужасно."
   },
   {
    "off": 8664,
    "budget": 31,
-   "en": "Are you even trying, Gillian?"
+   "en": "Ты вообще стараешься, Гиллиан?",
+   "en_src": "Are you even trying, Gillian?",
+   "ru": true
   },
   {
    "off": 8695,
    "budget": 47,
-   "en": "Slack off in training￥and you'll pay.",
-   "long": "Slacking off in training will get￥you in serious trouble."
+   "en": ".",
+   "en_src": "Slack off in training￥and you'll pay.",
+   "long_src": "Slacking off in training will get￥you in serious trouble.",
+   "ru": true,
+   "long": "Будешь отлынивать на тренировках -￥нарвёшься на серьёзные неприятности."
   },
   {
    "off": 8742,
    "budget": 71,
-   "en": "Don't fire at random. Aim carefully￥before pulling the trigger."
+   "en": "Не стреляй наугад. Сначала тщательно￥прицелься, потом жми на спуск.",
+   "en_src": "Don't fire at random. Aim carefully￥before pulling the trigger.",
+   "ru": true
   },
   {
    "off": 8813,
    "budget": 57,
-   "en": "Your accuracy is terrible. Get it￥together, Gillian."
+   "en": "Меткость ужасная. Соберись, Гиллиан.",
+   "en_src": "Your accuracy is terrible. Get it￥together, Gillian.",
+   "ru": true
   },
   {
    "off": 8870,
    "budget": 53,
-   "en": "No strays, but you must not￥shoot civilians.",
-   "long": "No stray shots, but you need to stop￥shooting civilians."
+   "en": ".",
+   "en_src": "No strays, but you must not￥shoot civilians.",
+   "long_src": "No stray shots, but you need to stop￥shooting civilians.",
+   "ru": true,
+   "long": "Шальных выстрелов нет, но стрелять в￥мирных надо прекращать."
   },
   {
    "off": 8923,
    "budget": 53,
-   "en": "Control isn't bad, but your￥judgement lags.",
-   "long": "Your aim isn't bad, but your￥judgment still needs work."
+   "en": "Прицел неплохой, но рассудительность￥ещё хромает.",
+   "en_src": "Control isn't bad, but your￥judgement lags.",
+   "long_src": "Your aim isn't bad, but your￥judgment still needs work.",
+   "ru": true
   },
   {
    "off": 8976,
    "budget": 67,
-   "en": "You still need plenty of training.￥Look carefully and take aim."
+   "en": "Тренироваться ещё много. Внимательно￥смотри и целься.",
+   "en_src": "You still need plenty of training.￥Look carefully and take aim.",
+   "ru": true
   },
   {
    "off": 9043,
    "budget": 45,
-   "en": "You're wasting a lot of energy too."
+   "en": "И энергии ты тратишь много.",
+   "en_src": "You're wasting a lot of energy too.",
+   "ru": true
   },
   {
    "off": 9088,
    "budget": 31,
-   "en": "It's time you settled down."
+   "en": "Пора бы тебе успокоиться.",
+   "en_src": "It's time you settled down.",
+   "ru": true
   },
   {
    "off": 9119,
    "budget": 37,
-   "en": "This level is too much for you."
+   "en": "Этот уровень тебе не по силам.",
+   "en_src": "This level is too much for you.",
+   "ru": true
   },
   {
    "off": 9156,
    "budget": 37,
-   "en": "Next time we go￥back to middle...",
-   "long": "I'll switch you back to Intermediate￥next time."
+   "en": ".",
+   "en_src": "Next time we go￥back to middle...",
+   "long_src": "I'll switch you back to Intermediate￥next time.",
+   "ru": true,
+   "long": "В следующий раз переключу тебя￥обратно на средний."
   },
   {
    "off": 9193,
    "budget": 45,
-   "en": "See? This level is too much for you."
+   "en": "Видишь? Этот уровень тебе не по￥силам.",
+   "en_src": "See? This level is too much for you.",
+   "ru": true
   },
   {
    "off": 9238,
    "budget": 37,
-   "en": "Next time we go￥back to novice...",
-   "long": "I'll switch you back to Beginner￥next time."
+   "en": ".",
+   "en_src": "Next time we go￥back to novice...",
+   "long_src": "I'll switch you back to Beginner￥next time.",
+   "ru": true,
+   "long": "В следующий раз переключу тебя￥обратно на начальный."
   },
   {
    "off": 9275,
    "budget": 43,
-   "en": "Was this level too difficult after￥all?"
+   "en": ".",
+   "en_src": "Was this level too difficult after￥all?",
+   "ru": true,
+   "long": "Всё-таки этот уровень оказался￥слишком сложным?"
   },
   {
    "off": 9318,
    "budget": 47,
-   "en": "This level was tough for you,￥it seems?",
-   "long": "This level seems to have been too￥tough for you, Gillian."
+   "en": ".",
+   "en_src": "This level was tough for you,￥it seems?",
+   "long_src": "This level seems to have been too￥tough for you, Gillian.",
+   "ru": true,
+   "long": "Похоже, этот уровень тебе оказался￥не по зубам, Гиллиан."
   },
   {
    "off": 9365,
    "budget": 59,
-   "en": "What's the idea?￥Why shoot civilians like that?",
-   "long": "What are you doing? Why are you￥shooting so many civilians?"
+   "en": "Что ты творишь? Зачем стреляешь в столько мирных жителей?",
+   "en_src": "What's the idea?￥Why shoot civilians like that?",
+   "long_src": "What are you doing? Why are you￥shooting so many civilians?",
+   "ru": true
   },
   {
    "off": 9424,
    "budget": 65,
-   "en": "No time for jokes.￥Did you aim at civilians on￥purpose?",
-   "long": "This is no time for games. Were you￥deliberately aiming only at￥civilians?"
+   "en": "Сейчас не время шутить. Ты нарочно￥целился только в мирных?",
+   "en_src": "No time for jokes.￥Did you aim at civilians on￥purpose?",
+   "long_src": "This is no time for games. Were you￥deliberately aiming only at￥civilians?",
+   "ru": true
   },
   {
    "off": 9489,
    "budget": 71,
-   "en": "Again? You're no longer a rookie.￥Take your training seriously!"
+   "en": "Опять? Ты уже не новичок. Относись к￥тренировкам серьёзно!",
+   "en_src": "Again? You're no longer a rookie.￥Take your training seriously!",
+   "ru": true
   },
   {
    "off": 9560,
    "budget": 37,
-   "en": "Do you hate humans, Gillian?"
+   "en": "Ты ненавидишь людей, Гиллиан?",
+   "en_src": "Do you hate humans, Gillian?",
+   "ru": true
   },
   {
    "off": 9597,
    "budget": 37,
-   "en": "Mika was right. A death wish.",
-   "long": "Mika was right about your urge to￥kill."
+   "en": ".",
+   "en_src": "Mika was right. A death wish.",
+   "long_src": "Mika was right about your urge to￥kill.",
+   "ru": true,
+   "long": "Мика была права насчёт твоей тяги к￥убийству."
   },
   {
    "off": 9634,
    "budget": 41,
-   "en": "What happened? This is upsetting."
+   "en": "Что случилось? Это печально.",
+   "en_src": "What happened? This is upsetting.",
+   "ru": true
   },
   {
    "off": 9675,
    "budget": 37,
-   "en": "Why do you keep shooting people?"
+   "en": ".",
+   "en_src": "Why do you keep shooting people?",
+   "ru": true,
+   "long": "Почему ты всё время стреляешь в￥людей?"
   },
   {
    "off": 9712,
    "budget": 55,
-   "en": "I hear you didn't do this when you￥came with Mika."
+   "en": "Говорят, с Микой ты такого не￥вытворял.",
+   "en_src": "I hear you didn't do this when you￥came with Mika.",
+   "ru": true
   },
   {
    "off": 9767,
    "budget": 33,
-   "en": "Come to think, Mika said so.",
-   "long": "Come to think of it, Mika did￥mention something."
+   "en": ".",
+   "en_src": "Come to think, Mika said so.",
+   "long_src": "Come to think of it, Mika did￥mention something.",
+   "ru": true,
+   "long": "Кстати, Мика что-то такое упоминала."
   },
   {
    "off": 9800,
    "budget": 49,
-   "en": "She said you might have an urge to￥kill."
+   "en": ".",
+   "en_src": "She said you might have an urge to￥kill.",
+   "ru": true,
+   "long": "Она сказала, что у тебя, возможно,￥тяга к убийству..."
   },
   {
    "off": 9849,
    "budget": 41,
-   "en": "Don't aim at civilians. Be serious!",
-   "long": "Stop aiming at civilians and take￥this seriously!"
+   "en": ".",
+   "en_src": "Don't aim at civilians. Be serious!",
+   "long_src": "Stop aiming at civilians and take￥this seriously!",
+   "ru": true,
+   "long": "Перестань целиться в мирных и￥отнесись к этому серьёзно!"
   },
   {
    "off": 9890,
    "budget": 53,
-   "en": "Many strays too. Snatchers are￥what you aim at.",
-   "long": "A lot of stray shots too. You're￥supposed to aim at the Snatchers."
+   "en": ".",
+   "en_src": "Many strays too. Snatchers are￥what you aim at.",
+   "long_src": "A lot of stray shots too. You're￥supposed to aim at the Snatchers.",
+   "ru": true,
+   "long": "И шальных выстрелов много. Целиться￥нужно в снатчеров."
   },
   {
    "off": 9943,
    "budget": 119,
-   "en": "＠黄Blaster: Select on a controller￥or right mouse to draw, ＠赤O＠白 or￥left mouse to fire.＠白",
-   "long": "＠黄Ready your Blaster with SELECT on￥the controller or the right mouse￥button. Fire with ＠赤○＠白 or the left￥mouse button.＠白"
+   "en": ".",
+   "en_src": "＠黄Blaster: Select on a controller￥or right mouse to draw, ＠赤O＠白 or￥left mouse to fire.＠白",
+   "long_src": "＠黄Ready your Blaster with SELECT on￥the controller or the right mouse￥button. Fire with ＠赤○＠白 or the left￥mouse button.＠白",
+   "ru": true,
+   "long": "＠黄Бластер наготове - кнопка SELECT на￥геймпаде или правая кнопка мыши.￥Огонь - ＠赤○＠白 или левая кнопка мыши.＠白"
   },
   {
    "off": 10062,
    "budget": 85,
-   "en": "＠黄Gillian, press SELECT on the￥controller or the right mouse￥button!＠白"
+   "en": "＠黄Гиллиан, нажми SELECT на геймпаде￥или правую кнопку мыши!＠白",
+   "en_src": "＠黄Gillian, press SELECT on the￥controller or the right mouse￥button!＠白",
+   "ru": true
   },
   {
    "off": 10147,
    "budget": 85,
-   "en": "＠黄Remember, press SELECT on the￥controller or the right mouse￥button."
+   "en": "＠黄Запомни: SELECT на геймпаде или￥правая кнопка мыши.",
+   "en_src": "＠黄Remember, press SELECT on the￥controller or the right mouse￥button.",
+   "ru": true
   },
   {
    "off": 10232,
    "budget": 55,
-   "en": "But it's your first time.￥It'll come with practice.",
-   "long": "But it's your first time. You'll￥improve as you get used to it."
+   "en": "Но это ведь в первый раз. Освоишься￥- станет лучше.",
+   "en_src": "But it's your first time.￥It'll come with practice.",
+   "long_src": "But it's your first time. You'll￥improve as you get used to it.",
+   "ru": true
   },
   {
    "off": 10287,
    "budget": 65,
-   "en": "Good for a first try.￥It'll get better with practice.",
-   "long": "Still, that's good for a first try.￥You'll improve as you get used to￥it."
+   "en": "И всё же для первой попытки неплохо.￥Освоишься - станет лучше.",
+   "en_src": "Good for a first try.￥It'll get better with practice.",
+   "long_src": "Still, that's good for a first try.￥You'll improve as you get used to￥it.",
+   "ru": true
   },
   {
    "off": 10352,
    "budget": 27,
-   "en": "Really keen, though.",
-   "long": "You really are dedicated to￥practicing."
+   "en": ".",
+   "en_src": "Really keen, though.",
+   "long_src": "You really are dedicated to￥practicing.",
+   "ru": true,
+   "long": "Ты и правда усердно тренируешься."
   },
   {
    "off": 10379,
    "budget": 41,
-   "en": "You really do try hard.￥I'm impressed.",
-   "long": "You certainly keep at it. I'm￥impressed."
+   "en": "Ты и впрямь упорный. Впечатляет.",
+   "en_src": "You really do try hard.￥I'm impressed.",
+   "long_src": "You certainly keep at it. I'm￥impressed.",
+   "ru": true
   },
   {
    "off": 10420,
    "budget": 55,
-   "en": "You do try hard.￥I've changed my mind about you.",
-   "long": "You really do keep trying. I have a￥little more respect for you now."
+   "en": "Какой ты упорный. Я стал тебя немного больше уважать.",
+   "en_src": "You do try hard.￥I've changed my mind about you.",
+   "long_src": "You really do keep trying. I have a￥little more respect for you now.",
+   "ru": true
   },
   {
    "off": 10475,
    "budget": 21,
-   "en": "...Even so..."
+   "en": "...И всё же...",
+   "en_src": "...Even so...",
+   "ru": true
   },
   {
    "off": 10496,
    "budget": 63,
-   "en": "This level was too tough for you￥after all, Gillian."
+   "en": "Всё-таки этот уровень оказался тебе￥не по зубам, Гиллиан.",
+   "en_src": "This level was too tough for you￥after all, Gillian.",
+   "ru": true
   },
   {
    "off": 10559,
    "budget": 35,
-   "en": "Next time, back to middle level.",
-   "long": "I'll switch you back down to￥Intermediate next time."
+   "en": ".",
+   "en_src": "Next time, back to middle level.",
+   "long_src": "I'll switch you back down to￥Intermediate next time.",
+   "ru": true,
+   "long": "В следующий раз переключу тебя￥обратно на средний."
   },
   {
    "off": 10594,
    "budget": 23,
-   "en": "Wait, Metal!"
+   "en": "Постой, Метал!",
+   "en_src": "Wait, Metal!",
+   "ru": true
   },
   {
    "off": 10617,
    "budget": 61,
-   "en": "Then until you leave the room,￥we'll stay at this level.",
-   "long": "All right. We'll stay at this level￥until you leave the room."
+   "en": ".",
+   "en_src": "Then until you leave the room,￥we'll stay at this level.",
+   "long_src": "All right. We'll stay at this level￥until you leave the room.",
+   "ru": true,
+   "long": "Ладно. Останемся на этом уровне,￥пока ты не выйдешь из комнаты."
   },
   {
    "off": 10678,
    "budget": 25,
-   "en": "Even so..."
+   "en": "И всё же...",
+   "en_src": "Even so...",
+   "ru": true
   },
   {
    "off": 10703,
    "budget": 35,
-   "en": "Next time, back to novice level.",
-   "long": "I'll switch you back down to￥Beginner next time."
+   "en": ".",
+   "en_src": "Next time, back to novice level.",
+   "long_src": "I'll switch you back down to￥Beginner next time.",
+   "ru": true,
+   "long": "В следующий раз переключу тебя￥обратно на начальный."
   },
   {
    "off": 10738,
    "budget": 29,
-   "en": "Wait a minute!"
+   "en": "Погоди-ка!",
+   "en_src": "Wait a minute!",
+   "ru": true
   },
   {
    "off": 10767,
    "budget": 43,
-   "en": "At this rate, it'll be game over￥again."
+   "en": "Так опять будет \"конец игры\".",
+   "en_src": "At this rate, it'll be game over￥again.",
+   "ru": true
   },
   {
    "off": 10810,
    "budget": 39,
-   "en": "Don't scold me.￥I'm bad at shooting.",
-   "long": "Don't be so hard on me. I'm not a￥good shot."
+   "en": "Не будь так строг. Я неважный стрелок.",
+   "en_src": "Don't scold me.￥I'm bad at shooting.",
+   "long_src": "Don't be so hard on me. I'm not a￥good shot.",
+   "ru": true
   },
   {
    "off": 10849,
    "budget": 69,
-   "en": "You're a runner.￥You're the one who disposes of￥Snatchers!",
-   "long": "You're a Runner! You're the one who￥has to eliminate the Snatchers!"
+   "en": "Ты раннер! Это тебе устранять￥снатчеров!",
+   "en_src": "You're a runner.￥You're the one who disposes of￥Snatchers!",
+   "long_src": "You're a Runner! You're the one who￥has to eliminate the Snatchers!",
+   "ru": true
   },
   {
    "off": 10918,
    "budget": 41,
-   "en": "Again! In a real fight,￥you're out.",
-   "long": "There you go again! In real combat,￥you'd be dead."
+   "en": ".",
+   "en_src": "Again! In a real fight,￥you're out.",
+   "long_src": "There you go again! In real combat,￥you'd be dead.",
+   "ru": true,
+   "long": "Ну вот, опять! В настоящем бою ты￥был бы мёртв."
   },
   {
    "off": 10959,
    "budget": 29,
-   "en": "All that over one mistake?"
+   "en": ".",
+   "en_src": "All that over one mistake?",
+   "ru": true,
+   "long": "Столько шума из-за одной ошибки?"
   },
   {
    "off": 10988,
    "budget": 69,
-   "en": "This isn't just about you. Put your￥pride aside."
+   "en": "Дело не только в тебе. Забудь о￥гордости.",
+   "en_src": "This isn't just about you. Put your￥pride aside.",
+   "ru": true
   },
   {
    "off": 11057,
    "budget": 45,
-   "en": "The future of all humanity depends￥on you."
+   "en": "От тебя зависит будущее всего человечества.",
+   "en_src": "The future of all humanity depends￥on you.",
+   "ru": true
   },
   {
    "off": 11102,
    "budget": 29,
-   "en": "So I'm a hero?"
+   "en": "Так я герой?",
+   "en_src": "So I'm a hero?",
+   "ru": true
   },
   {
    "off": 11131,
    "budget": 23,
-   "en": "Something like that."
+   "en": "Вроде того.",
+   "en_src": "Something like that.",
+   "ru": true
   },
   {
    "off": 11154,
    "budget": 21,
-   "en": "More or less... eh?",
-   "long": "Something like that, huh?"
+   "en": "Вроде того, значит?",
+   "en_src": "More or less... eh?",
+   "long_src": "Something like that, huh?",
+   "ru": true
   },
   {
    "off": 11175,
    "budget": 43,
-   "en": "Next time won't be a light￥wound.",
-   "long": "At this rate, you won't get away￥with minor injuries next time."
+   "en": ".",
+   "en_src": "Next time won't be a light￥wound.",
+   "long_src": "At this rate, you won't get away￥with minor injuries next time.",
+   "ru": true,
+   "long": "Так в следующий раз лёгкими￥ранениями не отделаешься."
   },
   {
    "off": 11218,
    "budget": 37,
-   "en": "Don't nag.￥I'm bad at shooting.",
-   "long": "Stop nagging. Shooting isn't my￥strong point."
+   "en": ".",
+   "en_src": "Don't nag.￥I'm bad at shooting.",
+   "long_src": "Stop nagging. Shooting isn't my￥strong point.",
+   "ru": true,
+   "long": "Не пили меня. Стрельба - не мой￥конёк."
   },
   {
    "off": 11255,
    "budget": 61,
-   "en": "You're a Runner. Poor shooting will￥get you killed."
+   "en": "Ты раннер. Плохая стрельба тебя￥погубит.",
+   "en_src": "You're a Runner. Poor shooting will￥get you killed.",
+   "ru": true
   },
   {
    "off": 11316,
    "budget": 55,
-   "en": "Do you have to get hurt again￥before you understand?",
-   "long": "Do you have to get hurt like last￥time before you'll learn?"
+   "en": ".",
+   "en_src": "Do you have to get hurt again￥before you understand?",
+   "long_src": "Do you have to get hurt like last￥time before you'll learn?",
+   "ru": true,
+   "long": "Тебе обязательно пострадать, как в￥прошлый раз, чтобы до тебя дошло?"
   },
   {
    "off": 11371,
    "budget": 59,
-   "en": "Can you only shoot well with￥a woman watching, Gillian?",
-   "long": "Can you only get good scores when a￥woman is watching, Gillian?"
+   "en": ".",
+   "en_src": "Can you only shoot well with￥a woman watching, Gillian?",
+   "long_src": "Can you only get good scores when a￥woman is watching, Gillian?",
+   "ru": true,
+   "long": "Ты стреляешь хорошо, только когда￥смотрит женщина, Гиллиан?"
   },
   {
    "off": 11430,
    "budget": 17,
-   "en": "Meaning what?",
-   "long": "What's that supposed to mean?"
+   "en": ".",
+   "en_src": "Meaning what?",
+   "long_src": "What's that supposed to mean?",
+   "ru": true,
+   "long": "Это на что намёк?"
   },
   {
    "off": 11447,
    "budget": 37,
-   "en": "Before Mika it was perfect, no?",
-   "long": "You got a perfect score in front of￥Mika."
+   "en": ".",
+   "en_src": "Before Mika it was perfect, no?",
+   "long_src": "You got a perfect score in front of￥Mika.",
+   "ru": true,
+   "long": "При Мике-то у тебя был идеальный￥результат."
   },
   {
    "off": 11484,
    "budget": 35,
-   "en": "That's how men are."
+   "en": "Мужчины - они такие.",
+   "en_src": "That's how men are.",
+   "ru": true
   },
   {
    "off": 11521,

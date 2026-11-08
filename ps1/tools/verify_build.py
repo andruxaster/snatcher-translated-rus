@@ -98,7 +98,7 @@ def check(verbose=True):
             got.append("".join(rev.get((rec[k] << 8) | rec[k+1], "<?>")
                                for k in range(0, len(rec), 2)).strip())
             i += 1 + ln
-        want = [n.strip() for n in translate_names.NAMES]
+        want = [n.strip() for n in translate_names.DISPLAY]
         if got != want:
             bad = [f"{w!r} reads {g!r}" for w, g in zip(want, got) if w != g]
             problems.append(f"NSZ_B000.BIN: {len(bad)} speaker names garbled "
