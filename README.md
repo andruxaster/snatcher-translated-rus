@@ -79,12 +79,12 @@ MD5    b6b825a8c91fd9879553c8a4e6e791c8
 SHA1   e6cd330feb594b3951089da866db1a400f0173f6
 ```
 
-Наложите патч из архива `Snatcher-PS1-RU-v0.1.zip` программой xdelta3,
+Наложите патч из архива [`patches/Snatcher-PS1-RU-v0.2.zip`](patches/Snatcher-PS1-RU-v0.2.zip) программой xdelta3,
 Delta Patcher (Windows), MultiPatch (macOS) или любой другой оболочкой
 xdelta:
 
 ```
-xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-Ru v0.1].xdelta" "Snatcher (Japan) [T-Ru v0.1].bin"
+xdelta3 -d -s "Snatcher (Japan).bin" "Snatcher (Japan) [T-Ru v0.2].xdelta" "Snatcher (Japan) [T-Ru v0.2].bin"
 ```
 
 Рядом с полученным `.bin` положите `.cue` из архива. Новый образ больше
